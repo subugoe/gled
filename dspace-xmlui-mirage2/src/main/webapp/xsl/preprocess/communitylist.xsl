@@ -114,8 +114,8 @@
         </div>
         <xsl:if test="dri:referenceSet/dri:reference">
             <div id="collapse-{$handle}" rend="sub-tree-wrapper">
+		<xsl:apply-templates select="dri:referenceSet[dri:reference[@type = 'DSpace Collection']]/dri:reference" mode="community-browser"/>
                 <xsl:apply-templates select="dri:referenceSet[dri:reference[@type = 'DSpace Community']]/dri:reference" mode="community-browser"/>
-                <xsl:apply-templates select="dri:referenceSet[dri:reference[@type = 'DSpace Collection']]/dri:reference" mode="community-browser"/>
             </div>
         </xsl:if>
     </xsl:template>
