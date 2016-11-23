@@ -2604,5 +2604,6 @@
   <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_publicationKind">Publication Kind</message>
   <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.publicationKind">Publication Kind</message>
   <message key="xmlui.Discovery.AbstractSearch.type_publicationKind">Publication Kind</message>
-
+  <message key="xmlui.discovery.AbstractFiltersTransformer.filters.head">Discover</message>
+  <message key="xmlui.discovery.AbstractFiltersTransformer.filters.view-more">... more</message>
 </catalogue>
