@@ -2606,4 +2606,8 @@
   <message key="xmlui.Discovery.AbstractSearch.type_publicationKind">Publication Kind</message>
   <message key="xmlui.discovery.AbstractFiltersTransformer.filters.head">Discover</message>
   <message key="xmlui.discovery.AbstractFiltersTransformer.filters.view-more">... more</message>
+    <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.title.metadata.series">Periodicals and Journals</message>
+  <message key="xmlui.ArtifactBrowser.Navigation.browse_series">Periodicals</message>
+  <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.series.column_heading">Periodicals and Journals</message>
+  <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.metadata.series">Periodicals and Journals</message>
 </catalogue>

@@ -2677,5 +2677,9 @@ Falls Sie der Meinung sind, dass es diese Seite geben sollte, bitte kontaktieren
   <message key="xmlui.Discovery.AbstractSearch.type_publicationKind">Publikationsart</message>
   <message key="xmlui.general.publish_now">Jetzt veröffentlichen</message>
   <message key="xmlui.general.publish_here">Hier veröffentlichen</message>
+  <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.series.column_heading">Serien und Zeitschriften</message>
+  <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.title.metadata.series">Serien und Zeitschriften</message>
+  <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.metadata.series">Serien und Zeitschriften</message>
+  <message key="xmlui.ArtifactBrowser.Navigation.browse_series">Serien</message>
 
 </catalogue>
