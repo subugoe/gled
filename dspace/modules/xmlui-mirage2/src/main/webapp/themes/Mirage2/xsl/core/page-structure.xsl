@@ -336,7 +336,7 @@
                         </button>
 
                         <a href="{$context-path}/" class="navbar-brand">
-                        <!--    <img src="{$theme-path}/images/DSpace-logo-line.svg" />-->
+                        <!--<img src="{$theme-path}/images/header_repeat.png" />-->
                         FID GEO Repository
 			</a>
 

@@ -2610,4 +2610,19 @@
   <message key="xmlui.ArtifactBrowser.Navigation.browse_series">Periodicals</message>
   <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.series.column_heading">Periodicals and Journals</message>
   <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.metadata.series">Periodicals and Journals</message>
+
+  <!-- Customizations -->
+
+  <!-- org.dspace.app.xmlui.Submission.submit.PrefillStep -->
+  <message key="xmlui.Submission.submit.progressbar.prefill">Metadata Import</message>
+  <message key="xmlui.Submission.submit.PrefillStep.head">Metadata Import</message>
+  <message key="xmlui.Submission.submit.PrefillStep.explanation_note">If your publication has a DOI or PPN (GVK-Identifier), enter it here please. We will try to fetch the bibliographic date automatically. Otherwise proceed with next. </message>
+  <message key="xmlui.Submission.submit.PrefillStep.doi">DOI</message>
+  <message key="xmlui.Submission.submit.PrefillStep.doilabel">DOI</message>
+  <message key="xmlui.Submission.submit.PrefillStep.ppn">PPN</message>
+  <message key="xmlui.Submission.submit.PrefillStep.ppnlabel">PPN</message>
+  <message key="xmlui.Submission.submit.PrefillStep.refresh.label">Refresh</message>
+  <message key="xmlui.Submission.submit.PrefillStep.identifier.error">The ID used is not found or not valid. Please check it or continue manually with the next-Button.</message>
+  <message key="xmlui.Submission.submit.PrefillStep.help">If an identifier is present, the bibliographic data to the document will be automatically entered in the next step.</message>
+  <message key="xmlui.Submission.submit.PrefillStep.refresh_help">Please activate the checkbox if you want to override the already imported bibliographic data!</message>
 </catalogue>

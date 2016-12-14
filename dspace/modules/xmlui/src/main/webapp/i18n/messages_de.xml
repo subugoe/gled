@@ -2682,4 +2682,19 @@ Falls Sie der Meinung sind, dass es diese Seite geben sollte, bitte kontaktieren
   <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.metadata.series">Serien und Zeitschriften</message>
   <message key="xmlui.ArtifactBrowser.Navigation.browse_series">Serien</message>
 
+  <!-- customizations -->
+
+  <!-- org.dspace.app.xmlui.Submission.submit.PrefillStep -->
+  <message key="xmlui.Submission.submit.progressbar.prefill">Metadata Import</message>
+  <message key="xmlui.Submission.submit.PrefillStep.head">Metadata Import</message>
+  <message key="xmlui.Submission.submit.PrefillStep.explanation_note">Falls Ihr Dokument über DOI oder PPN (GVK Identifier) verfügt, geben Sie ihn hier ein. Sonst fahren Sie einfach mit weiter fort.</message>
+  <message key="xmlui.Submission.submit.PrefillStep.doi">DOI</message>
+  <message key="xmlui.Submission.submit.PrefillStep.doilabel">DOI</message>
+  <message key="xmlui.Submission.submit.PrefillStep.ppn">PPN</message>
+  <message key="xmlui.Submission.submit.PrefillStep.ppnlabel">PPN</message>
+  <message key="xmlui.Submission.submit.PrefillStep.refresh.label">Überschreiben</message>
+  <message key="xmlui.Submission.submit.PrefillStep.identifier.error">Der verwendete ID ist nicht gültig oder nicht gefunden.  Korrigieren Sie Ihre Angabe oder fahren Sie mit dem weiter-Knpof manuell fort.</message>
+  <message key="xmlui.Submission.submit.PrefillStep.help">Falls für die Publikation kein Identifier vorliegt, gehen Sie bitte auf Weiter. Ist ein Identifier vorhanden, werden die bibliographischen Daten zum Dokument im nächsten Schritt automatisch eingetragen.</message>
+  <message key="xmlui.Submission.submit.PrefillStep.refresh_help">Bitte die Checkbox Überschreiben nur aktivieren, wenn sie die eingetragene Id korrigieren wollen.</message>
+
 </catalogue>

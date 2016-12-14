@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 
-    The contents of this file are subject to the license and copyright
+    The contents of this file are W
+subject to the license and copyright
     detailed in the LICENSE and NOTICE files at the root of the source
     tree and available online at
 
@@ -95,9 +96,13 @@
         <!--Which sidebar facets are to be displayed-->
         <property name="sidebarFacets">
             <list>
-                <ref bean="searchFilterAuthor" />
+               <!-- <ref bean="searchFilterAuthor" />
                 <ref bean="searchFilterSubject" />
-                <ref bean="searchFilterIssued" />
+                <ref bean="searchFilterIssued" />-->
+		<ref bean="searchFilterRelationCollection" />
+                <ref bean="searchFilterPublicationKind" />
+		<ref bean="searchFilterPublicationType" />
+		<ref bean="searchFilterSubjectGokverbal" />
             </list>
         </property>
         <!-- Set TagCloud configuration per discovery configuration -->
@@ -109,6 +114,10 @@
                 <ref bean="searchFilterAuthor" />
                 <ref bean="searchFilterSubject" />
                 <ref bean="searchFilterIssued" />
+		<ref bean="searchFilterRelationCollection" />
+                <ref bean="searchFilterPublicationKind" />
+		<ref bean="searchFilterPublicationType" />
+		<ref bean="searchFilterSubjectGokverbal" />
             </list>
         </property>
         <!--The sort filters for the discovery search-->
@@ -137,13 +146,13 @@
             <bean class="org.dspace.discovery.configuration.DiscoveryRecentSubmissionsConfiguration">
                 <property name="metadataSortField" value="dc.date.accessioned" />
                 <property name="type" value="date"/>
-                <property name="max" value="20"/>
+                <property name="max" value="50"/>
                 <!-- If enabled the collection home page will not display metadata but show a pageable list of recent submissions -->
                 <property name="useAsHomePage" value="false"/>
             </bean>
         </property>
         <!--Default result per page  -->
-        <property name="defaultRpp" value="10" />
+        <property name="defaultRpp" value="50" />
         <property name="hitHighlightingConfiguration">
             <bean class="org.dspace.discovery.configuration.DiscoveryHitHighlightingConfiguration">
                 <property name="metadataFields">
@@ -197,14 +206,21 @@
 
     <!--The Homepage specific configuration settings for discovery-->
     <bean id="homepageConfiguration" class="org.dspace.discovery.configuration.DiscoveryConfiguration" scope="prototype">
-        <!--Which sidebar facets are to be displayed (same as defaultConfiguration above)-->
+        <!--Which sidebar facets are to be displayed (same as defaultConfiguration above) !!!!In SearchFilter eintragen!!!!-->
         <property name="sidebarFacets">
             <list>
-                <ref bean="searchFilterAuthor" />
+               <!-- <ref bean="searchFilterAuthor" />
                 <ref bean="searchFilterSubject" />
-                <ref bean="searchFilterIssued" />
-            </list>
+                <ref bean="searchFilterIssued" />-->
+		<ref bean="searchFilterRelationCollection" />
+		<ref bean="searchFilterPublicationKind" />
+		<ref bean="searchFilterPublicationType" />
+       		<ref bean="searchFilterSubjectGokverbal" />     
+		
+	</list>
+
         </property>
+	<property name="defaultRpp" value="50" />
         <!-- Set TagCloud configuration per discovery configuration -->
         <property name="tagCloudFacetConfiguration" ref="homepageTagCloudFacetConfiguration"/>
         <!--The search filters which can be used on the discovery search page (same as defaultConfiguration above)-->
@@ -214,6 +230,10 @@
                 <ref bean="searchFilterAuthor" />
                 <ref bean="searchFilterSubject" />
                 <ref bean="searchFilterIssued" />
+		<ref bean="searchFilterRelationCollection" />
+                <ref bean="searchFilterPublicationKind" />
+                <ref bean="searchFilterPublicationType" />
+		<ref bean="searchFilterSubjectGokverbal" />
             </list>
         </property>
         <!--The sort filters for the discovery search (same as defaultConfiguration above)-->
@@ -405,6 +425,46 @@
         <property name="sortOrder" value="VALUE"/>
     </bean>
 
+    <bean id="searchFilterRelationCollection" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="relationCollection"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.relation.collection</value>
+            </list>
+        </property>
+        <property name="sortOrder" value="VALUE"/>
+    </bean>
+
+    <bean id="searchFilterPublicationType" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="publicationType"/>
+        <property name="metadataFields">
+            <list>
+		<value>dc.type</value>
+            </list>
+        </property>
+        <property name="sortOrder" value="VALUE"/>
+    </bean>
+
+    <bean id="searchFilterSubjectGokverbal" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="subjectGokverbal"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.subject.gokverbal</value>
+            </list>
+        </property>
+        <property name="sortOrder" value="VALUE"/>
+    </bean>
+
+    <bean id="searchFilterPublicationKind" class="org.dspace.discovery.configuration.DiscoverySearchFilterFacet">
+        <property name="indexFieldName" value="publicationKind"/>
+        <property name="metadataFields">
+            <list>
+                <value>dc.description.type</value>
+            </list>
+        </property>
+        <property name="facetLimit" value="10"/>
+        <property name="sortOrder" value="VALUE"/>
+    </bean>
     <!--Sort properties-->
     <bean id="sortTitle" class="org.dspace.discovery.configuration.DiscoverySortFieldConfiguration">
         <property name="metadataField" value="dc.title"/>
@@ -414,5 +474,17 @@
         <property name="metadataField" value="dc.date.issued"/>
         <property name="type" value="date"/>
     </bean>
-    
+    <bean id="sortRelationCollection" class="org.dspace.discovery.configuration.DiscoverySortFieldConfiguration">
+        <property name="metadataField" value="dc.relation.collection"/>
+    </bean>
+    <bean id="sortPublicationType" class="org.dspace.discovery.configuration.DiscoverySortFieldConfiguration">
+        <property name="metadataField" value="dc.type"/>
+    </bean> 
+    <bean id="sortPublicationKind" class="org.dspace.discovery.configuration.DiscoverySortFieldConfiguration">
+        <property name="metadataField" value="dc.description.type"/>
+    </bean>
+    <bean id="sortSubjectGokverbal" class="org.dspace.discovery.configuration.DiscoverySortFieldConfiguration">
+        <property name="metadataField" value="dc.subject.gokverbal"/>
+    </bean>
+
 </beans>
