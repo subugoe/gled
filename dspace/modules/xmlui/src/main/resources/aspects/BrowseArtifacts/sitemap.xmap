@@ -45,6 +45,7 @@ collections / items / and bitstreams.
                     - This includes links that are relative to the currently
             -->
             <map:transform type="Navigation"/>
+		
 
             <map:match pattern="">
                <!-- <map:transform type="CommunityBrowser">
@@ -52,6 +53,15 @@ collections / items / and bitstreams.
                 </map:transform>-->
                 <map:serialize type="xml"/>
             </map:match>
+
+	    <!-- statische Seite für Serien und Zeitschriften -->
+	    <map:match pattern="series">
+ 		<map:act type="DSpacePropertyFileReader">
+  		<map:parameter name="dspace.dir" value="dspace.dir" />
+   		<map:transform type="Include" src="file://{dspace.dir}/config/series.xml" />
+ 		</map:act>
+	        <map:serialize type="xml"/>
+           </map:match>	    
 
             <!-- List all communities & collections in DSpace -->
             <map:match pattern="community-list">
