@@ -2710,4 +2710,24 @@ Falls Sie der Meinung sind, dass es diese Seite geben sollte, bitte kontaktieren
   <message key="xmlui.Submission.submit.PrefillStep.help">Falls für die Publikation kein Identifier vorliegt, gehen Sie bitte auf Weiter. Ist ein Identifier vorhanden, werden die bibliographischen Daten zum Dokument im nächsten Schritt automatisch eingetragen.</message>
   <message key="xmlui.Submission.submit.PrefillStep.refresh_help">Bitte die Checkbox Überschreiben nur aktivieren, wenn sie die eingetragene Id korrigieren wollen.</message>
 
+
+  <message key="bibliography">Bibliografien</message>
+  <message key="conference">Konferenzberichte</message>
+  <message key="thesis">Dissertationen</message>
+  <message key="editorial">Editorisches</message>
+  <message key="excursionGuide">Exkursionsführer</message>
+  <message key="abstract">Zusammenfassugen</message>
+  <message key="lecture">Vorlesungen</message>
+  <message key="manual">Anleitungen</message>
+  <message key="research">Forschungsarbeiten</message>
+  <message key="review">Rezensionen</message>
+  <message key="study">Studienarbeiten</message>
+  <message key="preprint">Preprint?</message>
+  <message key="report">Report</message>
+  <message key="anthology">Sammmelband</message>
+  <message key="article">Artikel</message>
+  <message key="monograph">Monografie</message>
+  <message key="bookpart">Bookpart</message>
+  <message key="book">Buch</message>
+
 </catalogue>

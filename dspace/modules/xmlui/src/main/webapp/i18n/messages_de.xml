@@ -2624,15 +2624,16 @@ DRIVER betreibt eine Infrastruktur für Repositorien, die alle europäischen Lä
   </message>
   <message key="xmlui.series.head"><h2>Serien und Zeitschriften</h2></message>
   <message key="xmlui.series.text">
-	<ul>
-	<li><a href="handle/11858/10">Discussion Papers / Centre for Regional Studies</a></li>
-	<li><a href="handle/11858/12">E&amp;G-Quaternary Science Journal</a></li>
-	<li><a href="handle/11858/13">Electronic Journal of the Freiberg Geoscience Department</a></li>
-	<li><a href="handle/11858/11">Greifswalder Geographische Arbeiten</a></li>
-	<li><a href="handle/11858/14">Neubrandenburger Geologische Beiträge</a></li>
-	<li><a href="handle/11858/9">Scientific Technical Report / Deutsches Geoforschungszentrum Potsdam</a></li>
-	</ul>
+        <ul>
+        <li><a href="handle/11858/10">Discussion Papers / Centre for Regional Studies</a></li>
+        <li><a href="handle/11858/12">E&amp;G-Quaternary Science Journal</a></li>
+        <li><a href="handle/11858/13">Electronic Journal of the Freiberg Geoscience Department</a></li>
+        <li><a href="handle/11858/11">Greifswalder Geographische Arbeiten</a></li>
+        <li><a href="handle/11858/14">Neubrandenburger Geologische Beiträge</a></li>
+        <li><a href="handle/11858/9">Scientific Technical Report / Deutsches Geoforschungszentrum Potsdam</a></li>
+        </ul>
   </message>
+
 
   <message key="xmlui.error.contact"><a href="mailto:mmuehlh@sub.uni-goettingen.de">Systemadministrator</a></message>
 
@@ -2708,5 +2709,25 @@ Falls Sie der Meinung sind, dass es diese Seite geben sollte, bitte kontaktieren
   <message key="xmlui.Submission.submit.PrefillStep.identifier.error"><div class="alert alert-warning">Der verwendete ID ist nicht gültig oder nicht gefunden.  Korrigieren Sie Ihre Angabe oder fahren Sie mit dem weiter-Knpof manuell fort.</div></message>
   <message key="xmlui.Submission.submit.PrefillStep.help">Falls für die Publikation kein Identifier vorliegt, gehen Sie bitte auf Weiter. Ist ein Identifier vorhanden, werden die bibliographischen Daten zum Dokument im nächsten Schritt automatisch eingetragen.</message>
   <message key="xmlui.Submission.submit.PrefillStep.refresh_help">Bitte die Checkbox Überschreiben nur aktivieren, wenn sie die eingetragene Id korrigieren wollen.</message>
+
+
+  <message key="bibliography">Bibliografien</message>
+  <message key="conference">Konferenzberichte</message>
+  <message key="thesis">Dissertationen</message>
+  <message key="editorial">Editorisches</message>
+  <message key="excursionGuide">Exkursionsführer</message>
+  <message key="abstract">Zusammenfassugen</message>
+  <message key="lecture">Vorlesungen</message>
+  <message key="manual">Anleitungen</message>
+  <message key="research">Forschungsarbeiten</message>
+  <message key="review">Rezensionen</message>
+  <message key="study">Studienarbeiten</message>
+  <message key="preprint">Preprint?</message>
+  <message key="report">Report</message>
+  <message key="anthology">Sammmelband</message>
+  <message key="article">Artikel</message>
+  <message key="monograph">Monografie</message>
+  <message key="bookpart">Bookpart</message>
+  <message key="book">Buch</message>
 
 </catalogue>

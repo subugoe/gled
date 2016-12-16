@@ -217,11 +217,12 @@
     </xsl:template>
 
 
-    <xsl:template match="dri:options//dri:item">
+<!--    <xsl:template match="dri:options//dri:item">
         <div>
             <xsl:call-template name="standardAttributes">
                 <xsl:with-param name="class">list-group-item ds-option</xsl:with-param>
             </xsl:call-template>
+	
             <xsl:apply-templates />
         </div>
     </xsl:template>
@@ -237,6 +238,56 @@
                 </xsl:when>
                 <xsl:otherwise>
                     <xsl:value-of select="dri:xref"/>
+                </xsl:otherwise>
+            </xsl:choose>
+
+        </a>
+    </xsl:template> -->
+
+    <!-- translate publication kind facet -->
+    <xsl:template match="dri:options//dri:item">
+        <div>
+            <xsl:call-template name="standardAttributes">
+                <xsl:with-param name="class">list-group-item ds-option</xsl:with-param>
+            </xsl:call-template>
+   	    <xsl:choose>     
+		<xsl:when test="../@n='publicationKind' and @rend='selected'">
+			<xsl:variable name="kind"><xsl:value-of select="substring-before(., ' ')" /></xsl:variable>
+			<i18n:text><xsl:value-of select="$kind" /></i18n:text><xsl:value-of select="concat(' ', substring-after(.,' '))"/>
+		</xsl:when>
+		<xsl:otherwise>
+	            <xsl:apply-templates />
+		</xsl:otherwise>
+	    </xsl:choose>
+        </div>
+    </xsl:template>
+
+    <xsl:template match="dri:options//dri:item[dri:xref]">
+        <a>
+	     <xsl:attribute name="href">
+		<!-- global browsing by series: show static page -->
+	     	<xsl:choose>
+			<xsl:when test="../@id='aspect.browseArtifacts.Navigation.list.global' and contains(dri:xref/@target, 'type=series')">	    
+				<xsl:text>/series</xsl:text>
+			</xsl:when>
+			<xsl:otherwise>
+                	        <xsl:value-of select="dri:xref/@target"/>
+	                </xsl:otherwise>
+		</xsl:choose>
+	    </xsl:attribute>
+            <xsl:call-template name="standardAttributes">
+                <xsl:with-param name="class">list-group-item ds-option</xsl:with-param>
+            </xsl:call-template>
+            <xsl:choose>
+		<xsl:when test="contains(dri:xref/@target, 'filtertype=publicationKind')">
+			<xsl:variable name="kind"><xsl:value-of select="substring-before(dri:xref/node(), ' (')" /></xsl:variable>
+			<i18n:text><xsl:value-of select="$kind" /></i18n:text><xsl:value-of select="concat(' ', substring-after(dri:xref/node(), ' '))" /> 
+		</xsl:when> 
+                <xsl:when test="dri:xref/node()">
+                    <xsl:apply-templates select="dri:xref/node()"/>
+                </xsl:when>
+                <xsl:otherwise>
+	                    	<xsl:value-of select="dri:xref"/>
                 </xsl:otherwise>
             </xsl:choose>
 
