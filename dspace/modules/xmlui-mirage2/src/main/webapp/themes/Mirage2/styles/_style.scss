@@ -21,3 +21,10 @@
     color: white;
     background: hotpink;
 }
+
+div.header-image {
+    background: url(/themes/Mirage2/images/header.png) no-repeat top center, url(/themes/Mirage2/images/header_repeat.png) repeat-x 50% 0%;
+    position: relative;
+    height: 150px;
+}
+

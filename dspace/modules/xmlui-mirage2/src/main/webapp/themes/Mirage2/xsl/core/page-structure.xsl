@@ -85,8 +85,16 @@
                                 test="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='framing'][@qualifier='popup']">
                             <xsl:apply-templates select="dri:body/*"/>
                         </xsl:when>
-                        <xsl:otherwise>
+                 
+
+			<xsl:otherwise>
                             <xsl:call-template name="buildHeader"/>
+    				<div class="header-image visible-lg visible-md">
+                                <div class="container">
+					&#160;
+                                </div>
+                            </div>
+
                             <xsl:call-template name="buildTrail"/>
                             <!--javascript-disabled warning, will be invisible if javascript is enabled-->
                             <div id="no-js-warning-wrapper" class="hidden">
@@ -96,6 +104,9 @@
                                     </div>
                                 </div>
                             </div>
+
+
+
 
                             <div id="main-container" class="container">
 
