@@ -19,12 +19,57 @@
 
 @include selection {
     color: white;
-    background: hotpink;
+    background: #5e9fff;
 }
 
-div.header-image {
+header .navbar-default {
     background: url(/themes/Mirage2/images/header.png) no-repeat top center, url(/themes/Mirage2/images/header_repeat.png) repeat-x 50% 0%;
     position: relative;
-    height: 150px;
+    height: 170px;
 }
+
+header .navbar-default .navbar-toggle, header .navbar-default .navbar-nav {
+    border-color: transparent;
+    color: #039;
+}
+
+header .navbar-default .navbar-toggle > li > a, header .navbar-default .navbar-nav > li > a {
+    color: #039;
+    font-weight: bold;
+}
+
+header .navbar-default .navbar-toggle .icon-bar, header .navbar-default .navbar-nav .icon-bar {
+    background-color: #039;
+}
+
+.trail-wrapper {
+    background: transparent;
+    border: none;
+    font-weight: bold;
+    text-shadow: 0 0 0.5em #fff;
+}
+
+#main-container #sidebar {
+    background: url(/themes/Mirage2/images/bg1.png) repeat;
+}
+
+body {
+    height: 100%;
+    background: url(/themes/Mirage2/images/bg1.png) repeat;
+    color: #000;
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 12px;
+    line-height: 1.5;
+    font-weight: normal;
+}
+
+#main-container .row-offcanvas {
+    background: transparent;
+}
+
+.main-content {
+    background: transparent;
+}
+
+
 

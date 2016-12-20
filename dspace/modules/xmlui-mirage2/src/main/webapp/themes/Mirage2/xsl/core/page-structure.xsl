@@ -89,11 +89,11 @@
 
 			<xsl:otherwise>
                             <xsl:call-template name="buildHeader"/>
-    				<div class="header-image visible-lg visible-md">
+    			<!--	<div class="header-image visible-lg visible-md">
                                 <div class="container">
 					&#160;
                                 </div>
-                            </div>
+                            </div>-->
 
                             <xsl:call-template name="buildTrail"/>
                             <!--javascript-disabled warning, will be invisible if javascript is enabled-->
