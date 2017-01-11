@@ -2568,8 +2568,8 @@ DRIVER betreibt eine Infrastruktur für Repositorien, die alle europäischen Lä
 		</p>
 </div> -->
   </message>
-  <message key="xmlui.series.head"><h2>Serien und Zeitschriften</h2></message>
   <message key="xmlui.series.text">
+    <h2>Serien und Zeitschriften</h2>
         <ul>
         <li><a href="handle/11858/10">Discussion Papers / Centre for Regional Studies</a></li>
         <li><a href="handle/11858/12">E&amp;G-Quaternary Science Journal</a></li>
