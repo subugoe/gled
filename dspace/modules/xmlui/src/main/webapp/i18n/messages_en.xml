@@ -2509,84 +2509,30 @@
     <message key="xmlui.dri2xhtml.structural.impressum-link">Impressum</message>
 
     <message key="xmlui.home.text">
-        <h2>Publication- and archiving plattform of the Georg-August-University Göttingen</h2>
-<!--<div class="row icons">
-                <div class="col-lg-3">
-                    <div class="bs-component">
-                              <div class="well">        
-                                <image src="/themes/Mirage2/images/publish.png" />-->
-                                <h3><a href="handle/11858/Geology">Geology</a></h3>
-                                <!--<small>Erstveröffentlichung ....<br />
-                                dauerhaft Adressierbar via DOI... <br />
-                                zitierbar .... 
-                                </small>
-                              </div>
-                        </div>
-                </div>-->
+        <h2>Publicationserver of the FID GEO</h2>
+<div id="first_row">
+        <a href="handle/11858/Geology">
+        <image class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geology"/>
+        </a>
+        <a href="handle/11858/Paleontology">
+        <image class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paleontology" />
+        </a>
+        <a href="handle/11858/Geochemistry_Mineralogy_Petrology">
+        <image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemistry, Mineralogy, Petrology" />
+        </a>
+</div>
+<div id="second_row">
+        <a href="handle/11858/Geophysics">
+        <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysics" />
+        </a>
+        <a href="handle/11858/Energy_Resources_Environment">
+        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energy, Ressources, Environment" />
+        </a>
+        <a href="handle/11858/Geography">
+        <image class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geography"/>
+        </a>
+</div>
 
-          <!--<div class="col-lg-3">
-                    <div class="bs-component">
-                              <div class="well">
-                                <image src="/themes/Mirage2/images/archive.png" />-->
-                                <h3><a href="handle/11858/Paleontology">Paleontology</a></h3>
-                                <!--<small>Zweitveröffentlichung ....<br />
-                                dauerhaft aufbewahrt ... <br />
-                                langfristig nutzbar ... <br/>
-                                &#160;
-                                </small>
-                              </div>
-                        </div>
-                </div>-->
-
-                <!--<div class="col-lg-3">
-                    <div class="bs-component">
-                              <div class="well">
-                                <image src="/themes/Mirage2/images/distribute.png" />-->
-                                <h3><a href="handle/11858/Geochemistry_Mineralogy_Petrology">Geochemistry, Mineralogy, Petrology</a></h3>
-                                <!--<small>sichtbar in FID...<br />
-                                DRIVER, COAR, OpenAIRE, OA-Netzwerk ...<br />
-                                &#160;
-                                </small>
-                              </div>
-                        </div>
-                </div>-->
-
-              <!--<div class="col-lg-3">
-                    <div class="bs-component">
-                              <div class="well">
-                                <image src="/themes/Mirage2/images/openaccss.png" />-->
-                                <h3><a href="handle/11858/Geophysics">Geophysics</a></h3>
- <!--<small>frei zugänglich ...<br />
-                                finanzielle Unterstützung durch Fonds ... <br />
-                                Prioritätssicherung ...
-                                </small>
-                              </div>
-                        </div>
-                </div>-->
-                            <!--<div class="col-lg-3">
-                    <div class="bs-component">
-                              <div class="well">
-                                <image src="/themes/Mirage2/images/openaccss.png" />-->
-                                <h3><a href="handle/11858/Energy_Resources_Environment">Energy, Resources, Environment</a></h3>
-                                <!--<small>frei zugänglich ...<br />
-                                finanzielle Unterstützung durch Fonds ... <br />
-                                Prioritätssicherung ...
-                                </small>
-                              </div>
-                        </div>
-                </div>-->
-                            <!--<div class="col-lg-3">
-                    <div class="bs-component">
-                              <div class="well">
-                                <image src="/themes/Mirage2/images/openaccss.png" />-->
-                                <h3><a href="handle/11858/Geography">Geography</a></h3>
-                                <!--<small>frei zugänglich ...<br />
-                                finanzielle Unterstützung durch Fonds ... <br />
-                                Prioritätssicherung ...
-                                </small>
-                              </div>
-                        </div>
-                </div>-->
   </message>
   <message key="xmlui.series.head"><h2>Periodicals and Journals</h2></message>
   <message key="xmlui.series.text">
