@@ -347,8 +347,8 @@
                         </button>
 
                         <a href="{$context-path}/" class="navbar-brand">
-                        <!--<img src="{$theme-path}/images/header_repeat.png" />-->
-                        FID GEO Repository
+                        <img src="{$theme-path}/images/fidgeologo.png" />
+                        <!--FID GEO Repository-->
 			</a>
 
 
