@@ -2571,12 +2571,12 @@ DRIVER betreibt eine Infrastruktur für Repositorien, die alle europäischen Lä
   <message key="xmlui.series.text">
     <h2>Serien und Zeitschriften</h2>
         <ul>
-        <li><a href="handle/11858/10">Discussion Papers / Centre for Regional Studies</a></li>
-        <li><a href="handle/11858/12">E&amp;G-Quaternary Science Journal</a></li>
-        <li><a href="handle/11858/13">Electronic Journal of the Freiberg Geoscience Department</a></li>
-        <li><a href="handle/11858/11">Greifswalder Geographische Arbeiten</a></li>
-        <li><a href="handle/11858/14">Neubrandenburger Geologische Beiträge</a></li>
-        <li><a href="handle/11858/9">Scientific Technical Report / Deutsches Geoforschungszentrum Potsdam</a></li>
+        <li><a href="handle/11858/10/browse?type=series">Discussion Papers / Centre for Regional Studies</a></li>
+        <li><a href="handle/11858/12/browse?type=series">E&amp;G-Quaternary Science Journal</a></li>
+        <li><a href="handle/11858/13/browse?type=series">Electronic Journal of the Freiberg Geoscience Department</a></li>
+        <li><a href="handle/11858/11/browse?type=series">Greifswalder Geographische Arbeiten</a></li>
+        <li><a href="handle/11858/14/browse?type=series">Neubrandenburger Geologische Beiträge</a></li>
+        <li><a href="handle/11858/9/browse?type=series">Scientific Technical Report / Deutsches Geoforschungszentrum Potsdam</a></li>
         </ul>
   </message>
 
@@ -2675,5 +2675,7 @@ Falls Sie der Meinung sind, dass es diese Seite geben sollte, bitte kontaktieren
   <message key="monograph">Monografie</message>
   <message key="bookpart">Bookpart</message>
   <message key="book">Buch</message>
+
+  <message key="xmlui.impressum.text">Test Test Test</message>
 
 </catalogue>
