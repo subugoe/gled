@@ -63,6 +63,33 @@ collections / items / and bitstreams.
 	        <map:serialize type="xml"/>
            </map:match>	    
 
+   <!-- statische Seite für Impressum -->
+            <map:match pattern="impressum">
+                <map:act type="DSpacePropertyFileReader">
+                <map:parameter name="dspace.dir" value="dspace.dir" />
+                <map:transform type="Include" src="file://{dspace.dir}/config/impressum.xml" />
+                </map:act>
+                <map:serialize type="xml"/>
+           </map:match>
+
+  <!-- statische Seite für Über Uns -->
+            <map:match pattern="aboutus">
+                <map:act type="DSpacePropertyFileReader">
+                <map:parameter name="dspace.dir" value="dspace.dir" />
+                <map:transform type="Include" src="file://{dspace.dir}/config/about-us.xml" />
+                </map:act>
+                <map:serialize type="xml"/>
+           </map:match>
+
+  <!-- statische Seite für Nutzungsbedingungen -->
+            <map:match pattern="rights">
+                <map:act type="DSpacePropertyFileReader">
+                <map:parameter name="dspace.dir" value="dspace.dir" />
+                <map:transform type="Include" src="file://{dspace.dir}/config/rights.xml" />
+                </map:act>
+                <map:serialize type="xml"/>
+           </map:match>
+
             <!-- List all communities & collections in DSpace -->
             <map:match pattern="community-list">
                     <map:transform type="CommunityBrowser">
