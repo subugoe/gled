@@ -2571,6 +2571,75 @@
 
   <!-- Customizations -->
 
+  <message key="xmlui.dri2xhtml.structural.rights-link">Nutzungsbedingungen</message>
+
+  <message key="xmlui.general.publish_now">Publish now!</message>
+  <message key="xmlui.general.publish_here">Publish here!</message>
+
+        <!-- impressum -->
+
+        <message key="xmlui.impressum.head">FID GEO Repository - Publikationsplattform des FID GEO zum System Erde und Weltall</message>
+        <message key="xmlui.impressum.label.offerer">Anbieter</message>
+        <message key="xmlui.impressum.text.offerer">Die Niedersaechsische Staats- und Universitätsbibliothek wird von Dr. Wolfram Horstmann geleitet. Sie ist zentrale Einrichtung der Georg-August-Universität Göttingen. Die Georg-August-Universität Göttingen ist eine Körperschaft des öffentlichen Rechts. Sie wird durch die Praesidentin Prof. Dr. Ulrike Beisiegel gesetzlich vertreten:
+</message>
+
+        <message key="xmlui.impressum.label.controlling">Zuständige Aufsichtsbehörde:  </message>
+        <message key="xmlui.impressum.controlling.gau">Georg-August-Universitaet Goettingen Stiftung Oeffentlichen Rechts</message>
+        <message key="xmlui.impressum.controlling.office">Stiftungsausschuss Universitaet ( 59 Abs. 2, 60 Abs. 2 Satz 2 Nr. 7, 6)</message>
+        <message key="xmlui.impressum.label.tax">Umsatzsteuer-Identifikationsnummer gemaess 27 a Umsatzsteuergesetz:  </message>
+       <message key="xmlui.impressum.tax">DE 152 336 201</message>
+         <message key="xmlui.impressum.label.guarantor">Inhaltlich Verantwortlicher gemaess 55 Abs. 2 RStV: </message>
+        <message key="xmlui.impressum.guarantor">Dr. Norbert Pfurr, Platz der Goettinger Sieben 1, 37073 Goettingen</message>
+        <message key="xmlui.impressum.label.liability">Haftungshinweis: </message>
+        <message key="xmlui.impressum.text.liability">Trotz sorgfaeltiger inhaltlicher Kontrolle uebernehmen wir keine Haftung fuer die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschliesslich deren Betreiber verantwortlich</message>
+        <message key="xmlui.impressum.label.contact.geoleo">Ansprechpartner FID GEO Repository:</message>
+        <message key="xmlui.impressum.label.team.geoleo">Das ganze Team</message>
+        <message key="xmlui.impressum.mail.geoleo">E-Mail: FID GEO Repository</message>
+        <message key="xmlui.impressum.label.editorial">Redaktion</message>
+        <message key="xmlui.impressum.name.editorial">Dr. Norbert Pfurr</message>
+        <message key="xmlui.impressum.scope.editorial"> (Geowissenschaften und Astronomie)</message>
+       <message key="xmlui.impressum.tel.editorial">Tel: +49 (0)551 / 39-5244</message>
+        <message key="xmlui.impressum.fax.editorial">Fax: +49 (0)551 / 39-5222</message>
+        <message key="xmlui.impressum.mail.editorial">E-Mail: pfurr@sub.uni-goettingen.de</message>
+        <message key="xmlui.impressum.label.tech">Technik und Administration</message>
+
+        <message key="xmlui.impressum.name.tech">Marianna Mühlhölzer</message>
+        <message key="xmlui.impressum.tel.tech">Tel: +49 (0)551 / 39-4255</message>
+        <message key="xmlui.impressum.mail.tech">E-Mail: mmuehlh@sub.uni-goettingen.de</message>
+
+<!-- impressum picture licenses -->
+  <message key="xmlui.impressum.picture.license">Bildnachweise:</message>
+  <message key="xmlui.impressum.picture.geology">Geologie</message>
+  <message key="xmlui.impressum.picture.geology.source">Quelle/Autor: Sir Henry Thomas De la Beche</message>
+  <message key="xmlui.impressum.picture.geology.license">Lizenz: Creative Commons Attribution 2.0</message>
+  <message key="xmlui.impressum.picture.geology.url"><a href="https://www.flickr.com/photos/mechanicalcuratorcuttings/10432231504/">URL</a></message>
+
+  <message key="xmlui.impressum.picture.geography">Geographie</message>
+  <message key="xmlui.impressum.picture.geography.source">Quelle/Autor: Martin Liebetruth</message>
+  <message key="xmlui.impressum.picture.geography.license">Lizenz: freie Nutzung</message>
+  <message key="xmlui.impressum.picture.geography.url"><a href="mailto:liebetruth@sub.uni-goettingen.de">E-MAIL</a></message>
+
+  <message key="xmlui.impressum.picture.geophysics">Geophysik</message>
+  <message key="xmlui.impressum.picture.geophysics.source">Quelle/Autor: NASA</message>
+  <message key="xmlui.impressum.picture.geophysics.license">Lizenz: public domain</message>
+  <message key="xmlui.impressum.picture.geophysics.url"><a href="http://sec.gsfc.nasa.gov/popscise.jpg">URL</a></message>
+
+  <message key="xmlui.impressum.picture.paleontology">Paläontologie</message>
+  <message key="xmlui.impressum.picture.paleontology.source">Quelle/Autor: Kathrin Mezger</message>
+  <message key="xmlui.impressum.picture.paleontology.license">Lizenz: Creative Commons Attribuation - ShareAlike 2.0</message>
+  <message key="xmlui.impressum.picture.paleontology.url"><a href="https://www.flickr.com/photos/26094756@N04/17380947205/">URL</a></message>
+
+  <message key="xmlui.impressum.picture.geochemistry">Geochemie, Mineralogie, Petrologie</message>
+  <message key="xmlui.impressum.picture.geochemistry.source">Quelle/Autor: Strekeisen</message>
+  <message key="xmlui.impressum.picture.geochemistry.license">Lizenz: Creative Commons Attribution - ShareAlike 4.0</message>
+  <message key="xmlui.impressum.picture.geochemistry.url"><a href="https://commons.wikimedia.org/wiki/Commons:European_Science_Photo_Competition_2015/Winners?uselang=de#/media/File:Eclogites.JPGy">URL</a></message>
+
+  <message key="xmlui.impressum.picture.environment">Energie, Ressourcen, Umweltwissenschaften</message>
+  <message key="xmlui.impressum.picture.environment.source">Quelle/Autor: Nasa</message>
+  <message key="xmlui.impressum.picture.environment.license">Lizenz: public domain</message>
+  <message key="xmlui.impressum.picture.environment.url"><a href="http://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg?uselang=de">URL</a></message>
+
+
   <!-- org.dspace.app.xmlui.Submission.submit.PrefillStep -->
   <message key="xmlui.Submission.submit.progressbar.prefill">Metadata Import</message>
   <message key="xmlui.Submission.submit.PrefillStep.head">Metadata Import</message>

@@ -2510,34 +2510,33 @@
   <!-- End XMLWorkflow -->  
   
   <!-- Textanpassungen -->
-  <message key="xmlui.footer.text">Entwiklung und Betrieb durch <br /><a href="https://www.sub.uni-goettingen.de/sub-aktuell/">Niedersächsische Saats- und Universitätsbibliothek Göttingen</a></message>  
+  <message key="xmlui.footer.text">Entwicklung und Betrieb durch <br /><a href="https://www.sub.uni-goettingen.de/sub-aktuell/">Niedersächsische Saats- und Universitätsbibliothek Göttingen</a></message>  
     
   <message key="xmlui.dri2xhtml.structural.aboutus-link">Über uns</message>
   <message key="xmlui.dri2xhtml.structural.impressum-link">Impressum</message>
-
   <message key="xmlui.home.text">
         <h2>Publikationsserver des FID GEO</h2>
 <div id="first_row">
-        <a href="handle/11858/Geology">
-        <image class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geologie"/>
+	<a href="handle/11858/Geology">
+	<image class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geologie"/>
         </a>
         <a href="handle/11858/Paleontology">
-        <image class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paläontologie" />
-        </a>
+	<image class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paläontologie" />
+	</a>
         <a href="handle/11858/Geochemistry_Mineralogy_Petrology">
-        <image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
-        </a>
+	<image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
+	</a>
 </div>
 <div id="second_row">
         <a href="handle/11858/Geophysics">
-        <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Fernerkundung" />
-        </a>
+	<image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Fernerkundung" />
+	</a>
         <a href="handle/11858/Energy_Resources_Environment">
-        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energie, Ressourcen, Umwelt" />
-        </a>
+	<image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energie, Ressourcen, Umwelt" />
+	</a>
         <a href="handle/11858/Geography">
-        <image class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geographie"/>
-        </a>
+	<image class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geographie"/>
+	</a>
 </div>
 
 <!--	<div class="row">	
@@ -2569,9 +2568,8 @@ DRIVER betreibt eine Infrastruktur für Repositorien, die alle europäischen Lä
 		</p>
 </div> -->
   </message>
-
   <message key="xmlui.series.text">
-   <h2>Serien und Zeitschriften</h2>
+    <h2>Serien und Zeitschriften</h2>
         <ul>
         <li><a href="handle/11858/10/browse?type=series">Discussion Papers / Centre for Regional Studies</a></li>
         <li><a href="handle/11858/12/browse?type=series">E&amp;G-Quaternary Science Journal</a></li>
@@ -2642,8 +2640,157 @@ Falls Sie der Meinung sind, dass es diese Seite geben sollte, bitte kontaktieren
   <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.title.metadata.series">Serien und Zeitschriften</message>
   <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.metadata.series">Serien und Zeitschriften</message>
   <message key="xmlui.ArtifactBrowser.Navigation.browse_series">Serien</message>
+   <message key="xmlui.dri2xhtml.structural.rights-link">Nutzungsbedingungen</message>
 
   <!-- customizations -->
+
+  <!-- general -->
+	<message key="xmlui.contact.head">Kontakt</message>
+	<message key="xmlui.contact.label.feedback">Online Formular</message>
+	<message key="xmlui.contact.feedback">Feedback</message>
+         <message key="xmlui.general.GAU">Georg-August-Universität Göttingen</message>
+          <message key="xmlui.general.SUB">Niedersächsische Staats- und Universitätsbibliothek Göttingen</message>
+          <message key="xmlui.general.address.zip">37073 Göttingen</message>
+         <message key="xmlui.general.address.place.sub">Platz der Göttinger Sieben 1</message>
+         <message key="xmlui.general.address.place.gau">Wilhelmplatz 1</message>
+         <message key="xmlui.general.tel.office.sub">Tel: +49 (0)551 / 39-5121</message>
+         <message key="xmlui.general.fax.office.sub">Fax: +49 (0)551 / 39-5222</message>
+         <message key="xmlui.general.mail.office.sub">E-Mail: sekretariat@sub.uni-goettingen.de</message>
+         <message key="xmlui.general.tel.office.gau">Tel: +49 (0)551 / 39-0</message>
+         <message key="xmlui.general.fax.office.gau">Fax: +49 (0)551 / 39-9612</message>
+         <message key="xmlui.general.mail.office.gau">E-Mail: poststelle@.uni-goettingen.de</message>   
+
+
+	<!-- home -->
+        <message key="xmlui.homepage.head">FID GEO Repository: Publikationsserver des FID GEO</message>     
+        <message key="xmlui.homepage.intro">Konzipiert mit Förderung durch die Deutsche Forschungsgemeinschaft (DFG) verfolgt das FID GEO Repository das Ziel, digitale Dokumente über die Erforschung des Systems Erde und des Weltalls zu sammeln, zu erschließen, zu bewahren und kostenfrei zu verbreiten. Hier finden Sie fachspezifische Zeitschriftenartikel, Pre- und Postprints, Arbeitsberichte, Hochschulschriften, Bücher und vieles mehr. Wissenschaftler können ihre eigenen Dokumente in FID GEO Repository veröffentlichen oder bereits veröffentlichte Dokumente online stellen.</message>
+        <message key="xmlui.homepage.scope.astro">Astronomie, Astrophysik, Weltraumforschung</message>
+        <message key="xmlui.homepage.scope.geologie">Geologische Wissenschaften</message>
+        <message key="xmlui.homepage.scope.geographie">Geographie</message>
+        <message key="xmlui.homepage.scope.geophysik">Geophysik</message>
+        <message key="xmlui.homepage.scope.montan">Montanwissenschaften</message>
+         <message key="xmlui.homepage.scope.umwelt">Umweltwissenschaften</message>
+
+
+	<!-- impressum -->
+        <message key="xmlui.impressum.head">FID GEO Repository - Publikationsplattform des FID GEO zum System Erde und Weltall</message>
+        <message key="xmlui.impressum.label.offerer">Anbieter</message>        
+        <message key="xmlui.impressum.text.offerer">Die Niedersaechsische Staats- und Universitätsbibliothek wird von Dr. Wolfram Horstmann geleitet. Sie ist zentrale Einrichtung der Georg-August-Universität Göttingen. Die Georg-August-Universität Göttingen ist eine Körperschaft des öffentlichen Rechts. Sie wird durch die Praesidentin Prof. Dr. Ulrike Beisiegel gesetzlich vertreten:
+</message>
+        
+        <message key="xmlui.impressum.label.controlling">Zuständige Aufsichtsbehörde:  </message>
+        <message key="xmlui.impressum.controlling.gau">Georg-August-Universitaet Goettingen Stiftung Oeffentlichen Rechts</message>
+	<message key="xmlui.impressum.controlling.office">Stiftungsausschuss Universitaet ( 59 Abs. 2, 60 Abs. 2 Satz 2 Nr. 7, 6)</message>
+        <message key="xmlui.impressum.label.tax">Umsatzsteuer-Identifikationsnummer gemaess 27 a 
+Umsatzsteuergesetz:  </message>	
+       <message key="xmlui.impressum.tax">DE 152 336 201</message>
+         <message key="xmlui.impressum.label.guarantor">Inhaltlich Verantwortlicher gemaess 55 Abs. 2 RStV: </message>
+        <message key="xmlui.impressum.guarantor">Dr. Norbert Pfurr, Platz der Goettinger Sieben 1, 37073 Goettingen</message>
+        <message key="xmlui.impressum.label.liability">Haftungshinweis: </message>
+        <message key="xmlui.impressum.text.liability">Trotz sorgfaeltiger inhaltlicher Kontrolle uebernehmen wir keine Haftung fuer die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschliesslich deren Betreiber verantwortlich.
+</message>
+        <message key="xmlui.impressum.label.contact.geoleo">Ansprechpartner FID GEO Repository:</message>
+        <message key="xmlui.impressum.label.team.geoleo">Das ganze Team</message>
+        <message key="xmlui.impressum.mail.geoleo">E-Mail: FID GEO Repository</message>
+        <message key="xmlui.impressum.label.editorial">Redaktion</message>     
+        <message key="xmlui.impressum.name.editorial">Dr. Norbert Pfurr</message>
+        <message key="xmlui.impressum.scope.editorial"> (Geowissenschaften und Astronomie)</message> 
+       <message key="xmlui.impressum.tel.editorial">Tel: +49 (0)551 / 39-5244</message>
+        <message key="xmlui.impressum.fax.editorial">Fax: +49 (0)551 / 39-5222</message>
+        <message key="xmlui.impressum.mail.editorial">E-Mail: pfurr@sub.uni-goettingen.de</message>
+        <message key="xmlui.impressum.label.tech">Technik und Administration</message>
+        
+        <message key="xmlui.impressum.name.tech">Marianna Mühlhölzer</message>
+        <message key="xmlui.impressum.tel.tech">Tel: +49 (0)551 / 39-4255</message>
+        <message key="xmlui.impressum.mail.tech">E-Mail: mmuehlh@sub.uni-goettingen.de</message>
+
+
+<!-- impressum picture licenses -->
+  <message key="xmlui.impressum.picture.license">Bildnachweise:</message>
+  <message key="xmlui.impressum.picture.geology">Geologie</message>
+  <message key="xmlui.impressum.picture.geology.source">Quelle/Autor: Sir Henry Thomas De la Beche</message>
+  <message key="xmlui.impressum.picture.geology.license">Lizenz: Creative Commons Attribution 2.0</message>
+  <message key="xmlui.impressum.picture.geology.url"><a href="https://www.flickr.com/photos/mechanicalcuratorcuttings/10432231504/">URL</a></message>
+
+  <message key="xmlui.impressum.picture.geography">Geographie</message>
+  <message key="xmlui.impressum.picture.geography.source">Quelle/Autor: Martin Liebetruth</message>
+  <message key="xmlui.impressum.picture.geography.license">Lizenz: freie Nutzung</message>
+  <message key="xmlui.impressum.picture.geography.url"><a href="mailto:liebetruth@sub.uni-goettingen.de">E-MAIL</a></message>
+
+  <message key="xmlui.impressum.picture.geophysics">Geophysik</message>
+  <message key="xmlui.impressum.picture.geophysics.source">Quelle/Autor: NASA</message>
+  <message key="xmlui.impressum.picture.geophysics.license">Lizenz: public domain</message>
+  <message key="xmlui.impressum.picture.geophysics.url"><a href="http://sec.gsfc.nasa.gov/popscise.jpg">URL</a></message>
+
+  <message key="xmlui.impressum.picture.paleontology">Paläontologie</message>
+  <message key="xmlui.impressum.picture.paleontology.source">Quelle/Autor: Kathrin Mezger</message>
+  <message key="xmlui.impressum.picture.paleontology.license">Lizenz: Creative Commons Attribuation - ShareAlike 2.0</message>
+  <message key="xmlui.impressum.picture.paleontology.url"><a href="https://www.flickr.com/photos/26094756@N04/17380947205/">URL</a></message>
+
+  <message key="xmlui.impressum.picture.geochemistry">Geochemie, Mineralogie, Petrologie</message>
+  <message key="xmlui.impressum.picture.geochemistry.source">Quelle/Autor: Strekeisen</message>
+  <message key="xmlui.impressum.picture.geochemistry.license">Lizenz: Creative Commons Attribution - ShareAlike 4.0</message>
+  <message key="xmlui.impressum.picture.geochemistry.url"><a href="https://commons.wikimedia.org/wiki/Commons:European_Science_Photo_Competition_2015/Winners?uselang=de#/media/File:Eclogites.JPGy">URL</a></message>
+
+  <message key="xmlui.impressum.picture.environment">Energie, Ressourcen, Umweltwissenschaften</message>
+  <message key="xmlui.impressum.picture.environment.source">Quelle/Autor: Nasa</message>
+  <message key="xmlui.impressum.picture.environment.license">Lizenz: public domain</message>
+  <message key="xmlui.impressum.picture.environment.url"><a href="http://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg?uselang=de">URL</a></message>
+
+
+
+	<!-- about us -->
+	<message key="xmlui.aboutus.head">Über uns</message>
+        <message key="xmlui.aboutus.section1">FID GEO Repository ist der Open-Access-Server der Virtuellen Fachbibliothek zum System Erde und Weltall. Als zentrale Publikationsplattform wurde FID GEO Repository im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts „Virtuelle Fachbibliothek für Geowissenschaften, Bergbau, Geographie und Thematische Karten: GEO-LEO – Geo Library Experts Online“ eingerichtet. GEO-LEO war ein Gemeinschaftsprojekt der Universitätsbibliothek „Georgius Agricola“ der Technischen Universität Bergakademie Freiberg (UB Freiberg) und der Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB Göttingen). </message>
+        <message key="xmlui.aboutus.section2">Mit Projektende ging FID GEO Repository in den Routinebetrieb der SUB Göttingen über, wo die Publikationsplattform in 2010 im Zuge einer kompletten Erneuerung modernisiert wurde. 
+Zur Aktualisierung der Software wurde das zugrundeliegende DSpace-System komplett neu aufgesetzt. Gleichzeitig waren mit diesem Schritt auch grundlegende konzeptionelle Veränderungen verbunden: </message>
+        <message key="xmlui.aboutus.modifications1">Neu strukturiert orientieren sich verschiedene Fachbereiche an den überregionalen Sammelschwerpunkten beider Bibliotheken. </message>
+        <message key="xmlui.aboutus.modifications2">Hinter den einzelnen Bereichen verbergen sich nach Dokumentarten gegliederte Sammlungen</message>
+        <message key="xmlui.aboutus.modifications3">Diese Sammlungen sind Archive frei zugänglicher digitaler Volltexte im Kontext des jeweiligen Sondersammelgebiets im Programm der DFG für die überregionale Literatur- und Informationsversorgung.</message>
+        <message key="xmlui.aboutus.section3">Dazu werden sowohl seitens beider Bibliotheken frei zugängliche digitale Dokumente eingesammelt und eingestellt, aber auch Wissenschaftler selbst können ihre Arbeiten über FID GEO Repository uneingeschränkt zugänglich machen. Fachgesellschaften und wissenschaftliche Einrichtungen sind eingeladen, eigene Sammlungen einzurichten, auf denen sie selbstständig ihre Serien, Zeitschriften und andere Informationsressourcen veröffentlichen. Das GEO-LEO-Team bietet dafür unterschiedliche Formen der Unterstützung und Zusammenarbeit an. </message>
+        <message key="xmlui.aboutus.section4">Eine erste Kooperation besteht in diesem Sinne mit der Geozon Science Media UG. Als Ausgründungsprojekt des Institutes für Geographie und Geologie der Universität Greifswald und Open Access-Verlag für Geo- und Umweltwissenschaften stellt Geozon seine gesamten aggregierten und veredelten Publikationen in FID GEO Repository ein.</message>
+        <message key="xmlui.aboutus.label.partner">Partner:</message>
+	<message key="xmlui.aboutus.label.edocsTeam">FID GEO Repository-Team:</message>
+	<message key="xmlui.aboutus.label.generalHelp">Allgemeine Konzeption und fachliche Betreuung:</message>
+	<message key="xmlui.aboutus.name.geography">Mechthild Schüler (Geographie und Thematische Karten)</message>
+	<message key="xmlui.aboutus.tel.geography">Tel.: +49 (0)551 / 39-4255</message>
+	<message key="xmlui.aboutus.mail.geography">E-Mail: schueler@sub.uni-goettingen.de</message>
+        <message key="xmlui.aboutus.name.montan">Cornelia Rau (Geo- und Montanwissenschaften)</message>	
+        <message key="xmlui.aboutus.tel.montan">Tel.: +49 (0)3731 / 39-3383</message>
+        <message key="xmlui.aboutus.mail.montan">E-Mail: Cornela.Rau@ub.tu-freiberg.de</message>
+	<message key="xmlui.aboutus.tuFreiberg">UB TU Bergakademie Freiberg</message>
+	<message key="xmlui.aboutus.label.development">Webddesign, Programmierung und technische Realisation</message> 
+	<message key="xmlui.aboutus.name.past">Dr. Andres Quast</message>
+	<message key="xmlui.aboutus.function.past">(ehemals SUB Göttingen)</message>
+	<message key="xmlui.aboutus.function.now">Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (HBZ)</message>
+
+	<!-- rights -->
+	<message key="xmlui.rights.head">Rechtseinräumung</message>
+        <message key="xmlui.rights.section1">Hiermit gestatte ich dem FID GEO, durchführende Einrichtungen: Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB), vertreten durch den Direktor, und Universitätsbibliothek der TU Bergakademie Freiberg (UBF), vertreten durch die Direktorin, mein Dokument zu den unten genannten Lizenzbedingungen zur freien Nutzung im Internet bereitzustellen. Im Rahmen dieser Bereitstellung sind Nutzer berechtigt, Dokumente nach Maßgabe des Urhebergesetzes unentgeltlich zu nutzen, insbesondere, das Dokument zum privaten und sonstigen eigenen Gebrauch herunter zu laden, zu speichern oder in kleiner Anzahl zu drucken (§ 53 UrhG).</message>
+	<message key="xmlui.user.rights.section1">Nutzer von FID GEO Repository sind berechtigt, Dokumente nach Maßgabe des Urhebergesetzes unentgeltlich zu nutzen, insbesondere, das Dokument zum privaten und sonstigen eigenen Gebrauch herunter zu laden, zu speichern oder in kleiner Anzahl zu drucken (§ 53 UrhG).</message>
+	<message key="xmlui.user.rights.head">LIZENZBEDINGUNGEN FUER DIE NUTZUNG VON PUBLIKATIONEN AUF DEM FID GEO Repository SERVER </message>
+        <message key="xmlui.rights.conditions.head">LIZENZBEDINGUNGEN FUER DIE PUBLIKATION AUF DEM FID GEO Repository SERVER </message>
+	<message key="xmlui.rights.granting.head">RECHTSEINRÄUMUNG: <br /></message>
+	 <message key="xmlui.user.rights.title">Nutzungslizenz</message>
+
+        <message key="xmlui.rights.granting">
+Der Urheber räumt dem FID GEO an dem Dokument zeitlich unbegrenzt und unwiderruflich das nicht ausschließliche Recht zur öffentlichen Zugänglichmachung, zur Archivierung auf dem Dokumentenserver FID GEO Repository der Niedersächsischen Staats- und Universitätsbibliothek Göttingen und zur Vervielfältigung zu diesen Zwecken ein.
+Der urheberrechtliche Schutz bleibt durch diese Lizenz unberührt. Mit dem Hochladen des Dokuments ist kein rechtlich verbindlicher Anspruch auf die Bereitstellung oder Archivierung verbunden. </message>i
+        <message key="xmlui.rights.thirdparty.head">RECHTE DRITTER: <br /></message>
+        <message key="xmlui.rights.thirdparty">
+Der Urheber erklärt, dass mit der Bereitstellung seines Dokuments und jedes Bestandteils (z.B. Abbildungen) keine Rechte Dritter (z.B. Miturheber, Co-Autoren, Verlage, Verwertungsgesellschaften, Drittmittelgeber) verletzt werden.
+Der Autor stellt die Virtuelle Fachbibliothek GEO-LEO von etwaigen Ansprüchen Dritter frei. Die SUB und die UBF sind berechtigt, den Zugriff auf ein Dokument zu sperren, soweit konkrete Anhaltspunkte für eine Verletzung von Rechten Dritter bestehen.</message> 
+	<message key="xmlui.rights.longtermpreservation.head">LANGZEITARCHIVIERUNG UND TRANSROMATION IN ANDERE FORMATE:  <br /></message>
+        <message key="xmlui.rights.longtermpreservation">
+Der Urheber räumt dem FID GEO im Rahmen der Rechtseinräumung gemäß Ziffer 1 das Recht ein, die bereitgestellten Dokumente in ihrem Langzeitarchiv zu speichern und bei Bedarf (z.B. Migration, Barrierefreiheit, bessere Zugänglichkeit oder Erschließung) in andere elektronische und physische Formate zu überführen. 
+</message>
+	 <message key="xmlui.rigths.dissemination.head">WEITERGABE VON METADATEN UND DOKUMENTEN:  <br /></message>
+        <message key="xmlui.rigths.dissemination">
+Der Urheber räumt dem FID GEO im Rahmen der Rechtseinräumung gemäß Ziffer 1 das Recht ein, die Metadaten des Dokuments unentgeltlich anderen Datenbanken zur Verfügung zu stellen. Darüber hinaus räumt er der SUB und die UBF das Recht ein, das Dokument Dritten im Rahmen nationaler Sammelaufträge zur Online-Bereitstellung oder Archivierung zur Verfügung zu stellen. </message>
+        <message key="xmlui.rights.date">Göttingen, März 2011</message>
+
+
+
 
   <!-- org.dspace.app.xmlui.Submission.submit.PrefillStep -->
   <message key="xmlui.Submission.submit.progressbar.prefill">Metadata Import</message>
