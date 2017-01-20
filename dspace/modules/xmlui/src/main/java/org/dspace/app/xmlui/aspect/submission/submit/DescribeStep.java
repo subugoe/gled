@@ -145,8 +145,8 @@ public class DescribeStep extends AbstractSubmissionStep
         ProcessingException, SAXException, IOException
         {
             super.setup(resolver,objectModel,src,parameters);
-            this.locale = context.getCurrentLocale();
-
+            //this.locale = context.getCurrentLocale();
+	    this.locale = I18nUtils.findLocale(objectModel, "locale-attribute", parameters, I18nUtil.getDefaultLocale(), true);
             //Ensure that the InputsReader is initialized
             try
             {
