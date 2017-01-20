@@ -2700,9 +2700,9 @@ Umsatzsteuergesetz:  </message>
         <message key="xmlui.impressum.mail.editorial">E-Mail: pfurr@sub.uni-goettingen.de</message>
         <message key="xmlui.impressum.label.tech">Technik und Administration</message>
         
-        <message key="xmlui.impressum.name.tech">Marianna Mühlhölzer</message>
-        <message key="xmlui.impressum.tel.tech">Tel: +49 (0)551 / 39-4255</message>
-        <message key="xmlui.impressum.mail.tech">E-Mail: mmuehlh@sub.uni-goettingen.de</message>
+        <message key="xmlui.impressum.name.tech">Natalie Neumann</message>
+        <message key="xmlui.impressum.tel.tech">Tel: +49 (0)551 / 39-20727</message>
+        <message key="xmlui.impressum.mail.tech">E-Mail: natalie.neumann@sub.uni-goettingen.de</message>
 
 
 <!-- impressum picture licenses -->
@@ -2763,6 +2763,8 @@ Zur Aktualisierung der Software wurde das zugrundeliegende DSpace-System komplet
 	<message key="xmlui.aboutus.name.past">Dr. Andres Quast</message>
 	<message key="xmlui.aboutus.function.past">(ehemals SUB Göttingen)</message>
 	<message key="xmlui.aboutus.function.now">Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (HBZ)</message>
+	<message key="xmlui.aboutus.muehlhoelzer">Marianna Mühlhölzer</message>
+
 
 	<!-- rights -->
 	<message key="xmlui.rights.head">Rechtseinräumung</message>
@@ -2789,7 +2791,21 @@ Der Urheber räumt dem FID GEO im Rahmen der Rechtseinräumung gemäß Ziffer 1 
 Der Urheber räumt dem FID GEO im Rahmen der Rechtseinräumung gemäß Ziffer 1 das Recht ein, die Metadaten des Dokuments unentgeltlich anderen Datenbanken zur Verfügung zu stellen. Darüber hinaus räumt er der SUB und die UBF das Recht ein, das Dokument Dritten im Rahmen nationaler Sammelaufträge zur Online-Bereitstellung oder Archivierung zur Verfügung zu stellen. </message>
         <message key="xmlui.rights.date">Göttingen, März 2011</message>
 
-
+  <!-- deposit license -->
+  <message key="xmlui.static-license.title">Nutzungsbedingungen</message>
+  <message key="xmlui.static-license.title">Nutzungsbedingungen</message>
+  <message key="xmlui.deposit.license.intro">Für die Nutzung von Dokumenten bzw. für das Publizieren auf GEO-LEOe-docs gelten die folgenden Vereinbarungen.</message>
+  <message key="xmlui.deposit.license.user-rights.head">LIZENZ FÜR DIE NUTZUNG VON DOKUMENTEN AUF GEO-LEOe-docs</message>
+   <message key="xmlui.deposit.license.user-rights.general">Allgemein gilt für alle Dokumente:</message>
+  <message key="xmlui.deposit.license.user-rights">Nutzer sind berechtigt, Dokumente nach Maßgabe des Urhebergesetzes unentgeltlich zu nutzen, insbesondere, das dokument zum privaten und sonstigen eigenen Gebrauch herunter </message> 
+  <message key="xmlui.deposit.license.user-rights.cc-license">Darüber hinaus können für einzelne Dokumenten weitere Rechte (z.B. Creative-Commons-Lizenzen) gelten. Die jeweilige Lizenz ist dem Dokument zugeordnet und auf </message>
+  <message key="xmlui.deposit.license.deposit-license.head">GEO-LEOe-docs LIZENZ</message>
+  <message key="xmlui.deposit.license.deposit-license.intro">Nutzer, die Dokumente auf GEO-LEOe-docs veröffentlichen, stimmen einer Rechtevereinbarung in den folgenden Punkten zu:</message>
+  <message key="xmlui.deposit.license.li1">Der Urheber räumt dem Publikationsserver GEO-LEOe-docs an dem Dokument zeitlich unbegrenzt und unwiderruflich das nicht ausschließliche Recht zur öffentlichen Zugänglichmachung,  </message> 
+  <message key="xmlui.deposit.license.li2">Der Urheber erklärt, dass mit der Bereitstellung seines Dokuments und jedes Bestandteils (z.B. Abbildungen) keine Rechte Dritter (z.B. Miturheber, Co-Autoren, Verlage, Verwertungs </message>  
+  <message key="xmlui.deposit.license.li3">Der Urheber räumt dem Publikationsserver GEO-LEOe-docs im Rahmen der Rechtseinräumung gemäß Ziffer 1 das Recht ein, die bereitgestellten Dokumente in ihrem Langzeitarchiv zu speic </message>  
+  <message key="xmlui.deposit.license.li4">Der Urheber räumt dem Publikationsserver GEO-LEO im Rahmen der Rechtseinräumung gemäß Ziffer 1 das Recht ein, die Metadaten des Dokuments unentgeltlich anderen Datenbanken zur Ver </message>  
+  <message key="xmlui.deposit.license.date">März 2012</message>
 
 
   <!-- org.dspace.app.xmlui.Submission.submit.PrefillStep -->

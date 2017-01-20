@@ -2640,6 +2640,58 @@
   <message key="xmlui.impressum.picture.environment.url"><a href="http://commons.wikimedia.org/wiki/File:The_Earth_seen_from_Apollo_17.jpg?uselang=de">URL</a></message>
 
 
+        <!-- about us -->
+        <message key="xmlui.aboutus.head">Über uns</message>
+        <message key="xmlui.aboutus.section1">FID GEO Repository ist der Open-Access-Server der Virtuellen Fachbibliothek zum System Erde und Weltall. Als zentrale Publikationsplattform wurde FID GEO Repository im Rah$
+        <message key="xmlui.aboutus.section2">Mit Projektende ging FID GEO Repository in den Routinebetrieb der SUB Göttingen über, wo die Publikationsplattform in 2010 im Zuge einer kompletten Erneuerung modernisiert$
+Zur Aktualisierung der Software wurde das zugrundeliegende DSpace-System komplett neu aufgesetzt. Gleichzeitig waren mit diesem Schritt auch grundlegende konzeptionelle Veränderungen verbunden: </message>
+        <message key="xmlui.aboutus.modifications1">Neu strukturiert orientieren sich verschiedene Fachbereiche an den überregionalen Sammelschwerpunkten beider Bibliotheken. </message>
+        <message key="xmlui.aboutus.modifications2">Hinter den einzelnen Bereichen verbergen sich nach Dokumentarten gegliederte Sammlungen</message>
+        <message key="xmlui.aboutus.modifications3">Diese Sammlungen sind Archive frei zugänglicher digitaler Volltexte im Kontext des jeweiligen Sondersammelgebiets im Programm der DFG für die überregionale Literatur$
+        <message key="xmlui.aboutus.section3">Dazu werden sowohl seitens beider Bibliotheken frei zugängliche digitale Dokumente eingesammelt und eingestellt, aber auch Wissenschaftler selbst können ihre Arbeiten über$
+        <message key="xmlui.aboutus.section4">Eine erste Kooperation besteht in diesem Sinne mit der Geozon Science Media UG. Als Ausgründungsprojekt des Institutes für Geographie und Geologie der Universität Greifswa$
+        <message key="xmlui.aboutus.label.partner">Partner:</message>
+        <message key="xmlui.aboutus.label.edocsTeam">FID GEO Repository-Team:</message>
+        <message key="xmlui.aboutus.label.generalHelp">Allgemeine Konzeption und fachliche Betreuung:</message>
+        <message key="xmlui.aboutus.name.geography">Mechthild Schüler (Geographie und Thematische Karten)</message>
+        <message key="xmlui.aboutus.tel.geography">Tel.: +49 (0)551 / 39-4255</message>
+        <message key="xmlui.aboutus.mail.geography">E-Mail: schueler@sub.uni-goettingen.de</message>
+        <message key="xmlui.aboutus.name.montan">Cornelia Rau (Geo- und Montanwissenschaften)</message>
+        <message key="xmlui.aboutus.tel.montan">Tel.: +49 (0)3731 / 39-3383</message>
+        <message key="xmlui.aboutus.mail.montan">E-Mail: Cornela.Rau@ub.tu-freiberg.de</message>
+        <message key="xmlui.aboutus.tuFreiberg">UB TU Bergakademie Freiberg</message>
+        <message key="xmlui.aboutus.label.development">Webddesign, Programmierung und technische Realisation</message>
+        <message key="xmlui.aboutus.name.past">Dr. Andres Quast</message>
+        <message key="xmlui.aboutus.function.past">(ehemals SUB Göttingen)</message>
+        <message key="xmlui.aboutus.function.now">Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (HBZ)</message>
+
+        <!-- rights -->
+        <message key="xmlui.rights.head">Rechtseinräumung</message>
+        <message key="xmlui.rights.section1">Hiermit gestatte ich dem FID GEO, durchführende Einrichtungen: Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB), vertreten durch den Direktor, und Univer$
+        <message key="xmlui.user.rights.section1">Nutzer von FID GEO Repository sind berechtigt, Dokumente nach Maßgabe des Urhebergesetzes unentgeltlich zu nutzen, insbesondere, das Dokument zum privaten und sonstige$
+        <message key="xmlui.user.rights.head">LIZENZBEDINGUNGEN FUER DIE NUTZUNG VON PUBLIKATIONEN AUF DEM FID GEO Repository SERVER </message>
+        <message key="xmlui.rights.conditions.head">LIZENZBEDINGUNGEN FUER DIE PUBLIKATION AUF DEM FID GEO Repository SERVER </message>
+        <message key="xmlui.rights.granting.head">RECHTSEINRÄUMUNG: <br /></message>
+         <message key="xmlui.user.rights.title">Nutzungslizenz</message>
+
+        <message key="xmlui.rights.granting">
+Der Urheber räumt dem FID GEO an dem Dokument zeitlich unbegrenzt und unwiderruflich das nicht ausschließliche Recht zur öffentlichen Zugänglichmachung, zur Archivierung auf dem Dokumentenserver FID GEO Repository der$
+Der urheberrechtliche Schutz bleibt durch diese Lizenz unberührt. Mit dem Hochladen des Dokuments ist kein rechtlich verbindlicher Anspruch auf die Bereitstellung oder Archivierung verbunden. </message>i
+        <message key="xmlui.rights.thirdparty.head">RECHTE DRITTER: <br /></message>
+        <message key="xmlui.rights.thirdparty">
+Der Urheber erklärt, dass mit der Bereitstellung seines Dokuments und jedes Bestandteils (z.B. Abbildungen) keine Rechte Dritter (z.B. Miturheber, Co-Autoren, Verlage, Verwertungsgesellschaften, Drittmittelgeber) verl$
+Der Autor stellt die Virtuelle Fachbibliothek GEO-LEO von etwaigen Ansprüchen Dritter frei. Die SUB und die UBF sind berechtigt, den Zugriff auf ein Dokument zu sperren, soweit konkrete Anhaltspunkte für eine Verletzu$
+        <message key="xmlui.rights.longtermpreservation.head">LANGZEITARCHIVIERUNG UND TRANSROMATION IN ANDERE FORMATE:  <br /></message>
+        <message key="xmlui.rights.longtermpreservation">
+Der Urheber räumt dem FID GEO im Rahmen der Rechtseinräumung gemäß Ziffer 1 das Recht ein, die bereitgestellten Dokumente in ihrem Langzeitarchiv zu speichern und bei Bedarf (z.B. Migration, Barrierefreiheit, bessere $
+</message>
+         <message key="xmlui.rigths.dissemination.head">WEITERGABE VON METADATEN UND DOKUMENTEN:  <br /></message>
+        <message key="xmlui.rigths.dissemination">
+Der Urheber räumt dem FID GEO im Rahmen der Rechtseinräumung gemäß Ziffer 1 das Recht ein, die Metadaten des Dokuments unentgeltlich anderen Datenbanken zur Verfügung zu stellen. Darüber hinaus räumt er der SUB und di$
+        <message key="xmlui.rights.date">Göttingen, März 2011</message>
+
+
+
   <!-- org.dspace.app.xmlui.Submission.submit.PrefillStep -->
   <message key="xmlui.Submission.submit.progressbar.prefill">Metadata Import</message>
   <message key="xmlui.Submission.submit.PrefillStep.head">Metadata Import</message>
