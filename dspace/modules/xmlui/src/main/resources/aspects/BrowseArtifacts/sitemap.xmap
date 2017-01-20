@@ -76,7 +76,7 @@ collections / items / and bitstreams.
             <map:match pattern="aboutus">
                 <map:act type="DSpacePropertyFileReader">
                 <map:parameter name="dspace.dir" value="dspace.dir" />
-                <map:transform type="Include" src="file://{dspace.dir}/config/about-us.xml" />
+                <map:transform type="Include" src="file://{dspace.dir}/config/aboutus.xml" />
                 </map:act>
                 <map:serialize type="xml"/>
            </map:match>
@@ -89,6 +89,17 @@ collections / items / and bitstreams.
                 </map:act>
                 <map:serialize type="xml"/>
            </map:match>
+
+
+  <!-- statische Seite für Hilfe -->
+            <map:match pattern="help">
+                <map:act type="DSpacePropertyFileReader">
+                <map:parameter name="dspace.dir" value="dspace.dir" />
+                <map:transform type="Include" src="file://{dspace.dir}/config/help.xml" />
+                </map:act>
+                <map:serialize type="xml"/>
+           </map:match>
+
 
             <!-- List all communities & collections in DSpace -->
             <map:match pattern="community-list">
