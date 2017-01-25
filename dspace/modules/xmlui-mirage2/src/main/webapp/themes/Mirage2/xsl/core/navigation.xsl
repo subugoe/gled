@@ -49,7 +49,7 @@
                     <!-- The form, complete with a text box and a button, all built from attributes referenced
                  from under pageMeta. -->
 
-<div class="publish">
+<!--<div class="publish">
                                 <a>
                                 <xsl:choose>
                                         <xsl:when test="contains(//dri:metadata[@element='request'][@qualifier='URI'], 'submit')">
@@ -78,7 +78,7 @@
                                         </xsl:otherwise>
                                 </xsl:choose>
                                 </a>
-                        </div>
+                        </div>-->
 
 
                     <form id="ds-search-form" class="" method="post">
