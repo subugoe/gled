@@ -155,7 +155,27 @@
                     </form>
                 </div>
             </xsl:if>
-            <xsl:apply-templates/>
+            
+
+
+<xsl:if test="/dri:document/dri:meta/dri:userMeta/@authenticated = 'yes'">
+        <xsl:apply-templates select="dri:list[@n='account']"/>
+</xsl:if>
+
+<xsl:apply-templates select="dri:list[@n='browse']"/>
+
+<xsl:apply-templates select="dri:list[@n='discovery']"/>
+
+<xsl:apply-templates select="dri:list[@n='context']"/>
+
+<xsl:apply-templates select="dri:list[@n='administrative']"/>
+
+<xsl:apply-templates select="dri:list[@n='statistics']"/>
+
+<!--<xsl:apply-templates/>-->
+
+
+
             <!-- DS-984 Add RSS Links to Options Box -->
             <xsl:if test="count(/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='feed']) != 0">
                 <div>
