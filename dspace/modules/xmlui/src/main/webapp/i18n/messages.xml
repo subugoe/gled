@@ -2523,12 +2523,12 @@
         <a href="handle/11858/Paleontology">
 	<image class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paläontologie" />
 	</a>
-        <a href="handle/11858/Geochemistry_Mineralogy_Petrology">
+        <a href="handle/11858/Geochemistry_Minearology_Petrology">
 	<image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
 	</a>
 </div>
 <div id="second_row">
-        <a href="handle/11858/Geophysics">
+        <a href="handle/11858/Geophysics_extraterristicResearch">
 	<image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Fernerkundung" />
 	</a>
         <a href="handle/11858/Energy_Resources_Environment">
@@ -2663,7 +2663,7 @@ Falls Sie der Meinung sind, dass es diese Seite geben sollte, bitte kontaktieren
 
 	<!-- home -->
         <message key="xmlui.homepage.head">FID GEO Repository: Publikationsserver des FID GEO</message>     
-        <message key="xmlui.homepage.intro">Konzipiert mit Förderung durch die Deutsche Forschungsgemeinschaft (DFG) verfolgt das FID GEO Repository das Ziel, digitale Dokumente über die Erforschung des Systems Erde und des Weltalls zu sammeln, zu erschließen, zu bewahren und kostenfrei zu verbreiten. Hier finden Sie fachspezifische Zeitschriftenartikel, Pre- und Postprints, Arbeitsberichte, Hochschulschriften, Bücher und vieles mehr. Wissenschaftler können ihre eigenen Dokumente in FID GEO Repository veröffentlichen oder bereits veröffentlichte Dokumente online stellen.</message>
+        <message key="xmlui.homepage.intro">GEO-LEO e-docs verfolgt das Ziel, digitale Dokumente über die Erforschung des Systems Erde und des Weltalls zu sammeln, zu erschließen, zu bewahren und kostenfrei zu verbreiten. Hier finden Sie fachspezifische Zeitschriftenartikel, Pre- und Postprints, Arbeitsberichte, Hochschulschriften, Bücher und vieles mehr. Wissenschaftler können ihre eigenen Dokumente in GEO-LEO e-docs veröffentlichen oder bereits veröffentlichte Dokumente online stellen.</message>
         <message key="xmlui.homepage.scope.astro">Astronomie, Astrophysik, Weltraumforschung</message>
         <message key="xmlui.homepage.scope.geologie">Geologische Wissenschaften</message>
         <message key="xmlui.homepage.scope.geographie">Geographie</message>
@@ -2689,6 +2689,9 @@ Umsatzsteuergesetz:  </message>
         <message key="xmlui.impressum.label.liability">Haftungshinweis: </message>
         <message key="xmlui.impressum.text.liability">Trotz sorgfaeltiger inhaltlicher Kontrolle uebernehmen wir keine Haftung fuer die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschliesslich deren Betreiber verantwortlich.
 </message>
+	<message key="xmlui.impressum.label.privacy">Datenschutzhinweis: </message>
+        <message key="xmlui.impressum.text.privacy">Diese Website erfasst anonymisierte Daten zur Nutzung.<br />
+	Zustimmung verweigern: <a href="http://piwik.gwdg.de/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=de" target="_blank">Meine Besuche sollen nicht erfasst werden.</a></message>
         <message key="xmlui.impressum.label.contact.geoleo">Ansprechpartner FID GEO Repository:</message>
         <message key="xmlui.impressum.label.team.geoleo">Das ganze Team</message>
         <message key="xmlui.impressum.mail.geoleo">E-Mail: FID GEO Repository</message>
@@ -2741,16 +2744,16 @@ Umsatzsteuergesetz:  </message>
 
 	<!-- about us -->
 	<message key="xmlui.aboutus.head">Über uns</message>
-        <message key="xmlui.aboutus.section1">FID GEO Repository ist der Open-Access-Server der Virtuellen Fachbibliothek zum System Erde und Weltall. Als zentrale Publikationsplattform wurde FID GEO Repository im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts „Virtuelle Fachbibliothek für Geowissenschaften, Bergbau, Geographie und Thematische Karten: GEO-LEO – Geo Library Experts Online“ eingerichtet. GEO-LEO war ein Gemeinschaftsprojekt der Universitätsbibliothek „Georgius Agricola“ der Technischen Universität Bergakademie Freiberg (UB Freiberg) und der Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB Göttingen). </message>
-        <message key="xmlui.aboutus.section2">Mit Projektende ging FID GEO Repository in den Routinebetrieb der SUB Göttingen über, wo die Publikationsplattform in 2010 im Zuge einer kompletten Erneuerung modernisiert wurde. 
+        <message key="xmlui.aboutus.section1">GEO-LEO e-docs ist der Open-Access-Server der Virtuellen Fachbibliothek zum System Erde und Weltall – GEO-LEO. Als zentrale Publikationsplattform wurde GEO-LEO e-docs im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts „Virtuelle Fachbibliothek für Geowissenschaften, Bergbau, Geographie und Thematische Karten: GEO-LEO – Geo Library Experts Online“ eingerichtet. GEO-LEO war ein Gemeinschaftsprojekt der Universitätsbibliothek „Georgius Agricola“ der Technischen Universität Bergakademie Freiberg (UB Freiberg) und der Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB Göttingen). </message>
+        <message key="xmlui.aboutus.section2">Mit Projektende ging GEO-LEO e-docs in den Routinebetrieb der SUB Göttingen über, wo die Publikationsplattform in 2010 im Zuge einer kompletten Erneuerung modernisiert wurde. 
 Zur Aktualisierung der Software wurde das zugrundeliegende DSpace-System komplett neu aufgesetzt. Gleichzeitig waren mit diesem Schritt auch grundlegende konzeptionelle Veränderungen verbunden: </message>
         <message key="xmlui.aboutus.modifications1">Neu strukturiert orientieren sich verschiedene Fachbereiche an den überregionalen Sammelschwerpunkten beider Bibliotheken. </message>
         <message key="xmlui.aboutus.modifications2">Hinter den einzelnen Bereichen verbergen sich nach Dokumentarten gegliederte Sammlungen</message>
         <message key="xmlui.aboutus.modifications3">Diese Sammlungen sind Archive frei zugänglicher digitaler Volltexte im Kontext des jeweiligen Sondersammelgebiets im Programm der DFG für die überregionale Literatur- und Informationsversorgung.</message>
-        <message key="xmlui.aboutus.section3">Dazu werden sowohl seitens beider Bibliotheken frei zugängliche digitale Dokumente eingesammelt und eingestellt, aber auch Wissenschaftler selbst können ihre Arbeiten über FID GEO Repository uneingeschränkt zugänglich machen. Fachgesellschaften und wissenschaftliche Einrichtungen sind eingeladen, eigene Sammlungen einzurichten, auf denen sie selbstständig ihre Serien, Zeitschriften und andere Informationsressourcen veröffentlichen. Das GEO-LEO-Team bietet dafür unterschiedliche Formen der Unterstützung und Zusammenarbeit an. </message>
-        <message key="xmlui.aboutus.section4">Eine erste Kooperation besteht in diesem Sinne mit der Geozon Science Media UG. Als Ausgründungsprojekt des Institutes für Geographie und Geologie der Universität Greifswald und Open Access-Verlag für Geo- und Umweltwissenschaften stellt Geozon seine gesamten aggregierten und veredelten Publikationen in FID GEO Repository ein.</message>
+        <message key="xmlui.aboutus.section3">Dazu werden sowohl seitens beider Bibliotheken frei zugängliche digitale Dokumente eingesammelt und eingestellt, aber auch Wissenschaftler selbst können ihre Arbeiten über GEO-LEO e-docs uneingeschränkt zugänglich machen. Fachgesellschaften und wissenschaftliche Einrichtungen sind eingeladen, eigene Sammlungen einzurichten, auf denen sie selbstständig ihre Serien, Zeitschriften und andere Informationsressourcen veröffentlichen. Das GEO-LEO-Team bietet dafür unterschiedliche Formen der Unterstützung und Zusammenarbeit an. </message>
+        <message key="xmlui.aboutus.section4">Eine erste Kooperation besteht in diesem Sinne mit der Geozon Science Media UG. Als Ausgründungsprojekt des Institutes für Geographie und Geologie der Universität Greifswald und Open Access-Verlag für Geo- und Umweltwissenschaften stellt Geozon seine gesamten aggregierten und veredelten Publikationen in GEO-LEO e-docs ein.</message>
         <message key="xmlui.aboutus.label.partner">Partner:</message>
-	<message key="xmlui.aboutus.label.edocsTeam">FID GEO Repository-Team:</message>
+	<message key="xmlui.aboutus.label.edocsTeam">GEO-LEO e-docs-Team:</message>
 	<message key="xmlui.aboutus.label.generalHelp">Allgemeine Konzeption und fachliche Betreuung:</message>
 	<message key="xmlui.aboutus.name.geography">Mechthild Schüler (Geographie und Thematische Karten)</message>
 	<message key="xmlui.aboutus.tel.geography">Tel.: +49 (0)551 / 39-4255</message>
@@ -2759,14 +2762,12 @@ Zur Aktualisierung der Software wurde das zugrundeliegende DSpace-System komplet
         <message key="xmlui.aboutus.tel.montan">Tel.: +49 (0)3731 / 39-3383</message>
         <message key="xmlui.aboutus.mail.montan">E-Mail: Cornela.Rau@ub.tu-freiberg.de</message>
 	<message key="xmlui.aboutus.tuFreiberg">UB TU Bergakademie Freiberg</message>
-	<message key="xmlui.aboutus.label.development">Webddesign, Programmierung und technische Realisation</message> 
+	<message key="xmlui.aboutus.label.development">Technische Realisation und Betreuung</message> 
+	<message key="xmlui.aboutus.tschaefer">Tobias Schäfer</message>
 	<message key="xmlui.aboutus.name.past">Dr. Andres Quast</message>
 	<message key="xmlui.aboutus.function.past">(ehemals SUB Göttingen)</message>
 	<message key="xmlui.aboutus.function.now">Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (HBZ)</message>
-	<message key="xmlui.aboutus.muehlhoelzer">Marianna Mühlhölzer</message>
-
-
-	<!-- rights -->
+	<message key="xmlui.aboutus.geozon">Geozon Science Media UG</message> rights -->
 	<message key="xmlui.rights.head">Rechtseinräumung</message>
         <message key="xmlui.rights.section1">Hiermit gestatte ich dem FID GEO, durchführende Einrichtungen: Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB), vertreten durch den Direktor, und Universitätsbibliothek der TU Bergakademie Freiberg (UBF), vertreten durch die Direktorin, mein Dokument zu den unten genannten Lizenzbedingungen zur freien Nutzung im Internet bereitzustellen. Im Rahmen dieser Bereitstellung sind Nutzer berechtigt, Dokumente nach Maßgabe des Urhebergesetzes unentgeltlich zu nutzen, insbesondere, das Dokument zum privaten und sonstigen eigenen Gebrauch herunter zu laden, zu speichern oder in kleiner Anzahl zu drucken (§ 53 UrhG).</message>
 	<message key="xmlui.user.rights.section1">Nutzer von FID GEO Repository sind berechtigt, Dokumente nach Maßgabe des Urhebergesetzes unentgeltlich zu nutzen, insbesondere, das Dokument zum privaten und sonstigen eigenen Gebrauch herunter zu laden, zu speichern oder in kleiner Anzahl zu drucken (§ 53 UrhG).</message>
@@ -2794,18 +2795,27 @@ Der Urheber räumt dem FID GEO im Rahmen der Rechtseinräumung gemäß Ziffer 1 
   <!-- deposit license -->
   <message key="xmlui.static-license.title">Nutzungsbedingungen</message>
   <message key="xmlui.static-license.title">Nutzungsbedingungen</message>
-  <message key="xmlui.deposit.license.intro">Für die Nutzung von Dokumenten bzw. für das Publizieren auf GEO-LEOe-docs gelten die folgenden Vereinbarungen.</message>
-  <message key="xmlui.deposit.license.user-rights.head">LIZENZ FÜR DIE NUTZUNG VON DOKUMENTEN AUF GEO-LEOe-docs</message>
-   <message key="xmlui.deposit.license.user-rights.general">Allgemein gilt für alle Dokumente:</message>
-  <message key="xmlui.deposit.license.user-rights">Nutzer sind berechtigt, Dokumente nach Maßgabe des Urhebergesetzes unentgeltlich zu nutzen, insbesondere, das dokument zum privaten und sonstigen eigenen Gebrauch herunter </message> 
-  <message key="xmlui.deposit.license.user-rights.cc-license">Darüber hinaus können für einzelne Dokumenten weitere Rechte (z.B. Creative-Commons-Lizenzen) gelten. Die jeweilige Lizenz ist dem Dokument zugeordnet und auf </message>
-  <message key="xmlui.deposit.license.deposit-license.head">GEO-LEOe-docs LIZENZ</message>
-  <message key="xmlui.deposit.license.deposit-license.intro">Nutzer, die Dokumente auf GEO-LEOe-docs veröffentlichen, stimmen einer Rechtevereinbarung in den folgenden Punkten zu:</message>
-  <message key="xmlui.deposit.license.li1">Der Urheber räumt dem Publikationsserver GEO-LEOe-docs an dem Dokument zeitlich unbegrenzt und unwiderruflich das nicht ausschließliche Recht zur öffentlichen Zugänglichmachung,  </message> 
-  <message key="xmlui.deposit.license.li2">Der Urheber erklärt, dass mit der Bereitstellung seines Dokuments und jedes Bestandteils (z.B. Abbildungen) keine Rechte Dritter (z.B. Miturheber, Co-Autoren, Verlage, Verwertungs </message>  
-  <message key="xmlui.deposit.license.li3">Der Urheber räumt dem Publikationsserver GEO-LEOe-docs im Rahmen der Rechtseinräumung gemäß Ziffer 1 das Recht ein, die bereitgestellten Dokumente in ihrem Langzeitarchiv zu speic </message>  
-  <message key="xmlui.deposit.license.li4">Der Urheber räumt dem Publikationsserver GEO-LEO im Rahmen der Rechtseinräumung gemäß Ziffer 1 das Recht ein, die Metadaten des Dokuments unentgeltlich anderen Datenbanken zur Ver </message>  
-  <message key="xmlui.deposit.license.date">März 2012</message>
+  <message key="xmlui.deposit.license.user-rights.head">LIZENZ FÜR DIE NUTZUNG VON DOKUMENTEN AUF GEO-LEO e-docs</message>
+  <message key="xmlui.deposit.license.intro">Für die Nutzung von Dokumenten bzw. für das Publizieren auf GEO-LEO e-docs gelten die folgenden Lizenzen</message>
+  <message key="xmlui.deposit.license.user-rights">Nutzer sind berechtigt, Dokumente nach Maßgabe des Urhebergesetzes unentgeltlich zu nutzen, insbesondere, das Dokument zum privaten und sonstigen eigenen Gebrauch herunter zu laden, zu speichern und in kleiner Anzahl zu drucken (§§ 53 UrhG).</message>
+  <message key="xmlui.deposit.license.user-rights.general">Allgemein gilt für alle Dokumente:</message>
+  <message key="xmlui.deposit.license.user-rights.cc-license">Darüber hinaus können für einzelne Dokumenten weitere Rechte (z.B. Creative-Commons-Lizenzen) gelten. Die jeweilige Lizenz ist dem Dokument zugeordnet und auf der dazugehörigen Download-Seite deutlich gekennzeichnet. Der Lizenztext ist hinterlegt und kann zu Informationszwecken aufgerufen werden.</message>
+  <message key="xmlui.deposit.license.deposit-license.head">LIZENZ FÜR DAS PUBLIZIEREN AUF GEO-LEO e-docs</message>
+  <message key="xmlui.deposit.license.deposit-license.intro">Nutzer, die Dokumente auf GEO-LEO e-docs veröffentlichen, stimmen einer Rechtevereinbarung in den folgenden Punkten zu:</message>
+  <message key="xmlui.deposit.license.li1">Rechtseinräumung:<br />
+ Der Urheber räumt der SUB Göttingen zeitlich unbegrenzt und unwiderruflich das nicht ausschließliche Recht ein, das Werk öffentlich zugänglich zu machen, auf dem Publikationsserver GEO-LEOe-docs der SUB Göttingen zu archivieren und im Wege eines Print-on-Demand  in Papierform oder auf anderen Speichermedien zu vervielfältigen. Der urheberrechtliche Schutz bleibt durch diese Lizenz unberührt. Mit dem Hochladen des Dokuments ist kein rechtlich verbindlicher Anspruch auf die Bereitstellung oder Archivierung verbunden.
+  </message>
+  <message key="xmlui.deposit.license.li2">Rechte Dritter:<br />
+Der Urheber erklärt, dass mit der Bereitstellung des Werkes und jedes Bestandteils (z.B. Abbildungen) keine Rechte Dritter (z.B. Miturheber, Co-Autoren, Verlage, Verwertungsgesellschaften, Drittmittelgeber) verletzt werden. Der Urheber stellt die SUB Göttingen von etwaigen Ansprüchen Dritter frei. Die SUB Göttingen ist berechtigt, den Zugriff auf ein Dokument zu sperren, soweit konkrete Anhaltspunkte für eine Verletzung von Rechten Dritter bestehen. <b>Bei Herausgeberwerken:</b> Der/die unterzeichnende Herausgeber/in versichert, dass von den an dem Werk beteiligten Autor/innen die Zustimmung eingeholt wurde, ihre Beiträge in der oben erklärten Art und Weise nutzen zu dürfen/.
+</message>
+  <message key="xmlui.deposit.license.li3">Langzeitarchivierung und Transformation in andere Formate:<br />
+  Der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinräumung (Ziffer 1) das Recht ein, das Werk in ihrem Langzeitarchiv zu speichern und bei Bedarf (z.B. Migration, Barrierefreiheit, bessere Zugänglichkeit oder Erschließung) in andere elektronische und physische Formate zu überführen.
+  </message>
+  <message key="xmlui.deposit.license.li4">
+Weitergabe von Metadaten und Dokumenten:<br />
+Der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinräumung (Ziffer 1) das Recht ein, die Metadaten des Werks unentgeltlich anderen Datenbanken zur Verfügung zu stellen. Darüber hinaus ist die SUB Göttingen berechtigt, das Werk Dritten im Rahmen nationaler Sammelaufträge zur Online-Bereitstellung oder Archivierung zur Verfügung zu stellen.
+</message>
+   <message key="xmlui.deposit.license.date">Göttingen, Juli 2016</message>
 
 
   <!-- org.dspace.app.xmlui.Submission.submit.PrefillStep -->
