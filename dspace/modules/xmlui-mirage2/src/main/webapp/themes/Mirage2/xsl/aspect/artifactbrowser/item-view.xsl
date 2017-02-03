@@ -127,7 +127,32 @@
                     <xsl:call-template name="itemSummaryView-DIM-URI"/>
 		    <xsl:call-template name="itemSummaryView-DIM-doi"/>
                     <xsl:call-template name="itemSummaryView-collections"/>
+          
+	<!--SocialMedia-Buttons-->      
+<div id="socialmedia">
+                        <xsl:text>Share on: </xsl:text>
+                        <ul class="share-buttons">
+				<li><a>
+                                        <xsl:attribute name="href"><xsl:value-of select="concat('http://twitter.com/intent/tweet?text=', //dim:field[@element='title' and not(@qualifier)], '&amp;url=', //dim:field[@element='identifier' and @qualifier='uri']) "/></xsl:attribute>
+                                <img src="{concat($theme-path,'/images/twitter-16.png')}" title="Twitter"> </img>
+                                </a></li>
+                                <li><a>
+                                        <xsl:attribute name="href"><xsl:value-of select="concat('http://www.mendeley.com/import/?url=', //dim:field[@element='identifier'][@qualifier='uri']) "/></xsl:attribute>
+                                <img src="{concat($theme-path,'/images/mendeley-16.png')}" title="Mendeley"> </img>
+                                </a></li>
+                                <li><a>
+                                        <xsl:attribute name="href"><xsl:value-of select="concat('http://www.linkedin.com/shareArticle?url=', //dim:field[@element='identifier'][@qualifier='uri'], '&amp;title=', //dim:field[@element='title' and not(@qualifier)]) "/></xsl:attribute>
+                                <img src="{concat($theme-path,'/images/linkedin-16.png')}" title="LinkedIn"> </img>
+                                </a></li>
+                                <li><a>
+                                        <xsl:attribute name="href"><xsl:value-of select="concat('http://www.bibsonomy.org/ShowBookmarkEntry?&amp;c=b&amp;jump=yes&amp;url=', //dim:field[@element='identifier'][@qualifier='uri'], '&amp;description=', //dim:field[@element='title' and not(@qualifier)]) "/></xsl:attribute>
+                                <img src="{concat($theme-path,'/images/bibsonomy-16.png')}" title="Bibsonomy"> </img>
+                                </a></li>
+                                
+                        </ul>
                 </div>
+
+</div>
             </div>
         </div>
     </xsl:template>
@@ -466,7 +491,12 @@
                     </xsl:otherwise>
                 </xsl:choose>
                 <xsl:text>)</xsl:text>
-            </a>
+            </a><br/>
+
+       <!--Google-Viewer Link-->
+             <a target="_blank" href="http://docs.google.com/viewer?url=http://geoleo-docker.sub.uni-goettingen.de{mets:FLocat[@LOCTYPE='URL']/@xlink:href}">Google View</a>
+
+
         </div>
     </xsl:template>
 
@@ -656,6 +686,7 @@
                         </dd>
                 </xsl:if>
                 </dl>
+
             </div>
 
             <div class="file-link col-xs-6 col-xs-offset-6 col-sm-2 col-sm-offset-0">
