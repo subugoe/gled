@@ -134,19 +134,19 @@
                         <ul class="share-buttons">
 				<li><a>
                                         <xsl:attribute name="href"><xsl:value-of select="concat('http://twitter.com/intent/tweet?text=', //dim:field[@element='title' and not(@qualifier)], '&amp;url=', //dim:field[@element='identifier' and @qualifier='uri']) "/></xsl:attribute>
-                                <img src="{concat($theme-path,'/images/twitter-16.png')}" title="Twitter"> </img>
+                                <img src="{concat($theme-path,'images/twitter-16.png')}" title="Twitter"> </img>
                                 </a></li>
                                 <li><a>
                                         <xsl:attribute name="href"><xsl:value-of select="concat('http://www.mendeley.com/import/?url=', //dim:field[@element='identifier'][@qualifier='uri']) "/></xsl:attribute>
-                                <img src="{concat($theme-path,'/images/mendeley-16.png')}" title="Mendeley"> </img>
+                                <img src="{concat($theme-path,'images/mendeley-16.png')}" title="Mendeley"> </img>
                                 </a></li>
                                 <li><a>
                                         <xsl:attribute name="href"><xsl:value-of select="concat('http://www.linkedin.com/shareArticle?url=', //dim:field[@element='identifier'][@qualifier='uri'], '&amp;title=', //dim:field[@element='title' and not(@qualifier)]) "/></xsl:attribute>
-                                <img src="{concat($theme-path,'/images/linkedin-16.png')}" title="LinkedIn"> </img>
+                                <img src="{concat($theme-path,'images/linkedin-16.png')}" title="LinkedIn"> </img>
                                 </a></li>
                                 <li><a>
                                         <xsl:attribute name="href"><xsl:value-of select="concat('http://www.bibsonomy.org/ShowBookmarkEntry?&amp;c=b&amp;jump=yes&amp;url=', //dim:field[@element='identifier'][@qualifier='uri'], '&amp;description=', //dim:field[@element='title' and not(@qualifier)]) "/></xsl:attribute>
-                                <img src="{concat($theme-path,'/images/bibsonomy-16.png')}" title="Bibsonomy"> </img>
+                                <img src="{concat($theme-path,'images/bibsonomy-16.png')}" title="Bibsonomy"> </img>
                                 </a></li>
                                 
                         </ul>
