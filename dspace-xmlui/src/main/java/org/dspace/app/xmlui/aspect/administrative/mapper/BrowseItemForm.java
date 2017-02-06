@@ -168,7 +168,7 @@ public class BrowseItemForm extends AbstractDSpaceTransformer {
 		
 		// get all items from that collection
         ItemIterator iterator = collection.getItems();
-        try
+
         {
             while (iterator.hasNext())
             {

@@ -477,7 +477,7 @@ public class Collection extends DSpaceObject
                 + "item.item_id=collection2item.item_id AND "
                 + "collection2item.collection_id= ? "
                 + "AND item.in_archive='1'";
-
+	System.out.print("Collection: sql-query OK");
         TableRowIterator rows = DatabaseManager.queryTable(ourContext, "item",
                 myQuery,getID());
 

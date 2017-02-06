@@ -318,7 +318,8 @@
                     <xsl:for-each select="dim:field[@element='identifier' and @qualifier='doi']">
                         <a>
                             <xsl:attribute name="href">
-                                <xsl:copy-of select="./node()"/>
+                               <!-- <xsl:copy-of select="./node()"/>-->
+				<xsl:value-of select="concat('http://dx.doi.org/', node())"/>
                             </xsl:attribute>
                             <xsl:copy-of select="./node()"/>
                         </a>

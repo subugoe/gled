@@ -2025,7 +2025,7 @@
         <message key="xmlui.dri2xhtml.METS-1.0.item-editor">Herausgeber</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-abstract">Zusammenfassung</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-description">Beschreibung</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-uri">URI</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-uri">Zum Verlinken/Bookmarken</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-date">Erschienen</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-publisher">Verlag</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-subject">Schlagwort</message>
@@ -2830,7 +2830,7 @@ Der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinräumung (Ziffer 1)
   <message key="xmlui.Submission.submit.PrefillStep.identifier.error"><div class="alert alert-warning">Der verwendete ID ist nicht gültig oder nicht gefunden.  Korrigieren Sie Ihre Angabe oder fahren Sie mit dem weiter-Knpof manuell fort.</div></message>
   <message key="xmlui.Submission.submit.PrefillStep.help">Falls für die Publikation kein Identifier vorliegt, gehen Sie bitte auf Weiter. Ist ein Identifier vorhanden, werden die bibliographischen Daten zum Dokument im nächsten Schritt automatisch eingetragen.</message>
   <message key="xmlui.Submission.submit.PrefillStep.refresh_help">Bitte die Checkbox Überschreiben nur aktivieren, wenn sie die eingetragene Id korrigieren wollen.</message>
-
+  <message key="xmlui.dri2xhtml.METS-1.0.item-doi">DOI</message>
 
   <message key="bibliography">Bibliografie</message>
   <message key="conference">Konferenzbericht</message>
