@@ -38,9 +38,17 @@ header .navbar-default .navbar-toggle > li > a, header .navbar-default .navbar-n
     font-weight: bold;
 }
 
+.navbar-brand {
+    padding: 0;
+}
+
 header .navbar-brand img {
-   height: 63px;
-   width: 200px;
+   height: 150px;
+   width: 220px;
+   z-index: 1;
+   display: block;
+   text-indent: -9999px;
+   position: relative;
 }
 
 a {
@@ -159,3 +167,21 @@ img.frontpage:hover {
     padding: 0 0 0.5em 0;
 }
 
+/*Social Media */ 
+
+div#socialmedia {
+ border-top: 1px solid #6C564C;
+ margin-top: 2em;
+ padding-top: 20px;
+}
+ul.share-buttons {
+  list-style: none;
+  padding: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  display: inline-block;
+}
+ul.share-buttons li {
+  display: inline;
+  margin-left: 5px;
+}
