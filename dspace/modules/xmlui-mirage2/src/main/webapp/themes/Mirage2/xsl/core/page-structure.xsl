@@ -32,7 +32,6 @@
                 xmlns:confman="org.dspace.core.ConfigurationManager"
                 exclude-result-prefixes="i18n dri mets xlink xsl dim xhtml mods dc confman">
 
-    <xsl:output method="xml" encoding="UTF-8" indent="yes"/>
 
     <!--
         Requested Page URI. Some functions may alter behavior of processing depending if URI matches a pattern.
@@ -57,7 +56,10 @@
         arrangement, nothing is preventing the designer from changing them around or adding new ones by
         overriding the dri:document template.
     -->
+
+
     <xsl:template match="dri:document">
+
 
         <xsl:choose>
             <xsl:when test="not($isModal)">
@@ -347,7 +349,7 @@
                         </button>
 
                         <a href="{$context-path}/" class="navbar-brand">
-                        <img src="{$theme-path}/images/fidgeologo.png" />
+                        <img src="{$theme-path}images/geoleo-edocs-logo.png" />
                         <!--FID GEO Repository-->
 			</a>
 
@@ -541,6 +543,7 @@
     <!--The Trail-->
     <xsl:template match="dri:trail">
         <!--put an arrow between the parts of the trail-->
+	LOCALE: <xsl:value-of select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='page'][@qualifier='currentLocale']"/>
         <li>
             <xsl:if test="position()=1">
                 <i class="glyphicon glyphicon-home" aria-hidden="true"/>&#160;
@@ -753,6 +756,22 @@
                     <xsl:text>&#160;</xsl:text>
                 </a>
             <p>&#160;</p>
+
+		<!--	  <script type="text/javascript">
+                                var _paq = _paq || [];
+                                _paq.push(['trackPageView']);
+                                _paq.push(['enableLinkTracking']);
+                                (function() {
+                                        var u=(("https:" == document.location.protocol) ? "https" : "http") + "://piwik.gwdg.de/";
+                                        _paq.push(['setTrackerUrl', u+'piwik.php']);
+                                        _paq.push(['setSiteId', 123]);
+                                        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+                                        g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+                                })();
+
+                        </script>
+                        <noscript><p><img src="http://piwik.gwdg.de/piwik.php?idsite=123" style="border:0" alt=""/></p></noscript>-->
+
         </footer>
     </xsl:template>
 
@@ -922,5 +941,6 @@
             </li>
         </xsl:if>
     </xsl:template>
+
 
 </xsl:stylesheet>
