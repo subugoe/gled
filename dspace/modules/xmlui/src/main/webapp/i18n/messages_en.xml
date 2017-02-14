@@ -2571,7 +2571,7 @@
 
   <!-- Customizations -->
 
-  <message key="xmlui.dri2xhtml.structural.rights-link">Nutzungsbedingungen</message>
+  <message key="xmlui.dri2xhtml.structural.rights-link">Terms of Use</message>
 
   <message key="xmlui.general.publish_now">Publish now!</message>
   <message key="xmlui.general.publish_here">Publish here!</message>
