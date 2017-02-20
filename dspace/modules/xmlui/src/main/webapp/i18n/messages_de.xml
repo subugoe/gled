@@ -523,7 +523,7 @@
 	<message key="xmlui.Submission.general.submission.trail">Dokument veröffentlichen</message>
 	<message key="xmlui.Submission.general.submission.head">Dokument veröffentlichen</message>	
 	<message key="xmlui.Submission.general.submission.previous">&lt; Zurück</message>
-	<message key="xmlui.Submission.general.submission.save">Speicher / Abbrechen</message>
+	<message key="xmlui.Submission.general.submission.save">Speichern / Abbrechen</message>
 	<message key="xmlui.Submission.general.submission.next">Weiter &gt;</message>
 	<message key="xmlui.Submission.general.submission.complete">Veröffentlichung abschließen</message>
 	<message key="xmlui.Submission.general.workflow.title">Dokument veröffentlichen</message>
@@ -801,7 +801,7 @@
 	<message key="xmlui.Submission.submit.LicenseStep.info3">Wenn Sie Fragen zu den Lizenzbestimmungen haben, wenden Sie sich an den Administrator.</message>
 	<message key="xmlui.Submission.submit.LicenseStep.decision_label">Lizenzbestimmung</message>
 	<message key="xmlui.Submission.submit.LicenseStep.decision_checkbox">Ich akzeptiere die Lizenzbestimmungen</message>
-	<message key="xmlui.Submission.submit.LicenseStep.decision_error">Sie müssen die Lizenzbestimmung akzeptieren, um Ihre Veröffentlichung abzuschließen. Wenn Sie dies zum jetzigen Zeitpunkt nicht tun können, haben Sie die Möglichkeit Ihre Veröffentlichung zwischenzuspeichern, um sie später zu vollenden oder zu löschen, indem Sie auf 'Speicher/Abbrechen' klicken.</message>
+	<message key="xmlui.Submission.submit.LicenseStep.decision_error">Sie müssen die Lizenzbestimmung akzeptieren, um Ihre Veröffentlichung abzuschließen. Wenn Sie dies zum jetzigen Zeitpunkt nicht tun können, haben Sie die Möglichkeit Ihre Veröffentlichung zwischenzuspeichern, um sie später zu vollenden oder zu löschen, indem Sie auf 'Speichern/Abbrechen' klicken.</message>
 
 	<!-- org.dspace.app.xmlui.Submission.submit.RemovedStep -->
 	<message key="xmlui.Submission.submit.RemovedStep.head">Veröffentlichung gelöscht</message>
@@ -2025,8 +2025,8 @@
         <message key="xmlui.dri2xhtml.METS-1.0.item-editor">Herausgeber</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-abstract">Zusammenfassung</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-description">Beschreibung</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-uri">Zum Verlinken/Bookmarken</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-date">Erschienen</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-uri">Zum Verlinken/Bookmarken: </message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-date">Erstveröffentlichung: </message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-publisher">Verlag</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-subject">Schlagwort</message>
 	
@@ -2570,14 +2570,16 @@ DRIVER betreibt eine Infrastruktur für Repositorien, die alle europäischen Lä
   </message>
   <message key="xmlui.series.text">
     <h2>Serien und Zeitschriften</h2>
-        <ul>
-        <li><a href="handle/11858/10/browse?type=series">Discussion Papers / Centre for Regional Studies</a></li>
-        <li><a href="handle/11858/12/browse?type=series">E&amp;G-Quaternary Science Journal</a></li>
-        <li><a href="handle/11858/13/browse?type=series">Electronic Journal of the Freiberg Geoscience Department</a></li>
-        <li><a href="handle/11858/11/browse?type=series">Greifswalder Geographische Arbeiten</a></li>
-        <li><a href="handle/11858/14/browse?type=series">Neubrandenburger Geologische Beiträge</a></li>
-        <li><a href="handle/11858/9/browse?type=series">Scientific Technical Report / Deutsches Geoforschungszentrum Potsdam</a></li>
+        <div class="series">
+	<ul>
+        <li><a href="handle/11858/4062/browse?type=series">Discussion Papers / Centre for Regional Studies</a></li>
+        <li><a href="handle/11858/00-1735-0000-0001-4444-F/browse?type=series">E&amp;G-Quaternary Science Journal</a></li>
+        <li><a href="handle/11858/00-1735-0000-0001-4424-8/browse?type=series">Electronic Journal of the Freiberg Geoscience Department</a></li>
+        <li><a href="handle/11858/00-1735-0000-0022-A79A-4/browse?type=series">Greifswalder Geographische Arbeiten</a></li>
+        <li><a href="handle/11858/00-1735-0000-0006-0D8F-5/browse?type=series">Neubrandenburger Geologische Beiträge</a></li>
+        <li><a href="handle/11858/4061/browse?type=series">Scientific Technical Report / Deutsches Geoforschungszentrum Potsdam</a></li>
         </ul>
+	</div>
   </message>
 
 
@@ -2830,14 +2832,15 @@ Der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinräumung (Ziffer 1)
   <message key="xmlui.Submission.submit.PrefillStep.identifier.error"><div class="alert alert-warning">Der verwendete ID ist nicht gültig oder nicht gefunden.  Korrigieren Sie Ihre Angabe oder fahren Sie mit dem weiter-Knpof manuell fort.</div></message>
   <message key="xmlui.Submission.submit.PrefillStep.help">Falls für die Publikation kein Identifier vorliegt, gehen Sie bitte auf Weiter. Ist ein Identifier vorhanden, werden die bibliographischen Daten zum Dokument im nächsten Schritt automatisch eingetragen.</message>
   <message key="xmlui.Submission.submit.PrefillStep.refresh_help">Bitte die Checkbox Überschreiben nur aktivieren, wenn sie die eingetragene Id korrigieren wollen.</message>
-  <message key="xmlui.dri2xhtml.METS-1.0.item-doi">DOI</message>
+  <message key="xmlui.dri2xhtml.METS-1.0.item-doi">DOI: </message>
+  <message key="xmlui.dri2xhtml.METS-1.0.item-sponsorship">Förderer: </message>
 
   <message key="bibliography">Bibliografie</message>
   <message key="conference">Konferenzbericht</message>
   <message key="thesis">Hochschulschrift</message>
   <message key="editorial">Editorisches</message>
   <message key="excursionGuide">Exkursionsführer</message>
-  <message key="abstract">Zusammenfassug</message>
+  <message key="abstract">Zusammenfassung</message>
   <message key="lecture">Vorlesung</message>
   <message key="manual">Anleitung</message>
   <message key="research">Forschungsarbeit</message>
@@ -2851,4 +2854,23 @@ Der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinräumung (Ziffer 1)
   <message key="bookpart">Bookpart</message>
   <message key="book">Buch</message>
 
+  <message key="publishedVersion">Verlagsversion</message>
+  <message key="draft">Entwurf</message>
+  <message key="updatedVersion">Überarbeitete Version</message>
+
+  <message key="doctoralThesis">Doktorarbeit</message>
+  <message key="lecture">Studienarbet</message>
+  <message key="article">Artikel</message>
+  <message key="conferenceObject">Konferenzbeitrag</message>
+  <message key="book">Buch</message>
+  <message key="bookPart">Buchbeitrag</message>
+  <message key="other"></message>
+  <message key="report">Report</message>
+ 
+  <message key="deu">Deutsch</message>
+  <message key="ger">Deutsch</message>
+  <message key="eng">Englisch</message>
+  <message key="ita">Italienisch</message>
+  <message key="fra">Französisch</message>
+  <message key="other">andere</message>
 </catalogue>

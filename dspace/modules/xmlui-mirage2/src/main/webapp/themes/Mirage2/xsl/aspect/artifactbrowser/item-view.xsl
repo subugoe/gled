@@ -112,7 +112,8 @@
 	    <xsl:call-template name="itemSummaryView-DIM-type"/>
 	    <xsl:call-template name="itemSummaryView-DIM-typeVersion"/>
 	    <xsl:call-template name="itemSummaryView-DIM-language"/>
-	    <xsl:call-template name="itemSummaryView-DIM-relationVolume"/>
+	    <xsl:call-template name="itemSummaryView-DIM-relationIsPartOf"/>
+	    <xsl:call-template name="itemSummaryView-DIM-descriptionSponsor"/>
 	    <xsl:call-template name="itemSummaryView-DIM-URI"/>
             <xsl:call-template name="itemSummaryView-DIM-doi"/>
 	    <span class="spacer">&#160;</span>
@@ -320,14 +321,25 @@
 
 
 
-<xsl:template name="itemSummaryView-DIM-relationVolume">
-        <xsl:if test="dim:field[@element='relation' and @qualifier='volume']">
-                <!--<h5><i18n:text>xmlui.dri2xhtml.METS-1.0.item-author</i18n:text></h5>-->
-                <xsl:for-each select="dim:field[@element='relation' and @qualifier='volume']">
+<xsl:template name="itemSummaryView-DIM-relationIsPartOf">
+<div>        <xsl:if test="dim:field[@element='relation' and @qualifier='ispartof']">
+                <xsl:for-each select="dim:field[@element='relation' and @qualifier='ispartof']">
                         <xsl:copy-of select="./node()"/>
                 </xsl:for-each>
         </xsl:if>
-    </xsl:template>
+</div>    
+</xsl:template>
+
+
+<xsl:template name="itemSummaryView-DIM-descriptionSponsor">
+<div>        <xsl:if test="dim:field[@element='description' and @qualifier='sponsorship']">
+                <xsl:for-each select="dim:field[@element='description' and @qualifier='sponsorship']">
+                        <i18n:text>xmlui.dri2xhtml.METS-1.0.item-sponsorship</i18n:text><xsl:copy-of select="./node()"/>
+                </xsl:for-each>
+        </xsl:if>
+</div>    
+</xsl:template>
+
 
     <xsl:template name="itemSummaryView-DIM-authors-entry">
        

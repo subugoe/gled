@@ -181,6 +181,15 @@
                         </small></span>
                 </xsl:if>
             </div>
+		
+	   <!--<xsl:if test="dim:field[@element = 'relation' and @qualifier='ispartof']">
+                <xsl:variable name="relationispartof" select="dim:field[@element = 'relation' and @qualifier='ispartof']/node()"/>
+                <div class="artifact-relationispartof">
+                    <xsl:value-of select="util:shortenString($relationispartof, 220, 10)"/>
+                </div>
+            </xsl:if>-->
+
+
             <xsl:if test="dim:field[@element = 'description' and @qualifier='abstract']">
                 <xsl:variable name="abstract" select="dim:field[@element = 'description' and @qualifier='abstract']/node()"/>
                 <div class="artifact-abstract">
