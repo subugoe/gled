@@ -166,6 +166,12 @@
 
 <xsl:apply-templates select="dri:list[@n='discovery']"/>
 
+<!--Hilfe-Link-->
+<a class="list-group-item active">	<span class="h5 list-group-item-heading h5">Infos</span></a>
+                                <a href="/help" class="list-group-item ds-option">Hilfe</a>
+
+
+
 <xsl:apply-templates select="dri:list[@n='context']"/>
 
 <xsl:apply-templates select="dri:list[@n='administrative']"/>
