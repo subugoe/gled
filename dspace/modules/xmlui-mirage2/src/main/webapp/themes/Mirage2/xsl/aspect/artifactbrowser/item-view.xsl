@@ -117,11 +117,11 @@
 	    <xsl:call-template name="itemSummaryView-DIM-URI"/>
             <xsl:call-template name="itemSummaryView-DIM-doi"/>
 	    <span class="spacer">&#160;</span>
-	    <xsl:call-template name="itemSummaryView-DIM-thumbnail"/>
-            <xsl:call-template name="itemSummaryView-DIM-file-section"/>
+	    <table class="item-view"><tr><td><xsl:call-template name="itemSummaryView-DIM-thumbnail"/></td>
+            <td><xsl:call-template name="itemSummaryView-DIM-file-section"/>
             <xsl:if test="$ds_item_view_toggle_url != ''">
                <xsl:call-template name="itemSummaryView-show-full"/>
-            </xsl:if>
+            </xsl:if></td></tr></table>
             <xsl:call-template name="itemSummaryView-DIM-abstract"/>
             <xsl:call-template name="itemSummaryView-collections"/>
           
