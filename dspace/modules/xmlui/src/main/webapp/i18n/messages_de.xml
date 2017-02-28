@@ -2517,27 +2517,74 @@
   <message key="xmlui.home.text">
         <h2>Publikationsserver des FID GEO</h2>
 <div id="first_row">
+	<figure class="frontpage_images">
 	<a href="handle/11858/Geology">
 	<image class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geologie"/>
         </a>
+	<figcaption>Geologie</figcaption>
+	</figure>
+	<figure class="frontpage_images">
         <a href="handle/11858/Paleontology">
 	<image class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paläontologie" />
 	</a>
+	<figcaption>Paläontologie</figcaption>
+	</figure>
+	<figure class="frontpage_images">
         <a href="handle/11858/Geochemistry_Minearology_Petrology">
 	<image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
 	</a>
+	<figcaption>Geochemie, Mineralogie, Petrologie</figcaption>
+	</figure>
 </div>
 <div id="second_row">
-        <a href="handle/11858/Geophysics_extraterristicResearch">
+        <figure class="frontpage_images">
+	<a href="handle/11858/Geophysics_extraterristicResearch">
 	<image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Fernerkundung" />
 	</a>
+	<figcaption>Geophysik, Fernerkundung</figcaption>
+	</figure>
+	<figure class="frontpage_images">
         <a href="handle/11858/Energy_Resources_Environment">
 	<image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energie, Ressourcen, Umwelt" />
 	</a>
+	<figcaption>Energie, Ressourcen, Umwelt</figcaption>
+	</figure>
+	<figure class="frontpage_images">
         <a href="handle/11858/Geography">
 	<image class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geographie"/>
 	</a>
+	<figcaption>Geographie</figcaption>
+	</figure>
 </div>
+
+<!--<table class="frontpage_images">
+	<tr>
+		<td> <a href="handle/11858/Geology">
+        	<image class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geologie"/></a></td>
+		<td><a href="handle/11858/Paleontology">
+	        <image class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paläontologie" /></a></td>
+		<td><a href="handle/11858/Geochemistry_Minearology_Petrology">
+        	<image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" /></a></td>
+	</tr>
+	<tr>
+		<th>Geologie</th>
+		<th>Paläontologie</th>
+		<th>Geochemie, Mineralogie, Petrologie</th>
+	</tr>
+	<tr>
+		<td><a href="handle/11858/Geophysics_extraterristicResearch">
+        	<image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Fernerkundung" /></a></td>
+		<td><a href="handle/11858/Energy_Resources_Environment">
+        	<image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energie, Ressourcen, Umwelt" /></a></td>
+		<td> <a href="handle/11858/Geography">
+        	<image class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geographie"/></a></td>
+	</tr>
+	<tr>
+		<th>Geophysik, Fernerkundung</th>
+		<th>Energie, Ressourcen, Umwelt</th>
+		<th>Geographie</th>
+	</tr>
+</table>-->
 
 <!--	<div class="row">	
 	<p><strong><span class="text-success">FID GEO</span> stellt die Forschungsergebnisse der Universität Göttingen frei zur Verfügung</strong> <br />Der Publikationenserver macht damit die Arbeiten der Göttinger Wissenschaftlerinnen und Wissenschaftler weltweit sichtbar und erleichtert den Austausch mit der wissenschaftlichen Fachcommunity.</p>
@@ -2859,10 +2906,8 @@ Der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinräumung (Ziffer 1)
   <message key="updatedVersion">Überarbeitete Version</message>
 
   <message key="doctoralThesis">Doktorarbeit</message>
-  <message key="lecture">Studienarbet</message>
   <message key="article">Artikel</message>
   <message key="conferenceObject">Konferenzbeitrag</message>
-  <message key="book">Buch</message>
   <message key="bookPart">Buchbeitrag</message>
   <message key="other"></message>
   <message key="report">Report</message>

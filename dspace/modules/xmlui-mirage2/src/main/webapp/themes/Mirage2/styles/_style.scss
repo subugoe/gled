@@ -145,7 +145,7 @@ h3 {
 }
 
 img.frontpage {
-    margin: 0 10px 10px 0;
+    margin: 5px 10px 0 0;
     -webkit-filter: grayscale(80%);
     filter: grayscale(80%);
     opacity: .8;
@@ -157,6 +157,28 @@ img.frontpage:hover {
     -webkit-filter: grayscale(0);
     filter: grayscale(0);
     opacity: 1;
+}
+
+figure.frontpage_images {
+    display: inline-block;
+    margin-bottom: 5px;
+    position: relative;
+    width: 220px;
+}
+
+figure.frontpage_images figcaption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 5px 5px 5px 5px;
+    -webkit-box-sizing: border-box; 
+     -moz-box-sizing: border-box; 
+          box-sizing: border-box;
+    background: rgba(210, 221, 230, .9);
+    text-align: center;
+    font-weight: bolder;
+    min-height: 46px;
 }
 
 #first_row img, #second_row img {
@@ -208,3 +230,4 @@ div .simple-item-view-authors {
 div .series {
   font-size: 125%;
 }
+
