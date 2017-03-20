@@ -110,6 +110,7 @@
 	    <xsl:call-template name="itemSummaryView-DIM-date"/>
 	    <xsl:call-template name="itemSummaryView-DIM-publisher"/>
 	    <xsl:call-template name="itemSummaryView-DIM-type"/>
+	    <xsl:call-template name="itemSummaryView-DIM-coverage"/>
 	    <xsl:call-template name="itemSummaryView-DIM-typeVersion"/>
 	    <xsl:call-template name="itemSummaryView-DIM-language"/>
 	    <xsl:call-template name="itemSummaryView-DIM-relationIsPartOf"/>
@@ -298,6 +299,15 @@
 </div>
 </xsl:template>
 
+<xsl:template name="itemSummaryView-DIM-coverage">
+<div>        <xsl:if test="dim:field[@element='coverage' and @qualifier='spatial']">
+                <!--<h5><i18n:text>xmlui.dri2xhtml.METS-1.0.item-author</i18n:text></h5>-->
+                <xsl:for-each select="dim:field[@element='coverage' and @qualifier='spatial']">
+                        <xsl:text>Koordinaten: </xsl:text><xsl:copy-of select="."/>
+                </xsl:for-each>
+        </xsl:if>
+</div>
+</xsl:template>
 
 
 <xsl:template name="itemSummaryView-DIM-typeVersion">
