@@ -2511,27 +2511,46 @@
     <message key="xmlui.home.text">
         <h2>Publicationserver of the FID GEO</h2>
 <div id="first_row">
+        <figure class="frontpage_images">
         <a href="handle/11858/Geology">
         <image class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geology"/>
         </a>
+        <figcaption class="einzeilig">Geology</figcaption>
+        </figure>
+        <figure class="frontpage_images">
         <a href="handle/11858/Paleontology">
         <image class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paleontology" />
         </a>
+        <figcaption class="einzeilig">Paleontology</figcaption>
+        </figure>
+        <figure class="frontpage_images">
         <a href="handle/11858/Geochemistry_Minearology_Petrology">
         <image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemistry, Mineralogy, Petrology" />
         </a>
+        <figcaption>Geochemistry, Mineralogy, Petrology</figcaption>
+        </figure>
 </div>
 <div id="second_row">
+        <figure class="frontpage_images">
         <a href="handle/11858/Geophysics_extraterristicResearch">
-        <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysics" />
+        <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysics, Extraterristic Research" />
         </a>
+        <figcaption>Geophysics, Extraterristric Research</figcaption>
+        </figure>
+        <figure class="frontpage_images">
         <a href="handle/11858/Energy_Resources_Environment">
         <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energy, Ressources, Environment" />
         </a>
+        <figcaption>Energy, Ressources, Environment</figcaption>
+        </figure>
+        <figure class="frontpage_images">
         <a href="handle/11858/Geography">
         <image class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geography"/>
         </a>
+        <figcaption class="einzeilig">Geography</figcaption>
+        </figure>
 </div>
+
   </message>
 
   <message key="xmlui.series.text">

@@ -2023,7 +2023,7 @@
 	<message key="xmlui.dri2xhtml.METS-1.0.item-title">Titel</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-author">Autor(en)</message>
         <message key="xmlui.dri2xhtml.METS-1.0.item-editor">Herausgeber</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-abstract">Zusammenfassung</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-abstract">Zusammenfassung:</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-description">Beschreibung</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-uri">Zum Verlinken/Bookmarken: </message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-date">Erstveröffentlichung: </message>
@@ -2037,7 +2037,7 @@
 	<message key="xmlui.dri2xhtml.METS-1.0.item-files-format">Format</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-files-view">Anzeige</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-files-description">Beschreibung</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-files-viewOpen">Öffnen</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-files-viewOpen">Dokument öffnen:</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-no-files">Zu diesem Dokument gibt es keine Dateien.</message>
 
 	<message key="xmlui.dri2xhtml.METS-1.0.size-bytes">Bytes</message>
@@ -2516,18 +2516,19 @@
   <message key="xmlui.dri2xhtml.structural.impressum-link">Impressum</message>
   <message key="xmlui.home.text">
         <h2>Publikationsserver des FID GEO</h2>
+
 <div id="first_row">
 	<figure class="frontpage_images">
 	<a href="handle/11858/Geology">
 	<image class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geologie"/>
         </a>
-	<figcaption>Geologie</figcaption>
+	<figcaption class="einzeilig">Geologie</figcaption>
 	</figure>
 	<figure class="frontpage_images">
         <a href="handle/11858/Paleontology">
 	<image class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paläontologie" />
 	</a>
-	<figcaption>Paläontologie</figcaption>
+	<figcaption class="einzeilig">Paläontologie</figcaption>
 	</figure>
 	<figure class="frontpage_images">
         <a href="handle/11858/Geochemistry_Minearology_Petrology">
@@ -2539,21 +2540,21 @@
 <div id="second_row">
         <figure class="frontpage_images">
 	<a href="handle/11858/Geophysics_extraterristicResearch">
-	<image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Fernerkundung" />
+	<image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Extraterristische Forschung" />
 	</a>
-	<figcaption>Geophysik, Fernerkundung</figcaption>
+	<figcaption>Geophysik, Extraterristische Forschung</figcaption>
 	</figure>
 	<figure class="frontpage_images">
         <a href="handle/11858/Energy_Resources_Environment">
 	<image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energie, Ressourcen, Umwelt" />
 	</a>
-	<figcaption>Energie, Ressourcen, Umwelt</figcaption>
+	<figcaption class="einzeilig">Energie, Ressourcen, Umwelt</figcaption>
 	</figure>
 	<figure class="frontpage_images">
         <a href="handle/11858/Geography">
 	<image class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geographie"/>
 	</a>
-	<figcaption>Geographie</figcaption>
+	<figcaption class="einzeilig">Geographie</figcaption>
 	</figure>
 </div>
 
@@ -2654,7 +2655,7 @@ DRIVER betreibt eine Infrastruktur für Repositorien, die alle europäischen Lä
   <message key="xmlui.administrative.batchimport.general.collection_help"></message>
   <message key="xmlui.administrative.batchimport.BatchmportMain.submit_upload">Hochladen</message>
   <message key="xmlui.administrative.batchimport.flow.import_failed">Import fehlgeschlagen</message>
-  <message key="xmlui.mirage2.itemSummaryView.MetaData">Metadaten</message> 
+  <message key="xmlui.mirage2.itemSummaryView.MetaData">Metadaten: </message> 
   <message key="xmlui.ChoiceLookupTransformer.lookup">In ORCID nachschlagen</message>
   <message key="xmlui.dri2xhtml.default.textarea.value">Ihre Eingabe</message>
   <message key="xmlui.error.contact_msg">Die gesuchte Seite ist nicht gefunden. Bitte prüfen Sie die URL!<br />
@@ -2662,7 +2663,7 @@ Falls Sie der Meinung sind, dass es diese Seite geben sollte, bitte kontaktieren
   <message key="xmlui.mirage2.discovery.showAdvancedFilters">Erweiterte Filter anzeigen</message>
   <message key="xmlui.mirage2.discovery.hideAdvancedFilters">Erweiterte Filter ausblenden</message>
   <message key="xmlui.mirage2.discovery.reset">Filter zurücksetzen</message>
-  <message key="xmlui.mirage2.itemSummaryView.Collections">Sammlung</message>
+  <message key="xmlui.mirage2.itemSummaryView.Collections">Sammlung:</message>
   <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_relationCollection">Sammlung alt</message>
   <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_publicationType">Publikationstyp</message>
   <message key="xmlui.mirage2.forms.CompositeFieldSet.add">Hinzufügen</message>

@@ -2516,18 +2516,19 @@
   <message key="xmlui.dri2xhtml.structural.impressum-link">Impressum</message>
   <message key="xmlui.home.text">
         <h2>Publikationsserver des FID GEO</h2>
+
 <div id="first_row">
 	<figure class="frontpage_images">
 	<a href="handle/11858/Geology">
 	<image class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geologie"/>
         </a>
-	<figcaption>Geologie</figcaption>
+	<figcaption class="einzeilig">Geologie</figcaption>
 	</figure>
 	<figure class="frontpage_images">
         <a href="handle/11858/Paleontology">
 	<image class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paläontologie" />
 	</a>
-	<figcaption>Paläontologie</figcaption>
+	<figcaption class="einzeilig">Paläontologie</figcaption>
 	</figure>
 	<figure class="frontpage_images">
         <a href="handle/11858/Geochemistry_Minearology_Petrology">
@@ -2539,21 +2540,21 @@
 <div id="second_row">
         <figure class="frontpage_images">
 	<a href="handle/11858/Geophysics_extraterristicResearch">
-	<image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Fernerkundung" />
+	<image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Extraterristische Forschung" />
 	</a>
-	<figcaption>Geophysik, Fernerkundung</figcaption>
+	<figcaption>Geophysik, Extraterristische Forschung</figcaption>
 	</figure>
 	<figure class="frontpage_images">
         <a href="handle/11858/Energy_Resources_Environment">
 	<image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energie, Ressourcen, Umwelt" />
 	</a>
-	<figcaption>Energie, Ressourcen, Umwelt</figcaption>
+	<figcaption class="einzeilig">Energie, Ressourcen, Umwelt</figcaption>
 	</figure>
 	<figure class="frontpage_images">
         <a href="handle/11858/Geography">
 	<image class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geographie"/>
 	</a>
-	<figcaption>Geographie</figcaption>
+	<figcaption class="einzeilig">Geographie</figcaption>
 	</figure>
 </div>
 

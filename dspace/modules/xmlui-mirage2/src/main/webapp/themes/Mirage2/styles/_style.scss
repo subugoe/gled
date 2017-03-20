@@ -145,7 +145,6 @@ h3 {
 }
 
 img.frontpage {
-    margin: 5px 10px 0 0;
     -webkit-filter: grayscale(80%);
     filter: grayscale(80%);
     opacity: .8;
@@ -179,6 +178,10 @@ figure.frontpage_images figcaption {
     text-align: center;
     font-weight: bolder;
     min-height: 46px;
+}
+
+figure.frontpage_images figcaption.einzeilig {
+    padding-top: 13px;
 }
 
 #first_row img, #second_row img {
