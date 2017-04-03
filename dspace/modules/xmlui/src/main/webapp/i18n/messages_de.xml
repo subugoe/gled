@@ -2901,6 +2901,7 @@ Der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinräumung (Ziffer 1)
   <message key="monograph">Monografie</message>
   <message key="bookpart">Bookpart</message>
   <message key="book">Buch</message>
+  <message key="map">Karte</message>
 
   <message key="publishedVersion">Verlagsversion</message>
   <message key="draft">Entwurf</message>
