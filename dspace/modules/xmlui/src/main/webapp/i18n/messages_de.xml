@@ -249,7 +249,7 @@
 	<message key="xmlui.ArtifactBrowser.ItemViewer.withdrawn">Diese Dokument wurde zurückgezogen und steht nicht mehr zur Verfügung.</message>
 	
 	<!-- org.dspace.app.xmlui.artifactbrowser.Navigation.java -->
-	<message key="xmlui.ArtifactBrowser.Navigation.head_browse">Stöbern</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.head_browse"></message>
 	<message key="xmlui.ArtifactBrowser.Navigation.head_all_of_dspace">Gesamter Bestand</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.communities_and_collections">Bereiche &amp; Sammlungen</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.browse_title">Titel</message>
@@ -2355,7 +2355,7 @@
 
   <message key="xmlui.discovery.SearchFacetFilter.no-results">Keine Filterwerte gefunden</message>
 
-  <message key="xmlui.discovery.AbstractFiltersTransformer.filters.head">Entdecke</message>
+  <message key="xmlui.discovery.AbstractFiltersTransformer.filters.head"></message>
   <message key="xmlui.discovery.AbstractFiltersTransformer.filters.view-more">... mehr</message>
 
   <message key="xmlui.Discovery.SimpleSearch.search_scope">Suche</message>
@@ -2794,26 +2794,27 @@ Umsatzsteuergesetz:  </message>
 
 	<!-- about us -->
 	<message key="xmlui.aboutus.head">Über uns</message>
-        <message key="xmlui.aboutus.section1">GEO-LEO e-docs ist der Open-Access-Server der Virtuellen Fachbibliothek zum System Erde und Weltall – GEO-LEO. Als zentrale Publikationsplattform wurde GEO-LEO e-docs im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) geförderten Projekts „Virtuelle Fachbibliothek für Geowissenschaften, Bergbau, Geographie und Thematische Karten: GEO-LEO – Geo Library Experts Online“ eingerichtet. GEO-LEO war ein Gemeinschaftsprojekt der Universitätsbibliothek „Georgius Agricola“ der Technischen Universität Bergakademie Freiberg (UB Freiberg) und der Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB Göttingen). </message>
-        <message key="xmlui.aboutus.section2">Mit Projektende ging GEO-LEO e-docs in den Routinebetrieb der SUB Göttingen über, wo die Publikationsplattform in 2010 im Zuge einer kompletten Erneuerung modernisiert wurde. 
-Zur Aktualisierung der Software wurde das zugrundeliegende DSpace-System komplett neu aufgesetzt. Gleichzeitig waren mit diesem Schritt auch grundlegende konzeptionelle Veränderungen verbunden: </message>
-        <message key="xmlui.aboutus.modifications1">Neu strukturiert orientieren sich verschiedene Fachbereiche an den überregionalen Sammelschwerpunkten beider Bibliotheken. </message>
-        <message key="xmlui.aboutus.modifications2">Hinter den einzelnen Bereichen verbergen sich nach Dokumentarten gegliederte Sammlungen</message>
-        <message key="xmlui.aboutus.modifications3">Diese Sammlungen sind Archive frei zugänglicher digitaler Volltexte im Kontext des jeweiligen Sondersammelgebiets im Programm der DFG für die überregionale Literatur- und Informationsversorgung.</message>
-        <message key="xmlui.aboutus.section3">Dazu werden sowohl seitens beider Bibliotheken frei zugängliche digitale Dokumente eingesammelt und eingestellt, aber auch Wissenschaftler selbst können ihre Arbeiten über GEO-LEO e-docs uneingeschränkt zugänglich machen. Fachgesellschaften und wissenschaftliche Einrichtungen sind eingeladen, eigene Sammlungen einzurichten, auf denen sie selbstständig ihre Serien, Zeitschriften und andere Informationsressourcen veröffentlichen. Das GEO-LEO-Team bietet dafür unterschiedliche Formen der Unterstützung und Zusammenarbeit an. </message>
-        <message key="xmlui.aboutus.section4">Eine erste Kooperation besteht in diesem Sinne mit der Geozon Science Media UG. Als Ausgründungsprojekt des Institutes für Geographie und Geologie der Universität Greifswald und Open Access-Verlag für Geo- und Umweltwissenschaften stellt Geozon seine gesamten aggregierten und veredelten Publikationen in GEO-LEO e-docs ein.</message>
-        <message key="xmlui.aboutus.label.partner">Partner:</message>
-	<message key="xmlui.aboutus.label.edocsTeam">GEO-LEO e-docs-Team:</message>
+        <message key="xmlui.aboutus.section1">Im Fachrepositorium GEO-LEOe-docs des FID GEO werden Dokumente über die Geowissenschaften der festen Erde gesammelt, erschlossen und dauerhaft bewahrt. Das Angebot umfasst das gesamte Spektrum wissenschaftlicher Publikationen von Monographien über Pre- und Postprints begutachteter Forschungsarbeiten bis hin zu institutionellen Serien und Zeitschriften sowie grauer Literatur.</message>
+        <message key="xmlui.aboutus.section2">Fachgesellschaften, geowissenschaftliche Einrichtungen und einzelne Wissenschaftler können ihre Dokumente in GEO-LEO e-docs veröffentlichen oder bereits veröffentlichte Dokumente online stellen. Fachgesellschaften und wissenschaftliche Einrichtungen sind eingeladen, eigene Sammlungen einzurichten, auf denen sie selbstständig ihre Serien, Zeitschriften und andere Informationsressourcen veröffentlichen. Das Team des FID GEO bietet dafür unterschiedliche Formen der Unterstützung und Zusammenarbeit an.</message>
+	<message key="xmlui.aboutus.section3">Als zentrale Publikationsplattform und Open-Access-Server wurde das Repositorium im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) 2004-2007 geförderten Projekts zum Aufbau der Virtuellen Fachbibliothek „GEO-LEO“ entwickelt. Die verschiedenen Sammlungen des Repositoriums orientierten sich an den überregionalen Sammelschwerpunkten der Projektpartner Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB Göttingen) und der Universitätsbibliothek der TU Bergakademie Freiberg. Sie wurden als Archive frei zugänglicher digitaler Volltexte im Kontext des jeweiligen Sondersammelgebiets im Programm der DFG für die überregionale Literatur- und Informationsversorgung konzipiert. Mit Projektende ging GEO-LEO e-docs in den Routinebetrieb der SUB Göttingen über, wo die Publikationsplattform erstmals in 2012 im Zuge einer kompletten Erneuerung modernisiert wurde. </message>
+	<message key="xmlui.aboutus.section4">Mittlerweile ist das Repositorium Teil der Informationsinfrastruktur des Fachinformationsdienstes für die Geowissenschaften der festen Erde (FID GEO), der als DFG-gefördertes Gemeinschaftsprojekt der SUB Göttingen und der Abteilung Bibliothek und Informationsdienste des Deutschen GeoForschungszentrum GFZ in Potsdam seit 2016 aufgebaut wird. Mit der Erweiterung von GEO-LEOe-docs zum Fachrepositorium des FID GEO wurde das zugrundeliegende DSpace-System neu aufgesetzt. Gleichzeitig waren mit diesem Schritt auch einige konzeptionelle Veränderungen verbunden: </message>
+	<message key="xmlui.aboutus.listitem1">Die Vergabe von DOI für alle Dokumente sorgt für eine dauerhafte Verfügbarkeit und verlässliche Zitierbarkeit.</message>
+	<message key="xmlui.aboutus.listitem2">Eine neue Sammlungsstruktur orientiert sich stärker an verschiedenen Fachdisziplinen der Geowissenschaften der festen Erde und ermöglicht die Akzentuierung einzelner Serien.</message>
+	<message key="xmlui.aboutus.listitem3">Zusätzliche Funktionalitäten wie eine Zitationsanalyse, Nutzung eines Print-on-demand-Dienstes sowie eine Schnittstelle für Peer-Review sind konfigurierbar.</message>
+	<message key="xmlui.aboutus.listitem4">Die Sammlungen sind Archive frei zugänglicher digitaler Volltexte im Kontext des Programms der DFG Fachinformationsdienste für die Wissenschaft. </message>
+	<message key="xmlui.aboutus.section5">Eine erste Kooperation besteht bereits seit mehreren Jahren mit der Geozon Science Media UG. Als Ausgründungsprojekt des Institutes für Geographie und Geologie der Universität Greifswald und Open Access-Verlag für Geo- und Umweltwissenschaften stellt Geozon seine gesamten aggregierten und veredelten Publikationen in GEO-LEO e-docs ein. Weitere Kooperationen werden folgen, wie z.B. aktuell mit der GeoUnion und der Deutschen Geophysikalischen Gesellschaft. </message>
 	<message key="xmlui.aboutus.label.generalHelp">Allgemeine Konzeption und fachliche Betreuung:</message>
 	<message key="xmlui.aboutus.name.geography">Mechthild Schüler (Geographie und Thematische Karten)</message>
-	<message key="xmlui.aboutus.tel.geography">Tel.: +49 (0)551 / 39-4255</message>
+	<message key="xmlui.aboutus.tel.geography">Tel.: +49 (0)551 / 39-5278</message>
 	<message key="xmlui.aboutus.mail.geography">E-Mail: schueler@sub.uni-goettingen.de</message>
         <message key="xmlui.aboutus.name.montan">Cornelia Rau (Geo- und Montanwissenschaften)</message>	
         <message key="xmlui.aboutus.tel.montan">Tel.: +49 (0)3731 / 39-3383</message>
         <message key="xmlui.aboutus.mail.montan">E-Mail: Cornela.Rau@ub.tu-freiberg.de</message>
 	<message key="xmlui.aboutus.tuFreiberg">UB TU Bergakademie Freiberg</message>
 	<message key="xmlui.aboutus.label.development">Technische Realisation und Betreuung</message> 
-	<message key="xmlui.aboutus.tschaefer">Tobias Schäfer</message>
+	<message key="xmlui.aboutus.mmuehlh">Marianna Mühlhölzer</message>
+	<message key="xmlui.aboutus.tel.muehlh">Tel.: +49 (0)551 / 39-4255</message>
+	<message key="xmlui.mail.muehlh">E-Mail: muehlhoelzer@sub.uni-goettingen.de</message>
 	<message key="xmlui.aboutus.name.past">Dr. Andres Quast</message>
 	<message key="xmlui.aboutus.function.past">(ehemals SUB Göttingen)</message>
 	<message key="xmlui.aboutus.function.now">Hochschulbibliothekszentrum des Landes Nordrhein-Westfalen (HBZ)</message>
