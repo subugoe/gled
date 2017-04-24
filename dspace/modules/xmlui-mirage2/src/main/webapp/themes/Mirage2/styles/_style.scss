@@ -75,7 +75,7 @@ p, ul, blockquote, pre, td, th {
    margin-bottom: 1.5em;
 }
 
-ul#about_list {
+ul#aboutus_list {
    list-style-type: circle;
    padding: 0.3em 0 0 1em;
 }
@@ -132,8 +132,12 @@ h3 {
     font-size: 1.5em;
 }
 
-#file_impressum, #file_about-us, #file_deposit-license {
+#file_impressum, #file_aboutus, #file_deposit-license {
     font-size: 112%;
+}
+
+#file_aboutus div.ds-static-div {
+    padding: 0 0 0.5em 0;
 }
 
 #main-container .row-offcanvas {
@@ -160,7 +164,8 @@ img.frontpage:hover {
 
 figure.frontpage_images {
     display: inline-block;
-    margin-bottom: 5px;
+    margin: 5px;
+    margin-bottom: 10px;
     position: relative;
     width: 220px;
 }
@@ -239,3 +244,19 @@ table.item-view td {
   vertical-align: top;
 }
   
+#faux {
+  background: url(snow.png) repeat-y 0 0;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  bottom: 0;
+  left: 50%;
+  margin-left: -480px;
+  position: absolute;
+  top: 0;
+  width: 230px;
+}
+
+#file_impressum ul {
+  list-style-type: disc;
+  list-style-position: inside;
+}
