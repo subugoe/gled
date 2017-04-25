@@ -266,3 +266,71 @@ table.item-view td {
   list-style-position: inside;
 }
 
+footer a {
+  margin: 10px;
+}
+
+.list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
+  border: none;
+}
+
+.list-group-item.active .list-group-item-heading, .list-group-item.active .list-group-item-heading > small, .list-group-item.active .list-group-item-heading > .small, .list-group-item.active:hover .list-group-item-heading, .list-group-item.active:hover .list-group-item-heading > small, .list-group-item.active:hover .list-group-item-heading > .small, .list-group-item.active:focus .list-group-item-heading, .list-group-item.active:focus .list-group-item-heading > small, .list-group-item.active:focus .list-group-item-heading > .small {
+  color: #6C564C;
+}
+
+.list-group-item.active, .list-group-item.active:hover, .list-group-item.active:focus {
+  background: url(/themes/Mirage2/images/bg1.png) repeat;
+  border: none;
+  color: #6C564C;
+  font-weight: bold;
+}
+
+.list-group-item.active .list-group-item-heading {
+  color: #6C564C;
+  font-weight: bold;
+}
+
+.list-group-item {
+  border: none;
+  background:  url(/themes/Mirage2/images/bg1.png) repeat; 
+  padding: 5px 15px;
+}
+
+.list-group {
+  margin-bottom: 0;
+}
+
+a.list-group-item.ds-option:hover {
+  text-decoration: none;
+}
+
+a.list-group-item.rss-feed {
+  font-size: 13px;
+  color: #039;
+}
+
+a.list-group-item.rss-feed:hovre {
+  text-decoration: none;
+}
+
+a.list-group-item.ds-option::before {
+  content: "\00BB";
+  padding: 5px;
+}
+
+a.list-group-item.ds-option {
+  font-size: 13px;
+  color: #039;
+}
+
+.btn-primary {
+  background: white;
+  color: #555;
+  border: 1px solid #ccc;
+}
+
+.btn-primary:hover, .btn-primary:active {
+  background: white;
+  color: #039;
+  border: 1px solid #ccc;
+}

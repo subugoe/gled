@@ -126,6 +126,7 @@
                                         </div>
 
                                     </div>
+				
                                 </div>
 
                                 <!--
@@ -271,7 +272,7 @@
                 return true;
                 }
             </script>
-
+	    
             <xsl:text disable-output-escaping="yes">&lt;!--[if lt IE 9]&gt;
                 &lt;script src="</xsl:text><xsl:value-of select="concat($theme-path, 'vendor/html5shiv/dist/html5shiv.js')"/><xsl:text disable-output-escaping="yes">"&gt;&#160;&lt;/script&gt;
                 &lt;script src="</xsl:text><xsl:value-of select="concat($theme-path, 'vendor/respond/dest/respond.min.js')"/><xsl:text disable-output-escaping="yes">"&gt;&#160;&lt;/script&gt;
@@ -543,7 +544,6 @@
     <!--The Trail-->
     <xsl:template match="dri:trail">
         <!--put an arrow between the parts of the trail-->
-	LOCALE: <xsl:value-of select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='page'][@qualifier='currentLocale']"/>
         <li>
             <xsl:if test="position()=1">
                 <i class="glyphicon glyphicon-home" aria-hidden="true"/>&#160;
@@ -711,11 +711,8 @@
                     <div class="col-xs-7 col-sm-8">
                         <div class="hidden-print">
                              <a href="/impressum"> <i18n:text>xmlui.dri2xhtml.structural.impressum-link</i18n:text></a> 
-			     <xsl:text> | </xsl:text>
 			     <a href="/aboutus"> <i18n:text>xmlui.dri2xhtml.structural.aboutus-link</i18n:text></a>
-			     <xsl:text> | </xsl:text>
 			     <a href ="/rights"> <i18n:text>xmlui.dri2xhtml.structural.rights-link</i18n:text></a>
-			     <xsl:text> | </xsl:text>
  			     <a>
                                 <xsl:attribute name="href">
                                     <xsl:value-of
@@ -724,7 +721,6 @@
                                 </xsl:attribute>
                                 <i18n:text>xmlui.dri2xhtml.structural.contact-link</i18n:text>
                             </a>
-                            <xsl:text> | </xsl:text>
                             <a>
                                 <xsl:attribute name="href">
                                     <xsl:value-of
@@ -735,6 +731,13 @@
                             </a>
                         </div>
                     </div>
+		    <div class="col-xs-5 col-sm-4 footer-right hidden-print">
+			<div class="pull-right">
+				<a href="www.dfg.de" title="DFG">DFG</a>
+				<a href="www.sub.uni-goettingen.de" title="SUB Göttingen">SUB</a>
+				<a href="fidgeo.de" title="FID GEO">FID GEO</a>
+			</div>
+		    </div>
                     <!--<div class="col-xs-5 col-sm-4 hidden-print">
                         <div class="pull-right">
                             <span class="theme-by">Theme by&#160;</span>

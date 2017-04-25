@@ -185,9 +185,9 @@
             <!-- DS-984 Add RSS Links to Options Box -->
             <xsl:if test="count(/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='feed']) != 0">
                 <div>
-                    <h2 class="ds-option-set-head h6">
+                    <h5 class="list-group-item active">
                         <i18n:text>xmlui.feed.header</i18n:text>
-                    </h2>
+                    </h5>
                     <div id="ds-feed-option" class="ds-option-set list-group">
                         <xsl:call-template name="addRSSLinks"/>
                     </div>
@@ -200,7 +200,7 @@
     <!-- Add each RSS feed from meta to a list -->
     <xsl:template name="addRSSLinks">
         <xsl:for-each select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='feed']">
-            <a class="list-group-item">
+            <a class="list-group-item rss-feed">
                 <xsl:attribute name="href">
                     <xsl:value-of select="."/>
                 </xsl:attribute>
@@ -320,7 +320,7 @@
         </a>
     </xsl:template>
 
-    <xsl:template match="dri:options/dri:list/dri:head" priority="3">
+   <xsl:template match="dri:options/dri:list/dri:head" priority="3">
         <xsl:call-template name="renderHead">
             <xsl:with-param name="class">ds-option-set-head</xsl:with-param>
         </xsl:call-template>
