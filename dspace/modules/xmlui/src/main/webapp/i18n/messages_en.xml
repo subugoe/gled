@@ -271,7 +271,7 @@
         <message key="xmlui.ArtifactBrowser.ItemViewer.withdrawn">This item has been withdrawn and is no longer available.</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.Navigation.java -->
-	<message key="xmlui.ArtifactBrowser.Navigation.head_browse">Browse</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.head_browse"></message>
 	<message key="xmlui.ArtifactBrowser.Navigation.head_all_of_dspace">All of FID GEO</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.communities_and_collections">Communities &amp; Collections</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.browse_title">Titles</message>
@@ -2212,11 +2212,11 @@
 	<message key="xmlui.dri2xhtml.METS-1.0.item-author">Author</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-abstract">Abstract</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-description">Description</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-uri">For Linking/Bookmarking</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-uri">For Linking/Bookmarking: </message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-date">Date</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-publisher">Publisher</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-subject">Subject</message>
-
+	 <message key="xmlui.dri2xhtml.METS-1.0.item-sponsorship">Sponsor: </message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-files-head">Files in this item</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-files-file">Files</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-files-name">Name</message>
@@ -2556,12 +2556,12 @@
   <message key="xmlui.series.text">
    <h2>Periodicals and Journals</h2>
         <ul>
-        <li><a href="handle/11858/10/browse?type=series">Discussion Papers / Centre for Regional Studies</a></li>
-        <li><a href="handle/11858/12/browse?type=series">E&amp;G-Quaternary Science Journal</a></li>
-        <li><a href="handle/11858/13/browse?type=series">Electronic Journal of the Freiberg Geoscience Department</a></li>
-        <li><a href="handle/11858/11/browse?type=series">Greifswalder Geographische Arbeiten</a></li>
-        <li><a href="handle/11858/14/browse?type=series">Neubrandenburger Geologische Beiträge</a></li>
-        <li><a href="handle/11858/9/browse?type=series">Scientific Technical Report / Deutsches Geoforschungszentrum Potsdam</a></li>
+        <li><a href="handle/11858/4062/browse?type=series">Discussion Papers / Centre for Regional Studies</a></li>
+        <li><a href="handle/11858/00-1735-0000-0001-4444-F/browse?type=series">E&amp;G-Quaternary Science Journal</a></li>
+        <li><a href="handle/11858/00-1735-0000-0001-4424-8/browse?type=series">Electronic Journal of the Freiberg Geoscience Department</a></li>
+        <li><a href="handle/11858/00-1735-0000-0022-A79A-4/browse?type=series">Greifswalder Geographische Arbeiten</a></li>
+        <li><a href="handle/11858/00-1735-0000-0006-0D8F-5/browse?type=series">Neubrandenburger Geologische Beiträge</a></li>
+        <li><a href="handle/11858/4061/browse?type=series">Scientific Technical Report / Deutsches Geoforschungszentrum Potsdam</a></li>
         </ul>
   </message>
 
@@ -2581,7 +2581,7 @@
   <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_publicationKind">Publication Kind</message>
   <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.publicationKind">Publication Kind</message>
   <message key="xmlui.Discovery.AbstractSearch.type_publicationKind">Publication Kind</message>
-  <message key="xmlui.discovery.AbstractFiltersTransformer.filters.head">Discover</message>
+  <message key="xmlui.discovery.AbstractFiltersTransformer.filters.head"></message>
   <message key="xmlui.discovery.AbstractFiltersTransformer.filters.view-more">... more</message>
     <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.title.metadata.series">Periodicals and Journals</message>
   <message key="xmlui.ArtifactBrowser.Navigation.browse_series">Periodicals</message>
@@ -2673,7 +2673,7 @@
   <message key="xmlui.Submission.submit.PrefillStep.identifier.error"><div class="alert alert-warning">The ID used is not found or not valid. Please check it or continue manually with the next-Button.</div></message>
   <message key="xmlui.Submission.submit.PrefillStep.help">If an identifier is present, the bibliographic data to the document will be automatically entered in the next step.</message>
   <message key="xmlui.Submission.submit.PrefillStep.refresh_help">Please activate the checkbox if you want to override the already imported bibliographic data!</message>
-  <message key="xmlui.dri2xhtml.METS-1.0.item-doi">DOI</message>
+  <message key="xmlui.dri2xhtml.METS-1.0.item-doi">DOI: </message>
   <message key="bibliography">Bibliography</message>
   <message key="conference">Conference object</message>
   <message key="thesis">Thesis</message>
