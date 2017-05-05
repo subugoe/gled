@@ -268,7 +268,7 @@
                     </xsl:when>
                     <xsl:when test="dim:field[@element='contributor']">
                         <xsl:for-each select="dim:field[@element='contributor']">
-                            <div><xsl:call-template name="itemSummaryView-DIM-authors-entry" /><xsl:text> (Hrsg.)</xsl:text></div>
+                            <div><xsl:call-template name="itemSummaryView-DIM-authors-entry" /><i18n:text>xmlui.dri2xhtml.METS-1.0-editor</i18n:text></div>
                         </xsl:for-each>
                     </xsl:when>
                     <xsl:otherwise>
