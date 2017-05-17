@@ -120,10 +120,6 @@
 	    <span class="spacer">&#160;</span>
 	    <table class="item-view"><tr><td><xsl:call-template name="itemSummaryView-DIM-thumbnail"/></td>
             <td><xsl:call-template name="itemSummaryView-DIM-file-section"/>
-	        <xsl:text>Metadata-Export: </xsl:text><br/>
-                <xsl:call-template name="itemSummaryView-DIM-bibtex"/><br/>
-		<xsl:call-template name="itemSummaryView-DIM-ris"/><br/>
-                <xsl:call-template name="itemSummaryView-DIM-endnote"/>
             <xsl:if test="$ds_item_view_toggle_url != ''">
                <xsl:call-template name="itemSummaryView-show-full"/>
 	    </xsl:if></td></tr></table>
@@ -407,19 +403,6 @@
         </xsl:if>
     </xsl:template>
 
-<xsl:template name="itemSummaryView-DIM-bibtex">
-	<a><xsl:attribute name="href"><xsl:value-of select="concat('/bibtex/handle/', substring-after(//dim:field[@element='identifier'][@qualifier='uri'], 'http://hdl.handle.net/')) "/></xsl:attribute><xsl:text>BibTex</xsl:text></a>
-</xsl:template>
-
-<xsl:template name="itemSummaryView-DIM-ris">
-        <a><xsl:attribute name="href"><xsl:value-of select="concat('/ris/handle/', substring-after(//dim:field[@element='identifier'][@qualifier='uri'], 'http://hdl.handle.net/')) "/></xsl:attribute><xsl:text>RIS</xsl:text></a>
-</xsl:template>
-
-<xsl:template name="itemSummaryView-DIM-endnote">
-        <a><xsl:attribute name="href"><xsl:value-of select="concat('/endnote/handle/', substring-after(//dim:field[@element='identifier'][@qualifier='uri'], 'http://hdl.handle.net/')) "/></xsl:attribute><xsl:text>Endnote</xsl:text></a>
-</xsl:template>
-
-
     <xsl:template name="itemSummaryView-DIM-date">
         <xsl:if test="dim:field[@element='date' and @qualifier='issued' and descendant::text()]">
             <div class="simple-item-view-date word-break item-page-field-wrapper table">
@@ -517,6 +500,7 @@
         <xsl:param name="label" />
         <xsl:param name="size" />
         <div>
+
             <a>
                 <xsl:attribute name="href">
                     <xsl:value-of select="$href"/>
@@ -581,11 +565,14 @@
             </a><br/>
 
        <!--Google-Viewer Link-->
-             <a target="_blank" href="http://docs.google.com/viewer?url=http://geoleo-docker.sub.uni-goettingen.de{mets:FLocat[@LOCTYPE='URL']/@xlink:href}">Google View</a>
+             <a target="_blank" href="http://docs.google.com/viewer?url=http://geoleo-docker.sub.uni-goettingen.de{mets:FLocat[@LOCTYPE='URL']/@xlink:href}">Google View</a><br/>
 
-
-
-
+	<!--Metadaten-Export-->
+	<div class="metadataexport"><h5><i18n:text>xmlui.metadata.export</i18n:text></h5>
+		<a><xsl:attribute name="href"><xsl:value-of select="concat('/endnote/handle/11858/', substring-before(substring-after($href, '11858/'), '/')) "/></xsl:attribute><xsl:text>Endnote</xsl:text></a><br/>
+		<a><xsl:attribute name="href"><xsl:value-of select="concat('/bibtex/handle/11858/', substring-before(substring-after($href, '11858/'), '/')) "/></xsl:attribute><xsl:text>BibTex</xsl:text></a><br/>
+		<a><xsl:attribute name="href"><xsl:value-of select="concat('/ris/handle/11858/', substring-before(substring-after($href, '11858/'), '/')) "/></xsl:attribute><xsl:text>RIS</xsl:text></a>
+	</div>
 	</div>
     </xsl:template>
 

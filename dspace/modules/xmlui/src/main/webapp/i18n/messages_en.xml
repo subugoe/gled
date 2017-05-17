@@ -2213,7 +2213,7 @@
 	<message key="xmlui.dri2xhtml.METS-1.0.item-abstract">Abstract</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-description">Description</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-uri">For Linking/Bookmarking: </message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-date">Date</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-date">Date: </message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-publisher">Publisher</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-subject">Subject</message>
 	 <message key="xmlui.dri2xhtml.METS-1.0.item-sponsorship">Sponsor: </message>
@@ -2679,7 +2679,7 @@ Got to the following website to utilise you option to deactivate data collection
   <message key="abstract">Abstract</message>
   <message key="lecture">Lecture</message>
   <message key="manual">Manual</message>
-  <message key="research">Reseach papaer</message>
+  <message key="research">Reseach paper</message>
   <message key="review">Review</message>
   <message key="study">Study</message>
   <message key="preprint">Preprint?</message>
@@ -2690,4 +2690,7 @@ Got to the following website to utilise you option to deactivate data collection
   <message key="bookpart">Bookparts</message>
   <message key="book">Books</message>
   <message key="map">Map</message>
+
+  <message key="xmlui.metadata.export">Metadata Export: </message>
+
 </catalogue>

@@ -2915,4 +2915,7 @@ Der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinräumung (Ziffer 1)
   <message key="ita">Italienisch</message>
   <message key="fra">Französisch</message>
   <message key="other">andere</message>
+
+  <message key="xmlui.metadata.export">Metadaten-Export: </message>
+
 </catalogue>
