@@ -120,9 +120,13 @@
 	    <span class="spacer">&#160;</span>
 	    <table class="item-view"><tr><td><xsl:call-template name="itemSummaryView-DIM-thumbnail"/></td>
             <td><xsl:call-template name="itemSummaryView-DIM-file-section"/>
+	        <xsl:text>Metadata-Export: </xsl:text><br/>
+                <xsl:call-template name="itemSummaryView-DIM-bibtex"/><br/>
+		<xsl:call-template name="itemSummaryView-DIM-ris"/><br/>
+                <xsl:call-template name="itemSummaryView-DIM-endnote"/>
             <xsl:if test="$ds_item_view_toggle_url != ''">
                <xsl:call-template name="itemSummaryView-show-full"/>
-            </xsl:if></td></tr></table>
+	    </xsl:if></td></tr></table>
             <xsl:call-template name="itemSummaryView-DIM-abstract"/>
             <xsl:call-template name="itemSummaryView-collections"/>
           
@@ -146,7 +150,7 @@
                                         <xsl:attribute name="href"><xsl:value-of select="concat('http://www.bibsonomy.org/ShowBookmarkEntry?&amp;c=b&amp;jump=yes&amp;url=', //dim:field[@element='identifier'][@qualifier='uri'], '&amp;description=', //dim:field[@element='title' and not(@qualifier)]) "/></xsl:attribute>
                                 <img src="{concat($theme-path,'images/bibsonomy-16.png')}" title="Bibsonomy"> </img>
                                 </a></li>
-                                
+
                         </ul>
                 </div>
 
@@ -403,6 +407,18 @@
         </xsl:if>
     </xsl:template>
 
+<xsl:template name="itemSummaryView-DIM-bibtex">
+	<a><xsl:attribute name="href"><xsl:value-of select="concat('/bibtex/handle/', substring-after(//dim:field[@element='identifier'][@qualifier='uri'], 'http://hdl.handle.net/')) "/></xsl:attribute><xsl:text>BibTex</xsl:text></a>
+</xsl:template>
+
+<xsl:template name="itemSummaryView-DIM-ris">
+        <a><xsl:attribute name="href"><xsl:value-of select="concat('/ris/handle/', substring-after(//dim:field[@element='identifier'][@qualifier='uri'], 'http://hdl.handle.net/')) "/></xsl:attribute><xsl:text>RIS</xsl:text></a>
+</xsl:template>
+
+<xsl:template name="itemSummaryView-DIM-endnote">
+        <a><xsl:attribute name="href"><xsl:value-of select="concat('/endnote/handle/', substring-after(//dim:field[@element='identifier'][@qualifier='uri'], 'http://hdl.handle.net/')) "/></xsl:attribute><xsl:text>Endnote</xsl:text></a>
+</xsl:template>
+
 
     <xsl:template name="itemSummaryView-DIM-date">
         <xsl:if test="dim:field[@element='date' and @qualifier='issued' and descendant::text()]">
@@ -568,7 +584,9 @@
              <a target="_blank" href="http://docs.google.com/viewer?url=http://geoleo-docker.sub.uni-goettingen.de{mets:FLocat[@LOCTYPE='URL']/@xlink:href}">Google View</a>
 
 
-        </div>
+
+
+	</div>
     </xsl:template>
 
     <xsl:template match="dim:dim" mode="itemDetailView-DIM">
@@ -867,3 +885,4 @@
 
 
 </xsl:stylesheet>
+
