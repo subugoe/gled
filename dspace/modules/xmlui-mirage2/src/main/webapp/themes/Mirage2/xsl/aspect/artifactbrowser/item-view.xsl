@@ -105,16 +105,44 @@
 
     <xsl:template match="dim:dim" mode="itemSummaryView-DIM">
         <div class="item-summary-view-metadata">
-            <xsl:call-template name="itemSummaryView-DIM-title"/>
- 	    <xsl:call-template name="itemSummaryView-DIM-authors"/>
-	    <xsl:call-template name="itemSummaryView-DIM-date"/>
-	    <xsl:call-template name="itemSummaryView-DIM-publisher"/>
-	    <xsl:call-template name="itemSummaryView-DIM-type"/>
-	    <xsl:call-template name="itemSummaryView-DIM-coverage"/>
-	    <xsl:call-template name="itemSummaryView-DIM-typeVersion"/>
-	    <xsl:call-template name="itemSummaryView-DIM-language"/>
-	    <xsl:call-template name="itemSummaryView-DIM-relationIsPartOf"/>
-	    <xsl:call-template name="itemSummaryView-DIM-descriptionSponsor"/>
+
+<xsl:choose>
+				<xsl:when test="dim:field[@element='type'] = 'article'">
+					<xsl:call-template name="itemSummaryView-DIM-title"/>
+					<xsl:call-template name="itemSummaryView-DIM-authors"/>
+					<xsl:text>Erstveroeffentlichung: </xsl:text><xsl:call-template name="itemSummaryView-DIM-journal"/><xsl:call-template name="itemSummaryView-DIM-volume"/><xsl:call-template name="itemSummaryView-DIM-issue"/>; <xsl:call-template name="itemSummaryView-DIM-date"/>; <xsl:call-template name="itemSummaryView-DIM-pages"/>
+				</xsl:when>
+				<!--<xsl:when test="dim:field[@element='type'] = 'monograph">
+					
+				</xsl:when>
+				<xsl:when test="dim:field[@element='type'] = 'article_first'">
+					
+				</xsl:when>
+				<xsl:when test="dim:field[@element='type'] = 'anthology">
+					
+				</xsl:when>
+				<xsl:when test="dim:field[@element='type'] = 'anthologyArticle'">
+					
+				</xsl:when>-->
+				<xsl:otherwise>
+					<xsl:call-template name="itemSummaryView-DIM-title"/>
+					<xsl:call-template name="itemSummaryView-DIM-authors"/>
+					<xsl:call-template name="itemSummaryView-DIM-date"/>
+					<xsl:call-template name="itemSummaryView-DIM-publisher"/>
+					<xsl:call-template name="itemSummaryView-DIM-type"/>
+					<xsl:call-template name="itemSummaryView-DIM-coverage"/>
+					<xsl:call-template name="itemSummaryView-DIM-typeVersion"/>
+					<xsl:call-template name="itemSummaryView-DIM-language"/>
+					<xsl:call-template name="itemSummaryView-DIM-relationIsPartOf"/>
+					<xsl:call-template name="itemSummaryView-DIM-descriptionSponsor"/>
+				</xsl:otherwise>
+			</xsl:choose>
+
+
+
+
+
+
 	    <xsl:call-template name="itemSummaryView-DIM-URI"/>
             <xsl:call-template name="itemSummaryView-DIM-doi"/>
 	    <span class="spacer">&#160;</span>
@@ -350,6 +378,45 @@
 </div>    
 </xsl:template>
 
+<xsl:template name="itemSummaryView-DIM-journal">
+        <xsl:if test="dim:field[@element='bibliographicCitation' and @qualifier='journal']">
+                <xsl:for-each select="dim:field[@element='bibliographicCitation' and @qualifier='journal']">
+                        <xsl:copy-of select="./node()"/><xsl:text>; </xsl:text>
+                </xsl:for-each>
+        </xsl:if>
+</xsl:template>
+
+<xsl:template name="itemSummaryView-DIM-volume">
+        <xsl:if test="dim:field[@element='bibliographicCitation' and @qualifier='volume']">
+                <xsl:for-each select="dim:field[@element='bibliographicCitation' and @qualifier='volume']">
+                        <xsl:copy-of select="./node()"/>
+                </xsl:for-each>
+        </xsl:if>
+</xsl:template>
+
+<xsl:template name="itemSummaryView-DIM-issue">
+        <xsl:if test="dim:field[@element='bibliographicCitation' and @qualifier='issue']">
+                <xsl:for-each select="dim:field[@element='bibliographicCitation' and @qualifier='issue']">
+                        <xsl:copy-of select="./node()"/>
+                </xsl:for-each>
+        </xsl:if>
+</xsl:template>
+
+<xsl:template name="itemSummaryView-DIM-pages">
+        <xsl:if test="dim:field[@element='bibliographicCitation' and @qualifier='firstPage']">
+                <xsl:for-each select="dim:field[@element='bibliographicCitation' and @qualifier='firstPage']">
+                        <xsl:text>p. </xsl:text><xsl:copy-of select="./node()"/>
+                </xsl:for-each>
+			</xsl:if>
+			<xsl:text> - </xsl:text>
+			<xsl:if test="dim:field[@element='bibliographicCitation' and @qualifier='lastPage']">
+                <xsl:for-each select="dim:field[@element='bibliographicCitation' and @qualifier='lastPage']">
+                        <xsl:copy-of select="./node()"/>
+                </xsl:for-each>
+			</xsl:if>
+</xsl:template>
+
+
 
     <xsl:template name="itemSummaryView-DIM-authors-entry">
        
@@ -405,8 +472,8 @@
 
     <xsl:template name="itemSummaryView-DIM-date">
         <xsl:if test="dim:field[@element='date' and @qualifier='issued' and descendant::text()]">
-            <div class="simple-item-view-date word-break item-page-field-wrapper table">
-                <i18n:text>xmlui.dri2xhtml.METS-1.0.item-date</i18n:text>
+            <!--<div class="simple-item-view-date word-break item-page-field-wrapper table">
+                <i18n:text>xmlui.dri2xhtml.METS-1.0.item-date</i18n:text>-->
                 
                 <xsl:for-each select="dim:field[@element='date' and @qualifier='issued']">
                     <xsl:copy-of select="substring(./node(),1,10)"/>
@@ -414,7 +481,7 @@
                         <br/>
                     </xsl:if>
                 </xsl:for-each>
-            </div>
+            <!--</div>-->
         </xsl:if>
     </xsl:template>
 
@@ -565,7 +632,7 @@
             </a><br/>
 
        <!--Google-Viewer Link-->
-             <a target="_blank" href="http://docs.google.com/viewer?url=http://geoleo-docker.sub.uni-goettingen.de{mets:FLocat[@LOCTYPE='URL']/@xlink:href}">Google View</a><br/>
+        <!--     <a target="_blank" href="http://docs.google.com/viewer?url=http://geoleo-docker.sub.uni-goettingen.de{mets:FLocat[@LOCTYPE='URL']/@xlink:href}">Google View</a><br/>-->
 
 	<!--Metadaten-Export-->
 	<div class="metadataexport"><h5><i18n:text>xmlui.metadata.export</i18n:text></h5>
