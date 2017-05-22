@@ -454,10 +454,10 @@
             	
 			<map:match pattern="bibtex/handle/*/*">
 			<!-- uncomment if data should be not shown but donloaded as bib-file -->
-                	<!--		<map:act type="set-header">
+                			<map:act type="set-header">
                     			<map:parameter name="Content-Disposition" value="attachment; filename=gup_{2}.bib"/>
                 		</map:act>
-			-->
+			
                 		<map:generate type="DSpaceMETSGenerator">
                     			<map:parameter name="handle" value="{1}/{2}"/>
                 		</map:generate>
@@ -470,10 +470,10 @@
                 
                         <map:match pattern="endnote/handle/*/*">
                         <!-- uncomment if data should be not shown but donloaded as enw-file -->
-                        <!--            <map:act type="set-header">
+                                    <map:act type="set-header">
                                         <map:parameter name="Content-Disposition" value="attachment; filename=gup_{2}.enw"/>
                                 </map:act>
-                        -->
+                        
                                 <map:generate type="DSpaceMETSGenerator">
                                         <map:parameter name="handle" value="{1}/{2}"/>
                                 </map:generate>
@@ -486,10 +486,10 @@
 
                         <map:match pattern="ris/handle/*/*">
                         <!-- uncomment if data should be not shown but donloaded as enw-file -->
-                        <!--            <map:act type="set-header">
+                                    <map:act type="set-header">
                                         <map:parameter name="Content-Disposition" value="attachment; filename=gup_{2}.ris"/>
                                 </map:act>
-                        -->
+                        
                                 <map:generate type="DSpaceMETSGenerator">
                                         <map:parameter name="handle" value="{1}/{2}"/>
                                 </map:generate>
