@@ -51,6 +51,13 @@ import org.dspace.content.authority.Choices;
 import org.dspace.utils.DSpace;
 import org.xml.sax.SAXException;
 
+import java.util.Map;
+import org.apache.cocoon.environment.SourceResolver;
+import org.apache.cocoon.ProcessingException;
+import org.dspace.core.I18nUtil;
+import org.apache.cocoon.i18n.I18nUtils;
+import org.apache.avalon.framework.parameters.Parameters;
+
 /**
  * This is a step of the item submission processes. The describe step queries
  * the user for various metadata items about the item. For the most part all the
@@ -94,17 +101,19 @@ public class DescribeStep extends AbstractSubmissionStep
      */
     private static DCInputsReader INPUTS_READER = null;
     private static final Message T_vocabulary_link = message("xmlui.Submission.submit.DescribeStep.controlledvocabulary.link");
+    private static Locale locale = null;
 
     /**
      * Ensure that the inputs reader has been initialized, this method may be
      * called multiple times with no ill-effect.
      */
-    private static void initializeInputsReader() throws DCInputsReaderException
+    private static void initializeInputsReader(Locale locale) throws DCInputsReaderException
     {
-        if (INPUTS_READER == null)
-        {
-            INPUTS_READER = new DCInputsReader();
-        }
+       /* if (INPUTS_READER == null)
+        {*/
+            INPUTS_READER = new DCInputsReader(I18nUtil.getInputFormsFileName(locale));
+	    /*System.out.println("Fatching input form: " + I18nUtil.getInputFormsFileName(locale));
+        }*/
     }
     
     /**
@@ -128,16 +137,35 @@ public class DescribeStep extends AbstractSubmissionStep
                 this.requireStep = true;
                 
                 // Ensure that the InputsReader is initialized.
-                try
+                /*try
                 {
                     initializeInputsReader();
                 }
                 catch (DCInputsReaderException e)
                 {
                     throw new ServletException(e);
-                }
+                }*/
         }
         
+
+	public void setup(SourceResolver resolver, Map objectModel, String src, Parameters parameters) throws
+        ProcessingException, SAXException, IOException
+        {
+            super.setup(resolver,objectModel,src,parameters);
+            this.locale = context.getCurrentLocale();
+	    //this.locale = I18nUtils.findLocale(objectModel, "locale-attribute", parameters, I18nUtil.getDefaultLocale(), true);
+            //Ensure that the InputsReader is initialized
+            try
+            {
+                initializeInputsReader(locale);
+            }
+            catch (DCInputsReaderException e)
+            {
+                throw new ProcessingException(e);
+            }
+	}
+
+
         public void addPageMeta(PageMeta pageMeta) throws SAXException, WingException,
         UIException, SQLException, IOException, AuthorizeException
         {
