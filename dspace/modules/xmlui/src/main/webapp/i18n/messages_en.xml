@@ -2555,14 +2555,18 @@
 
   <message key="xmlui.series.text">
    <h2>Periodicals and Journals</h2>
-        <ul>
+        <div class="series">
+	<ul>
+	<li><a href="handle/11858/6346/browse?type=series">Archiv Natur- und Landeskunde Mecklenburg-Vorpommern</a></li>
         <li><a href="handle/11858/4062/browse?type=series">Discussion Papers / Centre for Regional Studies</a></li>
         <li><a href="handle/11858/00-1735-0000-0001-4444-F/browse?type=series">E&amp;G-Quaternary Science Journal</a></li>
         <li><a href="handle/11858/00-1735-0000-0001-4424-8/browse?type=series">Electronic Journal of the Freiberg Geoscience Department</a></li>
         <li><a href="handle/11858/00-1735-0000-0022-A79A-4/browse?type=series">Greifswalder Geographische Arbeiten</a></li>
         <li><a href="handle/11858/00-1735-0000-0006-0D8F-5/browse?type=series">Neubrandenburger Geologische Beiträge</a></li>
         <li><a href="handle/11858/4061/browse?type=series">Scientific Technical Report / Deutsches Geoforschungszentrum Potsdam</a></li>
-        </ul>
+        <li><a href="handle/11858/6341/browse?type=series">TERRA NOSTRA - Schriften der GeoUnion Alfred-Wegener-Stiftung</a></li>
+	</ul>
+	</div>
   </message>
 
   <message key="xmlui.mirage2.discovery.showAdvancedFilters">Show advanced filters</message>
@@ -2627,9 +2631,9 @@ Got to the following website to utilise you option to deactivate data collection
         <message key="xmlui.impressum.mail.editorial">E-Mail: pfurr@sub.uni-goettingen.de</message>
         <message key="xmlui.impressum.label.tech">Technik und Administration</message>
 
-        <message key="xmlui.impressum.name.tech">Marianna Mühlhölzer</message>
-        <message key="xmlui.impressum.tel.tech">Tel: +49 (0)551 / 39-4255</message>
-        <message key="xmlui.impressum.mail.tech">E-Mail: mmuehlh@sub.uni-goettingen.de</message>
+        <message key="xmlui.impressum.name.tech">Natalie Neumann</message>
+        <message key="xmlui.impressum.tel.tech">Tel: +49 (0)551 / 39-20727</message>
+        <message key="xmlui.impressum.mail.tech">E-Mail: natalie.neumann@sub.uni-goettingen.de</message>
 
 <!-- impressum picture licenses -->
   <message key="xmlui.impressum.picture.license">Picture Credits</message>

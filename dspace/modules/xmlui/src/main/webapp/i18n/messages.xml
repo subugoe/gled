@@ -2018,7 +2018,7 @@
 		Sie können entweder die allgemeingültige Schablone in dri2xhtml überschreiben oder ihre eigene Schablone 
 		anlegen, um Ihrem Profil gerecht zu werden.
     </message>
-	
+	<message key="xmlui.dri2xhtml.METS-1.0-editor"> (Hrsg.)</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-preview">Vorschau</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-title">Titel</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-author">Autor(en)</message>
@@ -2620,12 +2620,14 @@ DRIVER betreibt eine Infrastruktur für Repositorien, die alle europäischen Lä
     <h2>Serien und Zeitschriften</h2>
         <div class="series">
 	<ul>
+	<li><a href="handle/11858/6346/browse?type=series">Archiv Natur- und Landeskunde Mecklenburg-Vorpommern</a></li>
         <li><a href="handle/11858/4062/browse?type=series">Discussion Papers / Centre for Regional Studies</a></li>
         <li><a href="handle/11858/00-1735-0000-0001-4444-F/browse?type=series">E&amp;G-Quaternary Science Journal</a></li>
         <li><a href="handle/11858/00-1735-0000-0001-4424-8/browse?type=series">Electronic Journal of the Freiberg Geoscience Department</a></li>
         <li><a href="handle/11858/00-1735-0000-0022-A79A-4/browse?type=series">Greifswalder Geographische Arbeiten</a></li>
         <li><a href="handle/11858/00-1735-0000-0006-0D8F-5/browse?type=series">Neubrandenburger Geologische Beiträge</a></li>
         <li><a href="handle/11858/4061/browse?type=series">Scientific Technical Report / Deutsches Geoforschungszentrum Potsdam</a></li>
+	<li><a href="handle/11858/6341/browse?type=series">TERRA NOSTRA - Schriften der GeoUnion Alfred-Wegener-Stiftung</a></li>
         </ul>
 	</div>
   </message>
@@ -2725,7 +2727,7 @@ Falls Sie der Meinung sind, dass es diese Seite geben sollte, bitte kontaktieren
 	<!-- impressum -->
         <message key="xmlui.impressum.head">Impressumm</message>
         <message key="xmlui.impressum.label.offerer">Anbieter</message>        
-        <message key="xmlui.impressum.text.offerer">Die Niedersaechsische Staats- und Universitätsbibliothek wird von Dr. Wolfram Horstmann geleitet. Sie ist zentrale Einrichtung der Georg-August-Universität Göttingen. Die Georg-August-Universität Göttingen ist eine Körperschaft des öffentlichen Rechts. Sie wird durch die Präsidentin Prof. Dr. Ulrike Beisiegel gesetzlich vertreten:
+        <message key="xmlui.impressum.text.offerer">Die Niedersaechsische Staats- und Universitätsbibliothek wird von Dr. Wolfram Horstmann geleitet. Sie ist zentrale Einrichtung der Georg-August-Universität Göttingen. Die Georg-August-Universität Göttingen ist eine Körperschaft des öffentlichen Rechts. Sie wird durch die Präsidentin Prof. Dr. Ulrike Beisiegel gesetzlich vertreten:<br />
 </message>
         
         <message key="xmlui.impressum.label.controlling">Zuständige Aufsichtsbehörde:  </message>
@@ -2915,4 +2917,7 @@ Der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinräumung (Ziffer 1)
   <message key="ita">Italienisch</message>
   <message key="fra">Französisch</message>
   <message key="other">andere</message>
+
+  <message key="xmlui.metadata.export">Metadaten-Export: </message>
+
 </catalogue>

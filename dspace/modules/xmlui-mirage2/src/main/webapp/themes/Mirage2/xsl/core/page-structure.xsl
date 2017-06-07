@@ -124,7 +124,6 @@
                                         <div class="col-xs-6 col-sm-3 sidebar-offcanvas" id="sidebar" role="navigation">
                                             <xsl:apply-templates select="dri:options"/>
                                         </div>
-
                                     </div>
 				
                                 </div>
@@ -136,7 +135,6 @@
                             <xsl:call-template name="buildFooter"/>
                              </div>
                          </div>
-
 
                         </xsl:otherwise>
                     </xsl:choose>
@@ -760,7 +758,7 @@
                 </a>
             <p>&#160;</p>
 
-		<!--	  <script type="text/javascript">
+			  <script type="text/javascript">
                                 var _paq = _paq || [];
                                 _paq.push(['trackPageView']);
                                 _paq.push(['enableLinkTracking']);
@@ -773,7 +771,7 @@
                                 })();
 
                         </script>
-                        <noscript><p><img src="http://piwik.gwdg.de/piwik.php?idsite=123" style="border:0" alt=""/></p></noscript>-->
+                        <noscript><p><img src="http://piwik.gwdg.de/piwik.php?idsite=123" style="border:0" alt=""/></p></noscript>
 
         </footer>
     </xsl:template>

@@ -390,6 +390,17 @@
                                 </map:read>
                         </map:match>
 
+			<!-- local resolver -->
+			<map:match pattern="resolvexml">
+		                <map:generate type="file" src="resolver/local-resolver-response.xml"/>
+                		<map:transform src="resolver/resolver.xsl">
+		                    <map:parameter name="purl" value="{request-param:purl}"/>
+                		    <map:parameter name="query" value="{request:queryString}"/>
+		                </map:transform>
+                		<map:serialize type="xml"/>
+			 </map:match>
+			 <!-- end local resolver -->
+			
                         <map:match pattern="csv/handle/*/*">
                                 <map:read type="MetadataExportReader">
                                     <map:parameter name="handle" value="{1}/{2}" />

@@ -2620,12 +2620,14 @@ DRIVER betreibt eine Infrastruktur für Repositorien, die alle europäischen Lä
     <h2>Serien und Zeitschriften</h2>
         <div class="series">
 	<ul>
+	<li><a href="handle/11858/6346/browse?type=series">Archiv Natur- und Landeskunde Mecklenburg-Vorpommern</a></li>
         <li><a href="handle/11858/4062/browse?type=series">Discussion Papers / Centre for Regional Studies</a></li>
         <li><a href="handle/11858/00-1735-0000-0001-4444-F/browse?type=series">E&amp;G-Quaternary Science Journal</a></li>
         <li><a href="handle/11858/00-1735-0000-0001-4424-8/browse?type=series">Electronic Journal of the Freiberg Geoscience Department</a></li>
         <li><a href="handle/11858/00-1735-0000-0022-A79A-4/browse?type=series">Greifswalder Geographische Arbeiten</a></li>
         <li><a href="handle/11858/00-1735-0000-0006-0D8F-5/browse?type=series">Neubrandenburger Geologische Beiträge</a></li>
         <li><a href="handle/11858/4061/browse?type=series">Scientific Technical Report / Deutsches Geoforschungszentrum Potsdam</a></li>
+	<li><a href="handle/11858/6341/browse?type=series">TERRA NOSTRA - Schriften der GeoUnion Alfred-Wegener-Stiftung</a></li>
         </ul>
 	</div>
   </message>
