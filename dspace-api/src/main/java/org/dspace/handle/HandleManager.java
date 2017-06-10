@@ -111,7 +111,14 @@ public class HandleManager
         {
             handle = url.substring(handleResolver.length());
         }
-        
+        if (ConfigurationManager.getProperty("old.handle.canonical.prefix") != null )
+        {
+            String oldhandleResolver = ConfigurationManager.getProperty("old.handle.canonical.prefix");
+            if (url.startsWith(oldhandleResolver))
+            {
+                handle = url.substring(oldhandleResolver.length());
+            }
+        } 
         if (null == handle)
         {
             return null;
