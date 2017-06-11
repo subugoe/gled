@@ -99,7 +99,8 @@ public class HandleManager
         String dspaceUrl = ConfigurationManager.getProperty("dspace.url")
                 + "/handle/";
         String handleResolver = ConfigurationManager.getProperty("handle.canonical.prefix");
-        
+	String oldhandleResolver = ConfigurationManager.getProperty("old.handle.canonical.prefix");       
+ 
         String handle = null;
         
         if (url.startsWith(dspaceUrl))
@@ -111,9 +112,8 @@ public class HandleManager
         {
             handle = url.substring(handleResolver.length());
         }
-        if (ConfigurationManager.getProperty("old.handle.canonical.prefix") != null )
+        if (oldhandleResolver != null )
         {
-            String oldhandleResolver = ConfigurationManager.getProperty("old.handle.canonical.prefix");
             if (url.startsWith(oldhandleResolver))
             {
                 handle = url.substring(oldhandleResolver.length());
