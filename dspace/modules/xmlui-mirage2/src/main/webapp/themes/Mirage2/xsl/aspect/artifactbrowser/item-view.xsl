@@ -428,20 +428,20 @@
     </xsl:template>
 
     <xsl:template name="itemSummaryView-DIM-URI">
-        <xsl:if test="dim:field[@element='identifier' and @qualifier='uri' and descendant::text()]">
-            <div class="simple-item-view-uri item-page-field-wrapper table">
+       <xsl:if test="dim:field[@element='identifier' and @qualifier='uri' and descendant::text()]">
+	  
+	  <div class="simple-item-view-uri item-page-field-wrapper table">
                 <i18n:text>xmlui.dri2xhtml.METS-1.0.item-uri</i18n:text>
                 <span>
                     <xsl:for-each select="dim:field[@element='identifier' and @qualifier='uri']">
-                        <a>
+                        <xsl:if test="starts-with(./node(), 'http://dx')">
+			<a>
                             <xsl:attribute name="href">
                                 <xsl:copy-of select="./node()"/>
                             </xsl:attribute>
                             <xsl:copy-of select="./node()"/>
                         </a>
-                        <xsl:if test="count(following-sibling::dim:field[@element='identifier' and @qualifier='uri']) != 0">
-                            <br/>
-                        </xsl:if>
+			</xsl:if>
                     </xsl:for-each>
                 </span>
             </div>
