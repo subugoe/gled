@@ -110,7 +110,7 @@
 				<xsl:when test="dim:field[@element='type'] = 'article'">
 					<xsl:call-template name="itemSummaryView-DIM-title"/>
 					<xsl:call-template name="itemSummaryView-DIM-authors"/>
-					<xsl:text>Erstveroeffentlichung: </xsl:text><xsl:call-template name="itemSummaryView-DIM-journal"/><xsl:call-template name="itemSummaryView-DIM-volume"/><xsl:call-template name="itemSummaryView-DIM-issue"/>; <xsl:call-template name="itemSummaryView-DIM-date"/>; <xsl:call-template name="itemSummaryView-DIM-pages"/>
+					<i18n:text>xmlui.dri2xhtml.METS-1.0.item-date</i18n:text><xsl:call-template name="itemSummaryView-DIM-journal"/><xsl:call-template name="itemSummaryView-DIM-volume"/><xsl:call-template name="itemSummaryView-DIM-issue"/>; <xsl:call-template name="itemSummaryView-DIM-date"/>; <xsl:call-template name="itemSummaryView-DIM-pages"/>
 				</xsl:when>
 				<!--<xsl:when test="dim:field[@element='type'] = 'monograph">
 					
@@ -144,7 +144,7 @@
 
 
 	    <xsl:call-template name="itemSummaryView-DIM-URI"/>
-            <xsl:call-template name="itemSummaryView-DIM-doi"/>
+          <!--  <xsl:call-template name="itemSummaryView-DIM-doi"/>-->
 	    <span class="spacer">&#160;</span>
 	    <table class="item-view"><tr><td><xsl:call-template name="itemSummaryView-DIM-thumbnail"/></td>
             <td><xsl:call-template name="itemSummaryView-DIM-file-section"/>
@@ -448,16 +448,16 @@
         </xsl:if>
     </xsl:template>
 
-    <xsl:template name="itemSummaryView-DIM-doi">
+    <!--<xsl:template name="itemSummaryView-DIM-doi">
         <xsl:if test="dim:field[@element='identifier' and @qualifier='doi' and descendant::text()]">
             <div class="simple-item-view-uri item-page-field-wrapper table">
                 <i18n:text>xmlui.dri2xhtml.METS-1.0.item-doi</i18n:text>
                 <span>
                     <xsl:for-each select="dim:field[@element='identifier' and @qualifier='doi']">
                         <a>
-                            <xsl:attribute name="href">
+                            <xsl:attribute name="href">-->
                                <!-- <xsl:copy-of select="./node()"/>-->
-				<xsl:value-of select="concat('http://dx.doi.org/', node())"/>
+		<!--		<xsl:value-of select="concat('http://dx.doi.org/', node())"/>
                             </xsl:attribute>
                             <xsl:copy-of select="./node()"/>
                         </a>
@@ -468,7 +468,7 @@
                 </span>
             </div>
         </xsl:if>
-    </xsl:template>
+    </xsl:template>-->
 
     <xsl:template name="itemSummaryView-DIM-date">
         <xsl:if test="dim:field[@element='date' and @qualifier='issued' and descendant::text()]">
@@ -560,6 +560,7 @@
 
     <xsl:template name="itemSummaryView-DIM-file-section-entry">
         <xsl:param name="href" />
+	<!--<xsl:param name="download" />-->
         <xsl:param name="mimetype" />
         <xsl:param name="label-1" />
         <xsl:param name="label-2" />
@@ -572,6 +573,9 @@
                 <xsl:attribute name="href">
                     <xsl:value-of select="$href"/>
                 </xsl:attribute>
+		<!--<xsl:attribute name="download">
+                </xsl:attribute>-->
+
                 <xsl:call-template name="getFileIcon">
                     <xsl:with-param name="mimetype">
                         <xsl:value-of select="substring-before($mimetype,'/')"/>

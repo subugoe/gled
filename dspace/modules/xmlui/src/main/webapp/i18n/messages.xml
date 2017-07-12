@@ -91,7 +91,7 @@
 	<message key="xmlui.ArtifactBrowser.AbstractSearch.head2">Bereiche und Sammlungen zu Ihrer Suchanfrage</message>
 	<message key="xmlui.ArtifactBrowser.AbstractSearch.head3">Dokumente zu Ihrer Suchanfrage</message>
 	<message key="xmlui.ArtifactBrowser.AbstractSearch.no_results">Die Suche führte zu keinem Treffer.</message>
-	<message key="xmlui.ArtifactBrowser.AbstractSearch.all_of_dspace">Gesamter Bestand</message>
+	<message key="xmlui.ArtifactBrowser.AbstractSearch.all_of_dspace">Gesamtbestand</message>
 
     <message key="xmlui.ArtifactBrowser.AbstractSearch.sort_by.title">Titel</message>
     <message key="xmlui.ArtifactBrowser.AbstractSearch.sort_by.dateissued">Erscheinungsdatum</message>
@@ -183,7 +183,7 @@
 	
 	<!-- org.dspace.app.xmlui.artifactbrowser.CollectionViewer.java -->
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.search_scope">Suchbereich</message>
-	<message key="xmlui.ArtifactBrowser.CollectionViewer.all_of_dspace">Gesamter Bestand</message>
+	<message key="xmlui.ArtifactBrowser.CollectionViewer.all_of_dspace">Gesamtbestand</message>
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.full_text_search">Volltextsuche:</message>
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.head_browse">Auflistung nach</message>
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.browse_titles">Titel</message>
@@ -200,7 +200,7 @@
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.CommunityViewer.java -->
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.search_scope">Suchbereich</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.all_of_dspace">Gesamter Bestand</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.all_of_dspace">Gesamtbestand</message>
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.full_text_search">Volltextsuche:</message>
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_browse">Auflistung nach</message>
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_titles">Titel</message>
@@ -250,7 +250,7 @@
 	
 	<!-- org.dspace.app.xmlui.artifactbrowser.Navigation.java -->
 	<message key="xmlui.ArtifactBrowser.Navigation.head_browse"></message>
-	<message key="xmlui.ArtifactBrowser.Navigation.head_all_of_dspace">Gesamter Bestand</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.head_all_of_dspace">Gesamtbestand</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.communities_and_collections">Bereiche &amp; Sammlungen</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.browse_title">Titel</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.browse_author">Autoren</message>
@@ -658,8 +658,8 @@
 	<message key="xmlui.Submission.submit.DescribeStep.day">Tag</message>
 	<message key="xmlui.Submission.submit.DescribeStep.series_name">Serie</message>
 	<message key="xmlui.Submission.submit.DescribeStep.report_no">Zählung</message>
-	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.link">Schlagwort Kategorien</message>
-	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.title">Schlagwort Kategorien</message>
+	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.link">GOK-Kategorien</message>
+	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.title">GOK-Kategorien</message>
 	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.filter.label">Nach Schlagworten filtern</message>
 	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.filter.button">Filtern</message>
 	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.loading">Bitte warten Sie, der Thesaurus wird geladen.</message>
@@ -1994,7 +1994,7 @@
 	<message key="xmlui.dri2xhtml.structural.logout">Ausloggen</message>
 	<message key="xmlui.dri2xhtml.structural.login">Einloggen</message>
 
-	<message key="xmlui.dri2xhtml.structural.search">Suche</message>
+	<message key="xmlui.dri2xhtml.structural.search">Suche in Geo-Leo e-docs</message>
 	<message key="xmlui.dri2xhtml.structural.search-advanced">Erweiterte Suche</message>
 	<message key="xmlui.dri2xhtml.structural.search-in-community">In diesem Bereich</message>
 	<message key="xmlui.dri2xhtml.structural.search-in-collection">In dieser Sammlung</message>
