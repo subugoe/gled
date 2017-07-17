@@ -165,21 +165,70 @@
                     </small>
                 </span>
                 <xsl:text> </xsl:text>
-                <xsl:if test="dim:field[@element='date' and @qualifier='issued']">
-	                <span class="publisher-date h4">  <small>
-	                    <xsl:text>(</xsl:text>
-	                    <xsl:if test="dim:field[@element='publisher']">
-	                        <span class="publisher">
-	                            <xsl:copy-of select="dim:field[@element='publisher']/node()"/>
-	                        </span>
-	                        <xsl:text>, </xsl:text>
-	                    </xsl:if>
-	                    <span class="date">
-	                        <xsl:value-of select="substring(dim:field[@element='date' and @qualifier='issued']/node(),1,10)"/>
-	                    </span>
-	                    <xsl:text>)</xsl:text>
+		<xsl:if test="dim:field[@element='date' and @qualifier='issued']">
+                        <span class="publisher-date h4">  <small>
+                            <xsl:text>(</xsl:text>
+                                <xsl:choose>
+								<!-- article, article_first, article_digi -->
+                                   <xsl:when test="dim:field[@element='type'] = 'article' or dim:field[@element='type'] = 'article_first' or dim:field[@element='type'] = 'article_digi'">
+                                   <xsl:choose> 
+				   <xsl:when test="dim:field[@element='bibliographicCitation' and @qualifier='journal']">
+                                        <span class="publisher">
+                                            <xsl:copy-of select="dim:field[@element='bibliographicCitation' and @qualifier='journal']/node()"/>
+                                        </span>
+                                        <xsl:text>, </xsl:text>
+					<span class="date">
+        	                        <xsl:value-of select="substring(dim:field[@element='date' and @qualifier='issued']/node(),1,10)"/>
+	                                </span>
+                    		        <xsl:text>)</xsl:text>
+                                    </xsl:when>
+				    <xsl:when test="dim:field[@element='relation' and @qualifier='volume']">
+                                        <span class="publisher">
+                                            <xsl:copy-of select="dim:field[@element='relation' and @qualifier='volume']/node()"/>
+                                        </span>
+                                        <xsl:text>)</xsl:text>
+                                    </xsl:when>
+				    <xsl:otherwise>
+					<span class="publisher">
+                                            <xsl:copy-of select="dim:field[@element='publisher']/node()"/>
+                                        </span>
+                                        <xsl:text>, </xsl:text>
+					<span class="date">
+	                                <xsl:value-of select="substring(dim:field[@element='date' and @qualifier='issued']/node(),1,10)"/>
+        	        	        </span>
+                	        	<xsl:text>)</xsl:text>
+				    </xsl:otherwise>
+				    </xsl:choose>
+                                </xsl:when>
+								<!-- anthologyArticle_digi, anthologyArticle, conferencePaper -->
+                                <xsl:when test="dim:field[@element='type'] = 'anthologyArticle' or dim:field[@element='type'] = 'anthologyArticle_digi' or dim:field[@element='type'] = 'conferencePaper'">
+                                    <xsl:if test="dim:field[@element='relation' and @qualifier='ispartof']">
+                                        <span class="publisher">
+                                            <xsl:copy-of select="dim:field[@element='relation' and @qualifier='ispartof']/node()"/>
+                                        </span>
+                                        <xsl:text>, </xsl:text>
+					<span class="date">
+                                        <xsl:value-of select="substring(dim:field[@element='date' and @qualifier='issued']/node(),1,10)"/>
+                                        </span>
+                                        <xsl:text>)</xsl:text>
+                                    </xsl:if>
+                                </xsl:when>
+								<!-- Rest -->
+				<xsl:otherwise>
+                                    <xsl:if test="dim:field[@element='publisher']">
+                                        <span class="publisher">
+                                            <xsl:copy-of select="dim:field[@element='publisher']/node()"/>
+                                        </span>
+                                        <xsl:text>, </xsl:text>
+					<span class="date">
+                                        <xsl:value-of select="substring(dim:field[@element='date' and @qualifier='issued']/node(),1,10)"/>
+                                        </span>
+                                        <xsl:text>)</xsl:text>
+                                    </xsl:if>
+                                </xsl:otherwise>
+                                </xsl:choose>
                         </small></span>
-                </xsl:if>
+		</xsl:if>
             </div>
 		
 	   <!--<xsl:if test="dim:field[@element = 'relation' and @qualifier='ispartof']">
