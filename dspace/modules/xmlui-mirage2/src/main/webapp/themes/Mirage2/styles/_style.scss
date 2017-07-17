@@ -258,6 +258,10 @@ div .item-page-field-wrapper {
   margin: 0;
 }
 
+div .item-page-field-wrapper h5 {
+    margin-bottom: 5px;
+}
+
 div .simple-item-view-authors {
   font-weight: bold;
 }
@@ -364,3 +368,7 @@ a.list-group-item.ds-option {
   border: 1px solid #ccc;
 }
 
+.fa-file-pdf-o:before {
+  padding-right: 5px;
+  font-size: 20px;
+}

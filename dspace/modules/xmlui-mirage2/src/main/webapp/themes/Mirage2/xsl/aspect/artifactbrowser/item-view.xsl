@@ -893,7 +893,8 @@
 
     <xsl:template name="getFileIcon">
         <xsl:param name="mimetype"/>
-            <i aria-hidden="true">
+	<i class="fa fa-file-pdf-o"></i>
+            <!--<i aria-hidden="true">
                 <xsl:attribute name="class">
                 <xsl:text>glyphicon </xsl:text>
                 <xsl:choose>
@@ -906,7 +907,7 @@
                 </xsl:choose>
                 </xsl:attribute>
             </i>
-        <xsl:text> </xsl:text>
+        <xsl:text> </xsl:text>-->
     </xsl:template>
 
     <!-- Generate the license information from the file section -->
