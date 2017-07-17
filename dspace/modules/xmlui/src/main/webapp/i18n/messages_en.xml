@@ -760,7 +760,7 @@
 	<message key="xmlui.Submission.submit.InitialQuestionsStep.publisher">Publisher</message>
 
 	<!-- org.dspace.app.xmlui.Submission.submit.DescribeStep -->
-	<message key="xmlui.Submission.submit.DescribeStep.head">Describe Item</message>
+	<message key="xmlui.Submission.submit.DescribeStep.head">Describe Item <br /><small>(* denotes required fields)</small></message>
 	<message key="xmlui.Submission.submit.DescribeStep.unknown_field">Error: Unknown field type</message>
 	<message key="xmlui.Submission.submit.DescribeStep.required_field">This field is required</message>
 	<message key="xmlui.Submission.submit.DescribeStep.last_name_help">Last name, <i>e.g. Smith</i></message>
@@ -2582,6 +2582,17 @@
   <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.relationCollection">Sammlung alt</message>
   <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.publicationType">Publication Type</message>
   <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.subjectGokverbal">GOK verbal</message>
+  <message key="xmlui.Discovery.SimpleSearch.filter_help">Use filters to refine your search.</message>
+  <message key="xmlui.Discovery.SimpleSearch.filter.contains">contains</message>
+  <message key="xmlui.Discovery.SimpleSearch.filter.equals">correspondes to</message>
+  <message key="xmlui.Discovery.SimpleSearch.filter.authority">identifier</message>
+  <message key="xmlui.Discovery.SimpleSearch.filter.notcontains">contains not</message>
+  <message key="xmlui.Discovery.SimpleSearch.filter.notequals">correspondes not to</message>
+  <message key="xmlui.Discovery.SimpleSearch.filter.notauthority">no identifier</message>
+  <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.author">Author</message>
+  <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.title">Title</message>
+  <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.subject">Subject</message>
+  <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.dateIssued">Issue Date</message>
   <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_publicationKind">Publication Kind</message>
   <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.publicationKind">Publication Kind</message>
   <message key="xmlui.Discovery.AbstractSearch.type_publicationKind">Publication Kind</message>
@@ -2591,6 +2602,15 @@
   <message key="xmlui.ArtifactBrowser.Navigation.browse_series">Periodicals</message>
   <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.series.column_heading">Periodicals and Journals</message>
   <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.metadata.series">Periodicals and Journals</message>
+  <message key="xmlui.Discovery.AbstractSearch.filters.controls.add-filter">Add filter</message>
+  <message key="xmlui.Discovery.AbstractSearch.filters.controls.apply-filters">Apply</message>
+  <message key="xmlui.Discovery.AbstractSearch.filters.controls.remove-filter">Remove filter</message>
+  <message key="xmlui.Discovery.AbstractSearch.filters.controls.new-filters.head">New filter:</message>
+  <message key="xmlui.Discovery.AbstractSearch.filters.controls.current-filters.head">Current filter:</message>
+  <message key="xmlui.Discovery.AbstractSearch.filters.display">add fitler</message>
+
+  <message key="xmlui.discovery.SearchFacetFilter.no-results">No results</message>
+
 
   <!-- Customizations -->
 
