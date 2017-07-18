@@ -25,7 +25,7 @@
 
 	<!-- General keys -->
 	<message key="xmlui.general.dspace_home">Home</message>
-	<message key="xmlui.general.search">Search</message>
+	<message key="xmlui.general.search">Search in repository</message>
 	<message key="xmlui.general.go">Go</message>
 	<message key="xmlui.general.go_home">Go to home</message>
 	<message key="xmlui.general.save">Save</message>
@@ -2714,7 +2714,7 @@ Got to the following website to utilise you option to deactivate data collection
   <message key="bookpart">Bookparts</message>
   <message key="book">Books</message>
   <message key="map">Map</message>
-
+  <message key="conferenceObject">Conference Paper</message>
   <message key="xmlui.metadata.export">Metadata Export: </message>
 
 </catalogue>

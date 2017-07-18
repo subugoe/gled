@@ -25,7 +25,7 @@
 	
 	<!-- General keys -->
 	<message key="xmlui.general.dspace_home">Startseite</message>
-	<message key="xmlui.general.search">Suche</message>
+	<message key="xmlui.general.search">Suche im Repositorium</message>
 	<message key="xmlui.general.go">Los</message>
 	<message key="xmlui.general.go_home">Zur Startseite</message>
 	<message key="xmlui.general.save">Speichern</message>
@@ -648,7 +648,7 @@
 	<message key="xmlui.Submission.submit.InitialQuestionsStep.publisher">Herausgeber</message>
 	
 	<!-- org.dspace.app.xmlui.Submission.submit.DescribeStep -->
-	<message key="xmlui.Submission.submit.DescribeStep.head">Dokument beschreiben</message>
+	<message key="xmlui.Submission.submit.DescribeStep.head">Dokument beschreiben <br /><small>(* kennzeichnet Pflichtfelder)</small></message>
 	<message key="xmlui.Submission.submit.DescribeStep.unknown_field">Fehler: Unbekannter Feldtyp</message>
 	<message key="xmlui.Submission.submit.DescribeStep.required_field">Dieses Feld ist obligatorisch</message>
 	<message key="xmlui.Submission.submit.DescribeStep.last_name_help">Nachname, <i>z. B. Mustermann</i></message>
