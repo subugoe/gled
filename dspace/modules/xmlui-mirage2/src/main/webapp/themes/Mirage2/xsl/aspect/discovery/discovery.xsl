@@ -250,7 +250,7 @@
                         </xsl:choose>
                         </small></span>
                     <xsl:text> </xsl:text>
-                    <xsl:if test="dri:list[@n=(concat($handle, ':dc.date.issued'))]">
+<!--                    <xsl:if test="dri:list[@n=(concat($handle, ':dc.date.issued'))]">
                         <span class="publisher-date h4">   <small>
                             <xsl:text>(</xsl:text>
                             <xsl:if test="dri:list[@n=(concat($handle, ':dc.publisher'))]">
@@ -265,7 +265,107 @@
                             </span>
                             <xsl:text>)</xsl:text>
                             </small></span>
-                    </xsl:if>
+                    </xsl:if>-->
+
+<xsl:if test="dri:list[@n=(concat($handle, ':dc.date.issued'))]">
+		<span class="publisher-date h4">   <small>
+			<xsl:text>(</xsl:text>
+			<xsl:choose>
+			<!-- article, article_first, article_digi -->
+			<xsl:when test="dri:list[@n=(concat($handle, ':dc.type'))] = 'article' or dri:list[@n=(concat($handle, ':dc.type'))] = 'article_first' or dri:list[@n=(concat($handle, ':dc.type'))] = 'article_digi'">
+				<xsl:choose>
+					   <xsl:when test="dri:list[@n=(concat($handle, ':dc.bibliographicCitation.journal'))]">
+							<span class="publisher">
+								<xsl:copy-of select="dri:list[@n=(concat($handle, ':dc.bibliographicCitation.journal'))]/dri:item"/>
+							</span>
+							<xsl:text>, </xsl:text>
+							<span class="date">
+							<xsl:value-of select="substring(dri:list[@n=(concat($handle, ':dc.date.issued'))]/dri:item,1,10)"/>
+							</span>
+							<xsl:text>)</xsl:text>
+						</xsl:when>
+						<xsl:when test="dri:list[@n=(concat($handle, ':dc.relation.volume'))]">
+							<span class="publisher">
+								<xsl:copy-of select="dri:list[@n=(concat($handle, ':dc.relation.volume'))]/dri:item"/>
+							</span>
+							<xsl:text>)</xsl:text>
+						</xsl:when>
+						<xsl:otherwise>
+							<span class="publisher">
+								<xsl:copy-of select="dri:list[@n=(concat($handle, ':dc.publisher'))]/dri:item"/>
+							</span>
+							<xsl:text>, </xsl:text>
+							<span class="date">
+							<xsl:value-of select="substring(dri:list[@n=(concat($handle, ':dc.date.issued'))]/dri:item,1,10)"/>
+							</span>
+							<xsl:text>)</xsl:text>
+						</xsl:otherwise>
+				</xsl:choose>
+			</xsl:when>
+			<!-- anthologyArticle_digi, anthologyArticle, conferencePaper -->	
+				<xsl:when test="dri:list[@n=(concat($handle, ':dc.type'))] = 'anthologyArticle_digi' or dri:list[@n=(concat($handle, ':dc.type'))] = 'anthologyArticle' or dri:list[@n=(concat($handle, ':dc.type'))] = 'conferencePaper'">
+						 <xsl:choose>
+                                        <xsl:when test="dri:list[@n=(concat($handle, ':dc.relation.ispartof'))]">
+                                        <span class="publisher">
+                                            <xsl:copy-of select="dri:list[@n=(concat($handle, ':dc.relation.ispartof'))]/dri:item"/>
+                                        </span>
+                                        <xsl:text>, </xsl:text>
+                                        <span class="date">
+                                        <xsl:value-of select="substring(dri:list[@n=(concat($handle, ':dc.date.issued'))]/dri:item,1,10)"/>
+                                        </span>
+                                        <xsl:text>)</xsl:text>
+                                        </xsl:when>
+                                        <xsl:otherwise>
+                                        <span class="date">
+                                        <xsl:value-of select="substring(dri:list[@n=(concat($handle, ':dc.date.issued'))]/dri:item,1,10)"/>
+                                        </span>
+                                        <xsl:text>)</xsl:text>
+                                        </xsl:otherwise>
+                                    </xsl:choose>
+
+					</xsl:when>
+			<!-- anthology_digi, anthology, anthology_first -->
+					<xsl:when test="dri:list[@n=(concat($handle, ':dc.type'))] = 'anthology_digi' or dri:list[@n=(concat($handle, ':dc.type'))] = 'anthology' or dri:list[@n=(concat($handle, ':dc.type'))] = 'anthology_first'">
+						<xsl:choose>
+						<xsl:when test="dri:list[@n=(concat($handle, ':dc.relation.volume'))]">
+							<span class="publisher">
+								<xsl:copy-of select="dri:list[@n=(concat($handle, ':dc.relation.volume'))]/dri:item"/>
+							</span>
+							<xsl:text>)</xsl:text>
+						</xsl:when>
+						<xsl:otherwise>
+							<span class="publisher">
+								<xsl:copy-of select="dri:list[@n=(concat($handle, ':dc.publisher'))]/dri:item"/>
+							</span>
+							<xsl:text>, </xsl:text>
+							<span class="date">
+							<xsl:value-of select="substring(dri:list[@n=(concat($handle, ':dc.date.issued'))]/dri:item,1,10)"/>
+							</span>
+							<xsl:text>)</xsl:text>
+						</xsl:otherwise>
+						</xsl:choose>
+					</xsl:when>
+			<xsl:otherwise>
+			
+			<xsl:if test="dri:list[@n=(concat($handle, ':dc.publisher'))]">
+				<span class="publisher">
+					<xsl:apply-templates select="dri:list[@n=(concat($handle, ':dc.publisher'))]/dri:item"/>
+				</span>
+				<xsl:text>, </xsl:text>
+			</xsl:if>
+			<span class="date">
+				<xsl:value-of
+						select="substring(dri:list[@n=(concat($handle, ':dc.date.issued'))]/dri:item,1,10)"/>
+			</span>
+			<xsl:text>)</xsl:text>
+			</xsl:otherwise>
+			
+			</xsl:choose>
+			</small></span>
+</xsl:if>
+
+
+
                     <xsl:choose>
                         <xsl:when test="dri:list[@n=(concat($handle, ':dc.description.abstract'))]/dri:item/dri:hi">
                             <div class="abstract">
