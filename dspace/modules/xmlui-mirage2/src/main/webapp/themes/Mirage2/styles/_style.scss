@@ -60,6 +60,10 @@ header .navbar-default .navbar-toggle > li > a, header .navbar-default .navbar-n
     font-weight: bold;
 }
 
+.navbar-nav {
+    margin: 7.5px;
+}
+
 .navbar-brand {
     padding: 0;
 }
@@ -67,6 +71,15 @@ header .navbar-default .navbar-toggle > li > a, header .navbar-default .navbar-n
 header .navbar-brand img {
    height: 150px;
    width: 220px;
+   z-index: 1;
+   display: block;
+   text-indent: -9999px;
+   position: relative;
+}
+
+header .navbar-brand-xs img {
+   height: 75px;
+   width: 110px;
    z-index: 1;
    display: block;
    text-indent: -9999px;

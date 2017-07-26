@@ -205,6 +205,7 @@
             </xsl:for-each>
 
             <link rel="stylesheet" href="{concat($theme-path, 'styles/main.css')}"/>
+	    <link rel="stylesheet" href="{concat($theme-path, 'styles/font-awesome-4.7.0/css/font-awesome.css')}"/>
 
             <!-- Add syndication feeds -->
             <xsl:for-each select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='feed']">
@@ -346,15 +347,20 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-
-                        <a href="{$context-path}/" class="navbar-brand">
+                        <a href="{$context-path}/" class="hidden-xs navbar-brand">
                         <img src="{$theme-path}images/geoleo-edocs-logo.png" />
                         <!--FID GEO Repository-->
 			</a>
+                        <a href="{$context-path}/" class="pull-left visible-xs hidden-sm hidden-md hidden-lg navbar-brand-xs">
+                        <img src="{$theme-path}images/geoleo-edocs-logo.png" />
+                        <!--FID GEO Repository-->
+                        </a>
 
 
                         <div class="navbar-header pull-right visible-xs hidden-sm hidden-md hidden-lg">
+			<ul class="nav navbar-nav pull-left"><li><a href="http://geo-leo.de">GEO-LEO</a></li></ul>
                         <ul class="nav nav-pills pull-left ">
+
 
                             <xsl:if test="count(/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='page'][@qualifier='supportedLocale']) &gt; 1">
                                 <li id="ds-language-selection-xs" class="dropdown">
@@ -426,6 +432,7 @@
                     </div>
 
                     <div class="navbar-header pull-right hidden-xs">
+			<ul class="nav navbar-nav pull-left"><li><a target="_blank" href="http://geo-leo.de">GEO-LEO</a></li></ul>
                         <ul class="nav navbar-nav pull-left">
                               <xsl:call-template name="languageSelection"/>
                         </ul>
@@ -731,9 +738,9 @@
                     </div>
 		    <div class="col-xs-5 col-sm-4 footer-right hidden-print">
 			<div class="pull-right">
-				<a href="www.dfg.de" title="DFG">DFG</a>
-				<a href="www.sub.uni-goettingen.de" title="SUB Göttingen">SUB</a>
-				<a href="fidgeo.de" title="FID GEO">FID GEO</a>
+				<a href="http://www.dfg.de" title="DFG">DFG</a>
+				<a href="http://www.sub.uni-goettingen.de" title="SUB Göttingen">SUB</a>
+				<a href="http://fidgeo.de" title="FID GEO">FID GEO</a>
 			</div>
 		    </div>
                     <!--<div class="col-xs-5 col-sm-4 hidden-print">
@@ -757,21 +764,6 @@
                     <xsl:text>&#160;</xsl:text>
                 </a>
             <p>&#160;</p>
-
-			  <script type="text/javascript">
-                                var _paq = _paq || [];
-                                _paq.push(['trackPageView']);
-                                _paq.push(['enableLinkTracking']);
-                                (function() {
-                                        var u=(("https:" == document.location.protocol) ? "https" : "http") + "://piwik.gwdg.de/";
-                                        _paq.push(['setTrackerUrl', u+'piwik.php']);
-                                        _paq.push(['setSiteId', 123]);
-                                        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
-                                        g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
-                                })();
-
-                        </script>
-                        <noscript><p><img src="http://piwik.gwdg.de/piwik.php?idsite=123" style="border:0" alt=""/></p></noscript>
 
         </footer>
     </xsl:template>
@@ -902,6 +894,23 @@
                   ga('send', 'pageview');
            </xsl:text></script>
         </xsl:if>
+	<script type="text/javascript">
+                                var _paq = _paq || [];
+                                _paq.push(['trackPageView']);
+                                _paq.push(['enableLinkTracking']);
+                                (function() {
+                                        var u="https://piwik.gwdg.de/";
+                                        _paq.push(['setTrackerUrl', u+'piwik.php']);
+                                        _paq.push(['setSiteId', 123]);
+					 var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0]; g.type='text/javascript';
+			                g.defer=true; g.async=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+
+                                })();
+
+                        </script>
+                        <noscript><p><img src="https://piwik.gwdg.de/piwik.php?idsite=123" style="border:0" alt=""/></p></noscript>
+
+      
     </xsl:template>
 
     <!--The Language Selection-->
