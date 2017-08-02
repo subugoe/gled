@@ -2848,21 +2848,21 @@ Der Urheber räumt dem FID GEO im Rahmen der Rechtseinräumung gemäß Ziffer 1 
   <message key="xmlui.deposit.license.user-rights.general">Allgemein gilt für alle Dokumente:</message>
   <message key="xmlui.deposit.license.user-rights.cc-license">Darüber hinaus können für einzelne Dokumenten weitere Rechte (z.B. Creative-Commons-Lizenzen) gelten. Die jeweilige Lizenz ist dem Dokument zugeordnet und auf der dazugehörigen Download-Seite deutlich gekennzeichnet. Der Lizenztext ist hinterlegt und kann zu Informationszwecken aufgerufen werden.</message>
   <message key="xmlui.deposit.license.deposit-license.head">LIZENZ FÜR DAS PUBLIZIEREN AUF GEO-LEO e-docs</message>
-  <message key="xmlui.deposit.license.deposit-license.intro">Nutzer, die Dokumente auf GEO-LEO e-docs veröffentlichen, stimmen einer Rechtevereinbarung in den folgenden Punkten zu:</message>
+  <message key="xmlui.deposit.license.deposit-license.intro">Nutzerinnen und Nutzer, die Dokumente auf GEO-LEO e-docs veröffentlichen, stimmen einer Rechtevereinbarung in den folgenden Punkten zu:<br /><p>&nbsp;</p> <b>Bei Herausgeberwerken: </b>Die unterzeichnende Herausgeberin bzw. der Herausgeber versichert, dass von den an dem Werk beteiligten Autorinnen und Autoren die Zustimmung eingeholt wurde, ihre Beiträge in der unten erklärten Art und Weise nutzen zu dürfen. Die Herausgeberin bzw. der Herausgeber stellt die SUB Göttingen von allen möglichen Ansprüchen der Autorinnen bzw. Autoren frei.</message>
   <message key="xmlui.deposit.license.li1">Rechtseinräumung:<br />
- Der Urheber räumt der SUB Göttingen zeitlich unbegrenzt und unwiderruflich das nicht ausschließliche Recht ein, das Werk öffentlich zugänglich zu machen, auf dem Publikationsserver GEO-LEOe-docs der SUB Göttingen zu archivieren und im Wege eines Print-on-Demand  in Papierform oder auf anderen Speichermedien zu vervielfältigen. Der urheberrechtliche Schutz bleibt durch diese Lizenz unberührt. Mit dem Hochladen des Dokuments ist kein rechtlich verbindlicher Anspruch auf die Bereitstellung oder Archivierung verbunden.
+ Die Urheberin bzw. der Urheber räumt der Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB Göttingen) zeitlich unbegrenzt und unwiderruflich das nicht ausschließliche Recht ein, das Werk öffentlich zugänglich zu machen, auf dem Repositorium GEO-LEOe-docs der SUB Göttingen zu archivieren und im Wege eines Print-on-Demand in Papierform oder auf anderen Speichermedien zu vervielfältigen. Der urheberrechtliche Schutz bleibt durch diese Lizenz unberührt. Mit dem Hochladen des Dokuments ist kein rechtlich verbindlicher Anspruch auf die Bereitstellung oder Archivierung verbunden.
   </message>
   <message key="xmlui.deposit.license.li2">Rechte Dritter:<br />
-Der Urheber erklärt, dass mit der Bereitstellung des Werkes und jedes Bestandteils (z.B. Abbildungen) keine Rechte Dritter (z.B. Miturheber, Co-Autoren, Verlage, Verwertungsgesellschaften, Drittmittelgeber) verletzt werden. Der Urheber stellt die SUB Göttingen von etwaigen Ansprüchen Dritter frei. Die SUB Göttingen ist berechtigt, den Zugriff auf ein Dokument zu sperren, soweit konkrete Anhaltspunkte für eine Verletzung von Rechten Dritter bestehen. <b>Bei Herausgeberwerken:</b> Der/die unterzeichnende Herausgeber/in versichert, dass von den an dem Werk beteiligten Autor/innen die Zustimmung eingeholt wurde, ihre Beiträge in der oben erklärten Art und Weise nutzen zu dürfen/.
+Die Urheberin bzw. der Urheber erklärt, dass mit der Bereitstellung des Werkes und jedes Bestandteils (z.B. Abbildungen) keine Rechte Dritter (z.B. Miturheberinnen bzw. Miturheber, Co-Autorinnen bzw. Co-Autoren, Verlage, Verwertungsgesellschaften, Drittmittelgeber) verletzt werden. Die Urhebering bzw. der Urheber stellt die SUB Göttingen von etwaigen Ansprüchen Dritter frei. Die SUB Göttingen ist berechtigt, den Zugriff auf ein Dokument zu sperren, soweit konkrete Anhaltspunkte für eine Verletzung von Rechten Dritter bestehen.
 </message>
   <message key="xmlui.deposit.license.li3">Langzeitarchivierung und Transformation in andere Formate:<br />
-  Der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinräumung (Ziffer 1) das Recht ein, das Werk in ihrem Langzeitarchiv zu speichern und bei Bedarf (z.B. Migration, Barrierefreiheit, bessere Zugänglichkeit oder Erschließung) in andere elektronische und physische Formate zu überführen.
+  Die Urhebering bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinräumung (Ziffer 1) das Recht ein, das Werk in ihrem Langzeitarchiv zu speichern und bei Bedarf (z.B. Migration, Barrierefreiheit, bessere Zugänglichkeit oder Erschließung) in andere elektronische und physische Formate zu überführen.
   </message>
   <message key="xmlui.deposit.license.li4">
 Weitergabe von Metadaten und Dokumenten:<br />
-Der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinräumung (Ziffer 1) das Recht ein, die Metadaten des Werks unentgeltlich anderen Datenbanken zur Verfügung zu stellen. Darüber hinaus ist die SUB Göttingen berechtigt, das Werk Dritten im Rahmen nationaler Sammelaufträge zur Online-Bereitstellung oder Archivierung zur Verfügung zu stellen.
+Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinräumung (Ziffer 1) das Recht ein, die Metadaten des Werks unentgeltlich anderen Datenbanken zur Verfügung zu stellen. Darüber hinaus ist die SUB Göttingen berechtigt, das Werk Dritten im Rahmen nationaler Sammelaufträge zur Online-Bereitstellung oder Archivierung zur Verfügung zu stellen.
 </message>
-   <message key="xmlui.deposit.license.date">Göttingen, Juli 2016</message>
+   <message key="xmlui.deposit.license.date">Göttingen, Juli 2017</message>
 
 
   <!-- org.dspace.app.xmlui.Submission.submit.PrefillStep -->
@@ -2919,5 +2919,7 @@ Der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinräumung (Ziffer 1)
   <message key="other">andere</message>
 
   <message key="xmlui.metadata.export">Metadaten-Export: </message>
+  
+<!--  <message key="xmlui.collection.eg.introduction">Seit 1951 bietet “E&G – Quaternary Science Journal” ein Publikationsforum für die Quartärsforschung. Es erscheinen ausschließlich begutachtete Original-Artikel und Tagungsbeiträge.</message>-->
 
 </catalogue>
