@@ -244,7 +244,7 @@
    <xsl:template name="uri">
 		<xsl:for-each select="//dim:field[@element='identifier'][@qualifier='uri']" >
 			<xsl:text>note = &#123; &#92;url &#123;</xsl:text><xsl:value-of select="." />
-			<xsl:text>&#125;&#125;</xsl:text>
+			<xsl:text>&#125;&#125;,</xsl:text>
 			<xsl:call-template name="newline"/>	
 		</xsl:for-each >
     </xsl:template>
