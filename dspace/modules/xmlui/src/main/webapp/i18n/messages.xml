@@ -536,7 +536,7 @@
 	<message key="xmlui.Submission.CollectionViewer.link1">Ein Dokument in dieser Sammlung veröffentlichen</message>
 	
 	<!-- org.dspace.app.xmlui.submission.Navigation -->
-	<message key="xmlui.Submission.Navigation.submissions">Veröffentlichungen</message>
+	<message key="xmlui.Submission.Navigation.submissions">Veröffentlichen</message>
 
 	
 	<!-- org.dspace.app.xmlui.Submission.submissions -->
@@ -2923,4 +2923,5 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
   <message key="xmlui.collection.eg.introduction">Seit 1951 bietet “E&amp;G – Quaternary Science Journal” ein Publikationsforum für die Quartärsforschung. Es erscheinen ausschließlich begutachtete Original-Artikel und Tagungsbeiträge.</message>
   <message key="xmlui.collection.fog.introduction">FOG is open to all fields of Geoscience like Geology, Geophysics, Geochemistry, Mineralogy, Hydrogeology, Environmental Geology etc. Although it is primarely a platform for scientist from the Freiberg area geoscientists from outside Freiberg are encouraged to submit papers and technical notes as well. Technical notes and papers have to be submitted only in the ADOBE PDF-Format . The files may contain links within the document as well as to any URL. With the PDF-File a list of all external links and the URL has to be supplied to FOG. All papers will be reviewed by at least two scientists. The author may suggest 2 or more scientists for the reviewing process. Please address communication to fog@www.geo.tu-freiberg.de .</message>
   <message key="xmlui.collection.tn.introduction">Unter dem Titel TERRA NOSTRA erscheint seit 1993 eine Schriftenreihe, die Tagungsveranstaltern die Möglichkeit gibt, Fachbeiträge, Proceedings und Tagungsergebnisse in einer ständigen Reihe zu veröffentlichen. Darüber hinaus können auch Einzelarbeiten sowie Hefte interdisziplinären Charakters oder von fächerübergreifender Bedeutung veröffentlicht werden.</message>
+  <message key="xmlui.collection.gk.introduction"><h2>Geologische Karte 1 : 25 000 (GK25) </h2>Die <i>„Geologische Spezialkarte von Preussen und den Thüringischen Staaten“</i> erschien später unter den Titeln <i>„Geologische Karte von Preußen und benachbarten Bundesstaaten“</i>, <i>„Geologische Karte von Preußen und benachbarten Bundesländern“</i> und <i>„Geologische Karte von Preußen und benachbarten deutschen Ländern“</i>. Herausgegeben durch die <i>Kgl. Preuss. Geologische Landesanstalt</i>, die spätere <i>Preussische Geologische Landesanstalt</i>, bzw. das <i>Kgl. Preuss. Min. f. Handel, Gewerbe u. öffentl. Arbeiten</i>. 1:25 000. Berlin [u.a.], 1853-1943.<br />Für Sachsen erschien analog dazu die <i>„Geologische Specialkarte des Königreichs Sachsen“</i>, herausgegeben durch das <i>Königl. Finanzministerium</i>. - 1:25000 - Leipzig [u.a.], 1875-1938.</message>
 </catalogue>

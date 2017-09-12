@@ -536,7 +536,7 @@
 	<message key="xmlui.Submission.CollectionViewer.link1">Ein Dokument in dieser Sammlung veröffentlichen</message>
 	
 	<!-- org.dspace.app.xmlui.submission.Navigation -->
-	<message key="xmlui.Submission.Navigation.submissions">Veröffentlichungen</message>
+	<message key="xmlui.Submission.Navigation.submissions">Veröffentlichen</message>
 
 	
 	<!-- org.dspace.app.xmlui.Submission.submissions -->
@@ -2848,7 +2848,7 @@ Der Urheber räumt dem FID GEO im Rahmen der Rechtseinräumung gemäß Ziffer 1 
   <message key="xmlui.deposit.license.user-rights.general">Allgemein gilt für alle Dokumente:</message>
   <message key="xmlui.deposit.license.user-rights.cc-license">Darüber hinaus können für einzelne Dokumenten weitere Rechte (z.B. Creative-Commons-Lizenzen) gelten. Die jeweilige Lizenz ist dem Dokument zugeordnet und auf der dazugehörigen Download-Seite deutlich gekennzeichnet. Der Lizenztext ist hinterlegt und kann zu Informationszwecken aufgerufen werden.</message>
   <message key="xmlui.deposit.license.deposit-license.head">LIZENZ FÜR DAS PUBLIZIEREN AUF GEO-LEO e-docs</message>
-  <message key="xmlui.deposit.license.deposit-license.intro">Nutzerinnen und Nutzer, die Dokumente auf GEO-LEO e-docs veröffentlichen, stimmen einer Rechtevereinbarung in den folgenden Punkten zu:<br /><p>&nbsp;</p> <b>Bei Herausgeberwerken: </b>Die unterzeichnende Herausgeberin bzw. der Herausgeber versichert, dass von den an dem Werk beteiligten Autorinnen und Autoren die Zustimmung eingeholt wurde, ihre Beiträge in der unten erklärten Art und Weise nutzen zu dürfen. Die Herausgeberin bzw. der Herausgeber stellt die SUB Göttingen von allen möglichen Ansprüchen der Autorinnen bzw. Autoren frei.</message>
+  <message key="xmlui.deposit.license.deposit-license.intro">Nutzerinnen und Nutzer, die Dokumente auf GEO-LEO e-docs veröffentlichen, stimmen einer Rechtevereinbarung in den folgenden Punkten zu:<br /><b>Bei Herausgeberwerken: </b>Die unterzeichnende Herausgeberin bzw. der Herausgeber versichert, dass von den an dem Werk beteiligten Autorinnen und Autoren die Zustimmung eingeholt wurde, ihre Beiträge in der unten erklärten Art und Weise nutzen zu dürfen. Die Herausgeberin bzw. der Herausgeber stellt die SUB Göttingen von allen möglichen Ansprüchen der Autorinnen bzw. Autoren frei.</message>
   <message key="xmlui.deposit.license.li1">Rechtseinräumung:<br />
  Die Urheberin bzw. der Urheber räumt der Niedersächsischen Staats- und Universitätsbibliothek Göttingen (SUB Göttingen) zeitlich unbegrenzt und unwiderruflich das nicht ausschließliche Recht ein, das Werk öffentlich zugänglich zu machen, auf dem Repositorium GEO-LEOe-docs der SUB Göttingen zu archivieren und im Wege eines Print-on-Demand in Papierform oder auf anderen Speichermedien zu vervielfältigen. Der urheberrechtliche Schutz bleibt durch diese Lizenz unberührt. Mit dem Hochladen des Dokuments ist kein rechtlich verbindlicher Anspruch auf die Bereitstellung oder Archivierung verbunden.
   </message>
@@ -2856,7 +2856,7 @@ Der Urheber räumt dem FID GEO im Rahmen der Rechtseinräumung gemäß Ziffer 1 
 Die Urheberin bzw. der Urheber erklärt, dass mit der Bereitstellung des Werkes und jedes Bestandteils (z.B. Abbildungen) keine Rechte Dritter (z.B. Miturheberinnen bzw. Miturheber, Co-Autorinnen bzw. Co-Autoren, Verlage, Verwertungsgesellschaften, Drittmittelgeber) verletzt werden. Die Urhebering bzw. der Urheber stellt die SUB Göttingen von etwaigen Ansprüchen Dritter frei. Die SUB Göttingen ist berechtigt, den Zugriff auf ein Dokument zu sperren, soweit konkrete Anhaltspunkte für eine Verletzung von Rechten Dritter bestehen.
 </message>
   <message key="xmlui.deposit.license.li3">Langzeitarchivierung und Transformation in andere Formate:<br />
-  Die Urhebering bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinräumung (Ziffer 1) das Recht ein, das Werk in ihrem Langzeitarchiv zu speichern und bei Bedarf (z.B. Migration, Barrierefreiheit, bessere Zugänglichkeit oder Erschließung) in andere elektronische und physische Formate zu überführen.
+  Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinräumung (Ziffer 1) das Recht ein, das Werk in ihrem Langzeitarchiv zu speichern und bei Bedarf (z.B. Migration, Barrierefreiheit, bessere Zugänglichkeit oder Erschließung) in andere elektronische und physische Formate zu überführen.
   </message>
   <message key="xmlui.deposit.license.li4">
 Weitergabe von Metadaten und Dokumenten:<br />
@@ -2920,6 +2920,8 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
 
   <message key="xmlui.metadata.export">Metadaten-Export: </message>
   
-<!--  <message key="xmlui.collection.eg.introduction">Seit 1951 bietet “E&G – Quaternary Science Journal” ein Publikationsforum für die Quartärsforschung. Es erscheinen ausschließlich begutachtete Original-Artikel und Tagungsbeiträge.</message>-->
-
+  <message key="xmlui.collection.eg.introduction">Seit 1951 bietet “E&amp;G – Quaternary Science Journal” ein Publikationsforum für die Quartärsforschung. Es erscheinen ausschließlich begutachtete Original-Artikel und Tagungsbeiträge.</message>
+  <message key="xmlui.collection.fog.introduction">FOG is open to all fields of Geoscience like Geology, Geophysics, Geochemistry, Mineralogy, Hydrogeology, Environmental Geology etc. Although it is primarely a platform for scientist from the Freiberg area geoscientists from outside Freiberg are encouraged to submit papers and technical notes as well. Technical notes and papers have to be submitted only in the ADOBE PDF-Format . The files may contain links within the document as well as to any URL. With the PDF-File a list of all external links and the URL has to be supplied to FOG. All papers will be reviewed by at least two scientists. The author may suggest 2 or more scientists for the reviewing process. Please address communication to fog@www.geo.tu-freiberg.de .</message>
+  <message key="xmlui.collection.tn.introduction">Unter dem Titel TERRA NOSTRA erscheint seit 1993 eine Schriftenreihe, die Tagungsveranstaltern die Möglichkeit gibt, Fachbeiträge, Proceedings und Tagungsergebnisse in einer ständigen Reihe zu veröffentlichen. Darüber hinaus können auch Einzelarbeiten sowie Hefte interdisziplinären Charakters oder von fächerübergreifender Bedeutung veröffentlicht werden.</message>
+  <message key="xmlui.collection.gk.introduction"><h2>Geologische Karte 1 : 25 000 (GK25) </h2>Die <i>„Geologische Spezialkarte von Preussen und den Thüringischen Staaten“</i> erschien später unter den Titeln <i>„Geologische Karte von Preußen und benachbarten Bundesstaaten“</i>, <i>„Geologische Karte von Preußen und benachbarten Bundesländern“</i> und <i>„Geologische Karte von Preußen und benachbarten deutschen Ländern“</i>. Herausgegeben durch die <i>Kgl. Preuss. Geologische Landesanstalt</i>, die spätere <i>Preussische Geologische Landesanstalt</i>, bzw. das <i>Kgl. Preuss. Min. f. Handel, Gewerbe u. öffentl. Arbeiten</i>. 1:25 000. Berlin [u.a.], 1853-1943.<br />Für Sachsen erschien analog dazu die <i>„Geologische Specialkarte des Königreichs Sachsen“</i>, herausgegeben durch das <i>Königl. Finanzministerium</i>. - 1:25000 - Leipzig [u.a.], 1875-1938.</message>
 </catalogue>

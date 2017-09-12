@@ -28,6 +28,10 @@
 	    if ($(this).text() == "Institutionelle Serien und Zeitschriften") {
                 $(this).text("Institutional Periodicals and Journals");
             }
+ 	    if ($(this).text() == "Geologische Karte 1 : 25 000 (GK25)") {
+                $(this).text("Geological map 1 : 25 000 (GK25)");
+            }
+
         });
     }
 
