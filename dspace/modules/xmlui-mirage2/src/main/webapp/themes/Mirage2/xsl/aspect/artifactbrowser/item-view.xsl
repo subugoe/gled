@@ -144,6 +144,7 @@
 
 
 	    <xsl:call-template name="itemSummaryView-DIM-URI"/>
+	    <xsl:call-template name="itemSummaryView-DIM-isbasedon"/>
           <!--  <xsl:call-template name="itemSummaryView-DIM-doi"/>-->
 	    <span class="spacer">&#160;</span>
 	    <table class="item-view"><tr><td><xsl:call-template name="itemSummaryView-DIM-thumbnail"/></td>
@@ -234,11 +235,25 @@
                             </xsl:otherwise>
                         </xsl:choose>
                     </xsl:variable>
-                    <img alt="Thumbnail">
+
+
+<!--                    <img alt="Thumbnail">
+                        <xsl:attribute name="src">
+                            <xsl:value-of select="$src"/>
+                        </xsl:attribute>
+                    </img> -->
+
+		 <a>
+                <xsl:attribute name="href">
+                <xsl:value-of select="concat(substring-before($src,'.jpg'), '?sequence=1&amp;isAllowed=y')"/>
+                </xsl:attribute>
+                        <img alt="Thumbnail">
                         <xsl:attribute name="src">
                             <xsl:value-of select="$src"/>
                         </xsl:attribute>
                     </img>
+                </a>
+
                 </xsl:when>
                 <xsl:otherwise>
                     <img alt="Thumbnail">
@@ -317,6 +332,15 @@
 </div>    
 </xsl:template>
 
+<xsl:template name="itemSummaryView-DIM-isbasedon">
+<div>        <xsl:if test="dim:field[@element='description' and @qualifier='isbasedon']">
+                <i18n:text>xmlui.dri2xhtml.METS-1.0.item-isbasedon</i18n:text>
+                <xsl:for-each select="dim:field[@element='description'][@qualifier='isbasedon']">
+                        <xsl:copy-of select="./node()"/>
+                </xsl:for-each>
+        </xsl:if>
+</div>
+</xsl:template>
 
 <xsl:template name="itemSummaryView-DIM-type">
 <div>        <xsl:if test="dim:field[@element='type'][not(@qualifier)]">

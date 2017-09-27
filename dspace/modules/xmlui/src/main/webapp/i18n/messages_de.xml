@@ -2688,7 +2688,7 @@ Falls Sie der Meinung sind, dass es diese Seite geben sollte, bitte kontaktieren
   <message key="xmlui.ArtifactBrowser.AdvancedSearch.type_publicationKind">Publikationsart</message>
   <message key="xmlui.ArtifactBrowser.SimpleSearch.filter.publicationKind">Publikationsart</message>
   <message key="xmlui.Discovery.AbstractSearch.type_publicationKind">Publikationsart</message>
-  <message key="xmlui.general.publish_now">Jetzt veröffentlichen</message>
+  <message key="xmlui.general.publish_now">Veröffentlichen</message>
   <message key="xmlui.general.publish_here">Hier veröffentlichen</message>
   <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.series.column_heading">Serien und Zeitschriften</message>
   <message key="xmlui.ArtifactBrowser.ConfigurableBrowse.title.metadata.series">Serien und Zeitschriften</message>
@@ -2921,6 +2921,8 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
   <message key="other">andere</message>
 
   <message key="xmlui.metadata.export">Metadaten-Export: </message>
+  <message key="xmlui.dri2xhtml.METS-1.0.item-isbasedon">Supplement: </message>
+
   
   <message key="xmlui.collection.eg.introduction">Seit 1951 bietet “E&amp;G – Quaternary Science Journal” ein Publikationsforum für die Quartärsforschung. Es erscheinen ausschließlich begutachtete Original-Artikel und Tagungsbeiträge.</message>
   <message key="xmlui.collection.fog.introduction">FOG is open to all fields of Geoscience like Geology, Geophysics, Geochemistry, Mineralogy, Hydrogeology, Environmental Geology etc. Although it is primarely a platform for scientist from the Freiberg area geoscientists from outside Freiberg are encouraged to submit papers and technical notes as well. Technical notes and papers have to be submitted only in the ADOBE PDF-Format . The files may contain links within the document as well as to any URL. With the PDF-File a list of all external links and the URL has to be supplied to FOG. All papers will be reviewed by at least two scientists. The author may suggest 2 or more scientists for the reviewing process. Please address communication to fog@www.geo.tu-freiberg.de .</message>
