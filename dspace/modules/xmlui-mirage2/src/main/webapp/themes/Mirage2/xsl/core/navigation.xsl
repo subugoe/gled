@@ -49,6 +49,40 @@
                     <!-- The form, complete with a text box and a button, all built from attributes referenced
                  from under pageMeta. -->
 
+<div class="publish">
+                                <a class="publishButton">
+                                <xsl:choose>
+                                        <xsl:when test="contains(//dri:metadata[@element='request'][@qualifier='URI'], 'submit')">
+                                                <xsl:attribute name="href"><xsl:text>#</xsl:text></xsl:attribute>
+
+                                                        <i18n:text>xmlui.general.publish_now</i18n:text>
+
+                                        </xsl:when>
+                                        <xsl:otherwise>
+                                                <xsl:choose>
+                                                        <xsl:when test="//dri:head/i18n:text = 'xmlui.ArtifactBrowser.Navigation.head_this_collection'" >
+                                                                <xsl:variable name="container">
+                                                                        <xsl:value-of select="concat('handle/', substring-after(//dri:metadata[@qualifier='container'], 'hdl:'))"/>
+
+                                                                </xsl:variable>
+                                                                <xsl:attribute name="href"><xsl:value-of select="concat($context-path, '/', $container, '/submit')"/></xsl:attribute>
+
+                                                                        <i18n:text>xmlui.general.publish_here</i18n:text>
+                                                        </xsl:when>
+                                                        <xsl:otherwise>
+                                                        <xsl:attribute name="href"><xsl:value-of select="concat($context-path, '/submit')" /></xsl:attribute>
+                                                                <i18n:text>xmlui.general.publish_now</i18n:text>
+
+                                                </xsl:otherwise>
+                                                </xsl:choose>
+                                        </xsl:otherwise>
+                                </xsl:choose>
+                                </a>
+                        </div>
+
+
+
+
 
                     <form id="ds-search-form" class="" method="post">
                        <xsl:attribute name="action">
@@ -125,38 +159,6 @@
                 </div>
             </xsl:if>
             
-<!--<div class="publish">
-                                <a>
-                                <xsl:choose>
-                                        <xsl:when test="contains(//dri:metadata[@element='request'][@qualifier='URI'], 'submit')">
-                                                <xsl:attribute name="href"><xsl:text>#</xsl:text></xsl:attribute>
-
-                                                        <i18n:text>xmlui.general.publish_now</i18n:text>
-
-                                        </xsl:when>
-                                        <xsl:otherwise>
-                                                <xsl:choose>
-                                                        <xsl:when test="//dri:head/i18n:text = 'xmlui.ArtifactBrowser.Navigation.head_this_collection'" >
-                                                                <xsl:variable name="container">
-                                                                        <xsl:value-of select="concat('handle/', substring-after(//dri:metadata[@qualifier='container'], 'hdl:'))"/>
-
-                                                                </xsl:variable>
-                                                                <xsl:attribute name="href"><xsl:value-of select="concat($context-path, '/', $container, '/submit')"/></xsl:attribute>
-
-                                                                        <i18n:text>xmlui.general.publish_here</i18n:text>
-                                                        </xsl:when>
-                                                        <xsl:otherwise>
-                                                        <xsl:attribute name="href"><xsl:value-of select="concat($context-path, '/submit')" /></xsl:attribute>
-                                                                <i18n:text>xmlui.general.publish_now</i18n:text>
-
-                                                </xsl:otherwise>
-                                                </xsl:choose>
-                                        </xsl:otherwise>
-                                </xsl:choose>
-                                </a>
-                        </div>-->
-
-
 
 <xsl:if test="/dri:document/dri:meta/dri:userMeta/@authenticated = 'yes'">
         <xsl:apply-templates select="dri:list[@n='account']"/>
