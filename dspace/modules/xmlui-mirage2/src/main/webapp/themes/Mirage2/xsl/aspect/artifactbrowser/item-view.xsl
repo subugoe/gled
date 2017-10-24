@@ -140,10 +140,11 @@
 
 
 
+		<xsl:call-template name="itemSummaryView-DIM-URI"/>
+		<xsl:call-template name="itemSummaryView-DIM-DOI"/>
 
 
-
-	    <xsl:call-template name="itemSummaryView-DIM-URI"/>
+	    <!--<xsl:call-template name="itemSummaryView-DIM-URI"/>-->
 	    <xsl:call-template name="itemSummaryView-DIM-isbasedon"/>
           <!--  <xsl:call-template name="itemSummaryView-DIM-doi"/>-->
 	    <span class="spacer">&#160;</span>
@@ -451,7 +452,66 @@
        
     </xsl:template>
 
-    <xsl:template name="itemSummaryView-DIM-URI">
+<xsl:template name="itemSummaryView-DIM-URI">
+       <xsl:if test="dim:field[@element='identifier' and @qualifier='uri' and descendant::text()]">
+
+          <div class="simple-item-view-uri item-page-field-wrapper table">
+                <span>
+                    <xsl:for-each select="dim:field[@element='identifier' and @qualifier='uri']">
+                        <xsl:if test="starts-with(./node(), 'http://resolver') or starts-with(./node(), 'http://hdl')">
+                        <i18n:text>xmlui.dri2xhtml.METS-1.0.citation-link</i18n:text>
+			<a>
+                            <xsl:attribute name="href">
+                                <xsl:copy-of select="./node()"/>
+                            </xsl:attribute>
+                            <xsl:copy-of select="./node()"/>
+                        </a>
+                        </xsl:if>
+                    </xsl:for-each>
+                </span>
+            </div>
+        </xsl:if>
+    </xsl:template>
+
+	  <xsl:template name="itemSummaryView-DIM-DOI">
+       <xsl:choose>
+	<xsl:when test="dim:field[@element='identifier' and @qualifier='otherdoi' and descendant::text()]">
+
+                <div class="simple-item-view-uri item-page-field-wrapper table">
+                <span>
+                     <xsl:text>DOI: </xsl:text>
+                        <a>
+                        <xsl:attribute name="href">
+                                <xsl:copy-of select="concat('http://dx.doi.org/', dim:field[@element='identifier'][@qualifier='otherdoi'][1]/node())"/>
+                        </xsl:attribute>
+                        <xsl:copy-of select="dim:field[@element='identifier'][@qualifier='otherdoi'][1]/node()"/>
+                        </a>
+                </span>
+            </div>
+        </xsl:when>
+	<xsl:when test="dim:field[@element='identifier' and @qualifier='uri' and descendant::text()]">
+
+                <div class="simple-item-view-uri item-page-field-wrapper table">
+                <span>
+                     <xsl:text>DOI: </xsl:text>
+			<xsl:for-each select="dim:field[@element='identifier' and @qualifier='uri']">
+                        <xsl:if test="starts-with(./node(), 'http://dx') or starts-with(./node(), 'http://doi')">
+			<a>
+                        <xsl:attribute name="href">
+                                <xsl:copy-of select="./node()"/>
+                        </xsl:attribute>
+                        <xsl:copy-of select="./node()"/>
+			</a>
+			</xsl:if>
+			</xsl:for-each>
+                </span>
+            </div>
+        </xsl:when>
+	</xsl:choose>
+    </xsl:template>
+
+
+<!--    <xsl:template name="itemSummaryView-DIM-URI">
        <xsl:if test="dim:field[@element='identifier' and @qualifier='uri' and descendant::text()]">
 	  
 	  <div class="simple-item-view-uri item-page-field-wrapper table">
@@ -470,7 +530,7 @@
                 </span>
             </div>
         </xsl:if>
-    </xsl:template>
+    </xsl:template>-->
 
     <!--<xsl:template name="itemSummaryView-DIM-doi">
         <xsl:if test="dim:field[@element='identifier' and @qualifier='doi' and descendant::text()]">
