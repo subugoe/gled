@@ -358,7 +358,7 @@
 
 
                         <div class="navbar-header pull-right visible-xs hidden-sm hidden-md hidden-lg">
-			<ul class="nav navbar-nav pull-left"><li><a href="http://geo-leo.de">GEO-LEO</a></li></ul>
+			<ul class="nav navbar-nav pull-left"><li><a target="_blank" href="http://geo-leo.de" title="GEO-LEO Suchportal">GEO-LEO</a></li></ul>
                         <ul class="nav nav-pills pull-left ">
 
 
@@ -432,7 +432,7 @@
                     </div>
 
                     <div class="navbar-header pull-right hidden-xs">
-			<ul class="nav navbar-nav pull-left"><li><a target="_blank" href="http://geo-leo.de">GEO-LEO</a></li></ul>
+			<ul class="nav navbar-nav pull-left"><li><a target="_blank" href="http://geo-leo.de" title="GEO-LEO Suchportal">GEO-LEO</a></li></ul>
                         <ul class="nav navbar-nav pull-left">
                               <xsl:call-template name="languageSelection"/>
                         </ul>
