@@ -2510,7 +2510,7 @@
 
     <message key="xmlui.home.text">
         <!--<h2>Publicationserver of the FID GEO</h2>-->
-	 <h2>Publicationserver of the <image class="frontpage-logo" src="/themes/Mirage2/images/fidgeo2.png" alt="FID GEO Logo"/></h2>
+	 <h2>Publicationserver of the <a href="http://fidgeo.de" target="_blank"><image class="frontpage-logo" src="/themes/Mirage2/images/fidgeo2.png" alt="FID GEO Logo"/></a></h2>
 <div id="first_row">
         <figure class="frontpage_images">
         <a href="handle/11858/Geology">

@@ -2516,7 +2516,7 @@
   <message key="xmlui.dri2xhtml.structural.impressum-link">Impressum</message>
   <message key="xmlui.home.text">
         <!--<h2>Publikationsserver des FID GEO</h2>-->
-	<h2>Publikationsserver des <image class="frontpage-logo" src="/themes/Mirage2/images/fidgeo2.png" alt="FID GEO Logo"/></h2>
+	<h2>Publikationsserver des <a href="http://fidgeo.de" target="_blank"><image class="frontpage-logo" src="/themes/Mirage2/images/fidgeo2.png" alt="FID GEO Logo"/></a></h2>
 
 <div id="first_row">
 	<figure class="frontpage_images">
