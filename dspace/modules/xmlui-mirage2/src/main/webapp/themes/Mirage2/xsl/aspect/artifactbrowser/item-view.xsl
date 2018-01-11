@@ -489,6 +489,22 @@
                 </span>
             </div>
         </xsl:when>
+	<!-- when identifier.doi that does not start with 10.23689/fidgeo show that as url like otherdoi -->
+	<xsl:when test="dim:field[@element='identifier' and @qualifier='doi' and descendant::text()]">
+
+                <div class="simple-item-view-uri item-page-field-wrapper table">
+                <span>
+                     <xsl:text>DOI: </xsl:text>
+                        <a>
+                        <xsl:attribute name="href">
+                                <xsl:copy-of select="concat('http://dx.doi.org/', dim:field[@element='identifier'][@qualifier='doi'][1]/node())"/>
+                        </xsl:attribute>
+                        <xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/>
+                        </a>
+                </span>
+            </div>
+        </xsl:when>
+
 	<xsl:when test="dim:field[@element='identifier' and @qualifier='uri' and descendant::text()]">
 
                 <div class="simple-item-view-uri item-page-field-wrapper table">
