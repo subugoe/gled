@@ -323,7 +323,26 @@
                     });
                 </script>
                 <script type="text/javascript" src="//cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">&#160;</script>
-            </xsl:if>
+	    </xsl:if>
+
+                  <script type="text/javascript" charset="UTF-8" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+
+		<xsl:if test="$current-uri = 'http://e-docs.geo-leo.de:80/map'">
+                                
+							
+                  <link rel="stylesheet" href="/themes/Mirage2/map/libraries/leaflet/leaflet.css"/>
+                  <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map/libraries/leaflet/leaflet.js"></script>
+                  <link rel="stylesheet" href="/themes/Mirage2/map/libraries/leaflet-search/src/leaflet-search.css"/>
+                  <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map/libraries/leaflet-search/src/leaflet-search.js"></script>
+                  <link rel="stylesheet" href="/themes/Mirage2/map/libraries/fullscreen/Control.FullScreen.css"/>
+                  <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map/libraries/fullscreen/Control.FullScreen.js"></script>
+                  <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map/geojson.js"></script>
+                  <link rel="stylesheet" href="/themes/Mirage2/map/libraries/mymap/mymapstyles.css"/>
+				
+
+		</xsl:if>
+
+
 
         </head>
     </xsl:template>
@@ -909,7 +928,7 @@
 
                         </script>
                         <noscript><p><img src="https://piwik.gwdg.de/piwik.php?idsite=123" style="border:0" alt=""/></p></noscript>
-
+	<script src="/themes/Mirage2/map/libraries/mymap/mymap.js"></script>
       
     </xsl:template>
 
