@@ -2551,15 +2551,28 @@
         <figcaption class="einzeilig">Geography</figcaption>
         </figure>
 </div>
+<div id="third_row">
+        <figure class="frontpage_map">
+        <a href="map">
+        <image class="frontpage" src="/themes/Mirage2/images/map.jpg" alt="Map Viewer" />
+        </a>
+        <figcaption class="einzeilig">Map Viewer</figcaption>
+        </figure>
+</div>
+
 
   </message>
+
+<message key="xmlui.map.top"><h2>Map Viewer</h2></message>
 
   <message key="xmlui.series.text">
    <h2>Periodicals and Journals</h2>
         <div class="series">
 	<ul>
 	<li><a href="handle/11858/6346/browse?type=series">Archiv Natur- und Landeskunde Mecklenburg-Vorpommern</a></li>
-        <li><a href="handle/11858/4062/browse?type=series">Discussion Papers / Centre for Regional Studies</a></li>
+        <li><a href="handle/11858/6455/browse?type=series">Berliner Geographische Abhandlungen</a></li>
+	<li><a href="handle/11858/6454/browse?type=series">Berliner Geographische Blätter – BGB</a></li>
+	<li><a href="handle/11858/4062/browse?type=series">Discussion Papers / Centre for Regional Studies</a></li>
         <li><a href="handle/11858/00-1735-0000-0001-4444-F/browse?type=series">E&amp;G-Quaternary Science Journal</a></li>
         <li><a href="handle/11858/00-1735-0000-0001-4424-8/browse?type=series">Electronic Journal of the Freiberg Geoscience Department</a></li>
 	<li><a href="handle/11858/6401/browse?type=series">Geological map 1 : 25000 (GK25)</a></li>
@@ -2723,6 +2736,8 @@ Got to the following website to utilise you option to deactivate data collection
   <message key="xmlui.collection.fog.introduction">FOG is open to all fields of Geoscience like Geology, Geophysics, Geochemistry, Mineralogy, Hydrogeology, Environmental Geology etc. Although it is primarely a platform for scientist from the Freiberg area geoscientists from outside Freiberg are encouraged to submit papers and technical notes as well. Technical notes and papers have to be submitted only in the ADOBE PDF-Format . The files may contain links within the document as well as to any URL. With the PDF-File a list of all external links and the URL has to be supplied to FOG. All papers will be reviewed by at least two scientists. The author may suggest 2 or more scientists for the reviewing process. Please address communication to fog@www.geo.tu-freiberg.de .</message>
   <message key="xmlui.collection.tn.introduction">Unter dem Titel TERRA NOSTRA erscheint seit 1993 eine Schriftenreihe, die Tagungsveranstaltern die Möglichkeit gibt, Fachbeiträge, Proceedings und Tagungsergebnisse in einer ständigen Reihe zu veröffentlichen. Darüber hinaus können auch Einzelarbeiten sowie Hefte interdisziplinären Charakters oder von fächerübergreifender Bedeutung veröffentlicht werden.</message>
   <message key="xmlui.collection.gk.introduction">The <i>„Geologische Spezialkarte von Preussen und den Thüringischen Staaten“</i> was later published under the titles <i>„Geologische Karte von Preußen und benachbarten Bundesstaaten“</i>, <i>„Geologische Karte von Preußen und benachbarten Bundesländern“</i> and <i>„Geologische Karte von Preußen und benachbarten deutschen Ländern“</i>. Published by the <i>Kgl. Preuss. Geologische Landesanstalt</i>, which was later named <i>Preussische Geologische Landesanstalt</i>, or the <i>Kgl. Preuss. Min. f. Handel, Gewerbe u. öffentl. Arbeiten</i>. 1:25 000. Berlin [a.o.], 1853-1943.<br />The analogue series for Saxony <i>„Geologische Specialkarte des Königreichs Sachsen“</i> was published by the <i>Königl. Finanzministerium</i>. - 1:25000 - Leipzig [a.o.], 1875-1938.</message>
+  <message key="xmlui.collection.bgb.introduction">The <i>„Berliner Geographische Blätter - BGB“</i> are published by the Centre for Development Studies (ZELF) at the Institute of Geographical Sciences of the Freie Universität Berlin.</message>
+  <message key="xmlui.collection.bga.introduction">The <i>„Berliner Geographische Abhandlungen“</i> are published by the Institute of Geographical Sciences of the Freie Universität Berlin since 1964.</message>
   <message key="xmlui.dri2xhtml.METS-1.0.item-isbasedon">Supplement: </message>
   <message key="xmlui.dri2xhtml.METS-1.0.citation-link">For Linking/Bookmarking: </message>
 </catalogue>

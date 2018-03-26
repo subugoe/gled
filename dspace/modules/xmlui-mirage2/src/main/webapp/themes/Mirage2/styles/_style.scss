@@ -136,6 +136,7 @@ header .navbar-default .navbar-toggle .icon-bar, header .navbar-default .navbar-
 
 #main-container #sidebar {
    border: 1px solid #ddd;
+   min-height: 800px;
 }
 
 body {
@@ -210,11 +211,21 @@ figure.frontpage_images {
     width: 220px;
 }
 
+figure.frontpage_map {
+    display: inline-block;
+    margin: 10px;
+    margin-left: 0px;
+    margin-bottom: 5px;
+    position: relative;
+    width: 688px;
+}
+
+
 img.frontpage-logo {
     width: 150px;
 }
 
-figure.frontpage_images figcaption {
+figure.frontpage_images figcaption, figure.frontpage_map figcaption {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -232,6 +243,11 @@ figure.frontpage_images figcaption {
 figure.frontpage_images figcaption.einzeilig {
     padding-top: 13px;
 }
+
+figure.frontpage_map figcaption.einzeilig {
+    padding-top: 13px;
+}
+
 
 #first_row img, #second_row img {
     display: inline-block;
@@ -430,4 +446,9 @@ a.publishButton:visited {
 
 #mapid {
 	height: 600px;
+}
+
+#maptop {
+	font-size: 1.75em;
+	line-height: 1;
 }

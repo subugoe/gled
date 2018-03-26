@@ -2558,6 +2558,14 @@
 	<figcaption class="einzeilig">Geographie</figcaption>
 	</figure>
 </div>
+<div id="third_row">
+        <figure class="frontpage_map">
+        <a href="map">
+        <image class="frontpage" src="/themes/Mirage2/images/map.jpg" alt="Kartenviewer" />
+        </a>
+        <figcaption class="einzeilig">Kartenviewer</figcaption>
+        </figure>
+</div>
 
 <!--<table class="frontpage_images">
 	<tr>
@@ -2617,12 +2625,17 @@ DRIVER betreibt eine Infrastruktur für Repositorien, die alle europäischen Lä
 		</p>
 </div> -->
   </message>
+
+
+<message key="xmlui.map.top"><h2>Kartenviewer</h2></message>
   <message key="xmlui.series.text">
     <h2>Serien und Zeitschriften</h2>
         <div class="series">
 	<ul>
 	<li><a href="handle/11858/6346/browse?type=series">Archiv Natur- und Landeskunde Mecklenburg-Vorpommern</a></li>
-        <li><a href="handle/11858/4062/browse?type=series">Discussion Papers / Centre for Regional Studies</a></li>
+        <li><a href="handle/11858/6455/browse?type=series">Berliner Geographische Abhandlungen</a></li>
+        <li><a href="handle/11858/6454/browse?type=series">Berliner Geographische Blätter – BGB</a></li>
+	<li><a href="handle/11858/4062/browse?type=series">Discussion Papers / Centre for Regional Studies</a></li>
         <li><a href="handle/11858/00-1735-0000-0001-4444-F/browse?type=series">E&amp;G-Quaternary Science Journal</a></li>
         <li><a href="handle/11858/00-1735-0000-0001-4424-8/browse?type=series">Electronic Journal of the Freiberg Geoscience Department</a></li>
 	<li><a href="handle/11858/6401/browse?type=series">Geologische Karte 1 : 25000 (GK25)</a></li>
@@ -2929,4 +2942,6 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
   <message key="xmlui.collection.fog.introduction">FOG is open to all fields of Geoscience like Geology, Geophysics, Geochemistry, Mineralogy, Hydrogeology, Environmental Geology etc. Although it is primarely a platform for scientist from the Freiberg area geoscientists from outside Freiberg are encouraged to submit papers and technical notes as well. Technical notes and papers have to be submitted only in the ADOBE PDF-Format . The files may contain links within the document as well as to any URL. With the PDF-File a list of all external links and the URL has to be supplied to FOG. All papers will be reviewed by at least two scientists. The author may suggest 2 or more scientists for the reviewing process. Please address communication to fog@www.geo.tu-freiberg.de .</message>
   <message key="xmlui.collection.tn.introduction">Unter dem Titel TERRA NOSTRA erscheint seit 1993 eine Schriftenreihe, die Tagungsveranstaltern die Möglichkeit gibt, Fachbeiträge, Proceedings und Tagungsergebnisse in einer ständigen Reihe zu veröffentlichen. Darüber hinaus können auch Einzelarbeiten sowie Hefte interdisziplinären Charakters oder von fächerübergreifender Bedeutung veröffentlicht werden.</message>
   <message key="xmlui.collection.gk.introduction">Die <i>„Geologische Spezialkarte von Preussen und den Thüringischen Staaten“</i> erschien später unter den Titeln <i>„Geologische Karte von Preußen und benachbarten Bundesstaaten“</i>, <i>„Geologische Karte von Preußen und benachbarten Bundesländern“</i> und <i>„Geologische Karte von Preußen und benachbarten deutschen Ländern“</i>. Herausgegeben durch die <i>Kgl. Preuss. Geologische Landesanstalt</i>, die spätere <i>Preussische Geologische Landesanstalt</i>, bzw. das <i>Kgl. Preuss. Min. f. Handel, Gewerbe u. öffentl. Arbeiten</i>. 1:25 000. Berlin [u.a.], 1853-1943.<br />Für Sachsen erschien analog dazu die <i>„Geologische Specialkarte des Königreichs Sachsen“</i>, herausgegeben durch das <i>Königl. Finanzministerium</i>. - 1:25000 - Leipzig [u.a.], 1875-1938.</message>
+  <message key="xmlui.collection.bgb.introduction">Die <i>„Berliner Geographische Blätter - BGB“</i> werden herausgegeben vom ZELF – Zentrum für Entwicklungsländerforschung / Centre for Development Studies am Geographischen Institut der Freien Universität Berlin.</message>
+   <message key="xmlui.collection.bga.introduction">Die <i>„Berliner Geographischen Abhandlungen“</i> werden seit 1964 herausgegeben vom Institut für Geographische Wissenschaften der Freien Universität Berlin.</message>  
 </catalogue>
