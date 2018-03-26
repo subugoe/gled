@@ -338,7 +338,6 @@
                   <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map/libraries/fullscreen/Control.FullScreen.js"></script>
                   <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map/geojson.js"></script>
                   <link rel="stylesheet" href="/themes/Mirage2/map/libraries/mymap/mymapstyles.css"/>
-				
 
 		</xsl:if>
 
@@ -928,7 +927,14 @@
 
                         </script>
                         <noscript><p><img src="https://piwik.gwdg.de/piwik.php?idsite=123" style="border:0" alt=""/></p></noscript>
-	<script src="/themes/Mirage2/map/libraries/mymap/mymap.js"></script>
+
+			 <xsl:if test="$current-uri = 'http://e-docs.geo-leo.de:80/map'">
+
+                  <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map/libraries/mymap/mymap.js"></script>
+
+                </xsl:if>
+
+
       
     </xsl:template>
 
