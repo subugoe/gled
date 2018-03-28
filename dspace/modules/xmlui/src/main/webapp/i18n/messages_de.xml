@@ -2627,7 +2627,6 @@ DRIVER betreibt eine Infrastruktur für Repositorien, die alle europäischen Lä
   </message>
 
 
-<message key="xmlui.map.top"><h2>Kartenviewer</h2></message>
   <message key="xmlui.series.text">
     <h2>Serien und Zeitschriften</h2>
         <div class="series">
@@ -2944,4 +2943,24 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
   <message key="xmlui.collection.gk.introduction">Die <i>„Geologische Spezialkarte von Preussen und den Thüringischen Staaten“</i> erschien später unter den Titeln <i>„Geologische Karte von Preußen und benachbarten Bundesstaaten“</i>, <i>„Geologische Karte von Preußen und benachbarten Bundesländern“</i> und <i>„Geologische Karte von Preußen und benachbarten deutschen Ländern“</i>. Herausgegeben durch die <i>Kgl. Preuss. Geologische Landesanstalt</i>, die spätere <i>Preussische Geologische Landesanstalt</i>, bzw. das <i>Kgl. Preuss. Min. f. Handel, Gewerbe u. öffentl. Arbeiten</i>. 1:25 000. Berlin [u.a.], 1853-1943.<br />Für Sachsen erschien analog dazu die <i>„Geologische Specialkarte des Königreichs Sachsen“</i>, herausgegeben durch das <i>Königl. Finanzministerium</i>. - 1:25000 - Leipzig [u.a.], 1875-1938.</message>
   <message key="xmlui.collection.bgb.introduction">Die <i>„Berliner Geographische Blätter - BGB“</i> werden herausgegeben vom ZELF – Zentrum für Entwicklungsländerforschung / Centre for Development Studies am Geographischen Institut der Freien Universität Berlin.</message>
    <message key="xmlui.collection.bga.introduction">Die <i>„Berliner Geographischen Abhandlungen“</i> werden seit 1964 herausgegeben vom Institut für Geographische Wissenschaften der Freien Universität Berlin.</message>  
+
+  <message key="xmlui.map.top"><h2>Geologische Karte 1:25 000</h2></message>
+
+  <message key="xmlui.map2.top"><h2>Geologische Karte 1:25 000</h2>
+  <div><input type="checkbox" class="read-more-state" id="post-2" /><div class="read-more-wrap">Hier sind sowohl die bei GEO-LEOe-docs verfügbaren Blätter der GK25 verzeichnet, als auch andernorts frei verfügbare Blätter der GK25 (mit Links), sowie diejenigen, die zur Digitalisierung durch den FID GEO vorschlagen werden können.
+  <ul style="list-style-type: disc; list-style-position: inside; padding-left: 1em; margin-bottom: 0.5em; text-indent: -1.4em; margin-left: 1em;"><li class="read-more-target" style="padding-top: 1em;"><b>GK25/GEO-LEOe-docs:</b> Hier sind die bereits auf GEO-LEOe-docs verfügbaren Kartenblätter des Werks verzeichnet.</li>
+  <li class="read-more-target" style="padding-top: 1em;"><b>GK25/extern:</b> Darüber hinaus finden Sie hier Links zu andernorts im Netz frei verfügbaren Kartenblättern des Werks. <br />Hier sind in erster Linie folgende Sammlungen integriert:
+  <ul class="map-list"><li>Mapster / Archivkarten von Polen und Mitteleuropa: <a href="http://igrek.amzp.pl/">http://igrek.amzp.pl</a></li>
+      <li>Univ. Potsdam: <a href="https://digital.ub.uni-potsdam.de/content/titleinfo/41237">https://digital.ub.uni-potsdam.de/content/titleinfo/41237</a> <i>(Liste)</i> bzw. <a href="https://digital.ub.uni-potsdam.de/nav/classification/42482">https://digital.ub.uni-potsdam.de/nav/classification/42482</a> <i>(Übersichtskarte)</i></li>
+      <li>LfU Bayern: <a href="http://www.petrefakten.de/geologische_karten_bayern.php">http://www.petrefakten.de/geologische_karten_bayern.php</a></li>
+      <li>SLUB Dresden: <a href="https://kartenforum.slub-dresden.de/">https://kartenforum.slub-dresden.de/</a></li></ul>
+  Für Niedersachsen ist die GK25 außerdem auf dem <a href="http://nibis.lbeg.de/cardomap3/">NIBIS® KARTENSERVER</a> des LBEG als frei zugängliches Gesamtwerk umgesetzt.</li>
+  <li class="read-more-target" style="padding-top: 1em;"><b>GK25/bestellbar:</b> Die alten Ausgaben der geologischen Karte 1:25000 sind zu einem großen Teil bereits gemeinfrei. Wenn Sie wissenschaftlich arbeiten, können Sie über <a href="https://e-docs.geo-leo.de/contact">das Kontaktformular</a> oder per E-Mail (<a href="mailto:info@fidgeo.de">info@fidgeo.de</a>) Bedarf melden, woraufhin entsprechende Kartenblätter vom FID GEO digitalisiert und auf GEO-LEOe-docs zur Verfügung gestellt werden. Ihnen entstehen dabei keine Kosten.</li>
+  </ul>
+  <div class="read-more-target" style="margin-bottom: 0.5em;">Kostenpflichtige Bestellungen gedruckter und digitaler Kartenblätter der GK25 sind i.d.R. über die Landesämter möglich.</div>
+  <div class="read-more-target" style="margin-bottom: 0.5em;">Sollten Ihnen weitere Online-Ressourcen bekannt sein, oder haben Sie andere Hinweise, freuen wir uns über Ihre Nachricht (<a href="mailto:info@fidgeo.de">info@fidgeo.de</a>). </div></div>
+  <label for="post-2" class="read-more-trigger"></label></div>
+  </message>
+  <message key="xmlui.map2.bottom"><div style="font-size: smaller; margin-top: 0.5em;" ><i>„Geologische Spezialkarte von Preussen und den Thüringischen Staaten“ / Hrsg. durch d. Kgl. Preuss. Min. f. Handel, Gewerbe u. öffentl. Arbeiten - 1:25 000 - Berlin [u.a.] 1853-1943, Teilweise unter den Titeln: „Geologische Karte von Preußen und benachbarten Bundesstaaten“, „Geologische Karte von Preußen und benachbarten Bundesländern“, „Geologische Karte von Preußen und benachbarten deutschen Ländern“, sowie  „Geologische Specialkarte des Königreichs Sachsen“/ Hrsg. durch d. Königl. Finanzministerium. - 1:25 000 - Leipzig [u.a.].</i></div>
+  </message>
 </catalogue>
