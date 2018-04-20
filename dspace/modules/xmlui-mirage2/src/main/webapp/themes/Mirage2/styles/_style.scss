@@ -293,7 +293,14 @@ div .item-page-field-wrapper {
 
 div .item-page-field-wrapper h5 {
     margin-bottom: 5px;
+    margin-top: 0;
 }
+
+div .metadataexport h5 {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+
 
 div .simple-item-view-authors {
   font-weight: bold;
@@ -304,7 +311,10 @@ div .series {
 }
 
 table.item-view td {
-  padding: 20px;
+  padding-top: 0;
+  padding-bottom: 20px;
+  padding-right: 20px;
+  padding-left: 0;
   vertical-align: top;
 }
   
@@ -500,4 +510,13 @@ a.publishButton:visited {
 
 .read-more-wrap {
   font-size: 112%;
+}
+
+.maplink {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.metadataexport {
+  margin-bottom: 5px;
 }

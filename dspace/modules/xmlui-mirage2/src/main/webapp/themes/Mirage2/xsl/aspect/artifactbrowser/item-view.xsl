@@ -146,10 +146,16 @@
 
 	    <!--<xsl:call-template name="itemSummaryView-DIM-URI"/>-->
 	    <xsl:call-template name="itemSummaryView-DIM-isbasedon"/>
+		
+ 	    <xsl:if test="dim:field[@element='type'] = 'map_digi' or dim:field[@element='type'] = 'map_mono' or dim:field[@element='type'] = 'map_anthology'">
+		<span class="spacer">&#160;</span>
+		<div class="maplink"><a href="https://e-docs.geo-leo.de/map">Zur Übersichtskarte</a></div>
+	    </xsl:if>
+
           <!--  <xsl:call-template name="itemSummaryView-DIM-doi"/>-->
 	    <span class="spacer">&#160;</span>
 	    <table class="item-view"><tr><td><xsl:call-template name="itemSummaryView-DIM-thumbnail"/></td>
-            <td><xsl:call-template name="itemSummaryView-DIM-file-section"/>
+            <td><xsl:call-template name="itemSummaryView-DIM-file-section" />
             <xsl:if test="$ds_item_view_toggle_url != ''">
                <xsl:call-template name="itemSummaryView-show-full"/>
 	    </xsl:if></td></tr></table>
@@ -609,6 +615,7 @@
     </xsl:template>
 
     <xsl:template name="itemSummaryView-DIM-file-section">
+	<xsl:param name="hrefexport" />
         <xsl:choose>
             <xsl:when test="//mets:fileSec/mets:fileGrp[@USE='CONTENT' or @USE='ORIGINAL' or @USE='LICENSE']/mets:file">
                 <div class="item-page-field-wrapper table word-break">
@@ -639,7 +646,8 @@
                     </xsl:variable>
 
                     <xsl:for-each select="//mets:fileSec/mets:fileGrp[@USE='CONTENT' or @USE='ORIGINAL' or @USE='LICENSE']/mets:file">
-                        <xsl:call-template name="itemSummaryView-DIM-file-section-entry">
+
+			<xsl:call-template name="itemSummaryView-DIM-file-section-entry">
                             <xsl:with-param name="href" select="mets:FLocat[@LOCTYPE='URL']/@xlink:href" />
                             <xsl:with-param name="mimetype" select="@MIMETYPE" />
                             <xsl:with-param name="label-1" select="$label-1" />
@@ -650,6 +658,13 @@
                         </xsl:call-template>
                     </xsl:for-each>
                 </div>
+		<!--Metadaten-Export-->
+	        <div class="metadataexport"><h5><i18n:text>xmlui.metadata.export</i18n:text></h5>
+        	        <a><xsl:attribute name="href"><xsl:value-of select="concat('/endnote/handle/11858/', substring-after(dim:field[@element='identifier'][@qualifier='uri'], '11858/'))"/></xsl:attribute><xsl:text>Endnote</xsl:text></a><br/>
+                	<a><xsl:attribute name="href"><xsl:value-of select="concat('/bibtex/handle/11858/', substring-after(dim:field[@element='identifier'][@qualifier='uri'], '11858/')) "/></xsl:attribute><xsl:text>BibTex</xsl:text></a><br/>
+                	<a><xsl:attribute name="href"><xsl:value-of select="concat('/ris/handle/11858/', substring-after(dim:field[@element='identifier'][@qualifier='uri'], '11858/')) "/></xsl:attribute><xsl:text>RIS</xsl:text></a>
+        	</div>
+
             </xsl:when>
             <!-- Special case for handling ORE resource maps stored as DSpace bitstreams -->
             <xsl:when test="//mets:fileSec/mets:fileGrp[@USE='ORE']">
@@ -739,11 +754,11 @@
         <!--     <a target="_blank" href="http://docs.google.com/viewer?url=http://geoleo-docker.sub.uni-goettingen.de{mets:FLocat[@LOCTYPE='URL']/@xlink:href}">Google View</a><br/>-->
 
 	<!--Metadaten-Export-->
-	<div class="metadataexport"><h5><i18n:text>xmlui.metadata.export</i18n:text></h5>
+<!--	<div class="metadataexport"><h5><i18n:text>xmlui.metadata.export</i18n:text></h5>
 		<a><xsl:attribute name="href"><xsl:value-of select="concat('/endnote/handle/11858/', substring-before(substring-after($href, '11858/'), '/')) "/></xsl:attribute><xsl:text>Endnote</xsl:text></a><br/>
 		<a><xsl:attribute name="href"><xsl:value-of select="concat('/bibtex/handle/11858/', substring-before(substring-after($href, '11858/'), '/')) "/></xsl:attribute><xsl:text>BibTex</xsl:text></a><br/>
 		<a><xsl:attribute name="href"><xsl:value-of select="concat('/ris/handle/11858/', substring-before(substring-after($href, '11858/'), '/')) "/></xsl:attribute><xsl:text>RIS</xsl:text></a>
-	</div>
+	</div>-->
 	</div>
     </xsl:template>
 
