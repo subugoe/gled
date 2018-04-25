@@ -215,7 +215,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [8.333, 54.000],[8.500, 54.000],[8.500, 53.900],[8.333, 53.900],[8.333, 54.000]]]},
+            "coordinates" :[[ [8.333, 54.000],[8.667, 54.000],[8.667, 53.800],[8.500, 53.800],[8.500, 53.900],[8.333, 53.900],[8.333, 54.000]]]},
         "properties" : { "Title" : "[Neue Nr. 2016 2017 2117] Altenwalde Insel Neuwerk u. Insel Scharhörn", "Location" : "Altenwalde Insel Neuwerk u. Insel Scharhörn", "Subtitle" : "-", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bestellen (FID GEO)", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
@@ -534,13 +534,13 @@ var geojson={ "type" : "FeatureCollection",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.000, 53.600],[7.167, 53.600],[7.167, 53.500],[7.000, 53.500],[7.000, 53.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 2408] Westermarsch", "Location" : "Westermarsch", "Subtitle" : "Greetsiel", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bestellen (FID GEO)", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2408] Westermarsch", "Location" : "Westermarsch", "Subtitle" : "Greetsiel", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link: ", "LText1": "zur Karte EJ 1926", "ML1": "GEO-LEOe-docs","Link1": "http://dx.doi.org/10.23689/fidgeo-2220","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.167, 53.600],[7.333, 53.600],[7.333, 53.500],[7.167, 53.500],[7.167, 53.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 2409] Norden", "Location" : "Norden", "Subtitle" : "-", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bestellen (FID GEO)", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2409] Norden", "Location" : "Norden", "Subtitle" : "-", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link: ", "LText1": "zur Karte EJ 1926", "ML1": "GEO-LEOe-docs","Link1": "http://dx.doi.org/10.23689/fidgeo-2221","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -618,25 +618,25 @@ var geojson={ "type" : "FeatureCollection",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.000, 53.500],[7.167, 53.500],[7.167, 53.400],[7.000, 53.400],[7.000, 53.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 2508] Pewsum", "Location" : "Pewsum", "Subtitle" : "Krummhörn", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bestellen (FID GEO)", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2508] Pewsum", "Location" : "Pewsum", "Subtitle" : "Krummhörn", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link: ", "LText1": "zur Karte EJ 1926", "ML1": "GEO-LEOe-docs","Link1": "http://dx.doi.org/10.23689/fidgeo-2222","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.167, 53.500],[7.333, 53.500],[7.333, 53.400],[7.167, 53.400],[7.167, 53.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 2509] Loppersum", "Location" : "Loppersum", "Subtitle" : "Hinte", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bestellen (FID GEO)", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2509] Loppersum", "Location" : "Loppersum", "Subtitle" : "Hinte", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link: ", "LText1": "zur Karte EJ 1926", "ML1": "GEO-LEOe-docs","Link1": "http://dx.doi.org/10.23689/fidgeo-2223","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.333, 53.500],[7.500, 53.500],[7.500, 53.400],[7.333, 53.400],[7.333, 53.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 2510] Aurich", "Location" : "Aurich", "Subtitle" : "-", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bestellen (FID GEO)", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2510] Aurich", "Location" : "Aurich", "Subtitle" : "-", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link: ", "LText1": "zur Karte EJ 1935", "ML1": "GEO-LEOe-docs","Link1": "http://dx.doi.org/10.23689/fidgeo-2224","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.500, 53.500],[7.667, 53.500],[7.667, 53.400],[7.500, 53.400],[7.500, 53.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 2511] Holtrop", "Location" : "Holtrop", "Subtitle" : "Ostgroßefehn", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bestellen (FID GEO)", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2511] Holtrop", "Location" : "Holtrop", "Subtitle" : "Ostgroßefehn", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link: ", "LText1": "zur Karte EJ 1935", "ML1": "GEO-LEOe-docs","Link1": "http://dx.doi.org/10.23689/fidgeo-2226","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -702,13 +702,13 @@ var geojson={ "type" : "FeatureCollection",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.000, 53.400],[7.167, 53.400],[7.167, 53.300],[7.000, 53.300],[7.000, 53.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 2608] Loquard", "Location" : "Loquard", "Subtitle" : "Emden West", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bestellen (FID GEO)", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2608] Loquard", "Location" : "Loquard", "Subtitle" : "Emden West", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link: ", "LText1": "zur Karte EJ 1926", "ML1": "GEO-LEOe-docs","Link1": "http://dx.doi.org/10.23689/fidgeo-2225","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.333, 53.400],[7.500, 53.400],[7.500, 53.300],[7.333, 53.300],[7.333, 53.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 2610] Neermoor", "Location" : "Neermoor", "Subtitle" : "Moormerland", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bestellen (FID GEO)", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2610] Neermoor", "Location" : "Neermoor", "Subtitle" : "Moormerland", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link: ", "LText1": "zur Karte EJ 1928", "ML1": "GEO-LEOe-docs","Link1": "http://dx.doi.org/10.23689/fidgeo-2227","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -762,7 +762,7 @@ var geojson={ "type" : "FeatureCollection",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.167, 53.300],[7.333, 53.300],[7.333, 53.200],[7.167, 53.200],[7.167, 53.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 2709] Landschaftspolder", "Location" : "Landschaftspolder", "Subtitle" : "Dollart", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bestellen (FID GEO)", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2709] Landschaftspolder", "Location" : "Landschaftspolder", "Subtitle" : "Dollart", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link: ", "LText1": "zur Karte EJ 1928", "ML1": "GEO-LEOe-docs","Link1": "http://dx.doi.org/10.23689/fidgeo-2228","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -2352,7 +2352,7 @@ var geojson={ "type" : "FeatureCollection",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.167, 51.200],[16.333, 51.200],[16.333, 51.100],[16.167, 51.100],[16.167, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4863] Wahlstatt", "Location" : "Wahlstatt", "Subtitle" : "Legnickie Pole (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bestellen (FID GEO)", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4863] Wahlstatt", "Location" : "Wahlstatt", "Subtitle" : "Legnickie Pole (poln.)", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link: ", "LText1": "zur Karte EJ 1924", "ML1": "GEO-LEOe-docs","Link1": "http://dx.doi.org/10.23689/fidgeo-2229","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -2490,7 +2490,7 @@ var geojson={ "type" : "FeatureCollection",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [15.333, 51.100],[15.500, 51.100],[15.500, 51.000],[15.333, 51.000],[15.333, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4958] Greiffenberg a. Queis", "Location" : "Greiffenberg a. Queis", "Subtitle" : "Gryfów Śląski (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bestellen (FID GEO)", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4958] Greiffenberg a. Queis", "Location" : "Greiffenberg a. Queis", "Subtitle" : "Gryfów Śląski (poln.)", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link: ", "LText1": "zur Karte EJ 1935", "ML1": "GEO-LEOe-docs","Link1": "http://dx.doi.org/10.23689/fidgeo-2230","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -2766,7 +2766,7 @@ var geojson={ "type" : "FeatureCollection",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [15.333, 50.900],[15.500, 50.900],[15.500, 50.800],[15.333, 50.800],[15.333, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5158] Flinsberg-Strickerhäuser", "Location" : "Flinsberg-Strickerhäuser", "Subtitle" : "Świeradów-Zdrój (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bestellen (FID GEO)", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5158] Flinsberg-Strickerhäuser", "Location" : "Flinsberg-Strickerhäuser", "Subtitle" : "Świeradów-Zdrój (poln.)", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link: ", "LText1": "zur Karte EJ 1925", "ML1": "GEO-LEOe-docs","Link1": "http://dx.doi.org/10.23689/fidgeo-2231","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
