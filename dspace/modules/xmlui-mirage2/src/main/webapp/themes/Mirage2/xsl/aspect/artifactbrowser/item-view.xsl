@@ -110,7 +110,7 @@
 				<xsl:when test="dim:field[@element='type'] = 'article'">
 					<xsl:call-template name="itemSummaryView-DIM-title"/>
 					<xsl:call-template name="itemSummaryView-DIM-authors"/>
-					<i18n:text>xmlui.dri2xhtml.METS-1.0.item-date</i18n:text><xsl:call-template name="itemSummaryView-DIM-journal"/><xsl:call-template name="itemSummaryView-DIM-volume"/><xsl:call-template name="itemSummaryView-DIM-issue"/>; <xsl:call-template name="itemSummaryView-DIM-date"/>; <xsl:call-template name="itemSummaryView-DIM-pages"/>
+					<i18n:text>xmlui.dri2xhtml.METS-1.0.item-journal</i18n:text><xsl:call-template name="itemSummaryView-DIM-journal"/><xsl:call-template name="itemSummaryView-DIM-volume"/><xsl:call-template name="itemSummaryView-DIM-issue"/>; <xsl:call-template name="itemSummaryView-DIM-date"/>; <xsl:call-template name="itemSummaryView-DIM-pages"/>
 				</xsl:when>
 				<!--<xsl:when test="dim:field[@element='type'] = 'monograph">
 					
