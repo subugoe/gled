@@ -1620,7 +1620,7 @@ var geojson={ "type" : "FeatureCollection",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.667, 54.100],[16.833, 54.100],[16.833, 54.000],[16.667, 54.000],[16.667, 54.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 1966] Sydow", "Location" : "Sydow", "Subtitle" : "Żydowo (poln.)", "Layer": "GK25 / extern","Text": "Link:", "LText1": "zur Karte 1896", "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa","Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1966_Sydow_geognostisch-agronomische_1896.jpg","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1966] Sydow", "Location" : "Sydow", "Subtitle" : "Żydowo (poln.)", "Layer": "GK25 / extern","Text": "TESTLink:", "LText1": "zur Karte 1896", "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa","Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1966_Sydow_geognostisch-agronomische_1896.jpg","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -4932,3290 +4932,3290 @@ var geojson={ "type" : "FeatureCollection",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [21.000, 55.900],[21.167, 55.900],[21.167, 55.800],[21.000, 55.800],[21.000, 55.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 0192] Nimmersatt", "Location" : "Nimmersatt", "Subtitle" : "Nemirseta (litau.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%200192]%20Nimmersatt&creator=He%DF%20von%20Wichdorff,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 0192] Nimmersatt", "Location" : "Nimmersatt", "Subtitle" : "Nemirseta (litau.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%200192]%20Nimmersatt&creator=He%DF%20von%20Wichdorff,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [20.333, 54.800],[20.500, 54.800],[20.500, 54.700],[20.333, 54.700],[20.333, 54.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 1288] Königsberg (West)", "Location" : "Königsberg (West)", "Subtitle" : "Kaliningrad (russ.), Калинингра́д", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201288]%20K%C3%B6nigsberg%20(West)&creator=Kaunhowen,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1288] Königsberg (West)", "Location" : "Königsberg (West)", "Subtitle" : "Kaliningrad (russ.), Калинингра́д", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201288]%20K%C3%B6nigsberg%20(West)&creator=Kaunhowen,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [20.500, 54.800],[20.667, 54.800],[20.667, 54.700],[20.500, 54.700],[20.500, 54.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 1289] Königsberg (Ost)", "Location" : "Königsberg (Ost)", "Subtitle" : "Kaliningrad (russ.), Калинингра́д", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201289]%20K%C3%B6nigsberg%20(Ost)&creator=He%DF%20v.%20Wichdorff,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1289] Königsberg (Ost)", "Location" : "Königsberg (Ost)", "Subtitle" : "Kaliningrad (russ.), Калинингра́д", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201289]%20K%C3%B6nigsberg%20(Ost)&creator=He%DF%20v.%20Wichdorff,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [20.500, 54.700],[20.667, 54.700],[20.667, 54.600],[20.500, 54.600],[20.500, 54.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 1389] Ludwigswalde", "Location" : "Ludwigswalde", "Subtitle" : "Lesnoje (russ.), Лесное", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201389]%20Ludwigswalde&creator=He%DF%20v.%20Wichdorff,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1389] Ludwigswalde", "Location" : "Ludwigswalde", "Subtitle" : "Lesnoje (russ.), Лесное", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201389]%20Ludwigswalde&creator=He%DF%20v.%20Wichdorff,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.333, 54.600],[16.667, 54.600],[16.667, 54.500],[16.333, 54.500],[16.333, 54.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 1464 / 1465] Lanzig mit Vitte", "Location" : "Lanzig mit Vitte", "Subtitle" : "Lacko (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201464%20/%201465]%20Lanzig%20mit%20Vitte&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1464 / 1465] Lanzig mit Vitte", "Location" : "Lanzig mit Vitte", "Subtitle" : "Lacko (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201464%20/%201465]%20Lanzig%20mit%20Vitte&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.667, 54.600],[16.833, 54.600],[16.833, 54.500],[16.667, 54.500],[16.667, 54.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 1466] Saleske", "Location" : "Saleske", "Subtitle" : "Zaleskie (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201466]%20Saleske&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1466] Saleske", "Location" : "Saleske", "Subtitle" : "Zaleskie (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201466]%20Saleske&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [20.500, 54.600],[20.667, 54.600],[20.667, 54.500],[20.500, 54.500],[20.500, 54.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 1489] Tharau", "Location" : "Tharau", "Subtitle" : "Wladimirowo (russ.), Влади́мирово", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201489]%20Tharau&creator=He%DF%20von%20Wichdorff,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1489] Tharau", "Location" : "Tharau", "Subtitle" : "Wladimirowo (russ.), Влади́мирово", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201489]%20Tharau&creator=He%DF%20von%20Wichdorff,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.500, 54.500],[16.667, 54.500],[16.667, 54.400],[16.500, 54.400],[16.500, 54.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 1565] Grupenhagen", "Location" : "Grupenhagen", "Subtitle" : "Krupy (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201565]%20Grupenhagen&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1565] Grupenhagen", "Location" : "Grupenhagen", "Subtitle" : "Krupy (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201565]%20Grupenhagen&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [18.500, 54.500],[18.667, 54.500],[18.667, 54.400],[18.500, 54.400],[18.500, 54.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 1577] Oliva", "Location" : "Oliva", "Subtitle" : "Sopot (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201577]%20Oliva&creator=Zeise,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1577] Oliva", "Location" : "Oliva", "Subtitle" : "Sopot (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201577]%20Oliva&creator=Zeise,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [19.500, 54.500],[19.667, 54.500],[19.667, 54.400],[19.500, 54.400],[19.500, 54.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 1583] Neukrug", "Location" : "Neukrug", "Subtitle" : "Nowa Karczma (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201583]%20Neukrug&creator=Klautzsch,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1583] Neukrug", "Location" : "Neukrug", "Subtitle" : "Nowa Karczma (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201583]%20Neukrug&creator=Klautzsch,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.333, 54.400],[16.500, 54.400],[16.500, 54.300],[16.333, 54.300],[16.333, 54.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 1664] Altenhagen", "Location" : "Altenhagen", "Subtitle" : "Jeżyce", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201664]%20Altenhagen&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1664] Altenhagen", "Location" : "Altenhagen", "Subtitle" : "Jeżyce", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201664]%20Altenhagen&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [18.667, 54.400],[18.833, 54.400],[18.833, 54.300],[18.667, 54.300],[18.667, 54.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 1678] Weichselmünde, Neufahrwasser", "Location" : "Weichselmünde, Neufahrwasser", "Subtitle" : "Wisloujscie-Gdanski (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201678]%20Weichselm%C3%BCnde,%20Neufahrwasser&creator=Zeise,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1678] Weichselmünde, Neufahrwasser", "Location" : "Weichselmünde, Neufahrwasser", "Subtitle" : "Wisloujscie-Gdanski (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201678]%20Weichselm%C3%BCnde,%20Neufahrwasser&creator=Zeise,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [15.667, 54.300],[15.833, 54.300],[15.833, 54.200],[15.667, 54.200],[15.667, 54.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 1760] Lassehne", "Location" : "Lassehne", "Subtitle" : "Łasin Koszaliński", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201760]%20Lassehne&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1760] Lassehne", "Location" : "Lassehne", "Subtitle" : "Łasin Koszaliński", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201760]%20Lassehne&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.500, 54.300],[16.667, 54.300],[16.667, 54.200],[16.500, 54.200],[16.500, 54.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 1765] Zirchow", "Location" : "Zirchow", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201765]%20Zirchow&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1765] Zirchow", "Location" : "Zirchow", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201765]%20Zirchow&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.667, 54.300],[16.833, 54.300],[16.833, 54.200],[16.667, 54.200],[16.667, 54.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 1766] Wussow", "Location" : "Wussow", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201766]%20Wussow&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1766] Wussow", "Location" : "Wussow", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201766]%20Wussow&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [20.667, 54.300],[20.833, 54.300],[20.833, 54.200],[20.667, 54.200],[20.667, 54.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 1790] Bartenstein", "Location" : "Bartenstein", "Subtitle" : "Bartoszyce (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201790]%20Bartenstein&creator=Klebs,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1790] Bartenstein", "Location" : "Bartenstein", "Subtitle" : "Bartoszyce (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201790]%20Bartenstein&creator=Klebs,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [21.000, 54.300],[21.167, 54.300],[21.167, 54.200],[21.000, 54.200],[21.000, 54.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 1792] Schippenbeil", "Location" : "Schippenbeil", "Subtitle" : "Sepopol (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201792]%20Schippenbeil&creator=Klebs,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1792] Schippenbeil", "Location" : "Schippenbeil", "Subtitle" : "Sepopol (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201792]%20Schippenbeil&creator=Klebs,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [21.500, 54.300],[21.667, 54.300],[21.667, 54.200],[21.500, 54.200],[21.500, 54.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 1795] Drengfurth", "Location" : "Drengfurth", "Subtitle" : "Srokowo (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201795]%20Drengfurth&creator=Kaunhowen,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1795] Drengfurth", "Location" : "Drengfurth", "Subtitle" : "Srokowo (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201795]%20Drengfurth&creator=Kaunhowen,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [21.667, 54.300],[21.833, 54.300],[21.833, 54.200],[21.667, 54.200],[21.667, 54.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 1796] Angerburg", "Location" : "Angerburg", "Subtitle" : "Węgorzewo (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201796]%20Angerburg&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1796] Angerburg", "Location" : "Angerburg", "Subtitle" : "Węgorzewo (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201796]%20Angerburg&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [15.500, 54.200],[15.667, 54.200],[15.667, 54.100],[15.500, 54.100],[15.500, 54.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 1859] Kolberg", "Location" : "Kolberg", "Subtitle" : "Kolobrzeg (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201859]%20Kolberg&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1859] Kolberg", "Location" : "Kolberg", "Subtitle" : "Kolobrzeg (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201859]%20Kolberg&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [15.667, 54.200],[15.833, 54.200],[15.833, 54.100],[15.667, 54.100],[15.667, 54.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 1860] Degow", "Location" : "Degow", "Subtitle" : "Dygowo (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201860]%20Degow&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1860] Degow", "Location" : "Degow", "Subtitle" : "Dygowo (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201860]%20Degow&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.000, 54.200],[16.167, 54.200],[16.167, 54.100],[16.000, 54.100],[16.000, 54.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 1862] Alt-Belz", "Location" : "Alt-Belz", "Subtitle" : "Stare Bielice (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201862]%20Alt-Belz&creator=Menzel,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1862] Alt-Belz", "Location" : "Alt-Belz", "Subtitle" : "Stare Bielice (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201862]%20Alt-Belz&creator=Menzel,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.333, 54.200],[16.500, 54.200],[16.500, 54.100],[16.333, 54.100],[16.333, 54.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 1864] Kösternitz", "Location" : "Kösternitz", "Subtitle" : "Kościernica (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201864]%20K%C3%B6sternitz&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1864] Kösternitz", "Location" : "Kösternitz", "Subtitle" : "Kościernica (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201864]%20K%C3%B6sternitz&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.667, 54.200],[16.833, 54.200],[16.833, 54.100],[16.667, 54.100],[16.667, 54.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 1866] Pollnow", "Location" : "Pollnow", "Subtitle" : "Polanow (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201866]%20Pollnow&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1866] Pollnow", "Location" : "Pollnow", "Subtitle" : "Polanow (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201866]%20Pollnow&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [20.500, 54.200],[20.667, 54.200],[20.667, 54.100],[20.500, 54.100],[20.500, 54.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 1889] Heilsberg", "Location" : "Heilsberg", "Subtitle" : "Lidzbark Warminski (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201889]%20Heilsberg&creator=Klebs,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1889] Heilsberg", "Location" : "Heilsberg", "Subtitle" : "Lidzbark Warminski (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201889]%20Heilsberg&creator=Klebs,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [21.167, 54.200],[21.333, 54.200],[21.333, 54.100],[21.167, 54.100],[21.167, 54.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 1893] Lamgarben", "Location" : "Lamgarben", "Subtitle" : "Garbno (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201893]%20Lamgarben&creator=Klebs,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1893] Lamgarben", "Location" : "Lamgarben", "Subtitle" : "Garbno (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201893]%20Lamgarben&creator=Klebs,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [21.500, 54.200],[21.667, 54.200],[21.667, 54.100],[21.500, 54.100],[21.500, 54.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 1895] Rosengarten", "Location" : "Rosengarten", "Subtitle" : "Radzieje (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201895]%20Rosengarten&creator=Kaunhowen,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1895] Rosengarten", "Location" : "Rosengarten", "Subtitle" : "Radzieje (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201895]%20Rosengarten&creator=Kaunhowen,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [21.667, 54.200],[21.833, 54.200],[21.833, 54.100],[21.667, 54.100],[21.667, 54.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 1896] Gr. Steinort", "Location" : "Gr. Steinort", "Subtitle" : "Kamionek Wielki (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201896]%20Gr.%20Steinort&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1896] Gr. Steinort", "Location" : "Gr. Steinort", "Subtitle" : "Kamionek Wielki (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201896]%20Gr.%20Steinort&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [15.333, 54.100],[15.500, 54.100],[15.500, 54.000],[15.333, 54.000],[15.333, 54.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 1958] Gützlaffshagen", "Location" : "Gützlaffshagen", "Subtitle" : "Goslaw (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201958]%20G%C3%BCtzlaffshagen&creator=Berendt,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1958] Gützlaffshagen", "Location" : "Gützlaffshagen", "Subtitle" : "Goslaw (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201958]%20G%C3%BCtzlaffshagen&creator=Berendt,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.000, 54.100],[16.167, 54.100],[16.167, 54.000],[16.000, 54.000],[16.000, 54.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 1962] Bulgrin", "Location" : "Bulgrin", "Subtitle" : "Białogórzyno (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201962]%20Bulgrin&creator=Menzel,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1962] Bulgrin", "Location" : "Bulgrin", "Subtitle" : "Białogórzyno (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201962]%20Bulgrin&creator=Menzel,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [21.333, 54.100],[21.500, 54.100],[21.500, 54.000],[21.333, 54.000],[21.333, 54.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 1994] Rastenburg", "Location" : "Rastenburg", "Subtitle" : "Kętrzyn (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201994]%20Rastenburg&creator=Klautzsch,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1994] Rastenburg", "Location" : "Rastenburg", "Subtitle" : "Kętrzyn (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201994]%20Rastenburg&creator=Klautzsch,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [21.667, 54.100],[21.833, 54.100],[21.833, 54.000],[21.667, 54.000],[21.667, 54.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 1996] Lötzen", "Location" : "Lötzen", "Subtitle" : "Gizycko (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201996]%20L%C3%B6tzen&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1996] Lötzen", "Location" : "Lötzen", "Subtitle" : "Gizycko (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201996]%20L%C3%B6tzen&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [21.833, 54.100],[22.000, 54.100],[22.000, 54.000],[21.833, 54.000],[21.833, 54.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 1997] Kruglanken", "Location" : "Kruglanken", "Subtitle" : "Kruklanki (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201997]%20Kruglanken&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1997] Kruglanken", "Location" : "Kruglanken", "Subtitle" : "Kruklanki (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201997]%20Kruglanken&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [22.167, 54.100],[22.333, 54.100],[22.333, 54.000],[22.167, 54.000],[22.167, 54.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 1999] Rogonnen/Czychen", "Location" : "Rogonnen/Czychen", "Subtitle" : "Cichy (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201999]%20Rogonnen/Czychen&creator=Harbort,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 1999] Rogonnen/Czychen", "Location" : "Rogonnen/Czychen", "Subtitle" : "Cichy (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%201999]%20Rogonnen/Czychen&creator=Harbort,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.333, 54.000],[8.667, 54.000],[8.667, 53.800],[8.500, 53.800],[8.500, 53.900],[8.333, 53.900],[8.333, 54.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 2016 / 2017 / 2117] Altenwalde, Insel Neuwerk u. Insel Scharhörn", "Location" : "Altenwalde, Insel Neuwerk u. Insel Scharhörn", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202016%20/%202017%20/%202117]%20Altenwalde,%20Insel%20Neuwerk%20u.%20Insel%20Scharh%C3%B6rn&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2016 / 2017 / 2117] Altenwalde, Insel Neuwerk u. Insel Scharhörn", "Location" : "Altenwalde, Insel Neuwerk u. Insel Scharhörn", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202016%20/%202017%20/%202117]%20Altenwalde,%20Insel%20Neuwerk%20u.%20Insel%20Scharh%C3%B6rn&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.500, 54.000],[10.000, 54.000],[10.000, 53.900],[10.500, 53.900],[10.500, 54.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 2029 / 2030 / 2031] Curau, Schwartau, Travemünde", "Location" : "Curau, Schwartau, Travemünde", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202029%20/%202030%20/%202031]%20Curau,%20Schwartau,%20Travem%C3%BCnde&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2029 / 2030 / 2031] Curau, Schwartau, Travemünde", "Location" : "Curau, Schwartau, Travemünde", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202029%20/%202030%20/%202031]%20Curau,%20Schwartau,%20Travem%C3%BCnde&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.000, 54.000],[16.167, 54.000],[16.167, 53.900],[16.000, 53.900],[16.000, 54.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 2062] Boissin", "Location" : "Boissin", "Subtitle" : "Byszyno (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202062]%20Boissin&creator=Schneider,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2062] Boissin", "Location" : "Boissin", "Subtitle" : "Byszyno (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202062]%20Boissin&creator=Schneider,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.167, 54.000],[16.333, 54.000],[16.333, 53.900],[16.167, 53.900],[16.167, 54.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 2063] Groß Tychow", "Location" : "Groß Tychow", "Subtitle" : "Tychowo (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202063]%20Gro%DF%20Tychow&creator=Finckh,%20L.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2063] Groß Tychow", "Location" : "Groß Tychow", "Subtitle" : "Tychowo (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202063]%20Gro%DF%20Tychow&creator=Finckh,%20L.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.333, 54.000],[16.500, 54.000],[16.500, 53.900],[16.333, 53.900],[16.333, 54.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 2064] Voldekow", "Location" : "Voldekow", "Subtitle" : "Wełdkowo (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202064]%20Voldekow&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2064] Voldekow", "Location" : "Voldekow", "Subtitle" : "Wełdkowo (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202064]%20Voldekow&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.500, 54.000],[16.667, 54.000],[16.667, 53.900],[16.500, 53.900],[16.500, 54.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 2065] Bublitz", "Location" : "Bublitz", "Subtitle" : "Bobolice (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202065]%20Bublitz&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2065] Bublitz", "Location" : "Bublitz", "Subtitle" : "Bobolice (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202065]%20Bublitz&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [21.000, 54.000],[21.167, 54.000],[21.167, 53.900],[21.000, 53.900],[21.000, 54.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 2092] Kabienen/Cabienen", "Location" : "Kabienen/Cabienen", "Subtitle" : "Kabiny (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202092]%20Kabienen/Cabienen&creator=Krause,%20P.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2092] Kabienen/Cabienen", "Location" : "Kabienen/Cabienen", "Subtitle" : "Kabiny (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202092]%20Kabienen/Cabienen&creator=Krause,%20P.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [21.167, 54.000],[21.333, 54.000],[21.333, 53.900],[21.167, 53.900],[21.167, 54.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 2093] Giesenau/Seehesten", "Location" : "Giesenau/Seehesten", "Subtitle" : "Olsztyn (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202093]%20Giesenau/Seehesten&creator=Klautzsch,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2093] Giesenau/Seehesten", "Location" : "Giesenau/Seehesten", "Subtitle" : "Olsztyn (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202093]%20Giesenau/Seehesten&creator=Klautzsch,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.667, 53.900],[8.833, 53.900],[8.833, 53.800],[8.667, 53.800],[8.667, 53.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 2118] Cuxhaven", "Location" : "Cuxhaven", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202118]%20Cuxhaven&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2118] Cuxhaven", "Location" : "Cuxhaven", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202118]%20Cuxhaven&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.500, 53.900],[10.667, 53.900],[10.667, 53.800],[10.500, 53.800],[10.500, 53.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 2129] Hamberge", "Location" : "Hamberge", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202129]%20Hamberge&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2129] Hamberge", "Location" : "Hamberge", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202129]%20Hamberge&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.667, 53.900],[10.833, 53.900],[10.833, 53.800],[10.667, 53.800],[10.667, 53.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 2130] Lübeck", "Location" : "Lübeck", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202130]%20L%C3%BCbeck&creator=Friedrich,%20P.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2130] Lübeck", "Location" : "Lübeck", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202130]%20L%C3%BCbeck&creator=Friedrich,%20P.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [14.000, 53.900],[14.167, 53.900],[14.167, 53.800],[14.000, 53.800],[14.000, 53.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 2150] Zirchow", "Location" : "Zirchow", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202150]%20Zirchow&creator=Klautzsch,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2150] Zirchow", "Location" : "Zirchow", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202150]%20Zirchow&creator=Klautzsch,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [14.333, 53.900],[14.500, 53.900],[14.500, 53.800],[14.333, 53.800],[14.333, 53.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 2152] Lebbin", "Location" : "Lebbin", "Subtitle" : "Lubin (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202152]%20Lebbin&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2152] Lebbin", "Location" : "Lebbin", "Subtitle" : "Lubin (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202152]%20Lebbin&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.333, 53.900],[16.500, 53.900],[16.500, 53.800],[16.333, 53.800],[16.333, 53.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 2164] Gramenz", "Location" : "Gramenz", "Subtitle" : "Grzmiaca (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202164]%20Gramenz&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2164] Gramenz", "Location" : "Gramenz", "Subtitle" : "Grzmiaca (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202164]%20Gramenz&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [18.833, 53.900],[19.000, 53.900],[19.000, 53.800],[18.833, 53.800],[18.833, 53.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 2179] Rehhof", "Location" : "Rehhof", "Subtitle" : "Ryjewo (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202179]%20Rehhof&creator=Jentzsch,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2179] Rehhof", "Location" : "Rehhof", "Subtitle" : "Ryjewo (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202179]%20Rehhof&creator=Jentzsch,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [20.667, 53.900],[20.833, 53.900],[20.833, 53.800],[20.667, 53.800],[20.667, 53.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 2190] Wartenburg", "Location" : "Wartenburg", "Subtitle" : "Barczewo (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202190]%20Wartenburg&creator=Klautzsch,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2190] Wartenburg", "Location" : "Wartenburg", "Subtitle" : "Barczewo (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202190]%20Wartenburg&creator=Klautzsch,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [21.000, 53.900],[21.167, 53.900],[21.167, 53.800],[21.000, 53.800],[21.000, 53.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 2192] Sorquitten", "Location" : "Sorquitten", "Subtitle" : "Sorkwity (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202192]%20Sorquitten&creator=Klautzsch,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2192] Sorquitten", "Location" : "Sorquitten", "Subtitle" : "Sorkwity (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202192]%20Sorquitten&creator=Klautzsch,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.167, 53.800],[7.333, 53.800],[7.333, 53.700],[7.167, 53.700],[7.167, 53.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 2209] Norderney", "Location" : "Norderney", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202209]%20Norderney&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2209] Norderney", "Location" : "Norderney", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202209]%20Norderney&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.333, 53.800],[7.500, 53.800],[7.500, 53.700],[7.333, 53.700],[7.333, 53.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 2210] Baltrum", "Location" : "Baltrum", "Subtitle" : "Langeoog West", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202210]%20Baltrum&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2210] Baltrum", "Location" : "Baltrum", "Subtitle" : "Langeoog West", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202210]%20Baltrum&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.500, 53.800],[7.667, 53.800],[7.667, 53.700],[7.500, 53.700],[7.500, 53.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 2211] Langeoog (Ostende)", "Location" : "Langeoog (Ostende)", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202211]%20Langeoog%20(Ostende)&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2211] Langeoog (Ostende)", "Location" : "Langeoog (Ostende)", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202211]%20Langeoog%20(Ostende)&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.667, 53.800],[7.833, 53.800],[7.833, 53.700],[7.667, 53.700],[7.667, 53.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 2212] Spiekeroog", "Location" : "Spiekeroog", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202212]%20Spiekeroog&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2212] Spiekeroog", "Location" : "Spiekeroog", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202212]%20Spiekeroog&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.500, 53.800],[8.667, 53.800],[8.667, 53.700],[8.500, 53.700],[8.500, 53.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 2217] Midlum in Hannover", "Location" : "Midlum in Hannover", "Subtitle" : "Nordholz", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202217]%20Midlum%20in%20Hannover&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2217] Midlum in Hannover", "Location" : "Midlum in Hannover", "Subtitle" : "Nordholz", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202217]%20Midlum%20in%20Hannover&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.667, 53.800],[8.833, 53.800],[8.833, 53.700],[8.667, 53.700],[8.667, 53.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 2218] Westerwanna", "Location" : "Westerwanna", "Subtitle" : "Wanna", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202218]%20Westerwanna&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2218] Westerwanna", "Location" : "Westerwanna", "Subtitle" : "Wanna", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202218]%20Westerwanna&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.000, 53.800],[9.167, 53.800],[9.167, 53.700],[9.000, 53.700],[9.000, 53.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 2220] Kadenberge", "Location" : "Kadenberge", "Subtitle" : "Cadenberge", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202220]%20Kadenberge&creator=Schr%C3%B6der,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2220] Kadenberge", "Location" : "Kadenberge", "Subtitle" : "Cadenberge", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202220]%20Kadenberge&creator=Schr%C3%B6der,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.167, 53.800],[9.333, 53.800],[9.333, 53.700],[9.167, 53.700],[9.167, 53.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 2221] Hamelwörden", "Location" : "Hamelwörden", "Subtitle" : "Wischhafen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202221]%20Hamelw%C3%B6rden&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2221] Hamelwörden", "Location" : "Hamelwörden", "Subtitle" : "Wischhafen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202221]%20Hamelw%C3%B6rden&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.500, 53.800],[10.667, 53.800],[10.667, 53.700],[10.500, 53.700],[10.500, 53.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 2229] Krummesse", "Location" : "Krummesse", "Subtitle" : "Crummesse", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202229]%20Krummesse&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2229] Krummesse", "Location" : "Krummesse", "Subtitle" : "Crummesse", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202229]%20Krummesse&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.667, 53.800],[10.833, 53.800],[10.833, 53.700],[10.667, 53.700],[10.667, 53.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 2230] Ratzeburg", "Location" : "Ratzeburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202230]%20Ratzeburg&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2230] Ratzeburg", "Location" : "Ratzeburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202230]%20Ratzeburg&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.833, 53.800],[11.000, 53.800],[11.000, 53.700],[10.833, 53.700],[10.833, 53.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 2231] Carlow", "Location" : "Carlow", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202231]%20Carlow&creator=B%C3%A4rtling,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2231] Carlow", "Location" : "Carlow", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202231]%20Carlow&creator=B%C3%A4rtling,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [14.833, 53.800],[15.000, 53.800],[15.000, 53.700],[14.833, 53.700],[14.833, 53.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 2255] Moratz", "Location" : "Moratz", "Subtitle" : "Moracz (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202255]%20Moratz&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2255] Moratz", "Location" : "Moratz", "Subtitle" : "Moracz (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202255]%20Moratz&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.000, 53.800],[16.167, 53.800],[16.167, 53.700],[16.000, 53.700],[16.000, 53.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 2262] Polzin", "Location" : "Polzin", "Subtitle" : "Połczyn Zdrój (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202262]%20Polzin&creator=Schneider,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2262] Polzin", "Location" : "Polzin", "Subtitle" : "Połczyn Zdrój (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202262]%20Polzin&creator=Schneider,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.333, 53.800],[16.500, 53.800],[16.500, 53.700],[16.333, 53.700],[16.333, 53.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 2264] Bärwalde", "Location" : "Bärwalde", "Subtitle" : "Barwice (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202264]%20B%C3%A4rwalde&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2264] Bärwalde", "Location" : "Bärwalde", "Subtitle" : "Barwice (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202264]%20B%C3%A4rwalde&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.667, 53.700],[6.833, 53.700],[6.833, 53.600],[6.667, 53.600],[6.667, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2306] Borkum", "Location" : "Borkum", "Subtitle" : "Borkum Nord", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202306]%20Borkum&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2306] Borkum", "Location" : "Borkum", "Subtitle" : "Borkum Nord", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202306]%20Borkum&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.833, 53.700],[7.000, 53.700],[7.000, 53.600],[6.833, 53.600],[6.833, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2307] Juist West", "Location" : "Juist West", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202307]%20Juist%20West&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2307] Juist West", "Location" : "Juist West", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202307]%20Juist%20West&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.000, 53.700],[7.167, 53.700],[7.167, 53.600],[7.000, 53.600],[7.000, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2308] Juist Ost", "Location" : "Juist Ost", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202308]%20Juist%20Ost&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2308] Juist Ost", "Location" : "Juist Ost", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202308]%20Juist%20Ost&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.167, 53.700],[7.333, 53.700],[7.333, 53.600],[7.167, 53.600],[7.167, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2309] Hage", "Location" : "Hage", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202309]%20Hage&creator=Wildvang,%20D.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2309] Hage", "Location" : "Hage", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202309]%20Hage&creator=Wildvang,%20D.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.333, 53.700],[7.500, 53.700],[7.500, 53.600],[7.333, 53.600],[7.333, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2310] Dornum", "Location" : "Dornum", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202310]%20Dornum&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2310] Dornum", "Location" : "Dornum", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202310]%20Dornum&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.500, 53.700],[7.667, 53.700],[7.667, 53.600],[7.500, 53.600],[7.500, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2311] Esens", "Location" : "Esens", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202311]%20Esens&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2311] Esens", "Location" : "Esens", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202311]%20Esens&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.667, 53.700],[7.833, 53.700],[7.833, 53.600],[7.667, 53.600],[7.667, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2312] Karolinensiel", "Location" : "Karolinensiel", "Subtitle" : "Carolinensiel", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202312]%20Karolinensiel&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2312] Karolinensiel", "Location" : "Karolinensiel", "Subtitle" : "Carolinensiel", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202312]%20Karolinensiel&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.000, 53.700],[9.167, 53.700],[9.167, 53.600],[9.000, 53.600],[9.000, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2320] Lamstedt", "Location" : "Lamstedt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202320]%20Lamstedt&creator=Schr%C3%B6der,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2320] Lamstedt", "Location" : "Lamstedt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202320]%20Lamstedt&creator=Schr%C3%B6der,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.167, 53.700],[9.333, 53.700],[9.333, 53.600],[9.167, 53.600],[9.167, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2321] Himmelpforten", "Location" : "Himmelpforten", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202321]%20Himmelpforten&creator=Monke,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2321] Himmelpforten", "Location" : "Himmelpforten", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202321]%20Himmelpforten&creator=Monke,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.333, 53.700],[9.500, 53.700],[9.500, 53.600],[9.333, 53.600],[9.333, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2322] Stade", "Location" : "Stade", "Subtitle" : "Stade Nord", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202322]%20Stade&creator=Schr%C3%B6der,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2322] Stade", "Location" : "Stade", "Subtitle" : "Stade Nord", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202322]%20Stade&creator=Schr%C3%B6der,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.500, 53.700],[9.667, 53.700],[9.667, 53.600],[9.500, 53.600],[9.500, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2323] Ütersen", "Location" : "Ütersen", "Subtitle" : "Uetersen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202323]%20%C3%BCtersen&creator=Monke,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2323] Ütersen", "Location" : "Ütersen", "Subtitle" : "Uetersen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202323]%20%C3%BCtersen&creator=Monke,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.667, 53.700],[9.833, 53.700],[9.833, 53.600],[9.667, 53.600],[9.667, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2324] Pinneberg", "Location" : "Pinneberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202324]%20Pinneberg&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2324] Pinneberg", "Location" : "Pinneberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202324]%20Pinneberg&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.833, 53.700],[10.000, 53.700],[10.000, 53.600],[9.833, 53.600],[9.833, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2325] Niendorf", "Location" : "Niendorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202325]%20Niendorf&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2325] Niendorf", "Location" : "Niendorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202325]%20Niendorf&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.167, 53.700],[10.333, 53.700],[10.333, 53.600],[10.167, 53.600],[10.167, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2327] Ahrensburg", "Location" : "Ahrensburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202327]%20Ahrensburg&creator=Harbort,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2327] Ahrensburg", "Location" : "Ahrensburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202327]%20Ahrensburg&creator=Harbort,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.500, 53.700],[10.667, 53.700],[10.667, 53.600],[10.500, 53.600],[10.500, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2329] Nusse", "Location" : "Nusse", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202329]%20Nusse&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2329] Nusse", "Location" : "Nusse", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202329]%20Nusse&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.667, 53.700],[10.833, 53.700],[10.833, 53.600],[10.667, 53.600],[10.667, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2330] Mölln", "Location" : "Mölln", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202330]%20M%C3%B6lln&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2330] Mölln", "Location" : "Mölln", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202330]%20M%C3%B6lln&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.833, 53.700],[11.000, 53.700],[11.000, 53.600],[10.833, 53.600],[10.833, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2331 / 2332] Seedorf, Gr. Salitz", "Location" : "Seedorf, Gr. Salitz", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202331%20/%202332]%20Seedorf,%20Gr.%20Salitz&creator=B%C3%A4rtling,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2331 / 2332] Seedorf, Gr. Salitz", "Location" : "Seedorf, Gr. Salitz", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202331%20/%202332]%20Seedorf,%20Gr.%20Salitz&creator=B%C3%A4rtling,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [15.000, 53.700],[15.167, 53.700],[15.167, 53.600],[15.000, 53.600],[15.000, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2356] Naugard", "Location" : "Naugard", "Subtitle" : "Nowogard (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202356]%20Naugard&creator=Schmidt,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2356] Naugard", "Location" : "Naugard", "Subtitle" : "Nowogard (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202356]%20Naugard&creator=Schmidt,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [15.167, 53.700],[15.333, 53.700],[15.333, 53.600],[15.167, 53.600],[15.167, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2357] Farbezin", "Location" : "Farbezin", "Subtitle" : "Wierzbięcin (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202357]%20Farbezin&creator=Zeise,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2357] Farbezin", "Location" : "Farbezin", "Subtitle" : "Wierzbięcin (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202357]%20Farbezin&creator=Zeise,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [15.500, 53.700],[15.667, 53.700],[15.667, 53.600],[15.500, 53.600],[15.500, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2359] Labes", "Location" : "Labes", "Subtitle" : "Łobez (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202359]%20Labes&creator=He%DF%20v.%20Wichdorff,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2359] Labes", "Location" : "Labes", "Subtitle" : "Łobez (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202359]%20Labes&creator=He%DF%20v.%20Wichdorff,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [19.000, 53.700],[19.167, 53.700],[19.167, 53.600],[19.000, 53.600],[19.000, 53.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 2380] Niederzehren", "Location" : "Niederzehren", "Subtitle" : "Czarne Dolne (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202380]%20Niederzehren&creator=Jentzsch,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2380] Niederzehren", "Location" : "Niederzehren", "Subtitle" : "Czarne Dolne (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202380]%20Niederzehren&creator=Jentzsch,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.333, 53.600],[7.500, 53.600],[7.500, 53.500],[7.333, 53.500],[7.333, 53.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 2410] Westerholt", "Location" : "Westerholt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202410]%20Westerholt&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2410] Westerholt", "Location" : "Westerholt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202410]%20Westerholt&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.500, 53.600],[7.667, 53.600],[7.667, 53.500],[7.500, 53.500],[7.500, 53.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 2411] Middels", "Location" : "Middels", "Subtitle" : "Blomberg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202411]%20Middels&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2411] Middels", "Location" : "Middels", "Subtitle" : "Blomberg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202411]%20Middels&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.667, 53.600],[7.833, 53.600],[7.833, 53.500],[7.667, 53.500],[7.667, 53.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 2412] Wittmund", "Location" : "Wittmund", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202412]%20Wittmund&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2412] Wittmund", "Location" : "Wittmund", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202412]%20Wittmund&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.333, 53.600],[9.500, 53.600],[9.500, 53.500],[9.333, 53.500],[9.333, 53.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 2422] Hagen", "Location" : "Hagen", "Subtitle" : "Stade-S", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202422]%20Hagen&creator=Monke,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2422] Hagen", "Location" : "Hagen", "Subtitle" : "Stade-S", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202422]%20Hagen&creator=Monke,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.500, 53.600],[9.667, 53.600],[9.667, 53.500],[9.500, 53.500],[9.500, 53.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 2423] Horneburg", "Location" : "Horneburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202423]%20Horneburg&creator=Monke,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2423] Horneburg", "Location" : "Horneburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202423]%20Horneburg&creator=Monke,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.667, 53.600],[9.833, 53.600],[9.833, 53.500],[9.667, 53.500],[9.667, 53.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 2424] Wedel", "Location" : "Wedel", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202424]%20Wedel&creator=Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2424] Wedel", "Location" : "Wedel", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202424]%20Wedel&creator=Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.500, 53.600],[10.667, 53.600],[10.667, 53.500],[10.500, 53.500],[10.500, 53.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 2429] Siebeneichen", "Location" : "Siebeneichen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202429]%20Siebeneichen&creator=Gagel,%20C.;%20Schlunck,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2429] Siebeneichen", "Location" : "Siebeneichen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202429]%20Siebeneichen&creator=Gagel,%20C.;%20Schlunck,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.667, 53.600],[10.833, 53.600],[10.833, 53.500],[10.667, 53.500],[10.667, 53.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 2430] Gudow", "Location" : "Gudow", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202430]%20Gudow&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2430] Gudow", "Location" : "Gudow", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202430]%20Gudow&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.833, 53.600],[11.000, 53.600],[11.000, 53.500],[10.833, 53.500],[10.833, 53.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 2431] Zarrentin", "Location" : "Zarrentin", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202431]%20Zarrentin&creator=B%C3%A4rtling,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2431] Zarrentin", "Location" : "Zarrentin", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202431]%20Zarrentin&creator=B%C3%A4rtling,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [14.500, 53.600],[14.667, 53.600],[14.667, 53.500],[14.500, 53.500],[14.500, 53.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 2453] Pölitz", "Location" : "Pölitz", "Subtitle" : "Police (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202453]%20P%C3%B6litz&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2453] Pölitz", "Location" : "Pölitz", "Subtitle" : "Police (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202453]%20P%C3%B6litz&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [14.667, 53.600],[14.833, 53.600],[14.833, 53.500],[14.667, 53.500],[14.667, 53.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 2454] Gollnow", "Location" : "Gollnow", "Subtitle" : "Goleniów (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202454]%20Gollnow&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2454] Gollnow", "Location" : "Gollnow", "Subtitle" : "Goleniów (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202454]%20Gollnow&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [15.167, 53.600],[15.333, 53.600],[15.333, 53.500],[15.167, 53.500],[15.167, 53.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 2457] Daber", "Location" : "Daber", "Subtitle" : "Dobra (Łobez) (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202457]%20Daber&creator=Korn,%20J.;%20Stoller,%20J.;%20Zeise,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2457] Daber", "Location" : "Daber", "Subtitle" : "Dobra (Łobez) (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202457]%20Daber&creator=Korn,%20J.;%20Stoller,%20J.;%20Zeise,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.500, 53.500],[9.667, 53.500],[9.667, 53.400],[9.500, 53.400],[9.500, 53.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 2523] Harsefeld", "Location" : "Harsefeld", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202523]%20Harsefeld&creator=Monke,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2523] Harsefeld", "Location" : "Harsefeld", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202523]%20Harsefeld&creator=Monke,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.833, 53.500],[10.000, 53.500],[10.000, 53.400],[9.833, 53.400],[9.833, 53.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 2525] Harburg", "Location" : "Harburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202525]%20Harburg&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2525] Harburg", "Location" : "Harburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202525]%20Harburg&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.167, 53.500],[10.333, 53.500],[10.333, 53.400],[10.167, 53.400],[10.167, 53.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 2527] Bergedorf", "Location" : "Bergedorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202527]%20Bergedorf&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2527] Bergedorf", "Location" : "Bergedorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202527]%20Bergedorf&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.333, 53.500],[10.500, 53.500],[10.500, 53.400],[10.333, 53.400],[10.333, 53.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 2528] Hamwarde", "Location" : "Hamwarde", "Subtitle" : "Geesthacht", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202528]%20Hamwarde&creator=Gagel,%20C.;%20Schlunck,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2528] Hamwarde", "Location" : "Hamwarde", "Subtitle" : "Geesthacht", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202528]%20Hamwarde&creator=Gagel,%20C.;%20Schlunck,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.500, 53.500],[10.667, 53.500],[10.667, 53.400],[10.500, 53.400],[10.500, 53.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 2529] Pötrau", "Location" : "Pötrau", "Subtitle" : "Büchen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202529]%20P%C3%B6trau&creator=Gagel,%20C.;%20Schlunck,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2529] Pötrau", "Location" : "Pötrau", "Subtitle" : "Büchen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202529]%20P%C3%B6trau&creator=Gagel,%20C.;%20Schlunck,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.667, 53.500],[10.833, 53.500],[10.833, 53.400],[10.667, 53.400],[10.667, 53.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 2530] Gresse", "Location" : "Gresse", "Subtitle" : "Schwanheide", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202530]%20Gresse&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2530] Gresse", "Location" : "Gresse", "Subtitle" : "Schwanheide", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202530]%20Gresse&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [14.333, 53.500],[14.500, 53.500],[14.500, 53.400],[14.333, 53.400],[14.333, 53.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 2552] Kreckow", "Location" : "Kreckow", "Subtitle" : "Grambow", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202552]%20Kreckow&creator=M%C3%BCller,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2552] Kreckow", "Location" : "Kreckow", "Subtitle" : "Grambow", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202552]%20Kreckow&creator=M%C3%BCller,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [14.500, 53.500],[14.667, 53.500],[14.667, 53.400],[14.500, 53.400],[14.500, 53.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 2553] Stettin", "Location" : "Stettin", "Subtitle" : "Szczecin (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202553]%20Stettin&creator=Berendt,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2553] Stettin", "Location" : "Stettin", "Subtitle" : "Szczecin (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202553]%20Stettin&creator=Berendt,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [14.667, 53.500],[14.833, 53.500],[14.833, 53.400],[14.667, 53.400],[14.667, 53.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 2554] Gr. Christinenberg", "Location" : "Gr. Christinenberg", "Subtitle" : "Kliniska Wielkie (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202554]%20Gr.%20Christinenberg&creator=Berendt,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2554] Gr. Christinenberg", "Location" : "Gr. Christinenberg", "Subtitle" : "Kliniska Wielkie (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202554]%20Gr.%20Christinenberg&creator=Berendt,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [18.667, 53.500],[18.833, 53.500],[18.833, 53.400],[18.667, 53.400],[18.667, 53.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 2578] Graudenz", "Location" : "Graudenz", "Subtitle" : "Grudziadz (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202578]%20Graudenz&creator=Jentzsch,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2578] Graudenz", "Location" : "Graudenz", "Subtitle" : "Grudziadz (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202578]%20Graudenz&creator=Jentzsch,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.500, 53.400],[7.667, 53.400],[7.667, 53.300],[7.500, 53.300],[7.500, 53.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 2611] Hesel", "Location" : "Hesel", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202611]%20Hesel&creator=Wildvang,%20D.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2611] Hesel", "Location" : "Hesel", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202611]%20Hesel&creator=Wildvang,%20D.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.833, 53.400],[10.000, 53.400],[10.000, 53.300],[9.833, 53.300],[9.833, 53.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 2625] Hittfeld", "Location" : "Hittfeld", "Subtitle" : "Buchholz i.d.Nordheide", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202625]%20Hittfeld&creator=Koert,%20W.;%20M%C3%BCller,%20G.;%20Schlunck,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2625] Hittfeld", "Location" : "Hittfeld", "Subtitle" : "Buchholz i.d.Nordheide", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202625]%20Hittfeld&creator=Koert,%20W.;%20M%C3%BCller,%20G.;%20Schlunck,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.167, 53.400],[10.333, 53.400],[10.333, 53.300],[10.167, 53.300],[10.167, 53.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 2627] Winsen a. d. Luhe", "Location" : "Winsen a. d. Luhe", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202627]%20Winsen%20a.%20d.%20Luhe&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2627] Winsen a. d. Luhe", "Location" : "Winsen a. d. Luhe", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202627]%20Winsen%20a.%20d.%20Luhe&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.333, 53.400],[10.500, 53.400],[10.500, 53.300],[10.333, 53.300],[10.333, 53.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 2628] Artlenburg", "Location" : "Artlenburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202628]%20Artlenburg&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2628] Artlenburg", "Location" : "Artlenburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202628]%20Artlenburg&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.500, 53.400],[10.667, 53.400],[10.667, 53.300],[10.500, 53.300],[10.500, 53.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 2629] Lauenburg a. d. Elbe", "Location" : "Lauenburg a. d. Elbe", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202629]%20Lauenburg%20a.%20d.%20Elbe&creator=M%C3%BCller,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2629] Lauenburg a. d. Elbe", "Location" : "Lauenburg a. d. Elbe", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202629]%20Lauenburg%20a.%20d.%20Elbe&creator=M%C3%BCller,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [14.667, 53.400],[14.833, 53.400],[14.833, 53.300],[14.667, 53.300],[14.667, 53.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 2654] Alt-Damm", "Location" : "Alt-Damm", "Subtitle" : "Dąbie (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202654]%20Alt-Damm&creator=Wahnschaffe,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2654] Alt-Damm", "Location" : "Alt-Damm", "Subtitle" : "Dąbie (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202654]%20Alt-Damm&creator=Wahnschaffe,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [14.833, 53.400],[15.000, 53.400],[15.000, 53.300],[14.833, 53.300],[14.833, 53.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 2655] Kublank", "Location" : "Kublank", "Subtitle" : "Kobylanka (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202655]%20Kublank&creator=Korn,%20J.;%20Wunstorf,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2655] Kublank", "Location" : "Kublank", "Subtitle" : "Kobylanka (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202655]%20Kublank&creator=Korn,%20J.;%20Wunstorf,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [15.000, 53.400],[15.167, 53.400],[15.167, 53.300],[15.000, 53.300],[15.000, 53.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 2656] Stargard in Pommern", "Location" : "Stargard in Pommern", "Subtitle" : "Stargard Szczeciński", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202656]%20Stargard%20in%20Pommern&creator=Korn,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2656] Stargard in Pommern", "Location" : "Stargard in Pommern", "Subtitle" : "Stargard Szczeciński", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202656]%20Stargard%20in%20Pommern&creator=Korn,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.333, 53.300],[7.500, 53.300],[7.500, 53.200],[7.333, 53.200],[7.333, 53.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 2710] Leer", "Location" : "Leer", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202710]%20Leer&creator=Wildvang,%20D.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2710] Leer", "Location" : "Leer", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202710]%20Leer&creator=Wildvang,%20D.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.500, 53.300],[7.667, 53.300],[7.667, 53.200],[7.500, 53.200],[7.500, 53.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 2711] Nortmoor", "Location" : "Nortmoor", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202711]%20Nortmoor&creator=Wildvang,%20D.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2711] Nortmoor", "Location" : "Nortmoor", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202711]%20Nortmoor&creator=Wildvang,%20D.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.667, 53.300],[12.833, 53.300],[12.833, 53.200],[12.667, 53.200],[12.667, 53.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 2742] Mirow", "Location" : "Mirow", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202742]%20Mirow&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2742] Mirow", "Location" : "Mirow", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202742]%20Mirow&creator=Gagel,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [15.000, 53.300],[15.167, 53.300],[15.167, 53.200],[15.000, 53.200],[15.000, 53.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 2756] Kollin", "Location" : "Kollin", "Subtitle" : "Kolin (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202756]%20Kollin&creator=Soenderop,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2756] Kollin", "Location" : "Kollin", "Subtitle" : "Kolin (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202756]%20Kollin&creator=Soenderop,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.167, 53.200],[7.333, 53.200],[7.333, 53.100],[7.167, 53.100],[7.167, 53.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 2809] Bunde", "Location" : "Bunde", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202809]%20Bunde&creator=Wildvang,%20D.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2809] Bunde", "Location" : "Bunde", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202809]%20Bunde&creator=Wildvang,%20D.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.333, 53.200],[7.500, 53.200],[7.500, 53.100],[7.333, 53.100],[7.333, 53.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 2810] Weener", "Location" : "Weener", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202810]%20Weener&creator=Wildvang,%20D.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2810] Weener", "Location" : "Weener", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202810]%20Weener&creator=Wildvang,%20D.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.500, 53.200],[7.667, 53.200],[7.667, 53.100],[7.500, 53.100],[7.500, 53.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 2811] West-Rhauderfehn", "Location" : "West-Rhauderfehn", "Subtitle" : "Rhauderfehn", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202811]%20West-Rhauderfehn&creator=Wildvang,%20D.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2811] West-Rhauderfehn", "Location" : "West-Rhauderfehn", "Subtitle" : "Rhauderfehn", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202811]%20West-Rhauderfehn&creator=Wildvang,%20D.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.833, 53.200],[9.000, 53.200],[9.000, 53.100],[8.833, 53.100],[8.833, 53.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 2819] Lilienthal", "Location" : "Lilienthal", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202819]%20Lilienthal&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2819] Lilienthal", "Location" : "Lilienthal", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202819]%20Lilienthal&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [14.833, 53.200],[15.000, 53.200],[15.000, 53.100],[14.833, 53.100],[14.833, 53.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 2855] Pyritz", "Location" : "Pyritz", "Subtitle" : "Pyrzyce (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202855]%20Pyritz&creator=Soenderop,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2855] Pyritz", "Location" : "Pyritz", "Subtitle" : "Pyrzyce (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202855]%20Pyritz&creator=Soenderop,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [15.000, 53.200],[15.167, 53.200],[15.167, 53.100],[15.000, 53.100],[15.000, 53.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 2856] Prillwitz", "Location" : "Prillwitz", "Subtitle" : "Przelewice (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202856]%20Prillwitz&creator=Soenderop,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2856] Prillwitz", "Location" : "Prillwitz", "Subtitle" : "Przelewice (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202856]%20Prillwitz&creator=Soenderop,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [19.000, 53.200],[19.167, 53.200],[19.167, 53.100],[19.000, 53.100],[19.000, 53.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 2880] Gollub", "Location" : "Gollub", "Subtitle" : "Golub Dobrzyń (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202880]%20Gollub&creator=Jentzsch,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2880] Gollub", "Location" : "Gollub", "Subtitle" : "Golub Dobrzyń (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202880]%20Gollub&creator=Jentzsch,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.167, 53.100],[10.333, 53.100],[10.333, 53.000],[10.167, 53.000],[10.167, 53.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 2927] Wriedel", "Location" : "Wriedel", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202927]%20Wriedel&creator=Monke,%20H.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2927] Wriedel", "Location" : "Wriedel", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202927]%20Wriedel&creator=Monke,%20H.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.333, 53.100],[10.500, 53.100],[10.500, 53.000],[10.333, 53.000],[10.333, 53.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 2928] Ebstorf", "Location" : "Ebstorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202928]%20Ebstorf&creator=Harbort,%20E.;%20Monke,%20H.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2928] Ebstorf", "Location" : "Ebstorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202928]%20Ebstorf&creator=Harbort,%20E.;%20Monke,%20H.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.500, 53.100],[10.667, 53.100],[10.667, 53.000],[10.500, 53.000],[10.500, 53.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 2929] Bevensen", "Location" : "Bevensen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202929]%20Bevensen&creator=Monke,%20H.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2929] Bevensen", "Location" : "Bevensen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202929]%20Bevensen&creator=Monke,%20H.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [14.500, 53.100],[14.667, 53.100],[14.667, 53.000],[14.500, 53.000],[14.500, 53.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 2953] Wildenbruch", "Location" : "Wildenbruch", "Subtitle" : "Swobnica (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202953]%20Wildenbruch&creator=Gagel,%20C.;%20Michael,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2953] Wildenbruch", "Location" : "Wildenbruch", "Subtitle" : "Swobnica (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202953]%20Wildenbruch&creator=Gagel,%20C.;%20Michael,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [18.833, 53.100],[19.000, 53.100],[19.000, 53.000],[18.833, 53.000],[18.833, 53.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 2979] Schewen", "Location" : "Schewen", "Subtitle" : "Preußisch Lanke", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202979]%20Schewen&creator=Maas,%20G.;%20Soenderop,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 2979] Schewen", "Location" : "Schewen", "Subtitle" : "Preußisch Lanke", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%202979]%20Schewen&creator=Maas,%20G.;%20Soenderop,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [14.500, 53.000],[14.667, 53.000],[14.667, 52.900],[14.500, 52.900],[14.500, 53.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 3053] Schönfliess", "Location" : "Schönfliess", "Subtitle" : "Trzcińsko Zdrój (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203053]%20Sch%C3%B6nfliess&creator=Krusch,%20P.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3053] Schönfliess", "Location" : "Schönfliess", "Subtitle" : "Trzcińsko Zdrój (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203053]%20Sch%C3%B6nfliess&creator=Krusch,%20P.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [14.833, 53.000],[15.000, 53.000],[15.000, 52.900],[14.833, 52.900],[14.833, 53.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 3055] Soldin", "Location" : "Soldin", "Subtitle" : "Myślibórz (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203055]%20Soldin&creator=Schroeder,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3055] Soldin", "Location" : "Soldin", "Subtitle" : "Myślibórz (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203055]%20Soldin&creator=Schroeder,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.000, 53.000],[16.167, 53.000],[16.167, 52.900],[16.000, 52.900],[16.000, 53.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 3062] Eichberg", "Location" : "Eichberg", "Subtitle" : "Dębogóra (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203062]%20Eichberg&creator=Korn,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3062] Eichberg", "Location" : "Eichberg", "Subtitle" : "Dębogóra (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203062]%20Eichberg&creator=Korn,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.000, 52.900],[7.167, 52.900],[7.167, 52.800],[7.000, 52.800],[7.000, 52.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 3108] Rütenbrock", "Location" : "Rütenbrock", "Subtitle" : "Rüthenbrock", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203108]%20R%C3%BCtenbrock&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3108] Rütenbrock", "Location" : "Rütenbrock", "Subtitle" : "Rüthenbrock", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203108]%20R%C3%BCtenbrock&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [14.333, 52.900],[14.500, 52.900],[14.500, 52.800],[14.333, 52.800],[14.333, 52.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 3152] Mohrin", "Location" : "Mohrin", "Subtitle" : "Moryń (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203152]%20Mohrin&creator=Schr%C3%B6der,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3152] Mohrin", "Location" : "Mohrin", "Subtitle" : "Moryń (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203152]%20Mohrin&creator=Schr%C3%B6der,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.000, 52.900],[16.167, 52.900],[16.167, 52.800],[16.000, 52.800],[16.000, 52.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 3162] Kreuz", "Location" : "Kreuz", "Subtitle" : "Krzyż Wlkp. (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203162]%20Kreuz&creator=Korn,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3162] Kreuz", "Location" : "Kreuz", "Subtitle" : "Krzyż Wlkp. (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203162]%20Kreuz&creator=Korn,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.167, 52.900],[16.333, 52.900],[16.333, 52.800],[16.167, 52.800],[16.167, 52.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 3163] Filehne", "Location" : "Filehne", "Subtitle" : "Wieleń (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203163]%20Filehne&creator=Korn,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3163] Filehne", "Location" : "Filehne", "Subtitle" : "Wieleń (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203163]%20Filehne&creator=Korn,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.167, 52.800],[7.333, 52.800],[7.333, 52.700],[7.167, 52.700],[7.167, 52.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 3209] Haren (Ems)", "Location" : "Haren (Ems)", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203209]%20Haren%20(Ems)&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3209] Haren (Ems)", "Location" : "Haren (Ems)", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203209]%20Haren%20(Ems)&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.000, 52.800],[10.167, 52.800],[10.167, 52.700],[10.000, 52.700],[10.000, 52.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 3226] Sülze", "Location" : "Sülze", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203226]%20S%C3%BClze&creator=Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3226] Sülze", "Location" : "Sülze", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203226]%20S%C3%BClze&creator=Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.167, 52.800],[10.333, 52.800],[10.333, 52.700],[10.167, 52.700],[10.167, 52.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 3227] Eschede", "Location" : "Eschede", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203227]%20Eschede&creator=Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3227] Eschede", "Location" : "Eschede", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203227]%20Eschede&creator=Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.833, 52.800],[12.000, 52.800],[12.000, 52.700],[11.833, 52.700],[11.833, 52.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 3237] Hindenburg", "Location" : "Hindenburg", "Subtitle" : "Goldbeck", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203237]%20Hindenburg&creator=Scholz,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3237] Hindenburg", "Location" : "Hindenburg", "Subtitle" : "Goldbeck", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203237]%20Hindenburg&creator=Scholz,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.000, 52.700],[7.167, 52.700],[7.167, 52.600],[7.000, 52.600],[7.000, 52.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 3308] Hesepertwist", "Location" : "Hesepertwist", "Subtitle" : "Twist", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203308]%20Hesepertwist&creator=Stoller,%20J.;%20Tietze,%20O.;%20Tornau,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3308] Hesepertwist", "Location" : "Hesepertwist", "Subtitle" : "Twist", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203308]%20Hesepertwist&creator=Stoller,%20J.;%20Tietze,%20O.;%20Tornau,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.167, 52.700],[7.333, 52.700],[7.333, 52.600],[7.167, 52.600],[7.167, 52.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 3309] Meppen", "Location" : "Meppen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203309]%20Meppen&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3309] Meppen", "Location" : "Meppen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203309]%20Meppen&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.333, 52.700],[7.500, 52.700],[7.500, 52.600],[7.333, 52.600],[7.333, 52.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 3310] Haselünne", "Location" : "Haselünne", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203310]%20Hasel%C3%BCnne&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3310] Haselünne", "Location" : "Haselünne", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203310]%20Hasel%C3%BCnne&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.833, 52.700],[10.000, 52.700],[10.000, 52.600],[9.833, 52.600],[9.833, 52.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 3325] Winsen a. d. Aller", "Location" : "Winsen a. d. Aller", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203325]%20Winsen%20a.%20d.%20Aller&creator=Monke,%20H.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3325] Winsen a. d. Aller", "Location" : "Winsen a. d. Aller", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203325]%20Winsen%20a.%20d.%20Aller&creator=Monke,%20H.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.167, 52.700],[10.333, 52.700],[10.333, 52.600],[10.167, 52.600],[10.167, 52.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 3327] Beedenbostel", "Location" : "Beedenbostel", "Subtitle" : "Lachendorf", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203327]%20Beedenbostel&creator=Harbort,%20E.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3327] Beedenbostel", "Location" : "Beedenbostel", "Subtitle" : "Lachendorf", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203327]%20Beedenbostel&creator=Harbort,%20E.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.333, 52.700],[11.500, 52.700],[11.500, 52.600],[11.333, 52.600],[11.333, 52.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 3334] Calbe a. M.:", "Location" : "Calbe a. M.:", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203334]%20Calbe%20a.%20M.:&creator=Scholz,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3334] Calbe a. M.:", "Location" : "Calbe a. M.:", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203334]%20Calbe%20a.%20M.:&creator=Scholz,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.500, 52.700],[11.667, 52.700],[11.667, 52.600],[11.500, 52.600],[11.500, 52.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 3335] Bismark", "Location" : "Bismark", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203335]%20Bismark&creator=Berendt,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3335] Bismark", "Location" : "Bismark", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203335]%20Bismark&creator=Berendt,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.667, 52.700],[11.833, 52.700],[11.833, 52.600],[11.667, 52.600],[11.667, 52.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 3336] Schinne", "Location" : "Schinne", "Subtitle" : "Groß Schwechtau", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203336]%20Schinne&creator=Berendt,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3336] Schinne", "Location" : "Schinne", "Subtitle" : "Groß Schwechtau", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203336]%20Schinne&creator=Berendt,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.833, 52.700],[12.000, 52.700],[12.000, 52.600],[11.833, 52.600],[11.833, 52.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 3337] Stendal", "Location" : "Stendal", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203337]%20Stendal&creator=Scholz,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3337] Stendal", "Location" : "Stendal", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203337]%20Stendal&creator=Scholz,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.667, 52.700],[12.833, 52.700],[12.833, 52.600],[12.667, 52.600],[12.667, 52.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 3342] Ribbeck", "Location" : "Ribbeck", "Subtitle" : "Paulinenaue", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203342]%20Ribbeck&creator=Wahnschaffe,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3342] Ribbeck", "Location" : "Ribbeck", "Subtitle" : "Paulinenaue", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203342]%20Ribbeck&creator=Wahnschaffe,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.000, 52.600],[7.167, 52.600],[7.167, 52.500],[7.000, 52.500],[7.000, 52.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 3408] Wietmarschen", "Location" : "Wietmarschen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203408]%20Wietmarschen&creator=Tietze,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3408] Wietmarschen", "Location" : "Wietmarschen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203408]%20Wietmarschen&creator=Tietze,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.167, 52.600],[7.333, 52.600],[7.333, 52.500],[7.167, 52.500],[7.167, 52.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 3409] Lingen (Ems)", "Location" : "Lingen (Ems)", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203409]%20Lingen%20(Ems)&creator=Krusch,%20P.;%20Tietze,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3409] Lingen (Ems)", "Location" : "Lingen (Ems)", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203409]%20Lingen%20(Ems)&creator=Krusch,%20P.;%20Tietze,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.333, 52.600],[7.500, 52.600],[7.500, 52.500],[7.333, 52.500],[7.333, 52.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 3410] Backum", "Location" : "Backum", "Subtitle" : "Lingen-O", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203410]%20Backum&creator=Tietze,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3410] Backum", "Location" : "Backum", "Subtitle" : "Lingen-O", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203410]%20Backum&creator=Tietze,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.833, 52.600],[10.000, 52.600],[10.000, 52.500],[9.833, 52.500],[9.833, 52.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 3425] Fuhrberg", "Location" : "Fuhrberg", "Subtitle" : "Wettmar", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203425]%20Fuhrberg&creator=Harbort,%20E.;%20Monke,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3425] Fuhrberg", "Location" : "Fuhrberg", "Subtitle" : "Wettmar", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203425]%20Fuhrberg&creator=Harbort,%20E.;%20Monke,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.000, 52.600],[10.167, 52.600],[10.167, 52.500],[10.000, 52.500],[10.000, 52.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 3426] Wathlingen", "Location" : "Wathlingen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203426]%20Wathlingen&creator=Harbort,%20E.;%20Monke,%20H.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3426] Wathlingen", "Location" : "Wathlingen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203426]%20Wathlingen&creator=Harbort,%20E.;%20Monke,%20H.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.167, 52.600],[10.333, 52.600],[10.333, 52.500],[10.167, 52.500],[10.167, 52.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 3427] Bröckel", "Location" : "Bröckel", "Subtitle" : "Wienhausen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203427]%20Br%C3%B6ckel&creator=Harbort,%20E.;%20Monke,%20H.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3427] Bröckel", "Location" : "Bröckel", "Subtitle" : "Wienhausen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203427]%20Br%C3%B6ckel&creator=Harbort,%20E.;%20Monke,%20H.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.000, 52.600],[11.167, 52.600],[11.167, 52.500],[11.000, 52.500],[11.000, 52.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 3432] Kunrau", "Location" : "Kunrau", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203432]%20Kunrau&creator=Barsch,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3432] Kunrau", "Location" : "Kunrau", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203432]%20Kunrau&creator=Barsch,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.167, 52.600],[11.333, 52.600],[11.333, 52.500],[11.167, 52.500],[11.167, 52.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 3433] Solpke", "Location" : "Solpke", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203433]%20Solpke&creator=Barsch,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3433] Solpke", "Location" : "Solpke", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203433]%20Solpke&creator=Barsch,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.333, 52.600],[11.500, 52.600],[11.500, 52.500],[11.333, 52.500],[11.333, 52.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 3434] Gardelegen", "Location" : "Gardelegen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203434]%20Gardelegen&creator=Scholz,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3434] Gardelegen", "Location" : "Gardelegen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203434]%20Gardelegen&creator=Scholz,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.500, 52.600],[11.667, 52.600],[11.667, 52.500],[11.500, 52.500],[11.500, 52.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 3435] Klinke", "Location" : "Klinke", "Subtitle" : "Uchtspringe, Lindstedt (Klinke)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203435]%20Klinke&creator=Scholz,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3435] Klinke", "Location" : "Klinke", "Subtitle" : "Uchtspringe, Lindstedt (Klinke)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203435]%20Klinke&creator=Scholz,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.667, 52.600],[11.833, 52.600],[11.833, 52.500],[11.667, 52.500],[11.667, 52.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 3436] Lüderitz", "Location" : "Lüderitz", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203436]%20L%C3%BCderitz&creator=Gruner,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3436] Lüderitz", "Location" : "Lüderitz", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203436]%20L%C3%BCderitz&creator=Gruner,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.833, 52.600],[12.000, 52.600],[12.000, 52.500],[11.833, 52.500],[11.833, 52.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 3437] Tangermünde", "Location" : "Tangermünde", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203437]%20Tangerm%C3%BCnde&creator=Gruner,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3437] Tangermünde", "Location" : "Tangermünde", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203437]%20Tangerm%C3%BCnde&creator=Gruner,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.667, 52.600],[16.833, 52.600],[16.833, 52.500],[16.667, 52.500],[16.667, 52.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 3466] Wargowo", "Location" : "Wargowo", "Subtitle" : "Wargowo (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203466]%20Wargowo&creator=Wahnschaffe,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3466] Wargowo", "Location" : "Wargowo", "Subtitle" : "Wargowo (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203466]%20Wargowo&creator=Wahnschaffe,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.167, 52.500],[7.333, 52.500],[7.333, 52.400],[7.167, 52.400],[7.167, 52.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 3509] Lohne", "Location" : "Lohne", "Subtitle" : "Lingen-S", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203509]%20Lohne&creator=Krusch,%20P.;%20Tietze,%20O.;%20Tornau,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3509] Lohne", "Location" : "Lohne", "Subtitle" : "Lingen-S", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203509]%20Lohne&creator=Krusch,%20P.;%20Tietze,%20O.;%20Tornau,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.333, 52.500],[7.500, 52.500],[7.500, 52.400],[7.333, 52.400],[7.333, 52.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 3510] Plantlünne", "Location" : "Plantlünne", "Subtitle" : "Lünne", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203510]%20Plantl%C3%BCnne&creator=Schucht,%20F.;%20Tietze,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3510] Plantlünne", "Location" : "Plantlünne", "Subtitle" : "Lünne", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203510]%20Plantl%C3%BCnne&creator=Schucht,%20F.;%20Tietze,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.000, 52.500],[10.167, 52.500],[10.167, 52.400],[10.000, 52.400],[10.000, 52.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 3526] Burgdorf", "Location" : "Burgdorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203526]%20Burgdorf&creator=Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3526] Burgdorf", "Location" : "Burgdorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203526]%20Burgdorf&creator=Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.167, 52.500],[10.333, 52.500],[10.333, 52.400],[10.167, 52.400],[10.167, 52.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 3527] Ütze", "Location" : "Ütze", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203527]%20%C3%BCtze&creator=Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3527] Ütze", "Location" : "Ütze", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203527]%20%C3%BCtze&creator=Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.667, 52.500],[11.833, 52.500],[11.833, 52.400],[11.667, 52.400],[11.667, 52.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 3536] Schernebeck", "Location" : "Schernebeck", "Subtitle" : "Tangerhütte", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203536]%20Schernebeck&creator=Gruner,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3536] Schernebeck", "Location" : "Schernebeck", "Subtitle" : "Tangerhütte", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203536]%20Schernebeck&creator=Gruner,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.833, 52.500],[12.000, 52.500],[12.000, 52.400],[11.833, 52.400],[11.833, 52.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 3537] Weissewarthe", "Location" : "Weissewarthe", "Subtitle" : "Grieben", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203537]%20Weissewarthe&creator=Gruner,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3537] Weissewarthe", "Location" : "Weissewarthe", "Subtitle" : "Grieben", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203537]%20Weissewarthe&creator=Gruner,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [14.833, 52.500],[15.000, 52.500],[15.000, 52.400],[14.833, 52.400],[14.833, 52.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 3555] Drossen", "Location" : "Drossen", "Subtitle" : "Ośno Lubuskie (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203555]%20Drossen&creator=Keilhack,%20K.;%20Korn,%20J.;%20Linstow,%20O.,%20v.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3555] Drossen", "Location" : "Drossen", "Subtitle" : "Ośno Lubuskie (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203555]%20Drossen&creator=Keilhack,%20K.;%20Korn,%20J.;%20Linstow,%20O.,%20v.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.667, 52.500],[16.833, 52.500],[16.833, 52.400],[16.667, 52.400],[16.667, 52.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 3566] Sady", "Location" : "Sady", "Subtitle" : "Sady (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203566]%20Sady&creator=Maas,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3566] Sady", "Location" : "Sady", "Subtitle" : "Sady (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203566]%20Sady&creator=Maas,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.167, 52.400],[10.333, 52.400],[10.333, 52.300],[10.167, 52.300],[10.167, 52.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 3627] Peine", "Location" : "Peine", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203627]%20Peine&creator=Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3627] Peine", "Location" : "Peine", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203627]%20Peine&creator=Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.667, 52.400],[11.833, 52.400],[11.833, 52.300],[11.667, 52.300],[11.667, 52.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 3636] Rogätz", "Location" : "Rogätz", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203636]%20Rog%C3%A4tz&creator=Korn,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3636] Rogätz", "Location" : "Rogätz", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203636]%20Rog%C3%A4tz&creator=Korn,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.833, 52.400],[12.000, 52.400],[12.000, 52.300],[11.833, 52.300],[11.833, 52.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 3637] Parey", "Location" : "Parey", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203637]%20Parey&creator=Gruner,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3637] Parey", "Location" : "Parey", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203637]%20Parey&creator=Gruner,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.000, 52.400],[12.167, 52.400],[12.167, 52.300],[12.000, 52.300],[12.000, 52.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 3638] Parchen", "Location" : "Parchen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203638]%20Parchen&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3638] Parchen", "Location" : "Parchen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203638]%20Parchen&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.667, 52.400],[16.833, 52.400],[16.833, 52.300],[16.667, 52.300],[16.667, 52.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 3666] Dombrowka", "Location" : "Dombrowka", "Subtitle" : "Dąbrówka (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203666]%20Dombrowka&creator=Maas,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3666] Dombrowka", "Location" : "Dombrowka", "Subtitle" : "Dąbrówka (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203666]%20Dombrowka&creator=Maas,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.833, 52.400],[17.000, 52.400],[17.000, 52.300],[16.833, 52.300],[16.833, 52.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 3667] Gurtschin", "Location" : "Gurtschin", "Subtitle" : "Gurtschin/Poznań Pd. (poln.), Posen (Süd)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203667]%20Gurtschin&creator=Maas,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3667] Gurtschin", "Location" : "Gurtschin", "Subtitle" : "Gurtschin/Poznań Pd. (poln.), Posen (Süd)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203667]%20Gurtschin&creator=Maas,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.833, 52.300],[8.000, 52.300],[8.000, 52.200],[7.833, 52.200],[7.833, 52.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 3713] Hasbergen", "Location" : "Hasbergen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203713]%20Hasbergen&creator=Haak,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3713] Hasbergen", "Location" : "Hasbergen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203713]%20Hasbergen&creator=Haak,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.000, 52.300],[8.167, 52.300],[8.167, 52.200],[8.000, 52.200],[8.000, 52.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 3714] Osnabrück", "Location" : "Osnabrück", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203714]%20Osnabr%C3%BCck&creator=Haack,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3714] Osnabrück", "Location" : "Osnabrück", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203714]%20Osnabr%C3%BCck&creator=Haack,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.000, 52.300],[9.167, 52.300],[9.167, 52.200],[9.000, 52.200],[9.000, 52.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 3720] Bückeburg", "Location" : "Bückeburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203720]%20B%C3%BCckeburg&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3720] Bückeburg", "Location" : "Bückeburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203720]%20B%C3%BCckeburg&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.167, 52.300],[9.333, 52.300],[9.333, 52.200],[9.167, 52.200],[9.167, 52.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 3721] Kathrinhagen", "Location" : "Kathrinhagen", "Subtitle" : "Auetal", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203721]%20Kathrinhagen&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3721] Kathrinhagen", "Location" : "Kathrinhagen", "Subtitle" : "Auetal", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203721]%20Kathrinhagen&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.500, 52.300],[10.667, 52.300],[10.667, 52.200],[10.500, 52.200],[10.500, 52.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 3729] Braunschweig", "Location" : "Braunschweig", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203729]%20Braunschweig&creator=Harbort,%20E.;%20Herrmann,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3729] Braunschweig", "Location" : "Braunschweig", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203729]%20Braunschweig&creator=Harbort,%20E.;%20Herrmann,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.667, 52.300],[10.833, 52.300],[10.833, 52.200],[10.667, 52.200],[10.667, 52.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 3730] Königslutter", "Location" : "Königslutter", "Subtitle" : "Königslutter am Elm", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203730]%20K%C3%B6nigslutter&creator=Harbort,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3730] Königslutter", "Location" : "Königslutter", "Subtitle" : "Königslutter am Elm", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203730]%20K%C3%B6nigslutter&creator=Harbort,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.833, 52.300],[11.000, 52.300],[11.000, 52.200],[10.833, 52.200],[10.833, 52.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 3731] Süpplingen", "Location" : "Süpplingen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203731]%20S%C3%BCpplingen&creator=Harbort,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3731] Süpplingen", "Location" : "Süpplingen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203731]%20S%C3%BCpplingen&creator=Harbort,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.833, 52.300],[12.000, 52.300],[12.000, 52.200],[11.833, 52.200],[11.833, 52.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 3737] Burg (a.d. Ihle)", "Location" : "Burg (a.d. Ihle)", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203737]%20Burg%20(a.d.%20Ihle)&creator=Scholz,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3737] Burg (a.d. Ihle)", "Location" : "Burg (a.d. Ihle)", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203737]%20Burg%20(a.d.%20Ihle)&creator=Scholz,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.000, 52.300],[12.167, 52.300],[12.167, 52.200],[12.000, 52.200],[12.000, 52.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 3738] Theessen", "Location" : "Theessen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203738]%20Theessen&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3738] Theessen", "Location" : "Theessen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203738]%20Theessen&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.833, 52.200],[8.000, 52.200],[8.000, 52.100],[7.833, 52.100],[7.833, 52.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 3813] Lengerich", "Location" : "Lengerich", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203813]%20Lengerich&creator=Haack,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3813] Lengerich", "Location" : "Lengerich", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203813]%20Lengerich&creator=Haack,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.000, 52.200],[8.167, 52.200],[8.167, 52.100],[8.000, 52.100],[8.000, 52.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 3814] Iburg", "Location" : "Iburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203814]%20Iburg&creator=Haack,%20W.;%20Meyer,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3814] Iburg", "Location" : "Iburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203814]%20Iburg&creator=Haack,%20W.;%20Meyer,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.500, 52.200],[10.667, 52.200],[10.667, 52.100],[10.500, 52.100],[10.500, 52.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 3829] Wolfenbüttel", "Location" : "Wolfenbüttel", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203829]%20Wolfenb%C3%BCttel&creator=Harbort,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3829] Wolfenbüttel", "Location" : "Wolfenbüttel", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203829]%20Wolfenb%C3%BCttel&creator=Harbort,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.167, 52.200],[11.333, 52.200],[11.333, 52.100],[11.167, 52.100],[11.167, 52.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 3833] Seehausen", "Location" : "Seehausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203833]%20Seehausen&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3833] Seehausen", "Location" : "Seehausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203833]%20Seehausen&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.167, 52.100],[9.333, 52.100],[9.333, 52.000],[9.167, 52.000],[9.167, 52.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 3921] Ärzen", "Location" : "Ärzen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203921]%20%C3%A4rzen&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3921] Ärzen", "Location" : "Ärzen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203921]%20%C3%A4rzen&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.333, 52.100],[9.500, 52.100],[9.500, 52.000],[9.333, 52.000],[9.333, 52.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 3922] Kirchohsen", "Location" : "Kirchohsen", "Subtitle" : "Hameln-S", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203922]%20Kirchohsen&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3922] Kirchohsen", "Location" : "Kirchohsen", "Subtitle" : "Hameln-S", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203922]%20Kirchohsen&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.000, 52.100],[10.167, 52.100],[10.167, 52.000],[10.000, 52.000],[10.000, 52.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 3926] Bockenem", "Location" : "Bockenem", "Subtitle" : "(Bad) Salzdetfurth", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203926]%20Bockenem&creator=Grupe,%20O.;%20Haack,%20W.;%20Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3926] Bockenem", "Location" : "Bockenem", "Subtitle" : "(Bad) Salzdetfurth", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203926]%20Bockenem&creator=Grupe,%20O.;%20Haack,%20W.;%20Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.167, 52.100],[10.333, 52.100],[10.333, 52.000],[10.167, 52.000],[10.167, 52.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 3927] Ringelheim", "Location" : "Ringelheim", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203927]%20Ringelheim&creator=Schroeder,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3927] Ringelheim", "Location" : "Ringelheim", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203927]%20Ringelheim&creator=Schroeder,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.333, 52.100],[10.500, 52.100],[10.500, 52.000],[10.333, 52.000],[10.333, 52.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 3928] Salzgitter", "Location" : "Salzgitter", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203928]%20Salzgitter&creator=Schroeder,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 3928] Salzgitter", "Location" : "Salzgitter", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%203928]%20Salzgitter&creator=Schroeder,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.667, 52.000],[8.833, 52.000],[8.833, 51.900],[8.667, 51.900],[8.667, 52.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 4018] Lage", "Location" : "Lage", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204018]%20Lage&creator=Renner,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4018] Lage", "Location" : "Lage", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204018]%20Lage&creator=Renner,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.333, 52.000],[9.500, 52.000],[9.500, 51.900],[9.333, 51.900],[9.333, 52.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 4022] Ottenstein", "Location" : "Ottenstein", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204022]%20Ottenstein&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4022] Ottenstein", "Location" : "Ottenstein", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204022]%20Ottenstein&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.000, 52.000],[10.167, 52.000],[10.167, 51.900],[10.000, 51.900],[10.000, 52.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 4026] Lamspringe", "Location" : "Lamspringe", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204026]%20Lamspringe&creator=Grupe,%20O.;%20Haack,%20W.;%20Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4026] Lamspringe", "Location" : "Lamspringe", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204026]%20Lamspringe&creator=Grupe,%20O.;%20Haack,%20W.;%20Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.333, 52.000],[11.500, 52.000],[11.500, 51.900],[11.333, 51.900],[11.333, 52.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 4034] Egeln", "Location" : "Egeln", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204034]%20Egeln&creator=Barsch,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4034] Egeln", "Location" : "Egeln", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204034]%20Egeln&creator=Barsch,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.167, 52.000],[12.333, 52.000],[12.333, 51.900],[12.167, 51.900],[12.167, 52.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 4039] Mühlstedt", "Location" : "Mühlstedt", "Subtitle" : "Thießen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204039]%20M%C3%BChlstedt&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4039] Mühlstedt", "Location" : "Mühlstedt", "Subtitle" : "Thießen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204039]%20M%C3%BChlstedt&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.333, 52.000],[12.500, 52.000],[12.500, 51.900],[12.333, 51.900],[12.333, 52.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 4040] Hundeluft", "Location" : "Hundeluft", "Subtitle" : "Geber-Bergfrieden", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204040]%20Hundeluft&creator=Keilhack,%20K.;%20Meyer,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4040] Hundeluft", "Location" : "Hundeluft", "Subtitle" : "Geber-Bergfrieden", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204040]%20Hundeluft&creator=Keilhack,%20K.;%20Meyer,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.667, 51.900],[8.833, 51.900],[8.833, 51.800],[8.667, 51.800],[8.667, 51.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 4118] Senne", "Location" : "Senne", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204118]%20Senne&creator=Renner,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4118] Senne", "Location" : "Senne", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204118]%20Senne&creator=Renner,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.167, 51.900],[9.333, 51.900],[9.333, 51.800],[9.167, 51.800],[9.167, 51.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 4121] Schwalenberg", "Location" : "Schwalenberg", "Subtitle" : "Schieder-Schwalenberg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204121]%20Schwalenberg&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4121] Schwalenberg", "Location" : "Schwalenberg", "Subtitle" : "Schieder-Schwalenberg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204121]%20Schwalenberg&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.333, 51.900],[9.500, 51.900],[9.500, 51.800],[9.333, 51.800],[9.333, 51.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 4122] Holzminden", "Location" : "Holzminden", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204122]%20Holzminden&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4122] Holzminden", "Location" : "Holzminden", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204122]%20Holzminden&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.500, 51.900],[9.667, 51.900],[9.667, 51.800],[9.500, 51.800],[9.500, 51.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 4123] Stadtoldendorf", "Location" : "Stadtoldendorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204123]%20Stadtoldendorf&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4123] Stadtoldendorf", "Location" : "Stadtoldendorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204123]%20Stadtoldendorf&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.833, 51.900],[11.000, 51.900],[11.000, 51.800],[10.833, 51.800],[10.833, 51.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 4131] Derenburg", "Location" : "Derenburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204131]%20Derenburg&creator=Schroeder,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4131] Derenburg", "Location" : "Derenburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204131]%20Derenburg&creator=Schroeder,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.000, 51.900],[11.167, 51.900],[11.167, 51.800],[11.000, 51.800],[11.000, 51.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 4132] Halberstadt", "Location" : "Halberstadt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204132]%20Halberstadt&creator=Schroeder,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4132] Halberstadt", "Location" : "Halberstadt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204132]%20Halberstadt&creator=Schroeder,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.167, 51.900],[11.333, 51.900],[11.333, 51.800],[11.167, 51.800],[11.167, 51.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 4133] Wegeleben", "Location" : "Wegeleben", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204133]%20Wegeleben&creator=Weissermel,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4133] Wegeleben", "Location" : "Wegeleben", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204133]%20Wegeleben&creator=Weissermel,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.333, 51.900],[11.500, 51.900],[11.500, 51.800],[11.333, 51.800],[11.333, 51.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 4134] Kochstedt", "Location" : "Kochstedt", "Subtitle" : "Cochstedt", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204134]%20Kochstedt&creator=Weissermel,%20W.;%20Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4134] Kochstedt", "Location" : "Kochstedt", "Subtitle" : "Cochstedt", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204134]%20Kochstedt&creator=Weissermel,%20W.;%20Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.500, 51.900],[11.667, 51.900],[11.667, 51.800],[11.500, 51.800],[11.500, 51.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 4135] Staßfurt", "Location" : "Staßfurt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204135]%20Sta%DFfurt&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4135] Staßfurt", "Location" : "Staßfurt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204135]%20Sta%DFfurt&creator=Keilhack,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.167, 51.900],[12.333, 51.900],[12.333, 51.800],[12.167, 51.800],[12.167, 51.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 4139] Dessau", "Location" : "Dessau", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204139]%20Dessau&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4139] Dessau", "Location" : "Dessau", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204139]%20Dessau&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.333, 51.900],[12.500, 51.900],[12.500, 51.800],[12.333, 51.800],[12.333, 51.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 4140] Coswig", "Location" : "Coswig", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204140]%20Coswig&creator=Keilhack,%20K.;%20Linstow,%20O.,%20v.;%20Meyer,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4140] Coswig", "Location" : "Coswig", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204140]%20Coswig&creator=Keilhack,%20K.;%20Linstow,%20O.,%20v.;%20Meyer,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.500, 51.900],[12.667, 51.900],[12.667, 51.800],[12.500, 51.800],[12.500, 51.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 4141] Wittenberg", "Location" : "Wittenberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204141]%20Wittenberg&creator=Meyer,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4141] Wittenberg", "Location" : "Wittenberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204141]%20Wittenberg&creator=Meyer,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.167, 51.800],[9.333, 51.800],[9.333, 51.700],[9.167, 51.700],[9.167, 51.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 4221] Brakel", "Location" : "Brakel", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204221]%20Brakel&creator=Weissermel,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4221] Brakel", "Location" : "Brakel", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204221]%20Brakel&creator=Weissermel,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.333, 51.800],[9.500, 51.800],[9.500, 51.700],[9.333, 51.700],[9.333, 51.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 4222] Höxter", "Location" : "Höxter", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204222]%20H%C3%B6xter&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4222] Höxter", "Location" : "Höxter", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204222]%20H%C3%B6xter&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.500, 51.800],[9.667, 51.800],[9.667, 51.700],[9.500, 51.700],[9.500, 51.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 4223] Sievershausen", "Location" : "Sievershausen", "Subtitle" : "Neuhaus im Solling", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204223]%20Sievershausen&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4223] Sievershausen", "Location" : "Sievershausen", "Subtitle" : "Neuhaus im Solling", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204223]%20Sievershausen&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.167, 51.800],[11.333, 51.800],[11.333, 51.700],[11.167, 51.700],[11.167, 51.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 4233] Ballenstedt", "Location" : "Ballenstedt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204233]%20Ballenstedt&creator=Weissermel,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4233] Ballenstedt", "Location" : "Ballenstedt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204233]%20Ballenstedt&creator=Weissermel,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.000, 51.800],[12.167, 51.800],[12.167, 51.700],[12.000, 51.700],[12.000, 51.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 4238] Quellendorf", "Location" : "Quellendorf", "Subtitle" : "Osternienburg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204238]%20Quellendorf&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4238] Quellendorf", "Location" : "Quellendorf", "Subtitle" : "Osternienburg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204238]%20Quellendorf&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.167, 51.800],[12.333, 51.800],[12.333, 51.700],[12.167, 51.700],[12.167, 51.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 4239] Raguhn", "Location" : "Raguhn", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204239]%20Raguhn&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4239] Raguhn", "Location" : "Raguhn", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204239]%20Raguhn&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.333, 51.800],[12.500, 51.800],[12.500, 51.700],[12.333, 51.700],[12.333, 51.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 4240] Gräfenhainichen", "Location" : "Gräfenhainichen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204240]%20Gr%C3%A4fenhainichen&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4240] Gräfenhainichen", "Location" : "Gräfenhainichen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204240]%20Gr%C3%A4fenhainichen&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.500, 51.800],[12.667, 51.800],[12.667, 51.700],[12.500, 51.700],[12.500, 51.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 4241] Kemberg", "Location" : "Kemberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204241]%20Kemberg&creator=Linstow,%20O.,%20v.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4241] Kemberg", "Location" : "Kemberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204241]%20Kemberg&creator=Linstow,%20O.,%20v.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.667, 51.800],[12.833, 51.800],[12.833, 51.700],[12.667, 51.700],[12.667, 51.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 4242] Pretzsch", "Location" : "Pretzsch", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204242]%20Pretzsch&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4242] Pretzsch", "Location" : "Pretzsch", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204242]%20Pretzsch&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.833, 51.700],[11.000, 51.700],[11.000, 51.600],[10.833, 51.600],[10.833, 51.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 4331] Hasselfelde", "Location" : "Hasselfelde", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204331]%20Hasselfelde&creator=Lossen,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4331] Hasselfelde", "Location" : "Hasselfelde", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204331]%20Hasselfelde&creator=Lossen,%20C.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.000, 51.700],[11.167, 51.700],[11.167, 51.600],[11.000, 51.600],[11.000, 51.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 4332] Harzgerode", "Location" : "Harzgerode", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204332]%20Harzgerode&creator=Lossen,%20K.%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4332] Harzgerode", "Location" : "Harzgerode", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204332]%20Harzgerode&creator=Lossen,%20K.%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.167, 51.700],[11.333, 51.700],[11.333, 51.600],[11.167, 51.600],[11.167, 51.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 4333] Pansfelde", "Location" : "Pansfelde", "Subtitle" : "Königerode", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204333]%20Pansfelde&creator=Lossen,%20K.%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4333] Pansfelde", "Location" : "Pansfelde", "Subtitle" : "Königerode", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204333]%20Pansfelde&creator=Lossen,%20K.%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.333, 51.700],[11.500, 51.700],[11.500, 51.600],[11.333, 51.600],[11.333, 51.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 4334] Leimbach", "Location" : "Leimbach", "Subtitle" : "Groß Örner", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204334]%20Leimbach&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4334] Leimbach", "Location" : "Leimbach", "Subtitle" : "Groß Örner", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204334]%20Leimbach&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.500, 51.700],[11.667, 51.700],[11.667, 51.600],[11.500, 51.600],[11.500, 51.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 4335] Gerbstedt", "Location" : "Gerbstedt", "Subtitle" : "Hettstedt", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204335]%20Gerbstedt&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4335] Gerbstedt", "Location" : "Gerbstedt", "Subtitle" : "Hettstedt", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204335]%20Gerbstedt&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.667, 51.700],[11.833, 51.700],[11.833, 51.600],[11.667, 51.600],[11.667, 51.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 4336] Cönnern", "Location" : "Cönnern", "Subtitle" : "Könnern", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204336]%20C%C3%B6nnern&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4336] Cönnern", "Location" : "Cönnern", "Subtitle" : "Könnern", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204336]%20C%C3%B6nnern&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.833, 51.700],[12.000, 51.700],[12.000, 51.600],[11.833, 51.600],[11.833, 51.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 4337] Gröbzig", "Location" : "Gröbzig", "Subtitle" : "Löbejün", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204337]%20Gr%C3%B6bzig&creator=Laspeyres,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4337] Gröbzig", "Location" : "Gröbzig", "Subtitle" : "Löbejün", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204337]%20Gr%C3%B6bzig&creator=Laspeyres,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.000, 51.700],[12.167, 51.700],[12.167, 51.600],[12.000, 51.600],[12.000, 51.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 4338] Zörbig", "Location" : "Zörbig", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204338]%20Z%C3%B6rbig&creator=Laspeyres,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4338] Zörbig", "Location" : "Zörbig", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204338]%20Z%C3%B6rbig&creator=Laspeyres,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.167, 51.700],[12.333, 51.700],[12.333, 51.600],[12.167, 51.600],[12.167, 51.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 4339] Bitterfeld (West)", "Location" : "Bitterfeld (West)", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204339]%20Bitterfeld%20(West)&creator=Linstow,%20O.,%20v.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4339] Bitterfeld (West)", "Location" : "Bitterfeld (West)", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204339]%20Bitterfeld%20(West)&creator=Linstow,%20O.,%20v.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.333, 51.700],[12.500, 51.700],[12.500, 51.600],[12.333, 51.600],[12.333, 51.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 4340] Bitterfeld (Ost)", "Location" : "Bitterfeld (Ost)", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204340]%20Bitterfeld%20(Ost)&creator=Linstow,%20O.,%20v.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4340] Bitterfeld (Ost)", "Location" : "Bitterfeld (Ost)", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204340]%20Bitterfeld%20(Ost)&creator=Linstow,%20O.,%20v.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.500, 51.700],[12.667, 51.700],[12.667, 51.600],[12.500, 51.600],[12.500, 51.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 4341] Söllichau", "Location" : "Söllichau", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204341]%20S%C3%B6llichau&creator=Linstow,%20O.,%20v.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4341] Söllichau", "Location" : "Söllichau", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204341]%20S%C3%B6llichau&creator=Linstow,%20O.,%20v.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.667, 51.700],[12.833, 51.700],[12.833, 51.600],[12.667, 51.600],[12.667, 51.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 4342] Schmiedeberg Bez. Halle", "Location" : "Schmiedeberg Bez. Halle", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204342]%20Schmiedeberg%20Bez.%20Halle&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4342] Schmiedeberg Bez. Halle", "Location" : "Schmiedeberg Bez. Halle", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204342]%20Schmiedeberg%20Bez.%20Halle&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.333, 51.600],[7.500, 51.600],[7.500, 51.500],[7.333, 51.500],[7.333, 51.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 4410] Dortmund", "Location" : "Dortmund", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204410]%20Dortmund&creator=M%C3%BCller,%20G.;%20Krusch,%20P.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4410] Dortmund", "Location" : "Dortmund", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204410]%20Dortmund&creator=M%C3%BCller,%20G.;%20Krusch,%20P.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.500, 51.600],[7.667, 51.600],[7.667, 51.500],[7.500, 51.500],[7.500, 51.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 4411] Kamen", "Location" : "Kamen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204411]%20Kamen&creator=Krusch,%20P.;%20M%C3%BCller,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4411] Kamen", "Location" : "Kamen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204411]%20Kamen&creator=Krusch,%20P.;%20M%C3%BCller,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.667, 51.600],[7.833, 51.600],[7.833, 51.500],[7.667, 51.500],[7.667, 51.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 4412] Unna", "Location" : "Unna", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204412]%20Unna&creator=B%C3%A4rtling,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4412] Unna", "Location" : "Unna", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204412]%20Unna&creator=B%C3%A4rtling,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.333, 51.600],[9.500, 51.600],[9.500, 51.500],[9.333, 51.500],[9.333, 51.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 4422] Trendelburg", "Location" : "Trendelburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204422]%20Trendelburg&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4422] Trendelburg", "Location" : "Trendelburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204422]%20Trendelburg&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.000, 51.600],[11.167, 51.600],[11.167, 51.500],[11.000, 51.500],[11.000, 51.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 4432] Schwenda", "Location" : "Schwenda", "Subtitle" : "Dankerode", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204432]%20Schwenda&creator=Beyrich,%20E.;%20Lossen,%20A.;%20Moesta,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4432] Schwenda", "Location" : "Schwenda", "Subtitle" : "Dankerode", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204432]%20Schwenda&creator=Beyrich,%20E.;%20Lossen,%20A.;%20Moesta,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.167, 51.600],[11.333, 51.600],[11.333, 51.500],[11.167, 51.500],[11.167, 51.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 4433] Wippra", "Location" : "Wippra", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204433]%20Wippra&creator=Beyrich,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4433] Wippra", "Location" : "Wippra", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204433]%20Wippra&creator=Beyrich,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.333, 51.600],[11.500, 51.600],[11.500, 51.500],[11.333, 51.500],[11.333, 51.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 4434] Mansfeld", "Location" : "Mansfeld", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204434]%20Mansfeld&creator=Weiss,%20E.;%20Kayser,%20E.;%20Moesta,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4434] Mansfeld", "Location" : "Mansfeld", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204434]%20Mansfeld&creator=Weiss,%20E.;%20Kayser,%20E.;%20Moesta,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.500, 51.600],[11.667, 51.600],[11.667, 51.500],[11.500, 51.500],[11.500, 51.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 4435] Eisleben", "Location" : "Eisleben", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204435]%20Eisleben&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4435] Eisleben", "Location" : "Eisleben", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204435]%20Eisleben&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.667, 51.600],[11.833, 51.600],[11.833, 51.500],[11.667, 51.500],[11.667, 51.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 4436] Wettin", "Location" : "Wettin", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204436]%20Wettin&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4436] Wettin", "Location" : "Wettin", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204436]%20Wettin&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.000, 51.600],[12.167, 51.600],[12.167, 51.500],[12.000, 51.500],[12.000, 51.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 4438] Landsberg bei Halle", "Location" : "Landsberg bei Halle", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204438]%20Landsberg%20bei%20Halle&creator=Weissermel,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4438] Landsberg bei Halle", "Location" : "Landsberg bei Halle", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204438]%20Landsberg%20bei%20Halle&creator=Weissermel,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.500, 51.600],[12.667, 51.600],[12.667, 51.500],[12.500, 51.500],[12.500, 51.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 4441] Düben", "Location" : "Düben", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204441]%20D%C3%BCben&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4441] Düben", "Location" : "Düben", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204441]%20D%C3%BCben&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.667, 51.600],[12.833, 51.600],[12.833, 51.500],[12.667, 51.500],[12.667, 51.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 4442] Mockrehna", "Location" : "Mockrehna", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204442]%20Mockrehna&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4442] Mockrehna", "Location" : "Mockrehna", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204442]%20Mockrehna&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.833, 51.600],[13.000, 51.600],[13.000, 51.500],[12.833, 51.500],[12.833, 51.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 4443] Torgau-West", "Location" : "Torgau-West", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204443]%20Torgau-West&creator=Linstow,%20O.,%20v.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4443] Torgau-West", "Location" : "Torgau-West", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204443]%20Torgau-West&creator=Linstow,%20O.,%20v.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.333, 51.500],[6.500, 51.500],[6.500, 51.400],[6.333, 51.400],[6.333, 51.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 4504] Nieukerk", "Location" : "Nieukerk", "Subtitle" : "Kerken", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204504]%20Nieukerk&creator=Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4504] Nieukerk", "Location" : "Nieukerk", "Subtitle" : "Kerken", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204504]%20Nieukerk&creator=Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.500, 51.500],[6.667, 51.500],[6.667, 51.400],[6.500, 51.400],[6.500, 51.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 4505] Mörs", "Location" : "Mörs", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204505]%20M%C3%B6rs&creator=Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4505] Mörs", "Location" : "Mörs", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204505]%20M%C3%B6rs&creator=Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.667, 51.500],[6.833, 51.500],[6.833, 51.400],[6.667, 51.400],[6.667, 51.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 4506] Duisburg", "Location" : "Duisburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204506]%20Duisburg&creator=Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4506] Duisburg", "Location" : "Duisburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204506]%20Duisburg&creator=Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.000, 51.500],[7.167, 51.500],[7.167, 51.400],[7.000, 51.400],[7.000, 51.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 4508] Essen", "Location" : "Essen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204508]%20Essen&creator=B%C3%A4rtling,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4508] Essen", "Location" : "Essen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204508]%20Essen&creator=B%C3%A4rtling,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.167, 51.500],[7.333, 51.500],[7.333, 51.400],[7.167, 51.400],[7.167, 51.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 4509] Bochum", "Location" : "Bochum", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204509]%20Bochum&creator=B%C3%A4rtling,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4509] Bochum", "Location" : "Bochum", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204509]%20Bochum&creator=B%C3%A4rtling,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.333, 51.500],[7.500, 51.500],[7.500, 51.400],[7.333, 51.400],[7.333, 51.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 4510] Witten", "Location" : "Witten", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204510]%20Witten&creator=M%C3%BCller,%20G.;%20Krusch,%20P.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4510] Witten", "Location" : "Witten", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204510]%20Witten&creator=M%C3%BCller,%20G.;%20Krusch,%20P.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.500, 51.500],[7.667, 51.500],[7.667, 51.400],[7.500, 51.400],[7.500, 51.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 4511] Hörde", "Location" : "Hörde", "Subtitle" : "Schwerte", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204511]%20H%C3%B6rde&creator=M%C3%BCller,%20G.;%20Krusch,%20P.;%20Lotz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4511] Hörde", "Location" : "Hörde", "Subtitle" : "Schwerte", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204511]%20H%C3%B6rde&creator=M%C3%BCller,%20G.;%20Krusch,%20P.;%20Lotz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.667, 51.500],[7.833, 51.500],[7.833, 51.400],[7.667, 51.400],[7.667, 51.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 4512] Menden", "Location" : "Menden", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204512]%20Menden&creator=B%C3%A4rtling,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4512] Menden", "Location" : "Menden", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204512]%20Menden&creator=B%C3%A4rtling,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.833, 51.500],[9.000, 51.500],[9.000, 51.400],[8.833, 51.400],[8.833, 51.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 4519] Marsberg", "Location" : "Marsberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204519]%20Marsberg&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4519] Marsberg", "Location" : "Marsberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204519]%20Marsberg&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.167, 51.500],[10.333, 51.500],[10.333, 51.400],[10.167, 51.400],[10.167, 51.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 4527] Berlingerode", "Location" : "Berlingerode", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204527]%20Berlingerode&creator=Speyer,%20O.;%20Zeise,%20O","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4527] Berlingerode", "Location" : "Berlingerode", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204527]%20Berlingerode&creator=Speyer,%20O.;%20Zeise,%20O","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.000, 51.500],[11.167, 51.500],[11.167, 51.400],[11.000, 51.400],[11.000, 51.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 4532] Kelbra", "Location" : "Kelbra", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204532]%20Kelbra&creator=Beyrich,%20E.;%20Moesta,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4532] Kelbra", "Location" : "Kelbra", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204532]%20Kelbra&creator=Beyrich,%20E.;%20Moesta,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.167, 51.500],[11.333, 51.500],[11.333, 51.400],[11.167, 51.400],[11.167, 51.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 4533] Sangerhausen", "Location" : "Sangerhausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204533]%20Sangerhausen&creator=Beyrich,%20E.;%20Moesta,%20Fr.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4533] Sangerhausen", "Location" : "Sangerhausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204533]%20Sangerhausen&creator=Beyrich,%20E.;%20Moesta,%20Fr.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.333, 51.500],[11.500, 51.500],[11.500, 51.400],[11.333, 51.400],[11.333, 51.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 4534] Riestedt", "Location" : "Riestedt", "Subtitle" : "Allstedt", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204534]%20Riestedt&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4534] Riestedt", "Location" : "Riestedt", "Subtitle" : "Allstedt", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204534]%20Riestedt&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.500, 51.500],[11.667, 51.500],[11.667, 51.400],[11.500, 51.400],[11.500, 51.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 4535] Schraplau", "Location" : "Schraplau", "Subtitle" : "Erdeborn", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204535]%20Schraplau&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4535] Schraplau", "Location" : "Schraplau", "Subtitle" : "Erdeborn", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204535]%20Schraplau&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.667, 51.500],[11.833, 51.500],[11.833, 51.400],[11.667, 51.400],[11.667, 51.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 4536] Teutschenthal", "Location" : "Teutschenthal", "Subtitle" : "Schraplau", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204536]%20Teutschenthal&creator=Fritsch,%20K.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4536] Teutschenthal", "Location" : "Teutschenthal", "Subtitle" : "Schraplau", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204536]%20Teutschenthal&creator=Fritsch,%20K.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.833, 51.500],[12.000, 51.500],[12.000, 51.400],[11.833, 51.400],[11.833, 51.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 4537] Halle (Süd)", "Location" : "Halle (Süd)", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204537]%20Halle%20(S%C3%BCd)&creator=Fritsch,%20K.,%20von;%20Siegert,%20L.;%20Weissermel,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4537] Halle (Süd)", "Location" : "Halle (Süd)", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204537]%20Halle%20(S%C3%BCd)&creator=Fritsch,%20K.,%20von;%20Siegert,%20L.;%20Weissermel,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.000, 51.500],[12.167, 51.500],[12.167, 51.400],[12.000, 51.400],[12.000, 51.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 4538] Dieskau (Döllnitz)", "Location" : "Dieskau (Döllnitz)", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204538]%20Dieskau%20(D%C3%B6llnitz)&creator=Siegert,%20L.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4538] Dieskau (Döllnitz)", "Location" : "Dieskau (Döllnitz)", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204538]%20Dieskau%20(D%C3%B6llnitz)&creator=Siegert,%20L.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.500, 51.500],[12.667, 51.500],[12.667, 51.400],[12.500, 51.400],[12.500, 51.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 4541] Eilenburg", "Location" : "Eilenburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204541]%20Eilenburg&creator=Frank,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4541] Eilenburg", "Location" : "Eilenburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204541]%20Eilenburg&creator=Frank,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.167, 51.400],[6.333, 51.400],[6.333, 51.300],[6.167, 51.300],[6.167, 51.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 4602/4603] Kaldenkirchen", "Location" : "Kaldenkirchen", "Subtitle" : "Nettetal", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204602/4603]%20Kaldenkirchen&creator=Zimmermann,%20E.;%20Pietzker,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4602/4603] Kaldenkirchen", "Location" : "Kaldenkirchen", "Subtitle" : "Nettetal", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204602/4603]%20Kaldenkirchen&creator=Zimmermann,%20E.;%20Pietzker,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.333, 51.400],[6.500, 51.400],[6.500, 51.300],[6.333, 51.300],[6.333, 51.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 4604] Kempen", "Location" : "Kempen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204604]%20Kempen&creator=Pietzcker,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4604] Kempen", "Location" : "Kempen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204604]%20Kempen&creator=Pietzcker,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.833, 51.400],[7.000, 51.400],[7.000, 51.300],[6.833, 51.300],[6.833, 51.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 4607] Kettwig", "Location" : "Kettwig", "Subtitle" : "Heiligenhaus", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204607]%20Kettwig&creator=Wunstorf,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4607] Kettwig", "Location" : "Kettwig", "Subtitle" : "Heiligenhaus", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204607]%20Kettwig&creator=Wunstorf,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.000, 51.400],[7.167, 51.400],[7.167, 51.300],[7.000, 51.300],[7.000, 51.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 4608] Velbert", "Location" : "Velbert", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204608]%20Velbert&creator=B%C3%A4rtling,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4608] Velbert", "Location" : "Velbert", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204608]%20Velbert&creator=B%C3%A4rtling,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.167, 51.400],[7.333, 51.400],[7.333, 51.300],[7.167, 51.300],[7.167, 51.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 4609] Hattingen", "Location" : "Hattingen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204609]%20Hattingen&creator=B%C3%A4rtling,%20R.;%20Geyer,%20P.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4609] Hattingen", "Location" : "Hattingen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204609]%20Hattingen&creator=B%C3%A4rtling,%20R.;%20Geyer,%20P.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.333, 51.400],[7.500, 51.400],[7.500, 51.300],[7.333, 51.300],[7.333, 51.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 4610] Hagen", "Location" : "Hagen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204610]%20Hagen&creator=B%C3%A4rtling,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4610] Hagen", "Location" : "Hagen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204610]%20Hagen&creator=B%C3%A4rtling,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.500, 51.400],[7.667, 51.400],[7.667, 51.300],[7.500, 51.300],[7.500, 51.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 4611] Hohenlimburg", "Location" : "Hohenlimburg", "Subtitle" : "Hagen-Hohenlimburg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204611]%20Hohenlimburg&creator=Denckmann,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4611] Hohenlimburg", "Location" : "Hohenlimburg", "Subtitle" : "Hagen-Hohenlimburg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204611]%20Hohenlimburg&creator=Denckmann,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.667, 51.400],[7.833, 51.400],[7.833, 51.300],[7.667, 51.300],[7.667, 51.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 4612] Iserlohn", "Location" : "Iserlohn", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204612]%20Iserlohn&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4612] Iserlohn", "Location" : "Iserlohn", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204612]%20Iserlohn&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.333, 51.400],[9.500, 51.400],[9.500, 51.300],[9.333, 51.300],[9.333, 51.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 4622] Wilhelmshöhe", "Location" : "Wilhelmshöhe", "Subtitle" : "Kassel West", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204622]%20Wilhelmsh%C3%B6he&creator=Beyschlag,%20F.;%20Blankenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4622] Wilhelmshöhe", "Location" : "Wilhelmshöhe", "Subtitle" : "Kassel West", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204622]%20Wilhelmsh%C3%B6he&creator=Beyschlag,%20F.;%20Blankenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.667, 51.400],[10.833, 51.400],[10.833, 51.300],[10.667, 51.300],[10.667, 51.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 4630] Immenrode", "Location" : "Immenrode", "Subtitle" : "Schernberg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204630]%20Immenrode&creator=Eck,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4630] Immenrode", "Location" : "Immenrode", "Subtitle" : "Schernberg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204630]%20Immenrode&creator=Eck,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.833, 51.400],[11.000, 51.400],[11.000, 51.300],[10.833, 51.300],[10.833, 51.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 4631] Sondershausen", "Location" : "Sondershausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204631]%20Sondershausen&creator=Eck,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4631] Sondershausen", "Location" : "Sondershausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204631]%20Sondershausen&creator=Eck,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.000, 51.400],[11.167, 51.400],[11.167, 51.300],[11.000, 51.300],[11.000, 51.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 4632] Frankenhausen", "Location" : "Frankenhausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204632]%20Frankenhausen&creator=Beyrich,%20E.;%20Moesta,%20Fr.;%20Schl%C3%BCter,%20Cl.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4632] Frankenhausen", "Location" : "Frankenhausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204632]%20Frankenhausen&creator=Beyrich,%20E.;%20Moesta,%20Fr.;%20Schl%C3%BCter,%20Cl.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.167, 51.400],[11.333, 51.400],[11.333, 51.300],[11.167, 51.300],[11.167, 51.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 4633] Artern", "Location" : "Artern", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204633]%20Artern&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4633] Artern", "Location" : "Artern", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204633]%20Artern&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.500, 51.400],[11.667, 51.400],[11.667, 51.300],[11.500, 51.300],[11.500, 51.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 4635] Querfurt", "Location" : "Querfurt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204635]%20Querfurt&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4635] Querfurt", "Location" : "Querfurt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204635]%20Querfurt&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.833, 51.400],[12.000, 51.400],[12.000, 51.300],[11.833, 51.300],[11.833, 51.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 4637] Merseburg (West)", "Location" : "Merseburg (West)", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204637]%20Merseburg%20(West)&creator=Weissermel,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4637] Merseburg (West)", "Location" : "Merseburg (West)", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204637]%20Merseburg%20(West)&creator=Weissermel,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.000, 51.400],[12.167, 51.400],[12.167, 51.300],[12.000, 51.300],[12.000, 51.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 4638] Merseburg (Ost)", "Location" : "Merseburg (Ost)", "Subtitle" : "Leuna", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204638]%20Merseburg%20(Ost)&creator=Siegert,%20L.;%20B%C3%A4rtling,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4638] Merseburg (Ost)", "Location" : "Merseburg (Ost)", "Subtitle" : "Leuna", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204638]%20Merseburg%20(Ost)&creator=Siegert,%20L.;%20B%C3%A4rtling,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.000, 51.300],[6.167, 51.300],[6.167, 51.200],[6.000, 51.200],[6.000, 51.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 4702] Elmpt", "Location" : "Elmpt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204702]%20Elmpt&creator=Wunstorf,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4702] Elmpt", "Location" : "Elmpt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204702]%20Elmpt&creator=Wunstorf,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.167, 51.300],[6.333, 51.300],[6.333, 51.200],[6.167, 51.200],[6.167, 51.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 4703] Burgwaldniel", "Location" : "Burgwaldniel", "Subtitle" : "Schwalmtal", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204703]%20Burgwaldniel&creator=Krause,%20P.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4703] Burgwaldniel", "Location" : "Burgwaldniel", "Subtitle" : "Schwalmtal", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204703]%20Burgwaldniel&creator=Krause,%20P.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.667, 51.300],[6.833, 51.300],[6.833, 51.200],[6.667, 51.200],[6.667, 51.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 4706] Düsseldorf", "Location" : "Düsseldorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204706]%20D%C3%BCsseldorf&creator=Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4706] Düsseldorf", "Location" : "Düsseldorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204706]%20D%C3%BCsseldorf&creator=Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.833, 51.300],[7.000, 51.300],[7.000, 51.200],[6.833, 51.200],[6.833, 51.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 4707] Mettmann", "Location" : "Mettmann", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204707]%20Mettmann&creator=Zimmermann,%20E.;%20Paeckelmann,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4707] Mettmann", "Location" : "Mettmann", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204707]%20Mettmann&creator=Zimmermann,%20E.;%20Paeckelmann,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.333, 51.300],[7.500, 51.300],[7.500, 51.200],[7.333, 51.200],[7.333, 51.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 4710] Radevormwald", "Location" : "Radevormwald", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204710]%20Radevormwald&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4710] Radevormwald", "Location" : "Radevormwald", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204710]%20Radevormwald&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.500, 51.300],[7.667, 51.300],[7.667, 51.200],[7.500, 51.200],[7.500, 51.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 4711] Lüdenscheid", "Location" : "Lüdenscheid", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204711]%20L%C3%BCdenscheid&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4711] Lüdenscheid", "Location" : "Lüdenscheid", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204711]%20L%C3%BCdenscheid&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.667, 51.300],[7.833, 51.300],[7.833, 51.200],[7.667, 51.200],[7.667, 51.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 4712] Altena", "Location" : "Altena", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204712]%20Altena&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4712] Altena", "Location" : "Altena", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204712]%20Altena&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.833, 51.300],[8.000, 51.300],[8.000, 51.200],[7.833, 51.200],[7.833, 51.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 4713] Plettenberg", "Location" : "Plettenberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204713]%20Plettenberg&creator=Schmidt,%20W.E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4713] Plettenberg", "Location" : "Plettenberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204713]%20Plettenberg&creator=Schmidt,%20W.E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.333, 51.300],[9.500, 51.300],[9.500, 51.200],[9.333, 51.200],[9.333, 51.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 4722] Besse", "Location" : "Besse", "Subtitle" : "Niederzwehren", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204722]%20Besse&creator=Beyschlag,%20F.;%20Zeise,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4722] Besse", "Location" : "Besse", "Subtitle" : "Niederzwehren", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204722]%20Besse&creator=Beyschlag,%20F.;%20Zeise,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.167, 51.300],[10.333, 51.300],[10.333, 51.200],[10.167, 51.200],[10.167, 51.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 4727] Lengenfeld", "Location" : "Lengenfeld", "Subtitle" : "Küllstedt", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204727]%20Lengenfeld&creator=Pr%C3%B6scholdt,%20H.;%20Kaiser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4727] Lengenfeld", "Location" : "Lengenfeld", "Subtitle" : "Küllstedt", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204727]%20Lengenfeld&creator=Pr%C3%B6scholdt,%20H.;%20Kaiser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.500, 51.300],[10.667, 51.300],[10.667, 51.200],[10.500, 51.200],[10.500, 51.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 4729] Körner", "Location" : "Körner", "Subtitle" : "Schlotheim", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204729]%20K%C3%B6rner&creator=Bauer,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4729] Körner", "Location" : "Körner", "Subtitle" : "Schlotheim", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204729]%20K%C3%B6rner&creator=Bauer,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.667, 51.300],[10.833, 51.300],[10.833, 51.200],[10.667, 51.200],[10.667, 51.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 4730] Ebeleben", "Location" : "Ebeleben", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204730]%20Ebeleben&creator=Bauer,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4730] Ebeleben", "Location" : "Ebeleben", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204730]%20Ebeleben&creator=Bauer,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.833, 51.300],[11.000, 51.300],[11.000, 51.200],[10.833, 51.200],[10.833, 51.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 4731] Greussen", "Location" : "Greussen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204731]%20Greussen&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4731] Greussen", "Location" : "Greussen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204731]%20Greussen&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.000, 51.300],[11.167, 51.300],[11.167, 51.200],[11.000, 51.200],[11.000, 51.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 4732] Kindelbrück", "Location" : "Kindelbrück", "Subtitle" : "Weissensee", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204732]%20Kindelbr%C3%BCck&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4732] Kindelbrück", "Location" : "Kindelbrück", "Subtitle" : "Weissensee", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204732]%20Kindelbr%C3%BCck&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.167, 51.300],[11.333, 51.300],[11.333, 51.200],[11.167, 51.200],[11.167, 51.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 4733] Schillingstedt", "Location" : "Schillingstedt", "Subtitle" : "Oberheidrungen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204733]%20Schillingstedt&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4733] Schillingstedt", "Location" : "Schillingstedt", "Subtitle" : "Oberheidrungen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204733]%20Schillingstedt&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.500, 51.300],[11.667, 51.300],[11.667, 51.200],[11.500, 51.200],[11.500, 51.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 4735] Bibra", "Location" : "Bibra", "Subtitle" : "Nebra (Unstrut)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204735]%20Bibra&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4735] Bibra", "Location" : "Bibra", "Subtitle" : "Nebra (Unstrut)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204735]%20Bibra&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.667, 51.300],[11.833, 51.300],[11.833, 51.200],[11.667, 51.200],[11.667, 51.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 4736] Freiburg", "Location" : "Freiburg", "Subtitle" : "Freyburg (Unstrut)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204736]%20Freiburg&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4736] Freiburg", "Location" : "Freiburg", "Subtitle" : "Freyburg (Unstrut)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204736]%20Freiburg&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.833, 51.300],[12.000, 51.300],[12.000, 51.200],[11.833, 51.200],[11.833, 51.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 4737] Weißenfels", "Location" : "Weißenfels", "Subtitle" : "Weißenfels Nord", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204737]%20Wei%DFenfels&creator=Weissermel,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4737] Weißenfels", "Location" : "Weißenfels", "Subtitle" : "Weißenfels Nord", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204737]%20Wei%DFenfels&creator=Weissermel,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.000, 51.300],[12.167, 51.300],[12.167, 51.200],[12.000, 51.200],[12.000, 51.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 4738] Lützen", "Location" : "Lützen", "Subtitle" : "(Bad) Dürrenberg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204738]%20L%C3%BCtzen&creator=Siegert,%20L.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4738] Lützen", "Location" : "Lützen", "Subtitle" : "(Bad) Dürrenberg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204738]%20L%C3%BCtzen&creator=Siegert,%20L.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.000, 51.200],[6.167, 51.200],[6.167, 51.100],[6.000, 51.100],[6.000, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4802] Birgelen", "Location" : "Birgelen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204802]%20Birgelen&creator=Wunstorf,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4802] Birgelen", "Location" : "Birgelen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204802]%20Birgelen&creator=Wunstorf,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.167, 51.200],[6.333, 51.200],[6.333, 51.100],[6.167, 51.100],[6.167, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4803] Wegberg", "Location" : "Wegberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204803]%20Wegberg&creator=Wunstorf,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4803] Wegberg", "Location" : "Wegberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204803]%20Wegberg&creator=Wunstorf,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.333, 51.200],[6.500, 51.200],[6.500, 51.100],[6.333, 51.100],[6.333, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4804] München-Gladbach", "Location" : "München-Gladbach", "Subtitle" : "Mönchen-Gladbach", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204804]%20M%C3%BCnchen-Gladbach&creator=Wunstorf,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4804] München-Gladbach", "Location" : "München-Gladbach", "Subtitle" : "Mönchen-Gladbach", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204804]%20M%C3%BCnchen-Gladbach&creator=Wunstorf,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.500, 51.200],[6.667, 51.200],[6.667, 51.100],[6.500, 51.100],[6.500, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4805] Wevelinghoven", "Location" : "Wevelinghoven", "Subtitle" : "Korschenbroich", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204805]%20Wevelinghoven&creator=Wunstorf,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4805] Wevelinghoven", "Location" : "Wevelinghoven", "Subtitle" : "Korschenbroich", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204805]%20Wevelinghoven&creator=Wunstorf,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.833, 51.200],[7.000, 51.200],[7.000, 51.100],[6.833, 51.100],[6.833, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4807] Hilden", "Location" : "Hilden", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204807]%20Hilden&creator=Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4807] Hilden", "Location" : "Hilden", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204807]%20Hilden&creator=Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.000, 51.200],[7.167, 51.200],[7.167, 51.100],[7.000, 51.100],[7.000, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4808] Solingen", "Location" : "Solingen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204808]%20Solingen&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4808] Solingen", "Location" : "Solingen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204808]%20Solingen&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.167, 51.200],[7.333, 51.200],[7.333, 51.100],[7.167, 51.100],[7.167, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4809] Remscheid", "Location" : "Remscheid", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204809]%20Remscheid&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4809] Remscheid", "Location" : "Remscheid", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204809]%20Remscheid&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.333, 51.200],[7.500, 51.200],[7.500, 51.100],[7.333, 51.100],[7.333, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4810] Wipperfürth", "Location" : "Wipperfürth", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204810]%20Wipperf%C3%BCrth&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4810] Wipperfürth", "Location" : "Wipperfürth", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204810]%20Wipperf%C3%BCrth&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.500, 51.200],[7.667, 51.200],[7.667, 51.100],[7.500, 51.100],[7.500, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4811] Meinerzhagen", "Location" : "Meinerzhagen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204811]%20Meinerzhagen&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4811] Meinerzhagen", "Location" : "Meinerzhagen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204811]%20Meinerzhagen&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.667, 51.200],[7.833, 51.200],[7.833, 51.100],[7.667, 51.100],[7.667, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4812] Herscheid", "Location" : "Herscheid", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204812]%20Herscheid&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4812] Herscheid", "Location" : "Herscheid", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204812]%20Herscheid&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.000, 51.200],[8.167, 51.200],[8.167, 51.100],[8.000, 51.100],[8.000, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4814] Altenhundem", "Location" : "Altenhundem", "Subtitle" : "Lennestadt", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204814]%20Altenhundem&creator=Henke,%20W.;%20Schmidt,%20W.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4814] Altenhundem", "Location" : "Altenhundem", "Subtitle" : "Lennestadt", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204814]%20Altenhundem&creator=Henke,%20W.;%20Schmidt,%20W.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.333, 51.200],[9.500, 51.200],[9.500, 51.100],[9.333, 51.100],[9.333, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4822] Gudensberg", "Location" : "Gudensberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204822]%20Gudensberg&creator=Blankenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4822] Gudensberg", "Location" : "Gudensberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204822]%20Gudensberg&creator=Blankenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.667, 51.200],[10.833, 51.200],[10.833, 51.100],[10.667, 51.100],[10.667, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4830] Tennstedt", "Location" : "Tennstedt", "Subtitle" : "Groß Vargula", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204830]%20Tennstedt&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4830] Tennstedt", "Location" : "Tennstedt", "Subtitle" : "Groß Vargula", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204830]%20Tennstedt&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.833, 51.200],[11.000, 51.200],[11.000, 51.100],[10.833, 51.100],[10.833, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4831] Gebesee", "Location" : "Gebesee", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204831]%20Gebesee&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4831] Gebesee", "Location" : "Gebesee", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204831]%20Gebesee&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.000, 51.200],[11.167, 51.200],[11.167, 51.100],[11.000, 51.100],[11.000, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4832] Sömmerda", "Location" : "Sömmerda", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204832]%20S%C3%B6mmerda&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4832] Sömmerda", "Location" : "Sömmerda", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204832]%20S%C3%B6mmerda&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.167, 51.200],[11.333, 51.200],[11.333, 51.100],[11.167, 51.100],[11.167, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4833] Cölleda", "Location" : "Cölleda", "Subtitle" : "Kölleda", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204833]%20C%C3%B6lleda&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4833] Cölleda", "Location" : "Cölleda", "Subtitle" : "Kölleda", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204833]%20C%C3%B6lleda&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.333, 51.200],[11.500, 51.200],[11.500, 51.100],[11.333, 51.100],[11.333, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4834] Buttstedt", "Location" : "Buttstedt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204834]%20Buttstedt&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4834] Buttstedt", "Location" : "Buttstedt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204834]%20Buttstedt&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.500, 51.200],[11.667, 51.200],[11.667, 51.100],[11.500, 51.100],[11.500, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4835] Eckartsberge", "Location" : "Eckartsberge", "Subtitle" : "Eckartsberga", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204835]%20Eckartsberge&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4835] Eckartsberge", "Location" : "Eckartsberge", "Subtitle" : "Eckartsberga", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204835]%20Eckartsberge&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.667, 51.200],[11.833, 51.200],[11.833, 51.100],[11.667, 51.100],[11.667, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4836] Naumburg", "Location" : "Naumburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204836]%20Naumburg&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4836] Naumburg", "Location" : "Naumburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204836]%20Naumburg&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.833, 51.200],[12.000, 51.200],[12.000, 51.100],[11.833, 51.100],[11.833, 51.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 4837] Stössen", "Location" : "Stössen", "Subtitle" : "Weißenfels-Süd", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204837]%20St%C3%B6ssen&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4837] Stössen", "Location" : "Stössen", "Subtitle" : "Weißenfels-Süd", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204837]%20St%C3%B6ssen&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [5.833, 51.100],[6.000, 51.100],[6.000, 51.000],[5.833, 51.000],[5.833, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4901 / 5001] Waldfeucht, Gangelt", "Location" : "Waldfeucht, Gangelt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204901%20/%205001]%20Waldfeucht,%20Gangelt&creator=Quaas,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4901 / 5001] Waldfeucht, Gangelt", "Location" : "Waldfeucht, Gangelt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204901%20/%205001]%20Waldfeucht,%20Gangelt&creator=Quaas,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.167, 51.100],[6.333, 51.100],[6.333, 51.000],[6.167, 51.000],[6.167, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4903] Erkelenz", "Location" : "Erkelenz", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204903]%20Erkelenz&creator=Wunstorf,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4903] Erkelenz", "Location" : "Erkelenz", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204903]%20Erkelenz&creator=Wunstorf,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.500, 51.100],[6.667, 51.100],[6.667, 51.000],[6.500, 51.000],[6.500, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4905] Grevenbroich", "Location" : "Grevenbroich", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204905]%20Grevenbroich&creator=Krause,%20P.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4905] Grevenbroich", "Location" : "Grevenbroich", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204905]%20Grevenbroich&creator=Krause,%20P.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.667, 51.100],[6.833, 51.100],[6.833, 51.000],[6.667, 51.000],[6.667, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4906] Stommeln", "Location" : "Stommeln", "Subtitle" : "Pulheim", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204906]%20Stommeln&creator=Krause,%20P.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4906] Stommeln", "Location" : "Stommeln", "Subtitle" : "Pulheim", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204906]%20Stommeln&creator=Krause,%20P.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.833, 51.100],[7.000, 51.100],[7.000, 51.000],[6.833, 51.000],[6.833, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4907] Hitdorf", "Location" : "Hitdorf", "Subtitle" : "Leverkusen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204907]%20Hitdorf&creator=Fliegel,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4907] Hitdorf", "Location" : "Hitdorf", "Subtitle" : "Leverkusen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204907]%20Hitdorf&creator=Fliegel,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.500, 51.100],[7.667, 51.100],[7.667, 51.000],[7.500, 51.000],[7.500, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4911] Gummersbach", "Location" : "Gummersbach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204911]%20Gummersbach&creator=Fuchs,%20A.;%20Schmidt,%20W.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4911] Gummersbach", "Location" : "Gummersbach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204911]%20Gummersbach&creator=Fuchs,%20A.;%20Schmidt,%20W.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.000, 51.100],[8.167, 51.100],[8.167, 51.000],[8.000, 51.000],[8.000, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4914] Kirchhundem", "Location" : "Kirchhundem", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204914]%20Kirchhundem&creator=Denckmann,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4914] Kirchhundem", "Location" : "Kirchhundem", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204914]%20Kirchhundem&creator=Denckmann,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.167, 51.100],[8.333, 51.100],[8.333, 51.000],[8.167, 51.000],[8.167, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4915] Wingeshausen", "Location" : "Wingeshausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204915]%20Wingeshausen&creator=Schmidt,%20W.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4915] Wingeshausen", "Location" : "Wingeshausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204915]%20Wingeshausen&creator=Schmidt,%20W.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.833, 51.100],[9.000, 51.100],[9.000, 51.000],[8.833, 51.000],[8.833, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4919] Frankenau", "Location" : "Frankenau", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204919]%20Frankenau&creator=Denckmann,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4919] Frankenau", "Location" : "Frankenau", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204919]%20Frankenau&creator=Denckmann,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.000, 51.100],[9.167, 51.100],[9.167, 51.000],[9.000, 51.000],[9.000, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4920] Kellerwald", "Location" : "Kellerwald", "Subtitle" : "Armsfeld", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204920]%20Kellerwald&creator=Denckmann,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4920] Kellerwald", "Location" : "Kellerwald", "Subtitle" : "Armsfeld", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204920]%20Kellerwald&creator=Denckmann,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.167, 51.100],[9.333, 51.100],[9.333, 51.000],[9.167, 51.000],[9.167, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4921] Borken", "Location" : "Borken", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204921]%20Borken&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4921] Borken", "Location" : "Borken", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204921]%20Borken&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.333, 51.100],[9.500, 51.100],[9.500, 51.000],[9.333, 51.000],[9.333, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4922] Homberg", "Location" : "Homberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204922]%20Homberg&creator=Blankenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4922] Homberg", "Location" : "Homberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204922]%20Homberg&creator=Blankenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.667, 51.100],[10.833, 51.100],[10.833, 51.000],[10.667, 51.000],[10.667, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4930] Gräfen Tonna", "Location" : "Gräfen Tonna", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204930]%20Gr%C3%A4fen%20Tonna&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4930] Gräfen Tonna", "Location" : "Gräfen Tonna", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204930]%20Gr%C3%A4fen%20Tonna&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.833, 51.100],[11.000, 51.100],[11.000, 51.000],[10.833, 51.000],[10.833, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4931] Andisleben", "Location" : "Andisleben", "Subtitle" : "Erfurt-NW, Welschleben/Andisleben", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204931]%20Andisleben&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4931] Andisleben", "Location" : "Andisleben", "Subtitle" : "Erfurt-NW, Welschleben/Andisleben", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204931]%20Andisleben&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.000, 51.100],[11.167, 51.100],[11.167, 51.000],[11.000, 51.000],[11.000, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4932] Stotternheim", "Location" : "Stotternheim", "Subtitle" : "Erfurt-N", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204932]%20Stotternheim&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4932] Stotternheim", "Location" : "Stotternheim", "Subtitle" : "Erfurt-N", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204932]%20Stotternheim&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.500, 51.100],[11.667, 51.100],[11.667, 51.000],[11.500, 51.000],[11.500, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4935] Apolda", "Location" : "Apolda", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204935]%20Apolda&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4935] Apolda", "Location" : "Apolda", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204935]%20Apolda&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.667, 51.100],[11.833, 51.100],[11.833, 51.000],[11.667, 51.000],[11.667, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4936] Camburg", "Location" : "Camburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204936]%20Camburg&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4936] Camburg", "Location" : "Camburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204936]%20Camburg&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.833, 51.100],[12.000, 51.100],[12.000, 51.000],[11.833, 51.000],[11.833, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4937] Osterfeld", "Location" : "Osterfeld", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204937]%20Osterfeld&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4937] Osterfeld", "Location" : "Osterfeld", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204937]%20Osterfeld&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.833, 51.100],[17.000, 51.100],[17.000, 51.000],[16.833, 51.000],[16.833, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4967] Schmolz", "Location" : "Schmolz", "Subtitle" : "Smolec (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204967]%20Schmolz&creator=Barsch,%20O.;%20Teitze,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4967] Schmolz", "Location" : "Schmolz", "Subtitle" : "Smolec (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204967]%20Schmolz&creator=Barsch,%20O.;%20Teitze,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [17.000, 51.100],[17.167, 51.100],[17.167, 51.000],[17.000, 51.000],[17.000, 51.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 4968] Kattern", "Location" : "Kattern", "Subtitle" : "Kattern/Wroclaw (poln.), Breslau Süd", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204968]%20Kattern&creator=Barsch,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 4968] Kattern", "Location" : "Kattern", "Subtitle" : "Kattern/Wroclaw (poln.), Breslau Süd", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%204968]%20Kattern&creator=Barsch,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.667, 51.000],[6.833, 51.000],[6.833, 50.900],[6.667, 50.900],[6.667, 51.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 5006] Frechen", "Location" : "Frechen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205006]%20Frechen&creator=Fliegel,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5006] Frechen", "Location" : "Frechen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205006]%20Frechen&creator=Fliegel,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.000, 51.000],[8.167, 51.000],[8.167, 50.900],[8.000, 50.900],[8.000, 51.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 5014] Hilchenbach", "Location" : "Hilchenbach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205014]%20Hilchenbach&creator=Fuchs,%20A.;%20Schmidt,%20W.E.;%20Denckmann,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5014] Hilchenbach", "Location" : "Hilchenbach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205014]%20Hilchenbach&creator=Fuchs,%20A.;%20Schmidt,%20W.E.;%20Denckmann,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.833, 51.000],[9.000, 51.000],[9.000, 50.900],[8.833, 50.900],[8.833, 51.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 5019] Rosenthal", "Location" : "Rosenthal", "Subtitle" : "Gemünden (Wohra)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205019]%20Rosenthal&creator=Denckmann,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5019] Rosenthal", "Location" : "Rosenthal", "Subtitle" : "Gemünden (Wohra)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205019]%20Rosenthal&creator=Denckmann,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.000, 51.000],[9.167, 51.000],[9.167, 50.900],[9.000, 50.900],[9.000, 51.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 5020] Gilserberg", "Location" : "Gilserberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205020]%20Gilserberg&creator=Denckmann,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5020] Gilserberg", "Location" : "Gilserberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205020]%20Gilserberg&creator=Denckmann,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.167, 51.000],[9.333, 51.000],[9.333, 50.900],[9.167, 50.900],[9.167, 51.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 5021] Ziegenhain", "Location" : "Ziegenhain", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205021]%20Ziegenhain&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5021] Ziegenhain", "Location" : "Ziegenhain", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205021]%20Ziegenhain&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.333, 51.000],[9.500, 51.000],[9.500, 50.900],[9.333, 50.900],[9.333, 51.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 5022] Schwarzenborn", "Location" : "Schwarzenborn", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205022]%20Schwarzenborn&creator=Blankenhorn,%20M.;%20Lang,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5022] Schwarzenborn", "Location" : "Schwarzenborn", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205022]%20Schwarzenborn&creator=Blankenhorn,%20M.;%20Lang,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.500, 51.000],[9.667, 51.000],[9.667, 50.900],[9.500, 50.900],[9.500, 51.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 5023] Ludwigseck", "Location" : "Ludwigseck", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205023]%20Ludwigseck&creator=Moesta,%20Fr.;%20Beyschlag,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5023] Ludwigseck", "Location" : "Ludwigseck", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205023]%20Ludwigseck&creator=Moesta,%20Fr.;%20Beyschlag,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.333, 51.000],[10.500, 51.000],[10.500, 50.900],[10.333, 50.900],[10.333, 51.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 5028] Wutha", "Location" : "Wutha", "Subtitle" : "Eisenach Ost", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205028]%20Wutha&creator=Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5028] Wutha", "Location" : "Wutha", "Subtitle" : "Eisenach Ost", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205028]%20Wutha&creator=Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.500, 51.000],[10.667, 51.000],[10.667, 50.900],[10.500, 50.900],[10.500, 51.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 5029] Fröttstedt", "Location" : "Fröttstedt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205029]%20Fr%C3%B6ttstedt&creator=Bornemann,%20L.%20G.;%20Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5029] Fröttstedt", "Location" : "Fröttstedt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205029]%20Fr%C3%B6ttstedt&creator=Bornemann,%20L.%20G.;%20Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.667, 51.000],[10.833, 51.000],[10.833, 50.900],[10.667, 50.900],[10.667, 51.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 5030] Gotha", "Location" : "Gotha", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205030]%20Gotha&creator=Bauer,%20Max","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5030] Gotha", "Location" : "Gotha", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205030]%20Gotha&creator=Bauer,%20Max","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.833, 51.000],[11.000, 51.000],[11.000, 50.900],[10.833, 50.900],[10.833, 51.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 5031] Neu-Dietendorf", "Location" : "Neu-Dietendorf", "Subtitle" : "Erfurt West", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205031]%20Neu-Dietendorf&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5031] Neu-Dietendorf", "Location" : "Neu-Dietendorf", "Subtitle" : "Erfurt West", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205031]%20Neu-Dietendorf&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.000, 51.000],[11.167, 51.000],[11.167, 50.900],[11.000, 50.900],[11.000, 51.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 5032] Erfurt", "Location" : "Erfurt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205032]%20Erfurt&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5032] Erfurt", "Location" : "Erfurt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205032]%20Erfurt&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.500, 51.000],[11.667, 51.000],[11.667, 50.900],[11.500, 50.900],[11.500, 51.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 5035] Jena", "Location" : "Jena", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205035]%20Jena&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5035] Jena", "Location" : "Jena", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205035]%20Jena&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.667, 51.000],[11.833, 51.000],[11.833, 50.900],[11.667, 50.900],[11.667, 51.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 5036] Bürgel", "Location" : "Bürgel", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205036]%20B%C3%BCrgel&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5036] Bürgel", "Location" : "Bürgel", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205036]%20B%C3%BCrgel&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.833, 51.000],[12.000, 51.000],[12.000, 50.900],[11.833, 50.900],[11.833, 51.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 5037] Eisenberg", "Location" : "Eisenberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205037]%20Eisenberg&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5037] Eisenberg", "Location" : "Eisenberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205037]%20Eisenberg&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.000, 51.000],[12.167, 51.000],[12.167, 50.900],[12.000, 50.900],[12.000, 51.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 5038] Langenberg", "Location" : "Langenberg", "Subtitle" : "Gera-N", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205038]%20Langenberg&creator=Liebe,%20K.%20Th.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5038] Langenberg", "Location" : "Langenberg", "Subtitle" : "Gera-N", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205038]%20Langenberg&creator=Liebe,%20K.%20Th.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.167, 51.000],[12.333, 51.000],[12.333, 50.900],[12.167, 50.900],[12.167, 51.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 5039] Grossenstein", "Location" : "Grossenstein", "Subtitle" : "Kayna", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205039]%20Grossenstein&creator=Liebe,%20K.%20Th.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5039] Grossenstein", "Location" : "Grossenstein", "Subtitle" : "Kayna", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205039]%20Grossenstein&creator=Liebe,%20K.%20Th.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.000, 51.000],[16.167, 51.000],[16.167, 50.900],[16.000, 50.900],[16.000, 51.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 5062] Bolkenhain", "Location" : "Bolkenhain", "Subtitle" : "Bolków (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205062]%20Bolkenhain&creator=Zimmermann,%20E.;%20Haack,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5062] Bolkenhain", "Location" : "Bolkenhain", "Subtitle" : "Bolków (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205062]%20Bolkenhain&creator=Zimmermann,%20E.;%20Haack,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.833, 51.000],[17.000, 51.000],[17.000, 50.900],[16.833, 50.900],[16.833, 51.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 5067] Koberwitz", "Location" : "Koberwitz", "Subtitle" : "Koberwitz/Kobierzyce (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205067]%20Koberwitz&creator=Tietze,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5067] Koberwitz", "Location" : "Koberwitz", "Subtitle" : "Koberwitz/Kobierzyce (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205067]%20Koberwitz&creator=Tietze,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.667, 50.900],[6.833, 50.900],[6.833, 50.800],[6.667, 50.800],[6.667, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5106] Kerpen", "Location" : "Kerpen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205106]%20Kerpen&creator=Fliegel,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5106] Kerpen", "Location" : "Kerpen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205106]%20Kerpen&creator=Fliegel,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.833, 50.900],[7.000, 50.900],[7.000, 50.800],[6.833, 50.800],[6.833, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5107] Brühl", "Location" : "Brühl", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205107]%20Br%C3%BChl&creator=Kaiser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5107] Brühl", "Location" : "Brühl", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205107]%20Br%C3%BChl&creator=Kaiser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.000, 50.900],[7.167, 50.900],[7.167, 50.800],[7.000, 50.800],[7.000, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5108] Wahn", "Location" : "Wahn", "Subtitle" : "Köln-Porz", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205108]%20Wahn&creator=Fliegel,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5108] Wahn", "Location" : "Wahn", "Subtitle" : "Köln-Porz", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205108]%20Wahn&creator=Fliegel,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.833, 50.900],[9.000, 50.900],[9.000, 50.800],[8.833, 50.800],[8.833, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5119] Kirchhain", "Location" : "Kirchhain", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205119]%20Kirchhain&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5119] Kirchhain", "Location" : "Kirchhain", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205119]%20Kirchhain&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.000, 50.900],[9.167, 50.900],[9.167, 50.800],[9.000, 50.800],[9.000, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5120] Neustadt-Arnshain", "Location" : "Neustadt-Arnshain", "Subtitle" : "Neustadt (Hessen)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205120]%20Neustadt-Arnshain&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5120] Neustadt-Arnshain", "Location" : "Neustadt-Arnshain", "Subtitle" : "Neustadt (Hessen)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205120]%20Neustadt-Arnshain&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.167, 50.900],[9.333, 50.900],[9.333, 50.800],[9.167, 50.800],[9.167, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5121] Schrecksbach", "Location" : "Schrecksbach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205121]%20Schrecksbach&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5121] Schrecksbach", "Location" : "Schrecksbach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205121]%20Schrecksbach&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.333, 50.900],[9.500, 50.900],[9.500, 50.800],[9.333, 50.800],[9.333, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5122] Neukirchen", "Location" : "Neukirchen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205122]%20Neukirchen&creator=Blankenhorn,%20M.;%20Lang,%20O.;%20Oebbeke,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5122] Neukirchen", "Location" : "Neukirchen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205122]%20Neukirchen&creator=Blankenhorn,%20M.;%20Lang,%20O.;%20Oebbeke,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.500, 50.900],[9.667, 50.900],[9.667, 50.800],[9.500, 50.800],[9.500, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5123] Niederaula", "Location" : "Niederaula", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205123]%20Niederaula&creator=Blankenhorn,%20M.;%20Oebbeke,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5123] Niederaula", "Location" : "Niederaula", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205123]%20Niederaula&creator=Blankenhorn,%20M.;%20Oebbeke,%20K.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.333, 50.900],[10.500, 50.900],[10.500, 50.800],[10.333, 50.800],[10.333, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5128] Ruhla", "Location" : "Ruhla", "Subtitle" : "Brotterode", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205128]%20Ruhla&creator=Scheibe,%20R.;%20Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5128] Ruhla", "Location" : "Ruhla", "Subtitle" : "Brotterode", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205128]%20Ruhla&creator=Scheibe,%20R.;%20Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.667, 50.900],[10.833, 50.900],[10.833, 50.800],[10.667, 50.800],[10.667, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5130] Ohrdruf", "Location" : "Ohrdruf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205130]%20Ohrdruf&creator=Bauer,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5130] Ohrdruf", "Location" : "Ohrdruf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205130]%20Ohrdruf&creator=Bauer,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.833, 50.900],[11.000, 50.900],[11.000, 50.800],[10.833, 50.800],[10.833, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5131] Arnstadt", "Location" : "Arnstadt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205131]%20Arnstadt&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5131] Arnstadt", "Location" : "Arnstadt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205131]%20Arnstadt&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.000, 50.900],[11.167, 50.900],[11.167, 50.800],[11.000, 50.800],[11.000, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5132] Osthausen", "Location" : "Osthausen", "Subtitle" : "Marlishausen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205132]%20Osthausen&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5132] Osthausen", "Location" : "Osthausen", "Subtitle" : "Marlishausen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205132]%20Osthausen&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.167, 50.900],[11.333, 50.900],[11.333, 50.800],[11.167, 50.800],[11.167, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5133] Kranichfeld", "Location" : "Kranichfeld", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205133]%20Kranichfeld&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5133] Kranichfeld", "Location" : "Kranichfeld", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205133]%20Kranichfeld&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.333, 50.900],[11.500, 50.900],[11.500, 50.800],[11.333, 50.800],[11.333, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5134] Blankenhain", "Location" : "Blankenhain", "Subtitle" : "Blankenhein", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205134]%20Blankenhain&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5134] Blankenhain", "Location" : "Blankenhain", "Subtitle" : "Blankenhein", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205134]%20Blankenhain&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.500, 50.900],[11.667, 50.900],[11.667, 50.800],[11.500, 50.800],[11.500, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5135] Cahla", "Location" : "Cahla", "Subtitle" : "Jena Süd, Kahla", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205135]%20Cahla&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5135] Cahla", "Location" : "Cahla", "Subtitle" : "Jena Süd, Kahla", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205135]%20Cahla&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.667, 50.900],[11.833, 50.900],[11.833, 50.800],[11.667, 50.800],[11.667, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5136] Roda", "Location" : "Roda", "Subtitle" : "Stadtroda", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205136]%20Roda&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5136] Roda", "Location" : "Roda", "Subtitle" : "Stadtroda", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205136]%20Roda&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.833, 50.900],[12.000, 50.900],[12.000, 50.800],[11.833, 50.800],[11.833, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5137] St. Gangloff", "Location" : "St. Gangloff", "Subtitle" : "Münchenbernsdorf", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205137]%20St.%20Gangloff&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5137] St. Gangloff", "Location" : "St. Gangloff", "Subtitle" : "Münchenbernsdorf", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205137]%20St.%20Gangloff&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.167, 50.900],[12.333, 50.900],[12.333, 50.800],[12.167, 50.800],[12.167, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5139] Ronneburg", "Location" : "Ronneburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205139]%20Ronneburg&creator=Liebe,%20K.%20Th.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5139] Ronneburg", "Location" : "Ronneburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205139]%20Ronneburg&creator=Liebe,%20K.%20Th.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [15.667, 50.900],[15.833, 50.900],[15.833, 50.800],[15.667, 50.800],[15.667, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5160] Warmbrunn", "Location" : "Warmbrunn", "Subtitle" : "Cieplice Śląskie (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205160]%20Warmbrunn&creator=Berg,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5160] Warmbrunn", "Location" : "Warmbrunn", "Subtitle" : "Cieplice Śląskie (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205160]%20Warmbrunn&creator=Berg,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.167, 50.900],[16.333, 50.900],[16.333, 50.800],[16.167, 50.800],[16.167, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5163] Freiburg in Schlesien", "Location" : "Freiburg in Schlesien", "Subtitle" : "Swiebodzice (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205163]%20Freiburg%20in%20Schlesien&creator=Berg,%20G.;%20Dathe,%20E.;%20Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5163] Freiburg in Schlesien", "Location" : "Freiburg in Schlesien", "Subtitle" : "Swiebodzice (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205163]%20Freiburg%20in%20Schlesien&creator=Berg,%20G.;%20Dathe,%20E.;%20Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.500, 50.900],[16.667, 50.900],[16.667, 50.800],[16.500, 50.800],[16.500, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5165] Weizenrodau", "Location" : "Weizenrodau", "Subtitle" : "Pszenno (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205165]%20Weizenrodau&creator=Finckh,%20L.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5165] Weizenrodau", "Location" : "Weizenrodau", "Subtitle" : "Pszenno (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205165]%20Weizenrodau&creator=Finckh,%20L.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.667, 50.900],[16.833, 50.900],[16.833, 50.800],[16.667, 50.800],[16.667, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5166] Zobten", "Location" : "Zobten", "Subtitle" : "Sobótka (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205166]%20Zobten&creator=Finckh,%20L.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5166] Zobten", "Location" : "Zobten", "Subtitle" : "Sobótka (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205166]%20Zobten&creator=Finckh,%20L.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [17.167, 50.900],[17.333, 50.900],[17.333, 50.800],[17.167, 50.800],[17.167, 50.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 5169] Wansen", "Location" : "Wansen", "Subtitle" : "Wiązów (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205169]%20Wansen&creator=Barsch,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5169] Wansen", "Location" : "Wansen", "Subtitle" : "Wiązów (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205169]%20Wansen&creator=Barsch,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.667, 50.800],[6.833, 50.800],[6.833, 50.700],[6.667, 50.700],[6.667, 50.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 5206] Erp", "Location" : "Erp", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205206]%20Erp&creator=Fliegel,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5206] Erp", "Location" : "Erp", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205206]%20Erp&creator=Fliegel,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.833, 50.800],[7.000, 50.800],[7.000, 50.700],[6.833, 50.700],[6.833, 50.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 5207] Sechtem", "Location" : "Sechtem", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205207]%20Sechtem&creator=Fliegel,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5207] Sechtem", "Location" : "Sechtem", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205207]%20Sechtem&creator=Fliegel,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.167, 50.800],[8.333, 50.800],[8.333, 50.700],[8.167, 50.700],[8.167, 50.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 5215] Dillenburg", "Location" : "Dillenburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205215]%20Dillenburg&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5215] Dillenburg", "Location" : "Dillenburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205215]%20Dillenburg&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.333, 50.800],[8.500, 50.800],[8.500, 50.700],[8.333, 50.700],[8.333, 50.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 5216] Ober-Scheld", "Location" : "Ober-Scheld", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205216]%20Ober-Scheld&creator=Kayser,%20E.;%20Lotz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5216] Ober-Scheld", "Location" : "Ober-Scheld", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205216]%20Ober-Scheld&creator=Kayser,%20E.;%20Lotz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.833, 50.800],[9.000, 50.800],[9.000, 50.700],[8.833, 50.700],[8.833, 50.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 5219] Amöneburg-Homberg", "Location" : "Amöneburg-Homberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205219]%20Am%C3%B6neburg-Homberg&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5219] Amöneburg-Homberg", "Location" : "Amöneburg-Homberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205219]%20Am%C3%B6neburg-Homberg&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.167, 50.800],[10.333, 50.800],[10.333, 50.700],[10.167, 50.700],[10.167, 50.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 5227] Altenbreitungen", "Location" : "Altenbreitungen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205227]%20Altenbreitungen&creator=Emmerich,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5227] Altenbreitungen", "Location" : "Altenbreitungen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205227]%20Altenbreitungen&creator=Emmerich,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.333, 50.800],[10.500, 50.800],[10.500, 50.700],[10.333, 50.700],[10.333, 50.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 5228] Schmalkalden", "Location" : "Schmalkalden", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205228]%20Schmalkalden&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5228] Schmalkalden", "Location" : "Schmalkalden", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205228]%20Schmalkalden&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.500, 50.800],[10.667, 50.800],[10.667, 50.700],[10.500, 50.700],[10.500, 50.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 5229] Tambach", "Location" : "Tambach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205229]%20Tambach&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5229] Tambach", "Location" : "Tambach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205229]%20Tambach&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.667, 50.800],[10.833, 50.800],[10.833, 50.700],[10.667, 50.700],[10.667, 50.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 5230] Crawinkel-Oberhof", "Location" : "Crawinkel-Oberhof", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205230]%20Crawinkel-Oberhof&creator=Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5230] Crawinkel-Oberhof", "Location" : "Crawinkel-Oberhof", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205230]%20Crawinkel-Oberhof&creator=Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.833, 50.800],[11.000, 50.800],[11.000, 50.700],[10.833, 50.700],[10.833, 50.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 5231] Plaue", "Location" : "Plaue", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205231]%20Plaue&creator=Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5231] Plaue", "Location" : "Plaue", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205231]%20Plaue&creator=Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.000, 50.800],[11.167, 50.800],[11.167, 50.700],[11.000, 50.700],[11.000, 50.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 5232] Stadt Ilm", "Location" : "Stadt Ilm", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205232]%20Stadt%20Ilm&creator=Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5232] Stadt Ilm", "Location" : "Stadt Ilm", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205232]%20Stadt%20Ilm&creator=Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.167, 50.800],[11.333, 50.800],[11.333, 50.700],[11.167, 50.700],[11.167, 50.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 5233] Stadt Remda", "Location" : "Stadt Remda", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205233]%20Stadt%20Remda&creator=Fritsch,%20K.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5233] Stadt Remda", "Location" : "Stadt Remda", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205233]%20Stadt%20Remda&creator=Fritsch,%20K.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.667, 50.800],[11.833, 50.800],[11.833, 50.700],[11.667, 50.700],[11.667, 50.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 5236] Neustadt", "Location" : "Neustadt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205236]%20Neustadt&creator=Liebe,%20K.%20Th.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5236] Neustadt", "Location" : "Neustadt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205236]%20Neustadt&creator=Liebe,%20K.%20Th.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.833, 50.800],[12.000, 50.800],[12.000, 50.700],[11.833, 50.700],[11.833, 50.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 5237] Triptis", "Location" : "Triptis", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205237]%20Triptis&creator=Liebe,%20K.%20Th.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5237] Triptis", "Location" : "Triptis", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205237]%20Triptis&creator=Liebe,%20K.%20Th.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [12.000, 50.800],[12.167, 50.800],[12.167, 50.700],[12.000, 50.700],[12.000, 50.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 5238] Weida", "Location" : "Weida", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205238]%20Weida&creator=Liebe,%20K.Th.;%20Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5238] Weida", "Location" : "Weida", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205238]%20Weida&creator=Liebe,%20K.Th.;%20Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [15.833, 50.800],[16.000, 50.800],[16.000, 50.700],[15.833, 50.700],[15.833, 50.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 5261] Schmiedeberg (Niederschlesien), Tschöpsdorf", "Location" : "Schmiedeberg (Niederschlesien), Tschöpsdorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205261]%20Schmiedeberg%20(Niederschlesien),%20Tsch%C3%B6psdorf&creator=Berg,%20G.;%20Dathe,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5261] Schmiedeberg (Niederschlesien), Tschöpsdorf", "Location" : "Schmiedeberg (Niederschlesien), Tschöpsdorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205261]%20Schmiedeberg%20(Niederschlesien),%20Tsch%C3%B6psdorf&creator=Berg,%20G.;%20Dathe,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.167, 50.800],[16.333, 50.800],[16.333, 50.700],[16.167, 50.700],[16.167, 50.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 5263] Waldenburg in Schlesien", "Location" : "Waldenburg in Schlesien", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205263]%20Waldenburg%20in%20Schlesien&creator=Berg,%20G.;%20Dathe,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5263] Waldenburg in Schlesien", "Location" : "Waldenburg in Schlesien", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205263]%20Waldenburg%20in%20Schlesien&creator=Berg,%20G.;%20Dathe,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.500, 50.800],[16.667, 50.800],[16.667, 50.700],[16.500, 50.700],[16.500, 50.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 5265] Reichenbach", "Location" : "Reichenbach", "Subtitle" : "Dzierzoniow (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205265]%20Reichenbach&creator=Dathe,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5265] Reichenbach", "Location" : "Reichenbach", "Subtitle" : "Dzierzoniow (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205265]%20Reichenbach&creator=Dathe,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.667, 50.800],[16.833, 50.800],[16.833, 50.700],[16.667, 50.700],[16.667, 50.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 5266] Lauterbach", "Location" : "Lauterbach", "Subtitle" : "Karpacz (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205266]%20Lauterbach&creator=Barsch,%20O.;%20Finckh,%20L.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5266] Lauterbach", "Location" : "Lauterbach", "Subtitle" : "Karpacz (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205266]%20Lauterbach&creator=Barsch,%20O.;%20Finckh,%20L.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.833, 50.800],[17.000, 50.800],[17.000, 50.700],[16.833, 50.700],[16.833, 50.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 5267] Nimptsch", "Location" : "Nimptsch", "Subtitle" : "Niemcza (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205267]%20Nimptsch&creator=Tietze,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5267] Nimptsch", "Location" : "Nimptsch", "Subtitle" : "Niemcza (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205267]%20Nimptsch&creator=Tietze,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.167, 50.700],[6.333, 50.700],[6.333, 50.600],[6.167, 50.600],[6.167, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5302  /5303] Rötgen-Eupen", "Location" : "Rötgen-Eupen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205302%20%20/5303]%20R%C3%B6tgen-Eupen&creator=Wunstorf,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5302  /5303] Rötgen-Eupen", "Location" : "Rötgen-Eupen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205302%20%20/5303]%20R%C3%B6tgen-Eupen&creator=Wunstorf,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.333, 50.700],[6.500, 50.700],[6.500, 50.600],[6.333, 50.600],[6.333, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5304] Nideggen", "Location" : "Nideggen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205304]%20Nideggen&creator=Wunstorf,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5304] Nideggen", "Location" : "Nideggen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205304]%20Nideggen&creator=Wunstorf,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.667, 50.700],[6.833, 50.700],[6.833, 50.600],[6.667, 50.600],[6.667, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5306] Euskirchen", "Location" : "Euskirchen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205306]%20Euskirchen&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5306] Euskirchen", "Location" : "Euskirchen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205306]%20Euskirchen&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.833, 50.700],[7.000, 50.700],[7.000, 50.600],[6.833, 50.600],[6.833, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5307] Rheinbach", "Location" : "Rheinbach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205307]%20Rheinbach&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5307] Rheinbach", "Location" : "Rheinbach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205307]%20Rheinbach&creator=Fuchs,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.000, 50.700],[7.167, 50.700],[7.167, 50.600],[7.000, 50.600],[7.000, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5308] Godesberg", "Location" : "Godesberg", "Subtitle" : "Bonn-Bad Godesberg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205308]%20Godesberg&creator=Rauff,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5308] Godesberg", "Location" : "Godesberg", "Subtitle" : "Bonn-Bad Godesberg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205308]%20Godesberg&creator=Rauff,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.833, 50.700],[8.000, 50.700],[8.000, 50.600],[7.833, 50.600],[7.833, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5313] Marienberg", "Location" : "Marienberg", "Subtitle" : "(Bad) Marienberg (Westerwald)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205313]%20Marienberg&creator=Angelbis,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5313] Marienberg", "Location" : "Marienberg", "Subtitle" : "(Bad) Marienberg (Westerwald)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205313]%20Marienberg&creator=Angelbis,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.000, 50.700],[8.167, 50.700],[8.167, 50.600],[8.000, 50.600],[8.000, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5314] Rennerod", "Location" : "Rennerod", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205314]%20Rennerod&creator=Angelbis,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5314] Rennerod", "Location" : "Rennerod", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205314]%20Rennerod&creator=Angelbis,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.333, 50.700],[8.500, 50.700],[8.500, 50.600],[8.333, 50.600],[8.333, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5316] Ballersbach", "Location" : "Ballersbach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205316]%20Ballersbach&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5316] Ballersbach", "Location" : "Ballersbach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205316]%20Ballersbach&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.667, 50.700],[9.833, 50.700],[9.833, 50.600],[9.667, 50.600],[9.667, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5324] Hünfeld", "Location" : "Hünfeld", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205324]%20H%C3%BCnfeld&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5324] Hünfeld", "Location" : "Hünfeld", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205324]%20H%C3%BCnfeld&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.000, 50.700],[10.167, 50.700],[10.167, 50.600],[10.000, 50.600],[10.000, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5326] Tann", "Location" : "Tann", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205326]%20Tann&creator=Haak,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5326] Tann", "Location" : "Tann", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205326]%20Tann&creator=Haak,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.167, 50.700],[10.333, 50.700],[10.333, 50.600],[10.167, 50.600],[10.167, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5327] Oberkatz", "Location" : "Oberkatz", "Subtitle" : "Opfershausen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205327]%20Oberkatz&creator=Emmerich,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5327] Oberkatz", "Location" : "Oberkatz", "Subtitle" : "Opfershausen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205327]%20Oberkatz&creator=Emmerich,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.667, 50.700],[10.833, 50.700],[10.833, 50.600],[10.667, 50.600],[10.667, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5330] Suhl", "Location" : "Suhl", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205330]%20Suhl&creator=Beyschlag,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5330] Suhl", "Location" : "Suhl", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205330]%20Suhl&creator=Beyschlag,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.833, 50.700],[11.000, 50.700],[11.000, 50.600],[10.833, 50.600],[10.833, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5331] Ilmenau", "Location" : "Ilmenau", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205331]%20Ilmenau&creator=Loretz,%20H.;%20Scheibe,%20R.;%20Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5331] Ilmenau", "Location" : "Ilmenau", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205331]%20Ilmenau&creator=Loretz,%20H.;%20Scheibe,%20R.;%20Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.000, 50.700],[11.167, 50.700],[11.167, 50.600],[11.000, 50.600],[11.000, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5332] Königsee", "Location" : "Königsee", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205332]%20K%C3%B6nigsee&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5332] Königsee", "Location" : "Königsee", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205332]%20K%C3%B6nigsee&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.167, 50.700],[11.333, 50.700],[11.333, 50.600],[11.167, 50.600],[11.167, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5333] Schwarzburg", "Location" : "Schwarzburg", "Subtitle" : "Blankenburg/Schwarzburg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205333]%20Schwarzburg&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5333] Schwarzburg", "Location" : "Schwarzburg", "Subtitle" : "Blankenburg/Schwarzburg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205333]%20Schwarzburg&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.500, 50.700],[11.667, 50.700],[11.667, 50.600],[11.500, 50.600],[11.500, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5335] Ziegenrück", "Location" : "Ziegenrück", "Subtitle" : "Pößneck", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205335]%20Ziegenr%C3%BCck&creator=Liebe,%20K.%20Th.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5335] Ziegenrück", "Location" : "Ziegenrück", "Subtitle" : "Pößneck", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205335]%20Ziegenr%C3%BCck&creator=Liebe,%20K.%20Th.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.667, 50.700],[11.833, 50.700],[11.833, 50.600],[11.667, 50.600],[11.667, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5336] Pörmitz", "Location" : "Pörmitz", "Subtitle" : "Knau", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205336]%20P%C3%B6rmitz&creator=Liebe,%20K.%20Th.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5336] Pörmitz", "Location" : "Pörmitz", "Subtitle" : "Knau", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205336]%20P%C3%B6rmitz&creator=Liebe,%20K.%20Th.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.000, 50.700],[16.167, 50.700],[16.167, 50.600],[16.000, 50.600],[16.000, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5362] Schömberg", "Location" : "Schömberg", "Subtitle" : "Sulikow (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205362]%20Sch%C3%B6mberg&creator=Berg,%20G.;%20Dathe,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5362] Schömberg", "Location" : "Schömberg", "Subtitle" : "Sulikow (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205362]%20Sch%C3%B6mberg&creator=Berg,%20G.;%20Dathe,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.167, 50.700],[16.333, 50.700],[16.333, 50.600],[16.167, 50.600],[16.167, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5363] Friedland in Schlesien", "Location" : "Friedland in Schlesien", "Subtitle" : "Mieroszow (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205363]%20Friedland%20in%20Schlesien&creator=Berg,%20G.;%20Dathe,%20E.;%20Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5363] Friedland in Schlesien", "Location" : "Friedland in Schlesien", "Subtitle" : "Mieroszow (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205363]%20Friedland%20in%20Schlesien&creator=Berg,%20G.;%20Dathe,%20E.;%20Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.500, 50.700],[16.667, 50.700],[16.667, 50.600],[16.500, 50.600],[16.500, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5365] Langenbielau", "Location" : "Langenbielau", "Subtitle" : "Bielawa (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205365]%20Langenbielau&creator=Dathe,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5365] Langenbielau", "Location" : "Langenbielau", "Subtitle" : "Bielawa (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205365]%20Langenbielau&creator=Dathe,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
 
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.833, 50.700],[17.000, 50.700],[17.000, 50.600],[16.833, 50.600],[16.833, 50.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 5367] Tepliwoda", "Location" : "Tepliwoda", "Subtitle" : "Ciepłowody (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205367]%20Tepliwoda&creator=Meister,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5367] Tepliwoda", "Location" : "Tepliwoda", "Subtitle" : "Ciepłowody (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205367]%20Tepliwoda&creator=Meister,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.167, 50.600],[7.333, 50.600],[7.333, 50.500],[7.167, 50.500],[7.167, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5409] Linz", "Location" : "Linz", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205409]%20Linz&creator=Kaiser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5409] Linz", "Location" : "Linz", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205409]%20Linz&creator=Kaiser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.667, 50.600],[7.833, 50.600],[7.833, 50.500],[7.667, 50.500],[7.667, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5412] Selters", "Location" : "Selters", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205412]%20Selters&creator=Angelbis,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5412] Selters", "Location" : "Selters", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205412]%20Selters&creator=Angelbis,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.833, 50.600],[8.000, 50.600],[8.000, 50.500],[7.833, 50.500],[7.833, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5413] Westerburg", "Location" : "Westerburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205413]%20Westerburg&creator=Angelbis,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5413] Westerburg", "Location" : "Westerburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205413]%20Westerburg&creator=Angelbis,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.000, 50.600],[8.167, 50.600],[8.167, 50.500],[8.000, 50.500],[8.000, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5414] Mengerskirchen", "Location" : "Mengerskirchen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205414]%20Mengerskirchen&creator=Angelbis,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5414] Mengerskirchen", "Location" : "Mengerskirchen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205414]%20Mengerskirchen&creator=Angelbis,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.167, 50.600],[8.333, 50.600],[8.333, 50.500],[8.167, 50.500],[8.167, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5415] Merenberg", "Location" : "Merenberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205415]%20Merenberg&creator=Ahlburg,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5415] Merenberg", "Location" : "Merenberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205415]%20Merenberg&creator=Ahlburg,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.333, 50.600],[8.500, 50.600],[8.500, 50.500],[8.333, 50.500],[8.333, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5416] Braunfels", "Location" : "Braunfels", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205416]%20Braunfels&creator=Ahlburg,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5416] Braunfels", "Location" : "Braunfels", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205416]%20Braunfels&creator=Ahlburg,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.500, 50.600],[9.667, 50.600],[9.667, 50.500],[9.500, 50.500],[9.500, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5423] Großenlüder", "Location" : "Großenlüder", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205423]%20Gro%DFenl%C3%BCder&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5423] Großenlüder", "Location" : "Großenlüder", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205423]%20Gro%DFenl%C3%BCder&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.667, 50.600],[9.833, 50.600],[9.833, 50.500],[9.667, 50.500],[9.667, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5424] Fulda", "Location" : "Fulda", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205424]%20Fulda&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5424] Fulda", "Location" : "Fulda", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205424]%20Fulda&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.833, 50.600],[10.000, 50.600],[10.000, 50.500],[9.833, 50.500],[9.833, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5425] Kleinsassen", "Location" : "Kleinsassen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205425]%20Kleinsassen&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5425] Kleinsassen", "Location" : "Kleinsassen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205425]%20Kleinsassen&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.000, 50.600],[10.167, 50.600],[10.167, 50.500],[10.000, 50.500],[10.000, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5426] Hilders", "Location" : "Hilders", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205426]%20Hilders&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5426] Hilders", "Location" : "Hilders", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205426]%20Hilders&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.167, 50.600],[10.333, 50.600],[10.333, 50.500],[10.167, 50.500],[10.167, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5427] Helmershausen", "Location" : "Helmershausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205427]%20Helmershausen&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5427] Helmershausen", "Location" : "Helmershausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205427]%20Helmershausen&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.500, 50.600],[10.667, 50.600],[10.667, 50.500],[10.500, 50.500],[10.500, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5429] Themar", "Location" : "Themar", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205429]%20Themar&creator=Proescholdt,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5429] Themar", "Location" : "Themar", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205429]%20Themar&creator=Proescholdt,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.667, 50.600],[10.833, 50.600],[10.833, 50.500],[10.667, 50.500],[10.667, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5430] Schleusingen", "Location" : "Schleusingen", "Subtitle" : "Suhl-S", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205430]%20Schleusingen&creator=Beyschlag,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5430] Schleusingen", "Location" : "Schleusingen", "Subtitle" : "Suhl-S", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205430]%20Schleusingen&creator=Beyschlag,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.833, 50.600],[11.000, 50.600],[11.000, 50.500],[10.833, 50.500],[10.833, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5431] Masserberg", "Location" : "Masserberg", "Subtitle" : "Unterneubrunn", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205431]%20Masserberg&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5431] Masserberg", "Location" : "Masserberg", "Subtitle" : "Unterneubrunn", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205431]%20Masserberg&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.000, 50.600],[11.167, 50.600],[11.167, 50.500],[11.000, 50.500],[11.000, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5432] Gross-Breitenbach", "Location" : "Gross-Breitenbach", "Subtitle" : "Neuhaus am Rennweg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205432]%20Gross-Breitenbach&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5432] Gross-Breitenbach", "Location" : "Gross-Breitenbach", "Subtitle" : "Neuhaus am Rennweg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205432]%20Gross-Breitenbach&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.167, 50.600],[11.333, 50.600],[11.333, 50.500],[11.167, 50.500],[11.167, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5433] Gräfenthal", "Location" : "Gräfenthal", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205433]%20Gr%C3%A4fenthal&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5433] Gräfenthal", "Location" : "Gräfenthal", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205433]%20Gr%C3%A4fenthal&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.333, 50.600],[11.500, 50.600],[11.500, 50.500],[11.333, 50.500],[11.333, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5434] Probstzella", "Location" : "Probstzella", "Subtitle" : "Leutenberg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205434]%20Probstzella&creator=Liebe,%20K.%20Th.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5434] Probstzella", "Location" : "Probstzella", "Subtitle" : "Leutenberg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205434]%20Probstzella&creator=Liebe,%20K.%20Th.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.500, 50.600],[11.667, 50.600],[11.667, 50.500],[11.500, 50.500],[11.500, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5435] Liebengrün", "Location" : "Liebengrün", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205435]%20Liebengr%C3%BCn&creator=Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5435] Liebengrün", "Location" : "Liebengrün", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205435]%20Liebengr%C3%BCn&creator=Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.667, 50.600],[11.833, 50.600],[11.833, 50.500],[11.667, 50.500],[11.667, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5436] Schleiz", "Location" : "Schleiz", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205436]%20Schleiz&creator=Liebe,%20K.%20Th.;%20Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5436] Schleiz", "Location" : "Schleiz", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205436]%20Schleiz&creator=Liebe,%20K.%20Th.;%20Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.333, 50.600],[16.500, 50.600],[16.500, 50.500],[16.333, 50.500],[16.333, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5464] Wünschelburg", "Location" : "Wünschelburg", "Subtitle" : "Radków (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205464]%20W%C3%BCnschelburg&creator=Dathe,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5464] Wünschelburg", "Location" : "Wünschelburg", "Subtitle" : "Radków (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205464]%20W%C3%BCnschelburg&creator=Dathe,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.500, 50.600],[16.667, 50.600],[16.667, 50.500],[16.500, 50.500],[16.500, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5465] Neurode", "Location" : "Neurode", "Subtitle" : "Nowa Ruda (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205465]%20Neurode&creator=Dathe,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5465] Neurode", "Location" : "Neurode", "Subtitle" : "Nowa Ruda (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205465]%20Neurode&creator=Dathe,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [16.667, 50.600],[16.833, 50.600],[16.833, 50.500],[16.667, 50.500],[16.667, 50.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 5466] Frankenstein", "Location" : "Frankenstein", "Subtitle" : "Zabkowice Sl. (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205466]%20Frankenstein&creator=Finckh,%20L.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5466] Frankenstein", "Location" : "Frankenstein", "Subtitle" : "Zabkowice Sl. (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205466]%20Frankenstein&creator=Finckh,%20L.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.667, 50.500],[7.833, 50.500],[7.833, 50.400],[7.667, 50.400],[7.667, 50.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 5512] Montabaur", "Location" : "Montabaur", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205512]%20Montabaur&creator=Angelbis,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5512] Montabaur", "Location" : "Montabaur", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205512]%20Montabaur&creator=Angelbis,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.833, 50.500],[8.000, 50.500],[8.000, 50.400],[7.833, 50.400],[7.833, 50.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 5513] Girod", "Location" : "Girod", "Subtitle" : "Meudt", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205513]%20Girod&creator=Angelbis,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5513] Girod", "Location" : "Girod", "Subtitle" : "Meudt", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205513]%20Girod&creator=Angelbis,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.000, 50.500],[8.167, 50.500],[8.167, 50.400],[8.000, 50.400],[8.000, 50.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 5514] Hadamar", "Location" : "Hadamar", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205514]%20Hadamar&creator=Angelbis,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5514] Hadamar", "Location" : "Hadamar", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205514]%20Hadamar&creator=Angelbis,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.167, 50.500],[8.333, 50.500],[8.333, 50.400],[8.167, 50.400],[8.167, 50.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 5515] Weilburg", "Location" : "Weilburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205515]%20Weilburg&creator=Ahlburg,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5515] Weilburg", "Location" : "Weilburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205515]%20Weilburg&creator=Ahlburg,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.333, 50.500],[8.500, 50.500],[8.500, 50.400],[8.333, 50.400],[8.333, 50.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 5516] Weilmünster", "Location" : "Weilmünster", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205516]%20Weilm%C3%BCnster&creator=Ahlburg,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5516] Weilmünster", "Location" : "Weilmünster", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205516]%20Weilm%C3%BCnster&creator=Ahlburg,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.500, 50.500],[9.667, 50.500],[9.667, 50.400],[9.500, 50.400],[9.500, 50.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 5523] Neuhof", "Location" : "Neuhof", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205523]%20Neuhof&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5523] Neuhof", "Location" : "Neuhof", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205523]%20Neuhof&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.667, 50.500],[9.833, 50.500],[9.833, 50.400],[9.667, 50.400],[9.667, 50.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 5524] Weyhers", "Location" : "Weyhers", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205524]%20Weyhers&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5524] Weyhers", "Location" : "Weyhers", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205524]%20Weyhers&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.000, 50.500],[10.167, 50.500],[10.167, 50.400],[10.000, 50.400],[10.000, 50.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 5526] Sondheim", "Location" : "Sondheim", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205526]%20Sondheim&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5526] Sondheim", "Location" : "Sondheim", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205526]%20Sondheim&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.167, 50.500],[10.333, 50.500],[10.333, 50.400],[10.167, 50.400],[10.167, 50.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 5527] Ostheim v. d. Rhön", "Location" : "Ostheim v. d. Rhön", "Subtitle" : "Mellrichstadt", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205527]%20Ostheim%20v.%20d.%20Rh%C3%B6n&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5527] Ostheim v. d. Rhön", "Location" : "Ostheim v. d. Rhön", "Subtitle" : "Mellrichstadt", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205527]%20Ostheim%20v.%20d.%20Rh%C3%B6n&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.333, 50.500],[10.500, 50.500],[10.500, 50.400],[10.333, 50.400],[10.333, 50.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 5528] Rentwertshausen", "Location" : "Rentwertshausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205528]%20Rentwertshausen&creator=Proescholdt,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5528] Rentwertshausen", "Location" : "Rentwertshausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205528]%20Rentwertshausen&creator=Proescholdt,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.500, 50.500],[10.667, 50.500],[10.667, 50.400],[10.500, 50.400],[10.500, 50.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 5529] Dingsleben", "Location" : "Dingsleben", "Subtitle" : "Römhild-Nord", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205529]%20Dingsleben&creator=Proescholdt,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5529] Dingsleben", "Location" : "Dingsleben", "Subtitle" : "Römhild-Nord", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205529]%20Dingsleben&creator=Proescholdt,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.667, 50.500],[10.833, 50.500],[10.833, 50.400],[10.667, 50.400],[10.667, 50.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 5530] Hildburghausen", "Location" : "Hildburghausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205530]%20Hildburghausen&creator=Proescholdt,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5530] Hildburghausen", "Location" : "Hildburghausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205530]%20Hildburghausen&creator=Proescholdt,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.833, 50.500],[11.000, 50.500],[11.000, 50.400],[10.833, 50.400],[10.833, 50.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 5531] Eisfeld", "Location" : "Eisfeld", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205531]%20Eisfeld&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5531] Eisfeld", "Location" : "Eisfeld", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205531]%20Eisfeld&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.000, 50.500],[11.167, 50.500],[11.167, 50.400],[11.000, 50.400],[11.000, 50.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 5532] Steinheid", "Location" : "Steinheid", "Subtitle" : "Steinach (Thür.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205532]%20Steinheid&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5532] Steinheid", "Location" : "Steinheid", "Subtitle" : "Steinach (Thür.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205532]%20Steinheid&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.167, 50.500],[11.333, 50.500],[11.333, 50.400],[11.167, 50.400],[11.167, 50.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 5533] Spechtsbrunn", "Location" : "Spechtsbrunn", "Subtitle" : "Spechtsbrunn (bay. Anteil)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205533]%20Spechtsbrunn&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5533] Spechtsbrunn", "Location" : "Spechtsbrunn", "Subtitle" : "Spechtsbrunn (bay. Anteil)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205533]%20Spechtsbrunn&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.500, 50.500],[11.667, 50.500],[11.667, 50.400],[11.500, 50.400],[11.500, 50.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 5535] Lobenstein, Titschendorf", "Location" : "Lobenstein, Titschendorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205535]%20Lobenstein,%20Titschendorf&creator=Liebe,%20K.%20Th.;%20Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5535] Lobenstein, Titschendorf", "Location" : "Lobenstein, Titschendorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205535]%20Lobenstein,%20Titschendorf&creator=Liebe,%20K.%20Th.;%20Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.667, 50.500],[11.833, 50.500],[11.833, 50.400],[11.667, 50.400],[11.667, 50.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 5536] Hirschberg a.d. Saale", "Location" : "Hirschberg a.d. Saale", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205536]%20Hirschberg%20a.d.%20Saale&creator=Liebe,%20K.%20Th.;%20Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5536] Hirschberg a.d. Saale", "Location" : "Hirschberg a.d. Saale", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205536]%20Hirschberg%20a.d.%20Saale&creator=Liebe,%20K.%20Th.;%20Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.500, 50.400],[7.667, 50.400],[7.667, 50.300],[7.500, 50.300],[7.500, 50.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 5611] Coblenz", "Location" : "Coblenz", "Subtitle" : "Koblenz", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205611]%20Coblenz&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5611] Coblenz", "Location" : "Coblenz", "Subtitle" : "Koblenz", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205611]%20Coblenz&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.667, 50.400],[7.833, 50.400],[7.833, 50.300],[7.667, 50.300],[7.667, 50.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 5612] Ems", "Location" : "Ems", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205612]%20Ems&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5612] Ems", "Location" : "Ems", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205612]%20Ems&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.833, 50.400],[8.000, 50.400],[8.000, 50.300],[7.833, 50.300],[7.833, 50.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 5613] Schaumburg", "Location" : "Schaumburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205613]%20Schaumburg&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5613] Schaumburg", "Location" : "Schaumburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205613]%20Schaumburg&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.000, 50.400],[8.167, 50.400],[8.167, 50.300],[8.000, 50.300],[8.000, 50.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 5614] Limburg", "Location" : "Limburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205614]%20Limburg&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5614] Limburg", "Location" : "Limburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205614]%20Limburg&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.167, 50.400],[8.333, 50.400],[8.333, 50.300],[8.167, 50.300],[8.167, 50.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 5615] Eisenbach", "Location" : "Eisenbach", "Subtitle" : "Villmar", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205615]%20Eisenbach&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5615] Eisenbach", "Location" : "Eisenbach", "Subtitle" : "Villmar", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205615]%20Eisenbach&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.667, 50.400],[9.833, 50.400],[9.833, 50.300],[9.667, 50.300],[9.667, 50.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 5624 / 5724] Oberzell, Güntershof", "Location" : "Oberzell, Güntershof", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205624%20/%205724]%20Oberzell,%20G%C3%BCntershof&creator=Seyfried,%20E.,%20v.;%20Reis,%20O.%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5624 / 5724] Oberzell, Güntershof", "Location" : "Oberzell, Güntershof", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205624%20/%205724]%20Oberzell,%20G%C3%BCntershof&creator=Seyfried,%20E.,%20v.;%20Reis,%20O.%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.333, 50.400],[10.500, 50.400],[10.500, 50.300],[10.333, 50.300],[10.333, 50.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 5628] Mendhausen, Römhild", "Location" : "Mendhausen, Römhild", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205628]%20Mendhausen,%20R%C3%B6mhild&creator=Proescholdt,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5628] Mendhausen, Römhild", "Location" : "Mendhausen, Römhild", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205628]%20Mendhausen,%20R%C3%B6mhild&creator=Proescholdt,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.667, 50.400],[10.833, 50.400],[10.833, 50.300],[10.667, 50.300],[10.667, 50.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 5630] Rodach", "Location" : "Rodach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205630]%20Rodach&creator=Beyschlag,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5630] Rodach", "Location" : "Rodach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205630]%20Rodach&creator=Beyschlag,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.833, 50.400],[11.000, 50.400],[11.000, 50.300],[10.833, 50.300],[10.833, 50.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 5631] Meeder", "Location" : "Meeder", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205631]%20Meeder&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5631] Meeder", "Location" : "Meeder", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205631]%20Meeder&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.000, 50.400],[11.167, 50.400],[11.167, 50.300],[11.000, 50.300],[11.000, 50.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 5632] Neustadt a. d. Heide", "Location" : "Neustadt a. d. Heide", "Subtitle" : "Neustadt b. Coburg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205632]%20Neustadt%20a.%20d.%20Heide&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5632] Neustadt a. d. Heide", "Location" : "Neustadt a. d. Heide", "Subtitle" : "Neustadt b. Coburg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205632]%20Neustadt%20a.%20d.%20Heide&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.667, 50.300],[7.833, 50.300],[7.833, 50.200],[7.667, 50.200],[7.667, 50.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 5712] Dachsenhausen", "Location" : "Dachsenhausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205712]%20Dachsenhausen&creator=Holzapfel,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5712] Dachsenhausen", "Location" : "Dachsenhausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205712]%20Dachsenhausen&creator=Holzapfel,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.833, 50.300],[8.000, 50.300],[8.000, 50.200],[7.833, 50.200],[7.833, 50.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 5713] Rettert", "Location" : "Rettert", "Subtitle" : "Katzenelnbogen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205713]%20Rettert&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5713] Rettert", "Location" : "Rettert", "Subtitle" : "Katzenelnbogen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205713]%20Rettert&creator=Kayser,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.000, 50.300],[8.167, 50.300],[8.167, 50.200],[8.000, 50.200],[8.000, 50.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 5714] Kettenbach", "Location" : "Kettenbach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205714]%20Kettenbach&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5714] Kettenbach", "Location" : "Kettenbach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205714]%20Kettenbach&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.167, 50.300],[8.333, 50.300],[8.333, 50.200],[8.167, 50.200],[8.167, 50.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 5715] Idstein", "Location" : "Idstein", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205715]%20Idstein&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5715] Idstein", "Location" : "Idstein", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205715]%20Idstein&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.333, 50.300],[8.500, 50.300],[8.500, 50.200],[8.333, 50.200],[8.333, 50.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 5716] Feldberg", "Location" : "Feldberg", "Subtitle" : "Oberreifenberg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205716]%20Feldberg&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5716] Feldberg", "Location" : "Feldberg", "Subtitle" : "Oberreifenberg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205716]%20Feldberg&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.833, 50.300],[9.000, 50.300],[9.000, 50.200],[8.833, 50.200],[8.833, 50.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 5719] Windecken", "Location" : "Windecken", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205719]%20Windecken&creator=Reinach,%20A.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5719] Windecken", "Location" : "Windecken", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205719]%20Windecken&creator=Reinach,%20A.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.000, 50.300],[9.167, 50.300],[9.167, 50.200],[9.000, 50.200],[9.000, 50.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 5720] Hüttengesäss", "Location" : "Hüttengesäss", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205720]%20H%C3%BCttenges%C3%A4ss&creator=Reinach,%20A.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5720] Hüttengesäss", "Location" : "Hüttengesäss", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205720]%20H%C3%BCttenges%C3%A4ss&creator=Reinach,%20A.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.167, 50.300],[9.333, 50.300],[9.333, 50.200],[9.167, 50.200],[9.167, 50.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 5721] Gelnhausen", "Location" : "Gelnhausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205721]%20Gelnhausen&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5721] Gelnhausen", "Location" : "Gelnhausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205721]%20Gelnhausen&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.500, 50.300],[10.667, 50.300],[10.667, 50.200],[10.500, 50.200],[10.500, 50.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 5729] Rieth", "Location" : "Rieth", "Subtitle" : "Alsleben", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205729]%20Rieth&creator=Beyschlag,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5729] Rieth", "Location" : "Rieth", "Subtitle" : "Alsleben", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205729]%20Rieth&creator=Beyschlag,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.667, 50.300],[10.833, 50.300],[10.833, 50.200],[10.667, 50.200],[10.667, 50.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 5730] Heldburg", "Location" : "Heldburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205730]%20Heldburg&creator=Beyschlag,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5730] Heldburg", "Location" : "Heldburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205730]%20Heldburg&creator=Beyschlag,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [10.833, 50.300],[11.000, 50.300],[11.000, 50.200],[10.833, 50.200],[10.833, 50.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 5731] Coburg", "Location" : "Coburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205731]%20Coburg&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5731] Coburg", "Location" : "Coburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205731]%20Coburg&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [11.167, 50.300],[11.333, 50.300],[11.333, 50.200],[11.167, 50.200],[11.167, 50.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 5733] Steinach", "Location" : "Steinach", "Subtitle" : "Kronach", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205733]%20Steinach&creator=Lorentz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5733] Steinach", "Location" : "Steinach", "Subtitle" : "Kronach", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205733]%20Steinach&creator=Lorentz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.667, 50.200],[7.833, 50.200],[7.833, 50.100],[7.667, 50.100],[7.667, 50.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 5812] St. Goarshausen", "Location" : "St. Goarshausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205812]%20St.%20Goarshausen&creator=Holzapfel,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5812] St. Goarshausen", "Location" : "St. Goarshausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205812]%20St.%20Goarshausen&creator=Holzapfel,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.833, 50.200],[8.000, 50.200],[8.000, 50.100],[7.833, 50.100],[7.833, 50.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 5813] Algenroth", "Location" : "Algenroth", "Subtitle" : "Nastätten", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205813]%20Algenroth&creator=Holzapfel,%20E.;%20Leppla,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5813] Algenroth", "Location" : "Algenroth", "Subtitle" : "Nastätten", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205813]%20Algenroth&creator=Holzapfel,%20E.;%20Leppla,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.000, 50.200],[8.167, 50.200],[8.167, 50.100],[8.000, 50.100],[8.000, 50.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 5814] Langenschwalbach", "Location" : "Langenschwalbach", "Subtitle" : "Bad Schwalbach", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205814]%20Langenschwalbach&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5814] Langenschwalbach", "Location" : "Langenschwalbach", "Subtitle" : "Bad Schwalbach", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205814]%20Langenschwalbach&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.167, 50.200],[8.333, 50.200],[8.333, 50.100],[8.167, 50.100],[8.167, 50.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 5815] Platte", "Location" : "Platte", "Subtitle" : "Wehen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205815]%20Platte&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5815] Platte", "Location" : "Platte", "Subtitle" : "Wehen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205815]%20Platte&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.333, 50.200],[8.500, 50.200],[8.500, 50.100],[8.333, 50.100],[8.333, 50.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 5816] Königstein am Taunus", "Location" : "Königstein am Taunus", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205816]%20K%C3%B6nigstein%20am%20Taunus&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5816] Königstein am Taunus", "Location" : "Königstein am Taunus", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205816]%20K%C3%B6nigstein%20am%20Taunus&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.500, 50.200],[8.667, 50.200],[8.667, 50.100],[8.500, 50.100],[8.500, 50.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 5817] Rödelheim", "Location" : "Rödelheim", "Subtitle" : "Frankfurt a. M. West (Höchst) - Steinach", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205817]%20R%C3%B6delheim&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5817] Rödelheim", "Location" : "Rödelheim", "Subtitle" : "Frankfurt a. M. West (Höchst) - Steinach", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205817]%20R%C3%B6delheim&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.667, 50.200],[8.833, 50.200],[8.833, 50.100],[8.667, 50.100],[8.667, 50.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 5818] Frankfurt am Main", "Location" : "Frankfurt am Main", "Subtitle" : "Frankfurt a. M. Ost - Offenbach", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205818]%20Frankfurt%20am%20Main&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5818] Frankfurt am Main", "Location" : "Frankfurt am Main", "Subtitle" : "Frankfurt a. M. Ost - Offenbach", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205818]%20Frankfurt%20am%20Main&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.833, 50.200],[9.000, 50.200],[9.000, 50.100],[8.833, 50.100],[8.833, 50.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 5819] Hanau", "Location" : "Hanau", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205819]%20Hanau&creator=Reinach,%20A.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5819] Hanau", "Location" : "Hanau", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205819]%20Hanau&creator=Reinach,%20A.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.000, 50.200],[9.167, 50.200],[9.167, 50.100],[9.000, 50.100],[9.000, 50.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 5820] Langenselbold", "Location" : "Langenselbold", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205820]%20Langenselbold&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5820] Langenselbold", "Location" : "Langenselbold", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205820]%20Langenselbold&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.167, 50.200],[9.333, 50.200],[9.333, 50.100],[9.167, 50.100],[9.167, 50.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 5821] Bieber", "Location" : "Bieber", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205821]%20Bieber&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5821] Bieber", "Location" : "Bieber", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205821]%20Bieber&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [9.333, 50.200],[9.500, 50.200],[9.500, 50.100],[9.333, 50.100],[9.333, 50.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 5822] Lohrhaupten", "Location" : "Lohrhaupten", "Subtitle" : "Wiesen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205822]%20Lohrhaupten&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5822] Lohrhaupten", "Location" : "Lohrhaupten", "Subtitle" : "Wiesen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205822]%20Lohrhaupten&creator=B%C3%BCcking,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.167, 50.100],[6.333, 50.100],[6.333, 50.000],[6.167, 50.000],[6.167, 50.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 5902 / 5903] Dasburg, Neuerburg", "Location" : "Dasburg, Neuerburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205902%20/%205903]%20Dasburg,%20Neuerburg&creator=Leppla,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5902 / 5903] Dasburg, Neuerburg", "Location" : "Dasburg, Neuerburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205902%20/%205903]%20Dasburg,%20Neuerburg&creator=Leppla,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.333, 50.100],[6.500, 50.100],[6.500, 50.000],[6.333, 50.000],[6.333, 50.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 5904] Waxweiler", "Location" : "Waxweiler", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205904]%20Waxweiler&creator=Leppla,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5904] Waxweiler", "Location" : "Waxweiler", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205904]%20Waxweiler&creator=Leppla,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.500, 50.100],[6.667, 50.100],[6.667, 50.000],[6.500, 50.000],[6.500, 50.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 5905] Kilburg", "Location" : "Kilburg", "Subtitle" : "Kyllburg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205905]%20Kilburg&creator=Leppla,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5905] Kilburg", "Location" : "Kilburg", "Subtitle" : "Kyllburg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205905]%20Kilburg&creator=Leppla,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.667, 50.100],[7.833, 50.100],[7.833, 50.000],[7.667, 50.000],[7.667, 50.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 5912] Caub", "Location" : "Caub", "Subtitle" : "Kaub", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205912]%20Caub&creator=Holzapfel,%20E.;%20Leppla,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5912] Caub", "Location" : "Caub", "Subtitle" : "Kaub", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205912]%20Caub&creator=Holzapfel,%20E.;%20Leppla,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.000, 50.100],[8.167, 50.100],[8.167, 50.000],[8.000, 50.000],[8.000, 50.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 5914] Eltville", "Location" : "Eltville", "Subtitle" : "Eltville-Heidenfahrt", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205914]%20Eltville&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5914] Eltville", "Location" : "Eltville", "Subtitle" : "Eltville-Heidenfahrt", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205914]%20Eltville&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.167, 50.100],[8.333, 50.100],[8.333, 50.000],[8.167, 50.000],[8.167, 50.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 5915] Wiesbaden", "Location" : "Wiesbaden", "Subtitle" : "Wiesbaden-Kastel", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205915]%20Wiesbaden&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5915] Wiesbaden", "Location" : "Wiesbaden", "Subtitle" : "Wiesbaden-Kastel", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205915]%20Wiesbaden&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.333, 50.100],[8.500, 50.100],[8.500, 50.000],[8.333, 50.000],[8.333, 50.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 5916] Hochheim", "Location" : "Hochheim", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205916]%20Hochheim&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5916] Hochheim", "Location" : "Hochheim", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205916]%20Hochheim&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.500, 50.100],[8.667, 50.100],[8.667, 50.000],[8.500, 50.000],[8.500, 50.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 5917] Schwanheim", "Location" : "Schwanheim", "Subtitle" : "Kelsterbach", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205917]%20Schwanheim&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5917] Schwanheim", "Location" : "Schwanheim", "Subtitle" : "Kelsterbach", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205917]%20Schwanheim&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [8.667, 50.100],[8.833, 50.100],[8.833, 50.000],[8.667, 50.000],[8.667, 50.100]]]},
-        "properties" : { "Title" : "[Neue Nr. 5918] Sachsenhausen", "Location" : "Sachsenhausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205918]%20Sachsenhausen&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 5918] Sachsenhausen", "Location" : "Sachsenhausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%205918]%20Sachsenhausen&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.167, 50.000],[6.333, 50.000],[6.333, 49.900],[6.167, 49.900],[6.167, 50.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 6002 / 6003] Gemünd, Mettendorf", "Location" : "Gemünd, Mettendorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206002%20/%206003]%20Gem%C3%BCnd,%20Mettendorf&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6002 / 6003] Gemünd, Mettendorf", "Location" : "Gemünd, Mettendorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206002%20/%206003]%20Gem%C3%BCnd,%20Mettendorf&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.333, 50.000],[6.500, 50.000],[6.500, 49.900],[6.333, 49.900],[6.333, 50.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 6004] Oberweis", "Location" : "Oberweis", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206004]%20Oberweis&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6004] Oberweis", "Location" : "Oberweis", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206004]%20Oberweis&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.500, 50.000],[6.667, 50.000],[6.667, 49.900],[6.500, 49.900],[6.500, 50.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 6005] Bitburg", "Location" : "Bitburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206005]%20Bitburg&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6005] Bitburg", "Location" : "Bitburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206005]%20Bitburg&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.667, 50.000],[6.833, 50.000],[6.833, 49.900],[6.667, 49.900],[6.667, 50.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 6006] Landscheid", "Location" : "Landscheid", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206006]%20Landscheid&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6006] Landscheid", "Location" : "Landscheid", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206006]%20Landscheid&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.833, 50.000],[7.000, 50.000],[7.000, 49.900],[6.833, 49.900],[6.833, 50.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 6007] Wittlich", "Location" : "Wittlich", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206007]%20Wittlich&creator=Leppla,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6007] Wittlich", "Location" : "Wittlich", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206007]%20Wittlich&creator=Leppla,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.000, 50.000],[7.167, 50.000],[7.167, 49.900],[7.000, 49.900],[7.000, 50.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 6008] Berncastel", "Location" : "Berncastel", "Subtitle" : "Bernkastel-Kues", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206008]%20Berncastel&creator=Leppla,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6008] Berncastel", "Location" : "Berncastel", "Subtitle" : "Bernkastel-Kues", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206008]%20Berncastel&creator=Leppla,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.167, 50.000],[7.333, 50.000],[7.333, 49.900],[7.167, 49.900],[7.167, 50.000]]]},
-        "properties" : { "Title" : "[Neue Nr. 6009] Sohren", "Location" : "Sohren", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206009]%20Sohren&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6009] Sohren", "Location" : "Sohren", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206009]%20Sohren&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.167, 49.900],[6.333, 49.900],[6.333, 49.800],[6.167, 49.800],[6.167, 49.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 6103] Wallendorf", "Location" : "Wallendorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206103]%20Wallendorf&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6103] Wallendorf", "Location" : "Wallendorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206103]%20Wallendorf&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.333, 49.900],[6.500, 49.900],[6.500, 49.800],[6.333, 49.800],[6.333, 49.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 6104] Bollendorf", "Location" : "Bollendorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206104]%20Bollendorf&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6104] Bollendorf", "Location" : "Bollendorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206104]%20Bollendorf&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.500, 49.900],[6.667, 49.900],[6.667, 49.800],[6.500, 49.800],[6.500, 49.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 6105] Welschbillig", "Location" : "Welschbillig", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206105]%20Welschbillig&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6105] Welschbillig", "Location" : "Welschbillig", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206105]%20Welschbillig&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.667, 49.900],[6.833, 49.900],[6.833, 49.800],[6.667, 49.800],[6.667, 49.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 6106] Schweich", "Location" : "Schweich", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206106]%20Schweich&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6106] Schweich", "Location" : "Schweich", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206106]%20Schweich&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.833, 49.900],[7.000, 49.900],[7.000, 49.800],[6.833, 49.800],[6.833, 49.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 6107] Neumagen", "Location" : "Neumagen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206107]%20Neumagen&creator=Leppla,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6107] Neumagen", "Location" : "Neumagen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206107]%20Neumagen&creator=Leppla,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.000, 49.900],[7.167, 49.900],[7.167, 49.800],[7.000, 49.800],[7.000, 49.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 6108] Morbach", "Location" : "Morbach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206108]%20Morbach&creator=Leppla,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6108] Morbach", "Location" : "Morbach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206108]%20Morbach&creator=Leppla,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.167, 49.900],[7.333, 49.900],[7.333, 49.800],[7.167, 49.800],[7.167, 49.900]]]},
-        "properties" : { "Title" : "[Neue Nr. 6109] Hottenbach", "Location" : "Hottenbach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206109]%20Hottenbach&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6109] Hottenbach", "Location" : "Hottenbach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206109]%20Hottenbach&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.500, 49.800],[6.667, 49.800],[6.667, 49.700],[6.500, 49.700],[6.500, 49.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 6205] Trier", "Location" : "Trier", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206205]%20Trier&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6205] Trier", "Location" : "Trier", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206205]%20Trier&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.667, 49.800],[6.833, 49.800],[6.833, 49.700],[6.667, 49.700],[6.667, 49.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 6206] Pfalzel", "Location" : "Pfalzel", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206206]%20Pfalzel&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6206] Pfalzel", "Location" : "Pfalzel", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206206]%20Pfalzel&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.833, 49.800],[7.000, 49.800],[7.000, 49.700],[6.833, 49.700],[6.833, 49.800]]]},
-        "properties" : { "Title" : "[Neue Nr. 6207] Schönberg", "Location" : "Schönberg", "Subtitle" : "Beuren", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206207]%20Sch%C3%B6nberg&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6207] Schönberg", "Location" : "Schönberg", "Subtitle" : "Beuren", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206207]%20Sch%C3%B6nberg&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.333, 49.700],[6.500, 49.700],[6.500, 49.600],[6.333, 49.600],[6.333, 49.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 6304] Wincheringen", "Location" : "Wincheringen", "Subtitle" : "Wincheringen a.d.Mosel", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206304]%20Wincheringen&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6304] Wincheringen", "Location" : "Wincheringen", "Subtitle" : "Wincheringen a.d.Mosel", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206304]%20Wincheringen&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.500, 49.700],[6.667, 49.700],[6.667, 49.600],[6.500, 49.600],[6.500, 49.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 6305] Saarburg", "Location" : "Saarburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206305]%20Saarburg&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6305] Saarburg", "Location" : "Saarburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206305]%20Saarburg&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.667, 49.700],[6.833, 49.700],[6.833, 49.600],[6.667, 49.600],[6.667, 49.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 6306] Schillingen", "Location" : "Schillingen", "Subtitle" : "Kell", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206306]%20Schillingen&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6306] Schillingen", "Location" : "Schillingen", "Subtitle" : "Kell", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206306]%20Schillingen&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.167, 49.700],[7.333, 49.700],[7.333, 49.600],[7.167, 49.600],[7.167, 49.700]]]},
-        "properties" : { "Title" : "[Neue Nr. 6309] Birkenfeld", "Location" : "Birkenfeld", "Subtitle" : "Birkenfeld Ost", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206309]%20Birkenfeld&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6309] Birkenfeld", "Location" : "Birkenfeld", "Subtitle" : "Birkenfeld Ost", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206309]%20Birkenfeld&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.333, 49.600],[6.500, 49.600],[6.500, 49.500],[6.333, 49.500],[6.333, 49.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 6404] Beuren", "Location" : "Beuren", "Subtitle" : "Kirf", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206404]%20Beuren&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6404] Beuren", "Location" : "Beuren", "Subtitle" : "Kirf", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206404]%20Beuren&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.500, 49.600],[6.667, 49.600],[6.667, 49.500],[6.500, 49.500],[6.500, 49.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 6405] Freudenburg", "Location" : "Freudenburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206405]%20Freudenburg&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6405] Freudenburg", "Location" : "Freudenburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206405]%20Freudenburg&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.667, 49.600],[6.833, 49.600],[6.833, 49.500],[6.667, 49.500],[6.667, 49.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 6406] Losheim", "Location" : "Losheim", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206406]%20Losheim&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6406] Losheim", "Location" : "Losheim", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206406]%20Losheim&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.833, 49.600],[7.000, 49.600],[7.000, 49.500],[6.833, 49.500],[6.833, 49.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 6407] Wadern", "Location" : "Wadern", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206407]%20Wadern&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6407] Wadern", "Location" : "Wadern", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206407]%20Wadern&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.167, 49.600],[7.333, 49.600],[7.333, 49.500],[7.167, 49.500],[7.167, 49.600]]]},
-        "properties" : { "Title" : "[Neue Nr. 6409] Freisen", "Location" : "Freisen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206409]%20Freisen&creator=Rolle,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6409] Freisen", "Location" : "Freisen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206409]%20Freisen&creator=Rolle,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.333, 49.500],[6.500, 49.500],[6.500, 49.400],[6.333, 49.400],[6.333, 49.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 6504] Perl", "Location" : "Perl", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206504]%20Perl&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6504] Perl", "Location" : "Perl", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206504]%20Perl&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.500, 49.500],[6.667, 49.500],[6.667, 49.400],[6.500, 49.400],[6.500, 49.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 6505] Merzig", "Location" : "Merzig", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206505]%20Merzig&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6505] Merzig", "Location" : "Merzig", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206505]%20Merzig&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.667, 49.500],[6.833, 49.500],[6.833, 49.400],[6.667, 49.400],[6.667, 49.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 6506] Wahlen", "Location" : "Wahlen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206506]%20Wahlen&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6506] Wahlen", "Location" : "Wahlen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206506]%20Wahlen&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.833, 49.500],[7.000, 49.500],[7.000, 49.400],[6.833, 49.400],[6.833, 49.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 6507] Lebach", "Location" : "Lebach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206507]%20Lebach&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6507] Lebach", "Location" : "Lebach", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206507]%20Lebach&creator=Grebe,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.000, 49.500],[7.167, 49.500],[7.167, 49.400],[7.000, 49.400],[7.000, 49.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 6508] Ottweiler", "Location" : "Ottweiler", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206508]%20Ottweiler&creator=Rolle,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6508] Ottweiler", "Location" : "Ottweiler", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206508]%20Ottweiler&creator=Rolle,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.167, 49.500],[7.333, 49.500],[7.333, 49.400],[7.167, 49.400],[7.167, 49.500]]]},
-        "properties" : { "Title" : "[Neue Nr. 6509] St. Wendel", "Location" : "St. Wendel", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206509]%20St.%20Wendel&creator=Rolle,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6509] St. Wendel", "Location" : "St. Wendel", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206509]%20St.%20Wendel&creator=Rolle,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.500, 49.400],[6.667, 49.400],[6.667, 49.300],[6.500, 49.300],[6.500, 49.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 6605] Gr. Hemmersdorf", "Location" : "Gr. Hemmersdorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206605]%20Gr.%20Hemmersdorf&creator=Weiss,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6605] Gr. Hemmersdorf", "Location" : "Gr. Hemmersdorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206605]%20Gr.%20Hemmersdorf&creator=Weiss,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.667, 49.400],[6.833, 49.400],[6.833, 49.300],[6.667, 49.300],[6.667, 49.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 6606] Saarlouis", "Location" : "Saarlouis", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206606]%20Saarlouis&creator=Weiss,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6606] Saarlouis", "Location" : "Saarlouis", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206606]%20Saarlouis&creator=Weiss,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.833, 49.400],[7.000, 49.400],[7.000, 49.300],[6.833, 49.300],[6.833, 49.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 6607] Heusweiler", "Location" : "Heusweiler", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206607]%20Heusweiler&creator=Weiss,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6607] Heusweiler", "Location" : "Heusweiler", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206607]%20Heusweiler&creator=Weiss,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.000, 49.400],[7.167, 49.400],[7.167, 49.300],[7.000, 49.300],[7.000, 49.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 6608] Friedrichsthal", "Location" : "Friedrichsthal", "Subtitle" : "Illingen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206608]%20Friedrichsthal&creator=Weiss,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6608] Friedrichsthal", "Location" : "Friedrichsthal", "Subtitle" : "Illingen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206608]%20Friedrichsthal&creator=Weiss,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.167, 49.400],[7.333, 49.400],[7.333, 49.300],[7.167, 49.300],[7.167, 49.400]]]},
-        "properties" : { "Title" : "[Neue Nr. 6609] Neunkirchen", "Location" : "Neunkirchen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206609]%20Neunkirchen&creator=Weiss,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6609] Neunkirchen", "Location" : "Neunkirchen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206609]%20Neunkirchen&creator=Weiss,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.500, 49.300],[6.667, 49.300],[6.667, 49.200],[6.500, 49.200],[6.500, 49.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 6705] Ittersdorf", "Location" : "Ittersdorf", "Subtitle" : "Busendorf", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206705]%20Ittersdorf&creator=Weiss,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6705] Ittersdorf", "Location" : "Ittersdorf", "Subtitle" : "Busendorf", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206705]%20Ittersdorf&creator=Weiss,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.833, 49.300],[7.000, 49.300],[7.000, 49.200],[6.833, 49.200],[6.833, 49.300]]]},
-        "properties" : { "Title" : "[Neue Nr. 6707] Saarbrücken", "Location" : "Saarbrücken", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206707]%20Saarbr%C3%BCcken&creator=Weiss,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6707] Saarbrücken", "Location" : "Saarbrücken", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206707]%20Saarbr%C3%BCcken&creator=Weiss,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [6.833, 49.200],[7.000, 49.200],[7.000, 49.100],[6.833, 49.100],[6.833, 49.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 6807] Emmersweiler", "Location" : "Emmersweiler", "Subtitle" : "Forbach (Saarland)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206807]%20Emmersweiler&creator=Weiss,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6807] Emmersweiler", "Location" : "Emmersweiler", "Subtitle" : "Forbach (Saarland)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206807]%20Emmersweiler&creator=Weiss,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
             "coordinates" :[[ [7.000, 49.200],[7.167, 49.200],[7.167, 49.100],[7.000, 49.100],[7.000, 49.200]]]},
-        "properties" : { "Title" : "[Neue Nr. 6808] Hanweiler", "Location" : "Hanweiler", "Subtitle" : "Kleinblittersdorf, Hanweiler/Saargemünd", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "Bedarf melden: FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206808]%20Hanweiler&creator=Weiss,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        "properties" : { "Title" : "[Neue Nr. 6808] Hanweiler", "Location" : "Hanweiler", "Subtitle" : "Kleinblittersdorf, Hanweiler/Saargemünd", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25[Neue%20Nr.%206808]%20Hanweiler&creator=Weiss,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {

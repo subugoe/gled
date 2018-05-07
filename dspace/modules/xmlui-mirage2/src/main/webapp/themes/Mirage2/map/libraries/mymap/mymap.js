@@ -72,13 +72,13 @@ function onEachFeature(feature, layer) {
 		
 
 	 if (feature.properties.Link1 != ""&& feature.properties.Link2 == ""){
-        layer.bindPopup("<b>Title: </b>"+feature.properties.Title+"<br><b>Subtitle: </b>"+feature.properties.Subtitle+"<br><b>Link:</b><br><a href='"+feature.properties.Link1+"' target='_blank' title='"+feature.properties.ML1+"'>"+feature.properties.LText1+"</a>");
+        layer.bindPopup("<b>Title: </b>"+feature.properties.Title+"<br><b>Subtitle: </b>"+feature.properties.Subtitle+"<br><b>"+feature.properties.Text+"</b><br><a href='"+feature.properties.Link1+"' target='_blank' title='"+feature.properties.ML1+"'>"+feature.properties.LText1+"</a>");
      }
      if (feature.properties.Link2 != "" && feature.properties.Link3 == ""){
-        layer.bindPopup("<b>Title: </b>"+feature.properties.Title+"<br><b>Subtitle: </b>"+feature.properties.Subtitle+"<br><b>Links:</b><br><a href='"+feature.properties.Link1+"' target='_blank' title='"+feature.properties.ML1+"'>"+feature.properties.LText1+"</a><br><a href='"+feature.properties.Link2+"' target='_blank' title='"+feature.properties.ML2+"'>"+feature.properties.LText2+"</a>");
+        layer.bindPopup("<b>Title: </b>"+feature.properties.Title+"<br><b>Subtitle: </b>"+feature.properties.Subtitle+"<br><b>"+feature.properties.Text+"</b><br><a href='"+feature.properties.Link1+"' target='_blank' title='"+feature.properties.ML1+"'>"+feature.properties.LText1+"</a><br><a href='"+feature.properties.Link2+"' target='_blank' title='"+feature.properties.ML2+"'>"+feature.properties.LText2+"</a>");
      }
      if (feature.properties.Link3 != ""){
-        layer.bindPopup("<b>Title: </b>"+feature.properties.Title+"<br><b>Subtitle: </b>"+feature.properties.Subtitle+"<br><b>Links:</b><br><a href='"+feature.properties.Link1+"' target='_blank' title='"+feature.properties.ML1+"'>"+feature.properties.LText1+"</a><br><a href='"+feature.properties.Link2+"' target='_blank' title='"+feature.properties.ML2+"'>"+feature.properties.LText2+"</a>"+"<br><a href='"+feature.properties.Link3+"' target='_blank' title='"+feature.properties.ML3+"'>"+feature.properties.LText3+"</a>");
+        layer.bindPopup("<b>Title: </b>"+feature.properties.Title+"<br><b>Subtitle: </b>"+feature.properties.Subtitle+"<br><b>"+feature.properties.Text+"</b><br><a href='"+feature.properties.Link1+"' target='_blank' title='"+feature.properties.ML1+"'>"+feature.properties.LText1+"</a><br><a href='"+feature.properties.Link2+"' target='_blank' title='"+feature.properties.ML2+"'>"+feature.properties.LText2+"</a>"+"<br><a href='"+feature.properties.Link3+"' target='_blank' title='"+feature.properties.ML3+"'>"+feature.properties.LText3+"</a>");
      }
 
 	var currentLayer;
