@@ -575,7 +575,7 @@
 	<message key="xmlui.Submission.Submissions.submit_head3">Autoren:</message>
 	<message key="xmlui.Submission.Submissions.submit_info3">Es gibt keine unvollendeten Veröffentlichungen</message>
 	<message key="xmlui.Submission.Submissions.submit_head4">Supervision:</message>
-	<message key="xmlui.Submission.Submissions.submit_submit_remove">Entfernen der ausgewählten Supervisionen</message>
+	<message key="xmlui.Submission.Submissions.submit_submit_remove">Entfernen der ausgewählten Veröffentlichungsvorgänge</message>
 	<!-- Same transformer, inprogress section -->
 	<message key="xmlui.Submission.Submissions.progress_head1">Ihre Veröffentlichungen im Geschäftsgang</message>
 	<message key="xmlui.Submission.Submissions.progress_info1">Dies sind von Ihnen abgeschlossene Veröffentlichungen, die sich noch im Geschäftsgang befinden.</message>

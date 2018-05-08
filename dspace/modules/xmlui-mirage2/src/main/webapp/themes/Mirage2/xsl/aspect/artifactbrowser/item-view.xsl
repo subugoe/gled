@@ -156,9 +156,9 @@
 	    <span class="spacer">&#160;</span>
 	    <table class="item-view"><tr><td><xsl:call-template name="itemSummaryView-DIM-thumbnail"/></td>
             <td><xsl:call-template name="itemSummaryView-DIM-file-section" />
-            <xsl:if test="$ds_item_view_toggle_url != ''">
+            <!--<xsl:if test="$ds_item_view_toggle_url != ''">
                <xsl:call-template name="itemSummaryView-show-full"/>
-	    </xsl:if></td></tr></table>
+	    </xsl:if>--></td></tr></table>
             <xsl:call-template name="itemSummaryView-DIM-abstract"/>
             <xsl:call-template name="itemSummaryView-collections"/>
           
