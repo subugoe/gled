@@ -2818,6 +2818,9 @@ Umsatzsteuergesetz:  </message>
 	<message key="xmlui.aboutus.name.geography">Mechthild Schüler (Geographie und Thematische Karten)</message>
 	<message key="xmlui.aboutus.tel.geography">Tel.: +49 (0)551 / 39-5278</message>
 	<message key="xmlui.aboutus.mail.geography">E-Mail: schueler@sub.uni-goettingen.de</message>
+	<message key="xmlui.aboutus.name.inke">Dr. Inke Achterberg</message>
+        <message key="xmlui.aboutus.tel.inke">Tel.: +49 (0)551 / 39-9738</message>
+        <message key="xmlui.aboutus.mail.inke">E-Mail: achterberg@sub.uni-goettingen.de</message>
         <message key="xmlui.aboutus.name.montan">Cornelia Rau (Geo- und Montanwissenschaften)</message>	
         <message key="xmlui.aboutus.tel.montan">Tel.: +49 (0)3731 / 39-3383</message>
         <message key="xmlui.aboutus.mail.montan">E-Mail: Cornela.Rau@ub.tu-freiberg.de</message>
@@ -2935,7 +2938,7 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
 
   <message key="xmlui.metadata.export">Metadaten-Export: </message>
   <message key="xmlui.dri2xhtml.METS-1.0.item-isbasedon">Supplement: </message>
-  <message key="xmlui.dri2xhtml.METS-1.0.citation-link">Link zum Zitieren/Bookmarken: </message>
+  <message key="xmlui.dri2xhtml.METS-1.0.citation-link">Permalink: </message>
   
   <message key="xmlui.dri2xhtml.METS-1.0.item-journal">Zeitschrift: </message>
   

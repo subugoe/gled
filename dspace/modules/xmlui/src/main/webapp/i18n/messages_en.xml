@@ -2212,7 +2212,7 @@
 	<message key="xmlui.dri2xhtml.METS-1.0.item-author">Author</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-abstract">Abstract</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-description">Description</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-uri">For Linking/Bookmarking: </message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-uri">Permalink: </message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-date">Date: </message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-journal">Journal: </message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-publisher">Publisher</message>
@@ -2740,7 +2740,7 @@ Got to the following website to utilise you option to deactivate data collection
   <message key="xmlui.collection.bgb.introduction">The <i>„Berliner Geographische Blätter - BGB“</i> are published by the Centre for Development Studies (ZELF) at the Institute of Geographical Sciences of the Freie Universität Berlin.</message>
   <message key="xmlui.collection.bga.introduction">The <i>„Berliner Geographische Abhandlungen“</i> are published by the Institute of Geographical Sciences of the Freie Universität Berlin since 1964.</message>
   <message key="xmlui.dri2xhtml.METS-1.0.item-isbasedon">Supplement: </message>
-  <message key="xmlui.dri2xhtml.METS-1.0.citation-link">For Linking/Bookmarking: </message>
+  <message key="xmlui.dri2xhtml.METS-1.0.citation-link">Permalink: </message>
 
   <message key="xmlui.map.top"><h2>Geologische Karte 1:25 000</h2>
   <div><input type="checkbox" class="read-more-state" id="post-2" /><div class="read-more-wrap">Hier sind sowohl die bei GEO-LEOe-docs verfügbaren Blätter der GK25 verzeichnet, als auch andernorts frei verfügbare Blätter der GK25 (mit Links), sowie diejenigen, die zur Digitalisierung durch den FID GEO vorschlagen werden können.
