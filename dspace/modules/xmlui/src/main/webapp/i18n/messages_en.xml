@@ -2512,7 +2512,8 @@
     <message key="xmlui.home.text">
         <!--<h2>Publicationserver of the FID GEO</h2>-->
 	 <h2>Publicationserver of the <a href="http://fidgeo.de" target="_blank"><image class="frontpage-logo" src="/themes/Mirage2/images/fidgeo2.png" alt="FID GEO Logo"/></a></h2>
-<div id="first_row">
+
+	<div id="first_row" class="hidden-xs hidden-sm hidden-md">
         <figure class="frontpage_images">
         <a href="handle/11858/Geology">
         <image class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geology"/>
@@ -2532,12 +2533,12 @@
         <figcaption>Geochemistry, Mineralogy, Petrology</figcaption>
         </figure>
 </div>
-<div id="second_row">
+<div id="second_row" class="hidden-xs hidden-sm hidden-md">
         <figure class="frontpage_images">
         <a href="handle/11858/Geophysics_extraterristicResearch">
         <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysics, Extraterristic Research" />
-        </a>
-        <figcaption>Geophysics, Extraterristric Research</figcaption>
+	</a>
+        <figcaption>Geophysics, Extraterristic Research</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/Energy_Resources_Environment">
@@ -2552,12 +2553,118 @@
         <figcaption class="einzeilig">Geography</figcaption>
         </figure>
 </div>
-<div id="third_row">
+<div id="third_row" class="hidden-xs hidden-sm hidden-md">
         <figure class="frontpage_map">
         <a href="map">
         <image class="frontpage" src="/themes/Mirage2/images/map.jpg" alt="Overview Map" />
         </a>
-        <figcaption class="einzeilig">Overview Map</figcaption>
+                <figcaption class="einzeilig">Overview Map</figcaption>
+        </figure>
+</div>
+<div id="first_row" class="hidden-lg hidden-xs">
+        <figure class="frontpage_images">
+        <a href="handle/11858/Geology">
+        <image class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geology"/>
+        </a>
+        <figcaption class="einzeilig">Geology</figcaption>
+        </figure>
+        <figure class="frontpage_images">
+        <a href="handle/11858/Paleontology">
+        <image class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paleontology" />
+        </a>
+        <figcaption class="einzeilig">Paleontology</figcaption>
+        </figure>
+</div>
+<div id="second_row" class="hidden-lg hidden-xs">
+        <figure class="frontpage_images">
+        <a href="handle/11858/Geochemistry_Minearology_Petrology">
+        <image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemistry, Mineralogy, Petrology" />
+        </a>
+        <figcaption>Geochemistry, Mineralogy, Petrology</figcaption>
+        </figure>
+                <figure class="frontpage_images">
+        <a href="handle/11858/Geophysics_extraterristicResearch">
+        <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysics, Extraterristic Research" />
+                </a>
+        <figcaption>Geophysics, Extraterristic Research</figcaption>
+        </figure>
+</div>
+<div id="third_row"  class="hidden-lg hidden-xs">
+        <figure class="frontpage_images">
+        <a href="handle/11858/Energy_Resources_Environment">
+        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energy, Ressources, Environment" />
+        </a>
+        <figcaption>Energy, Ressources, Environment</figcaption>
+        </figure>
+        <figure class="frontpage_images">
+        <a href="handle/11858/Geography">
+        <image class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geography"/>
+        </a>
+        <figcaption class="einzeilig">Geography</figcaption>
+        </figure>
+</div>
+<div id="fourth_row" class="hidden-lg hidden-xs" >
+        <figure class="frontpage_mapm">
+        <a href="map">
+        <image class="frontpage" src="/themes/Mirage2/images/map455.png" alt="Overview Map" />
+        </a>
+                <figcaption class="einzeilig">Overview Map</figcaption>
+        </figure>
+</div>
+<div id="first_row" class="hidden-lg hidden-sm hidden-md">
+        <figure class="frontpage_images">
+        <a href="handle/11858/Geology">
+        <image class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geology"/>
+        </a>
+        <figcaption class="einzeilig">Geology</figcaption>
+        </figure>
+</div>
+<div id="second_row" class="hidden-lg hidden-sm hidden-md">
+        <figure class="frontpage_images">
+        <a href="handle/11858/Paleontology">
+        <image class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paleontology" />
+        </a>
+        <figcaption class="einzeilig">Paleontology</figcaption>
+        </figure>
+</div>
+<div id="third_row" class="hidden-lg hidden-sm hidden-md">
+        <figure class="frontpage_images">
+        <a href="handle/11858/Geochemistry_Minearology_Petrology">
+        <image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemistry, Mineralogy, Petrology" />
+        </a>
+        <figcaption>Geochemistry, Mineralogy, Petrology</figcaption>
+        </figure>
+</div>
+<div id="fourth_row" class="hidden-lg hidden-sm hidden-md">
+                <figure class="frontpage_images">
+        <a href="handle/11858/Geophysics_extraterristicResearch">
+        <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysics, Extraterristic Research" />
+                </a>
+        <figcaption>Geophysics, Extraterristic Research</figcaption>
+        </figure>
+</div>
+<div id="fifth_row"  class="hidden-lg hidden-sm hidden-md">
+        <figure class="frontpage_images">
+        <a href="handle/11858/Energy_Resources_Environment">
+        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energy, Ressources, Environment" />
+        </a>
+        <figcaption>Energy, Ressources, Environment</figcaption>
+        </figure>
+</div>
+<div id="sixth_row"  class="hidden-lg hidden-sm hidden-md">
+        <figure class="frontpage_images">
+        <a href="handle/11858/Geography">
+        <image class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geography"/>
+        </a>
+        <figcaption class="einzeilig">Geography</figcaption>
+        </figure>
+</div>
+<div id="seventh_row"  class="hidden-lg hidden-sm hidden-md">
+        <figure class="frontpage_maps">
+        <a href="map">
+        <image class="frontpage" src="/themes/Mirage2/images/map220.png" alt="Overview Map" />
+        </a>
+                <figcaption class="einzeilig">Overview Map</figcaption>
         </figure>
 </div>
 

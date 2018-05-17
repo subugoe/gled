@@ -220,12 +220,30 @@ figure.frontpage_map {
     width: 688px;
 }
 
+figure.frontpage_mapm {
+    display: inline-block;
+    margin: 10px;
+    margin-left: 0px;
+    margin-bottom: 5px;
+    position: relative;
+    width: 455px;
+}
+
+figure.frontpage_maps {
+    display: inline-block;
+    margin: 10px;
+    margin-left: 0px;
+    margin-bottom: 5px;
+    position: relative;
+    width: 220px;
+}
+
 
 img.frontpage-logo {
     width: 150px;
 }
 
-figure.frontpage_images figcaption, figure.frontpage_map figcaption {
+figure.frontpage_images figcaption, figure.frontpage_map figcaption, figure.frontpage_maps figcaption, figure.frontpage_mapm figcaption {
     position: absolute;
     bottom: 0;
     left: 0;
@@ -244,7 +262,7 @@ figure.frontpage_images figcaption.einzeilig {
     padding-top: 13px;
 }
 
-figure.frontpage_map figcaption.einzeilig {
+figure.frontpage_map figcaption.einzeilig, figure.frontpage_maps figcaption.einzeilig, figure.frontpage_mapm figcaption.einzeilig {
     padding-top: 13px;
 }
 
