@@ -617,12 +617,15 @@
     </xsl:template>
 
    <xsl:template name="itemSummaryView-subjects">
-	 <xsl:if test="dim:field[@element='subject' and @qualifier='free']">
+	 <xsl:if test="dim:field[@element='subject' and @qualifier='free'] or dim:field[@element='subject' and @qualifier='gokverbal']">
 	    <div class="simple-item-view-collections item-page-field-wrapper table">
                 <h5>
 			<i18n:text>xmlui.mirage2.itemSummaryView.Subjects</i18n:text>
 		</h5>
                 <xsl:for-each select="dim:field[@element='subject' and @qualifier='free']">
+                        <a><xsl:attribute name="href"><xsl:value-of select="concat('https://e-docs.geo-leo.de/browse?type=subject', '&amp;value=', ./node())"/></xsl:attribute><xsl:value-of select="./node()"/></a><br/>
+                </xsl:for-each>
+		<xsl:for-each select="dim:field[@element='subject' and @qualifier='gokverbal']">
                         <a><xsl:attribute name="href"><xsl:value-of select="concat('https://e-docs.geo-leo.de/browse?type=subject', '&amp;value=', ./node())"/></xsl:attribute><xsl:value-of select="./node()"/></a><br/>
                 </xsl:for-each>
 	   </div>
