@@ -161,6 +161,7 @@
 	    </xsl:if>--></td></tr></table>
             <xsl:call-template name="itemSummaryView-DIM-abstract"/>
             <xsl:call-template name="itemSummaryView-collections"/>
+	    <xsl:call-template name="itemSummaryView-subjects"/>
           
 	<!--SocialMedia-Buttons-->      
         <div id="socialmedia">
@@ -279,7 +280,7 @@
         <xsl:if test="dim:field[@element='description' and @qualifier='abstract']">
             <div class="simple-item-view-description item-page-field-wrapper table">
                 <h5><i18n:text>xmlui.dri2xhtml.METS-1.0.item-abstract</i18n:text></h5>
-                <div>
+                <div style="margin-bottom: 1.5em;">
                     <xsl:for-each select="dim:field[@element='description' and @qualifier='abstract']">
                         <xsl:choose>
                             <xsl:when test="node()">
@@ -460,12 +461,12 @@
 
 <xsl:template name="itemSummaryView-DIM-URI">
        <xsl:if test="dim:field[@element='identifier' and @qualifier='uri' and descendant::text()]">
-
+	<xsl:if test="not(contains(dim:field[@element='identifier' and @qualifier='doi'], 'fidgeo'))">
           <div class="simple-item-view-uri item-page-field-wrapper table">
                 <span>
                     <xsl:for-each select="dim:field[@element='identifier' and @qualifier='uri']">
                         <xsl:if test="starts-with(./node(), 'http://resolver') or starts-with(./node(), 'http://hdl')">
-                        <i18n:text>xmlui.dri2xhtml.METS-1.0.citation-link</i18n:text>
+			<i18n:text>xmlui.dri2xhtml.METS-1.0.citation-link</i18n:text>
 			<a>
                             <xsl:attribute name="href">
                                 <xsl:copy-of select="./node()"/>
@@ -477,6 +478,7 @@
                 </span>
             </div>
         </xsl:if>
+	</xsl:if>
     </xsl:template>
 
 	  <xsl:template name="itemSummaryView-DIM-DOI">
@@ -613,6 +615,20 @@
             </div>
         </xsl:if>
     </xsl:template>
+
+   <xsl:template name="itemSummaryView-subjects">
+	 <xsl:if test="dim:field[@element='subject' and @qualifier='free']">
+	    <div class="simple-item-view-collections item-page-field-wrapper table">
+                <h5>
+			<i18n:text>xmlui.mirage2.itemSummaryView.Subjects</i18n:text>
+		</h5>
+                <xsl:for-each select="dim:field[@element='subject' and @qualifier='free']">
+                        <a><xsl:attribute name="href"><xsl:value-of select="concat('https://e-docs.geo-leo.de/browse?type=subject', '&amp;value=', ./node())"/></xsl:attribute><xsl:value-of select="./node()"/></a><br/>
+                </xsl:for-each>
+	   </div>
+        </xsl:if>
+    </xsl:template>
+
 
     <xsl:template name="itemSummaryView-DIM-file-section">
 	<xsl:param name="hrefexport" />

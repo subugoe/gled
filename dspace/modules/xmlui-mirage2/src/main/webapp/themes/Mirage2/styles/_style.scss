@@ -520,3 +520,7 @@ a.publishButton:visited {
 .metadataexport {
   margin-bottom: 5px;
 }
+
+a.list-group-item.ds-option[href="/browse?type=subject"] {
+  display: none;
+} 
