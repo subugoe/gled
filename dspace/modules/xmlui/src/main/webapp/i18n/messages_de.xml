@@ -658,9 +658,9 @@
 	<message key="xmlui.Submission.submit.DescribeStep.day">Tag</message>
 	<message key="xmlui.Submission.submit.DescribeStep.series_name">Serie</message>
 	<message key="xmlui.Submission.submit.DescribeStep.report_no">Zählung</message>
-	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.link">GOK-Kategorien</message>
-	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.title">GOK-Kategorien</message>
-	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.filter.label">Nach Schlagworten filtern</message>
+	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.link">Auswählen</message>
+	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.title">Auswählen</message>
+	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.filter.label">Filtern</message>
 	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.filter.button">Filtern</message>
 	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.loading">Bitte warten Sie, der Thesaurus wird geladen.</message>
 	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.error">Beim Laden des Thesaurus ist ein Fehler aufgetreten. Bitte versuchen Sie es später nochmal.</message>
@@ -2692,7 +2692,8 @@
         <li><a href="handle/11858/4061/browse?type=series">Scientific Technical Report / Deutsches Geoforschungszentrum Potsdam</a></li>
 	<li><a href="handle/11858/6421/browse?type=series">TELMA – Berichte der Deutschen Gesellschaft für Moor- und Torfkunde</a></li>
 	<li><a href="handle/11858/6341/browse?type=series">TERRA NOSTRA - Schriften der GeoUnion Alfred-Wegener-Stiftung</a></li>
-	</ul>
+	<li><a href="handle/11858/7132/browse?type=series">Zeitschrift für Geophysik</a></li>
+        </ul>
 	</div>
   </message>
 
@@ -2997,7 +2998,7 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
   <message key="xmlui.collection.gk.introduction">Die <i>„Geologische Spezialkarte von Preussen und den Thüringischen Staaten“</i> erschien später unter den Titeln <i>„Geologische Karte von Preußen und benachbarten Bundesstaaten“</i>, <i>„Geologische Karte von Preußen und benachbarten Bundesländern“</i> und <i>„Geologische Karte von Preußen und benachbarten deutschen Ländern“</i>. Herausgegeben durch die <i>Kgl. Preuss. Geologische Landesanstalt</i>, die spätere <i>Preussische Geologische Landesanstalt</i>, bzw. das <i>Kgl. Preuss. Min. f. Handel, Gewerbe u. öffentl. Arbeiten</i>. 1:25 000. Berlin [u.a.], 1853-1943.<br />Für Sachsen erschien analog dazu die <i>„Geologische Specialkarte des Königreichs Sachsen“</i>, herausgegeben durch das <i>Königl. Finanzministerium</i>. - 1:25000 - Leipzig [u.a.], 1875-1938.</message>
   <message key="xmlui.collection.bgb.introduction">Die <i>„Berliner Geographische Blätter - BGB“</i> werden herausgegeben vom ZELF – Zentrum für Entwicklungsländerforschung / Centre for Development Studies am Geographischen Institut der Freien Universität Berlin.</message>
    <message key="xmlui.collection.bga.introduction">Die <i>„Berliner Geographischen Abhandlungen“</i> werden seit 1964 herausgegeben vom Institut für Geographische Wissenschaften der Freien Universität Berlin.</message>  
-
+   <message key="xmlui.collection.zfgp.introduction">Die „Zeitschrift für Geophysik“ wurde von der Deutschen Geophysikalischen Gesellschaft (DGG) von 1925 bis 1973 herausgegeben. Von 1974 bis 1987 wurde sie unter dem Titel „Journal of geophysics“ fortgeführt. Ab 1988 publiziert die DGG gemeinsam mit der European Geophysical Society (EGS) und der Royal Geophysical Society (RAS), seit 1989 unter dem Titel „Geophysical journal international / publ. for the Royal Astronomical Society, the Deutsche Geophysikalische Gesellschaft and the European Geophysical Society“.</message>
 
   <message key="xmlui.map.top"><h2>Geologische Karte 1:25 000</h2>
   <div><input type="checkbox" class="read-more-state" id="post-2" /><div class="read-more-wrap">Online frei verfügbare Blätter der GK25 (mit Links). Außerdem gemeinfreie Blätter der GK25, die von Forschenden zur unentgeltlichen Digitalisierung durch den FID GEO vorschlagen werden können.

@@ -770,9 +770,9 @@
 	<message key="xmlui.Submission.submit.DescribeStep.day">Day</message>
 	<message key="xmlui.Submission.submit.DescribeStep.series_name">Series Name</message>
 	<message key="xmlui.Submission.submit.DescribeStep.report_no">Report or paper No.</message>
-	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.link">GOK categories</message>
-	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.title">GOK categories</message>
-	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.filter.label">Filter subjects</message>
+	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.link">Select</message>
+	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.title">Select</message>
+	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.filter.label">Filter</message>
 	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.filter.button">Filter</message>
 	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.loading">Please wait while the controlled vocabulary is loading.</message>
 	<message key="xmlui.Submission.submit.DescribeStep.controlledvocabulary.error">There was an issue when loading the controlled vocabulary, please try again later.</message>
@@ -2689,6 +2689,7 @@
         <li><a href="handle/11858/4061/browse?type=series">Scientific Technical Report / Deutsches Geoforschungszentrum Potsdam</a></li>
         <li><a href="handle/11858/6421/browse?type=series">TELMA – Berichte der Deutschen Gesellschaft für Moor- und Torfkunde</a></li>
 	<li><a href="handle/11858/6341/browse?type=series">TERRA NOSTRA - Schriften der GeoUnion Alfred-Wegener-Stiftung</a></li>
+	<li><a href="handle/11858/7132/browse?type=series">Zeitschrift für Geophysik</a></li>
 	</ul>
 	</div>
   </message>
