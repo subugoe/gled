@@ -172,8 +172,12 @@ h3 {
     font-size: 1.5em;
 }
 
-#file_impressum, #file_aboutus, #file_deposit-license {
+#file_impressum, #file_aboutus, #file_deposit-license, #file_privacy {
     font-size: 112%;
+}
+
+#file_privacy p {
+    margin-bottom: 0.8em;
 }
 
 #file_aboutus div.ds-static-div {

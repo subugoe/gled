@@ -341,6 +341,21 @@
 
 		</xsl:if>
 
+		<xsl:if test="$current-uri = 'http://e-docs.geo-leo.de:80/map2'">
+
+
+                  <link rel="stylesheet" href="/themes/Mirage2/map/libraries/leaflet/leaflet.css"/>
+                  <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map/libraries/leaflet/leaflet.js"></script>
+                  <link rel="stylesheet" href="/themes/Mirage2/map/libraries/leaflet-search/src/leaflet-search.css"/>
+                  <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map/libraries/leaflet-search/src/leaflet-search.js"></script>
+                  <link rel="stylesheet" href="/themes/Mirage2/map/libraries/fullscreen/Control.FullScreen.css"/>
+                  <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map/libraries/fullscreen/Control.FullScreen.js"></script>
+                  <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map/geojson.js"></script>
+                  <link rel="stylesheet" href="/themes/Mirage2/map/libraries/mymap/mymapstyles.css"/>
+
+                </xsl:if>
+
+
 
 
         </head>
@@ -734,6 +749,7 @@
                     <div class="col-xs-7 col-sm-8">
                         <div class="hidden-print">
                              <a href="/impressum"> <i18n:text>xmlui.dri2xhtml.structural.impressum-link</i18n:text></a> 
+			     <a href="/privacy"> <i18n:text>xmlui.dri2xhtml.structural.privacy-link</i18n:text></a>
 			     <a href="/aboutus"> <i18n:text>xmlui.dri2xhtml.structural.aboutus-link</i18n:text></a>
 			     <a href ="/rights"> <i18n:text>xmlui.dri2xhtml.structural.rights-link</i18n:text></a>
  			     <a>
@@ -933,6 +949,14 @@
                   <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map/libraries/mymap/mymap.js"></script>
 
                 </xsl:if>
+
+
+			 <xsl:if test="$current-uri = 'http://e-docs.geo-leo.de:80/map2'">
+
+                  <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map/libraries/mymap/mymap.js"></script>
+
+                </xsl:if>
+
 
 
       

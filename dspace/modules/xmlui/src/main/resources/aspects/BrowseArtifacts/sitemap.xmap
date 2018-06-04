@@ -63,6 +63,25 @@ collections / items / and bitstreams.
 	        <map:serialize type="xml"/>
            </map:match>	    
 
+ <!-- statische Seite für Test-Übersichtskarte -->
+            <map:match pattern="map2">
+                <map:act type="DSpacePropertyFileReader">
+                <map:parameter name="dspace.dir" value="dspace.dir" />
+                <map:transform type="Include" src="file://{dspace.dir}/config/map2.xml" />
+                </map:act>
+                <map:serialize type="xml"/>
+           </map:match>
+
+  <!-- statische Seite für Datenschutz -->
+            <map:match pattern="privacy">
+                <map:act type="DSpacePropertyFileReader">
+                <map:parameter name="dspace.dir" value="dspace.dir" />
+                <map:transform type="Include" src="file://{dspace.dir}/config/privacy.xml" />
+                </map:act>
+                <map:serialize type="xml"/>
+           </map:match>
+
+
   <!-- statische Seite für Übersichtskarte -->
             <map:match pattern="map">
                 <map:act type="DSpacePropertyFileReader">
