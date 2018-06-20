@@ -3254,4 +3254,6 @@ Wenn Sie in die Verarbeitung durch die Niedersächsische Staats- und Universitä
 <p> <iframe frameborder="no" width="600px" height="180px" src="https://piwik.gwdg.de/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=de"></iframe></p>
 <p>Nähere Informationen zu den Privatsphäreeinstellungen der Matomo Software finden Sie unter folgendem Link: <a href="https://matomo.org/docs/privacy/">https://matomo.org/docs/privacy/</a>.</p>
 </message>
+<message key="xmlui.dri2xhtml.METS-1.0.item-abstract">Weitere Online-Version: </message>
+
 </catalogue>

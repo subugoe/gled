@@ -142,6 +142,7 @@
 
 		<xsl:call-template name="itemSummaryView-DIM-URI"/>
 		<xsl:call-template name="itemSummaryView-DIM-DOI"/>
+		<xsl:call-template name="itemSummaryView-DIM-isversionof"/>
 
 
 	    <!--<xsl:call-template name="itemSummaryView-DIM-URI"/>-->
@@ -189,6 +190,22 @@
                 </div>
 
     </div>
+    </xsl:template>
+
+    <xsl:template name="itemSummaryView-DIM-isversionof">
+	<div>        
+		<xsl:if test="dim:field[@element='relation'][@qualifier='isversionof']">
+                <xsl:for-each select="dim:field[@element='relation'][@qualifier='isversionof']">
+                   <i18n:text>xmlui.dri2xhtml.METS-1.0.item-abstract</i18n:text>   
+		   <a>
+                            <xsl:attribute name="href">
+                                <xsl:copy-of select="./node()"/>
+                            </xsl:attribute>
+                            <xsl:copy-of select="./node()"/>
+                   </a>
+                </xsl:for-each>
+        </xsl:if>
+	</div>	
     </xsl:template>
 
     <xsl:template name="itemSummaryView-DIM-title">
