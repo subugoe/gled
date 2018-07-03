@@ -196,7 +196,7 @@
 	<div>        
 		<xsl:if test="dim:field[@element='relation'][@qualifier='isversionof']">
                 <xsl:for-each select="dim:field[@element='relation'][@qualifier='isversionof']">
-                   <i18n:text>xmlui.dri2xhtml.METS-1.0.item-abstract</i18n:text>   
+                   <i18n:text>xmlui.dri2xhtml.METS-1.0.item-isversionof</i18n:text>   
 		   <a>
                             <xsl:attribute name="href">
                                 <xsl:copy-of select="./node()"/>
@@ -302,7 +302,14 @@
                     <xsl:for-each select="dim:field[@element='description' and @qualifier='abstract']">
                         <xsl:choose>
                             <xsl:when test="node()">
-                                <xsl:copy-of select="node()"/>
+				<xsl:if test="contains(node(), '+*+')">
+					<xsl:value-of select="substring-before(node(),'+*+')"/>
+					<br />
+					<xsl:value-of select="substring-after(node(),'+*+')"/>
+				</xsl:if>
+				<xsl:if test="not(contains(node(), '+*+'))">
+                                        <xsl:copy-of select="node()"/>
+                                </xsl:if>
                             </xsl:when>
                             <xsl:otherwise>
                                 <xsl:text>&#160;</xsl:text>
