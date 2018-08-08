@@ -2912,7 +2912,7 @@ Der Urheber räumt dem FID GEO im Rahmen der Rechtseinräumung gemäß Ziffer 1 
   <message key="xmlui.static-license.title">Nutzungsbedingungen</message>
   <message key="xmlui.deposit.license.user-rights.head">LIZENZ FÜR DIE NUTZUNG VON DOKUMENTEN AUF GEO-LEO e-docs</message>
   <message key="xmlui.deposit.license.intro">Für die Nutzung von Dokumenten bzw. für das Publizieren auf GEO-LEO e-docs gelten die folgenden Lizenzen</message>
-  <message key="xmlui.deposit.license.user-rights">Nutzer sind berechtigt, Dokumente nach Maßgabe des Urhebergesetzes unentgeltlich zu nutzen, insbesondere, das Dokument zum privaten und sonstigen eigenen Gebrauch herunter zu laden, zu speichern und in kleiner Anzahl zu drucken (§§ 53 UrhG).</message>
+  <message key="xmlui.deposit.license.user-rights">Nutzerinnen und Nutzer sind berechtigt, Dokumente nach Maßgabe des Urhebergesetzes unentgeltlich zu nutzen, insbesondere, das Dokument zum privaten und sonstigen eigenen Gebrauch herunter zu laden, zu speichern und in kleiner Anzahl zu drucken (§§ 53 UrhG), sowie zur eigenen wissenschaftlichen Forschung zu nutzen (§60c).</message>
   <message key="xmlui.deposit.license.user-rights.general">Allgemein gilt für alle Dokumente:</message>
   <message key="xmlui.deposit.license.user-rights.cc-license">Darüber hinaus können für einzelne Dokumenten weitere Rechte (z.B. Creative-Commons-Lizenzen) gelten. Die jeweilige Lizenz ist dem Dokument zugeordnet und auf der dazugehörigen Download-Seite deutlich gekennzeichnet. Der Lizenztext ist hinterlegt und kann zu Informationszwecken aufgerufen werden.</message>
   <message key="xmlui.deposit.license.deposit-license.head">LIZENZ FÜR DAS PUBLIZIEREN AUF GEO-LEO e-docs</message>
@@ -2928,9 +2928,9 @@ Die Urheberin bzw. der Urheber erklärt, dass mit der Bereitstellung des Werkes 
   </message>
   <message key="xmlui.deposit.license.li4">
 Weitergabe von Metadaten und Dokumenten:<br />
-Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinräumung (Ziffer 1) das Recht ein, die Metadaten des Werks unentgeltlich anderen Datenbanken zur Verfügung zu stellen. Darüber hinaus ist die SUB Göttingen berechtigt, das Werk Dritten im Rahmen nationaler Sammelaufträge zur Online-Bereitstellung oder Archivierung zur Verfügung zu stellen.
+ie Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinräumung (Ziffer 1) das Recht ein, die Metadaten des Werks unentgeltlich anderen Datenbanken zur Verfügung zu stellen. Darüber hinaus ist die SUB Göttingen berechtigt, das Werk Dritten im Rahmen nationaler Sammelaufträge zur Online-Bereitstellung oder Archivierung zur Verfügung zu stellen.
 </message>
-   <message key="xmlui.deposit.license.date">Göttingen, Juli 2017</message>
+   <message key="xmlui.deposit.license.date">Göttingen, August 2018</message>
 
 
   <!-- org.dspace.app.xmlui.Submission.submit.PrefillStep -->
@@ -3254,6 +3254,6 @@ Wenn Sie in die Verarbeitung durch die Niedersächsische Staats- und Universitä
 <p> <iframe frameborder="no" width="600px" height="180px" src="https://piwik.gwdg.de/index.php?module=CoreAdminHome&amp;action=optOut&amp;language=de"></iframe></p>
 <p>Nähere Informationen zu den Privatsphäreeinstellungen der Matomo Software finden Sie unter folgendem Link: <a href="https://matomo.org/docs/privacy/">https://matomo.org/docs/privacy/</a>.</p>
 </message>
-<message key="xmlui.dri2xhtml.METS-1.0.item-abstract">Weitere Online-Version: </message>
+<message key="xmlui.dri2xhtml.METS-1.0.item-isversionof">Weitere Online-Version: </message>
 
 </catalogue>
