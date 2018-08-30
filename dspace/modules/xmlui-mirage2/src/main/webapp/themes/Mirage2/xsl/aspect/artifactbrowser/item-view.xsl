@@ -242,9 +242,17 @@
 				</xsl:otherwise>
 			</xsl:choose>	
     </xsl:variable>
+	 <xsl:variable name="pages">
+                            <xsl:if test="dim:field[@element='bibliographicCitation'][@qualifier='firstPage']">
+                            <xsl:copy-of select="dim:field[@element='bibliographicCitation'][@qualifier='firstPage'][1]/node()"/>
+                                </xsl:if>
+                            <xsl:if test="dim:field[@element='bibliographicCitation'][@qualifier='lastPage']">
+                            <xsl:text> - </xsl:text><xsl:copy-of select="dim:field[@element='bibliographicCitation'][@qualifier='lastPage'][1]/node()"/>
+                                </xsl:if>
+    </xsl:variable>
 
         <div class="citation">
-		<span id="citation"><xsl:value-of select="concat($authors, ', ', $dateissued, ': ', $title, '. In: ', $citation, ', ', $identifier)"/></span>
+		<span id="citation"><xsl:value-of select="concat($authors, ', ', $dateissued, ': ', $title, '. In: ', $citation, ', ', $pages, ', ', $identifier)"/></span>
 		<xsl:text> </xsl:text>
 		<a href="#" onclick="copyToClipboard('#citation')" title="Copy to Clipboard"><i class="fa fa-clipboard"></i></a>
         </div>
