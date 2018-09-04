@@ -210,8 +210,8 @@ public class XOAI {
             SolrServer server = solrServerResolver.getServer();
             while (iterator.hasNext()) {
                 try {
-                    server.add(this.index(find(context, iterator.next().getIntColumn("item_id"))));
-                    context.clearCache();
+		        server.add(this.index(find(context, iterator.next().getIntColumn("item_id"))));
+        	        context.clearCache();
                 } catch (SQLException ex) {
                     log.error(ex.getMessage(), ex);
                 } catch (MetadataBindException e) {
@@ -283,7 +283,7 @@ public class XOAI {
         doc.addField("item.compile", out.toString());
 
         if (verbose) {
-            println("Item with handle " + handle + " indexed");
+            println("Item with handle " + handle + " indexed" + item.getID());
         }
 
 
