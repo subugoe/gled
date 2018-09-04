@@ -2690,7 +2690,7 @@
         <li><a href="handle/11858/00-1735-0000-0022-A79A-4/browse?type=series">Greifswalder Geographische Arbeiten</a></li>
         <li><a href="handle/11858/00-1735-0000-0006-0D8F-5/browse?type=series">Neubrandenburger Geologische Beiträge</a></li>
         <li><a href="handle/11858/4061/browse?type=series">Scientific Technical Report / Deutsches Geoforschungszentrum Potsdam</a></li>
-	<li><a href="handle/11858/6421/browse?type=series">TELMA – Berichte der Deutschen Gesellschaft für Moor- und Torfkunde</a></li>
+	<li><a href="handle/11858/6421/browse?type=series&amp;rpp=20&amp;offset=20">TELMA – Berichte der Deutschen Gesellschaft für Moor- und Torfkunde</a></li>
 	<li><a href="handle/11858/6341/browse?type=series">TERRA NOSTRA - Schriften der GeoUnion Alfred-Wegener-Stiftung</a></li>
 	<li><a href="handle/11858/7132/browse?type=series">Zeitschrift für Geophysik</a></li>
         </ul>
@@ -2959,7 +2959,7 @@ ie Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinr
   <message key="research">Forschungsarbeit</message>
   <message key="review">Rezension</message>
   <message key="study">Studienarbeit</message>
-  <message key="preprint">Preprint?</message>
+  <message key="preprint">Preprint</message>
   <message key="report">Report</message>
   <message key="anthology">Sammmelband</message>
   <message key="article">Artikel</message>

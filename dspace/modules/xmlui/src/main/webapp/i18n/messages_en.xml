@@ -2831,12 +2831,12 @@ Got to the following website to utilise you option to deactivate data collection
   <message key="research">Reseach paper</message>
   <message key="review">Review</message>
   <message key="study">Study</message>
-  <message key="preprint">Preprint?</message>
+  <message key="preprint">Preprint</message>
   <message key="report">Report</message>
-  <message key="anthology">Anthologies</message>
+  <message key="anthology">Edited Volumes</message>
   <message key="article">Articles</message>
   <message key="monograph">Monographies</message>
-  <message key="bookpart">Bookparts</message>
+  <message key="bookpart">Book parts</message>
   <message key="book">Books</message>
   <message key="map">Map</message>
   <message key="conferenceObject">Conference Paper</message>
