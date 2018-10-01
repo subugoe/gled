@@ -237,14 +237,6 @@
                 <xsl:copy-of select="dim:field[@element='date'][@qualifier='issued']/node()"/>
                 </xsl:if>
     </xsl:variable>
-                <xsl:variable name="title">
-                <xsl:if test="dim:field[@element='title'][not(@qualifier)]">
-                            <xsl:copy-of select="dim:field[@element='title'][not(@qualifier)]/node()"/>
-                                </xsl:if>
-                                <xsl:if test="dim:field[@element='title'][@qualifier='alternative']">
-                            <xsl:text> - </xsl:text><xsl:copy-of select="dim:field[@element='title'][@qualifier='alternative']/node()"/>
-                                </xsl:if>
-    </xsl:variable>
         <xsl:variable name="citation">
                              <xsl:if test="dim:field[@element='relation'][@qualifier='volume']">
                             <xsl:copy-of select="dim:field[@element='relation'][@qualifier='volume'][1]/node()"/><xsl:text>. </xsl:text>
@@ -265,7 +257,7 @@
     </xsl:variable>
 
         <div class="citation">
-                <span id="citation"><xsl:value-of select="concat($authors, ', ', $dateissued, ': ', $title, '. ', $citation, $identifier)"/></span>
+                <span id="citation"><xsl:value-of select="concat($authors, ', ', $dateissued, ': ', $citation, $identifier)"/></span>
                 <xsl:text> </xsl:text>
                 <a href="#" onclick="copyToClipboard('#citation')" title="Copy to Clipboard"><i class="fa fa-clipboard"></i></a>
         </div>
