@@ -156,8 +156,13 @@
         </xsl:if>
 
 	<xsl:if test="dim:field[@element='type'] = 'anthology' or dim:field[@element='type'] = 'anthology_first' or dim:field[@element='type'] = 'anthology_digi'">
-                 <xsl:call-template name="citationantho"/>
-        </xsl:if>
+                <xsl:if test="not(contains(dim:field[@element='relation'][@qualifier='volume'], 'Zeitschrift für Geophysik'))">
+                        <xsl:call-template name="citationantho"/>
+                </xsl:if>
+                <xsl:if test="contains(dim:field[@element='relation'][@qualifier='volume'], 'Zeitschrift für Geophysik')">
+                        <xsl:call-template name="citationanthogeophysik"/>
+                </xsl:if>
+        </xsl:if>	
 
 	 <xsl:if test="dim:field[@element='type'] = 'anthologyArticle' or dim:field[@element='type'] = 'anthologyArticle_digi'">
                  <xsl:call-template name="citationanthoart"/>
@@ -450,6 +455,69 @@
         </div>
 </xsl:template>
 
+		<xsl:template name="citationanthogeophysik">
+        <xsl:variable name="authors">
+                <xsl:if test="dim:field[@element='contributor'][@qualifier='author']">
+                            <xsl:for-each select="dim:field[@element='contributor'][@qualifier='author']">
+                                <span>
+                                  <xsl:if test="@authority">
+                                    <xsl:attribute name="class"><xsl:text>ds-dc_contributor_author-authority</xsl:text></xsl:attribute>
+                                  </xsl:if>
+                                  <xsl:copy-of select="node()"/>
+                                </span>
+                                <xsl:if test="count(following-sibling::dim:field[@element='contributor'][@qualifier='author']) != 0">
+                                    <xsl:text>; </xsl:text>
+                                </xsl:if>
+                            </xsl:for-each>
+        </xsl:if>
+    </xsl:variable>
+                <xsl:variable name="editors">
+                <xsl:if test="dim:field[@element='contributor'][@qualifier='editor']">
+                                                        <xsl:for-each select="dim:field[@element='contributor'][@qualifier='editor']">
+                                <span>
+                                  <xsl:if test="@authority">
+                                    <xsl:attribute name="class"><xsl:text>ds-dc_contributor_author-authority</xsl:text></xsl:attribute>
+                                  </xsl:if>
+                                  <xsl:copy-of select="node()"/>
+                                </span>
+                                <xsl:if test="count(following-sibling::dim:field[@element='contributor'][@qualifier='editor']) != 0">
+                                    <xsl:text>; </xsl:text>
+                                </xsl:if>
+                            </xsl:for-each>
+                        <xsl:text> (Ed.)</xsl:text>
+        </xsl:if>
+    </xsl:variable>
+        <xsl:variable name="dateissued">
+                <xsl:if test="dim:field[@element='date'][@qualifier='issued']">
+                <xsl:copy-of select="dim:field[@element='date'][@qualifier='issued']/node()"/>
+                </xsl:if>
+    </xsl:variable>
+                <xsl:variable name="title">
+                <xsl:if test="dim:field[@element='title'][not(@qualifier)]">
+                            <xsl:copy-of select="dim:field[@element='title'][not(@qualifier)]/node()"/>
+                                </xsl:if>
+                                <xsl:if test="dim:field[@element='title'][@qualifier='alternative']">
+                            <xsl:text> - </xsl:text><xsl:copy-of select="dim:field[@element='title'][@qualifier='alternative']/node()"/>
+                                </xsl:if>
+    </xsl:variable>
+
+        <xsl:variable name="identifier">
+                        <xsl:choose>
+                            <xsl:when test="dim:field[@element='identifier'][@qualifier='doi']">
+                            <xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/>
+                                </xsl:when>
+                        <xsl:otherwise>
+                            <xsl:if test="dim:field[@element='identifier'][@qualifier='uri']"><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='uri'][1]/node()"/></xsl:if>
+                                </xsl:otherwise>
+                        </xsl:choose>
+    </xsl:variable>
+
+        <div class="citation">
+                <span id="citation"><xsl:value-of select="concat($authors, $editors, ', ', $dateissued, ': ', $title, '. ', $identifier)"/></span>
+                <xsl:text> </xsl:text>
+                <a href="#" onclick="copyToClipboard('#citation')" title="Copy to Clipboard"><i class="fa fa-clipboard"></i></a>
+        </div>
+</xsl:template>
 
  <xsl:template name="citationarticle">
         <xsl:variable name="authors">
