@@ -238,6 +238,30 @@
                     </xsl:attribute>
                 </link>
             </xsl:if>
+		<!-- javascript for citation copy to clipboard -->
+        <script>
+        <!--function citationclipboard() {
+          /* Get the text field */
+          var copyText = document.getElementById("citation");
+
+          /* Select the text field */
+          copyText.select();
+
+          /* Copy the text inside the text field */
+          document.execCommand("copy");
+
+          /* Alert the copied text */
+          alert("Copied the text: " + copyText.value);
+        }-->
+        function copyToClipboard(element) {
+                var $temp = $("<input></input>");
+                $("body").append($temp);
+                $temp.val($(element).text()).select();
+                document.execCommand("copy");
+                $temp.remove();
+                }
+        </script>
+
 
             <!-- The following javascript removes the default text of empty text areas when they are focused on or submitted -->
             <!-- There is also javascript to disable submitting a form when the 'enter' key is pressed. -->
