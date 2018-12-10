@@ -253,10 +253,10 @@
         <xsl:variable name="identifier">
                         <xsl:choose>
                             <xsl:when test="dim:field[@element='identifier'][@qualifier='doi']">
-                            <xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/>
+                            <xsl:text>DOI </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
                                 </xsl:when>
                         <xsl:otherwise>
-                            <xsl:if test="dim:field[@element='identifier'][@qualifier='uri']"><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='uri'][1]/node()"/></xsl:if>
+                            <xsl:text>DOI </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']"><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='uri'][1]/node()"/></xsl:if><xsl:text>. </xsl:text>
                                 </xsl:otherwise>
                         </xsl:choose>
     </xsl:variable>
@@ -307,10 +307,10 @@
         <xsl:variable name="identifier">
                         <xsl:choose>
                             <xsl:when test="dim:field[@element='identifier'][@qualifier='doi']">
-                            <xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/>
+                            <xsl:text>DOI </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
                                 </xsl:when>
                         <xsl:otherwise>
-                            <xsl:if test="dim:field[@element='identifier'][@qualifier='uri']"><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='uri'][1]/node()"/></xsl:if>
+                            <xsl:text>DOI </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']"><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='uri'][1]/node()"/></xsl:if><xsl:text>. </xsl:text>
                                 </xsl:otherwise>
                         </xsl:choose>
     </xsl:variable>
@@ -366,10 +366,10 @@
         <xsl:variable name="identifier">
                         <xsl:choose>
                             <xsl:when test="dim:field[@element='identifier'][@qualifier='doi']">
-                            <xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/>
+                            <xsl:text>DOI </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
                                 </xsl:when>
                         <xsl:otherwise>
-                            <xsl:if test="dim:field[@element='identifier'][@qualifier='uri']"><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='uri'][1]/node()"/></xsl:if>
+                            <xsl:text>DOI </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']"><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='uri'][1]/node()"/></xsl:if><xsl:text>. </xsl:text>
                                 </xsl:otherwise>
                         </xsl:choose>
     </xsl:variable>
@@ -440,10 +440,10 @@
         <xsl:variable name="identifier">
                         <xsl:choose>
                             <xsl:when test="dim:field[@element='identifier'][@qualifier='doi']">
-                            <xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/>
+                            <xsl:text>DOI </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
                                 </xsl:when>
                         <xsl:otherwise>
-                            <xsl:if test="dim:field[@element='identifier'][@qualifier='uri']"><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='uri'][1]/node()"/></xsl:if>
+                            <xsl:text>DOI </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']"><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='uri'][1]/node()"/></xsl:if><xsl:text>. </xsl:text>
                                 </xsl:otherwise>
                         </xsl:choose>
     </xsl:variable>
@@ -504,10 +504,10 @@
         <xsl:variable name="identifier">
                         <xsl:choose>
                             <xsl:when test="dim:field[@element='identifier'][@qualifier='doi']">
-                            <xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/>
+                            <xsl:text>DOI </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
                                 </xsl:when>
                         <xsl:otherwise>
-                            <xsl:if test="dim:field[@element='identifier'][@qualifier='uri']"><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='uri'][1]/node()"/></xsl:if>
+                            <xsl:text>DOI </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']"><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='uri'][1]/node()"/></xsl:if><xsl:text>. </xsl:text>
                                 </xsl:otherwise>
                         </xsl:choose>
     </xsl:variable>
@@ -561,10 +561,10 @@
 	<xsl:variable name="identifier">
 			<xsl:choose>
 			    <xsl:when test="dim:field[@element='identifier'][@qualifier='doi']">
-                            <xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/>
+                            <xsl:text>DOI </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
 				</xsl:when>
 			<xsl:otherwise>
-                            <xsl:if test="dim:field[@element='identifier'][@qualifier='uri']"><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='uri'][1]/node()"/></xsl:if>
+                            <xsl:text>DOI </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']"><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='uri'][1]/node()"/></xsl:if><xsl:text>. </xsl:text>
 				</xsl:otherwise>
 			</xsl:choose>	
     </xsl:variable>
@@ -627,10 +627,10 @@
         <xsl:variable name="identifier">
                         <xsl:choose>
                             <xsl:when test="dim:field[@element='identifier'][@qualifier='doi']">
-                            <xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/>
+                            <xsl:text>DOI </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
                                 </xsl:when>
                         <xsl:otherwise>
-                            <xsl:if test="dim:field[@element='identifier'][@qualifier='uri']"><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='uri'][1]/node()"/></xsl:if>
+                            <xsl:text>DOI </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']"><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='uri'][1]/node()"/></xsl:if><xsl:text>. </xsl:text>
                                 </xsl:otherwise>
                         </xsl:choose>
     </xsl:variable>
