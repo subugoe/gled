@@ -2833,13 +2833,29 @@ Got to the following website to utilise you option to deactivate data collection
   <message key="study">Study</message>
   <message key="preprint">Preprint</message>
   <message key="report">Report</message>
-  <message key="anthology">Edited Volumes</message>
-  <message key="article">Articles</message>
-  <message key="monograph">Monographies</message>
-  <message key="bookpart">Book parts</message>
-  <message key="book">Books</message>
+  <message key="anthology">Edited Volume</message>
+  <message key="article">Article</message>
+  <message key="monograph">Monography</message>
+  <message key="bookpart">Book part</message>
+  <message key="book">Book</message>
   <message key="map">Map</message>
   <message key="conferenceObject">Conference Paper</message>
+
+
+  <message key="monograph_digi">Monograph, digitized</message>
+  <message key="monograph_first">Monograph</message>
+  <message key="anthology_first">Anthology</message>
+  <message key="anthology_digi">Anthology, digitized</message>
+  <message key="anthologyArticle">Article in Anthology</message>
+  <message key="anthologyArticle_first">Article in Anthology</message>
+  <message key="anthologyArticle_digi">Article in Anthology, digitized</message>
+  <message key="conferencePaper">Conference Paper</message>
+  <message key="map_anthology">Map</message>
+  <message key="map_digi">Map, digitized</message>
+
+
+
+
   <message key="xmlui.metadata.export">Metadata Export: </message>
   <message key="xmlui.collection.eg.introduction">Seit 1951 bietet “E&amp;G – Quaternary Science Journal” ein Publikationsforum für die Quartärsforschung. Es erscheinen ausschließlich begutachtete Original-Artikel und Tagungsbeiträge.</message>
   <message key="xmlui.collection.fog.introduction">FOG is open to all fields of Geoscience like Geology, Geophysics, Geochemistry, Mineralogy, Hydrogeology, Environmental Geology etc. Although it is primarely a platform for scientist from the Freiberg area geoscientists from outside Freiberg are encouraged to submit papers and technical notes as well. Technical notes and papers have to be submitted only in the ADOBE PDF-Format . The files may contain links within the document as well as to any URL. With the PDF-File a list of all external links and the URL has to be supplied to FOG. All papers will be reviewed by at least two scientists. The author may suggest 2 or more scientists for the reviewing process. Please address communication to fog@www.geo.tu-freiberg.de .</message>

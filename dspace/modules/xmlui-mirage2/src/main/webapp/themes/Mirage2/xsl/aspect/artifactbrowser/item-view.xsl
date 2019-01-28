@@ -107,7 +107,7 @@
         <div class="item-summary-view-metadata">
 
 <xsl:choose>
-				<xsl:when test="dim:field[@element='type'] = 'article'">
+				<xsl:when test="dim:field[@element='type'] = 'article' or dim:field[@element='type'] = 'article_first' or dim:field[@element='type'] = 'article_digi'">
 					<xsl:call-template name="itemSummaryView-DIM-title"/>
 					<xsl:call-template name="itemSummaryView-DIM-authors"/>
 					<i18n:text>xmlui.dri2xhtml.METS-1.0.item-journal</i18n:text><xsl:call-template name="itemSummaryView-DIM-journal"/><xsl:call-template name="itemSummaryView-DIM-volume"/><xsl:call-template name="itemSummaryView-DIM-issue"/>; <xsl:call-template name="itemSummaryView-DIM-date"/>; <xsl:call-template name="itemSummaryView-DIM-pages"/>

@@ -2966,7 +2966,19 @@ ie Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinr
   <message key="monograph">Monografie</message>
   <message key="bookpart">Bookpart</message>
   <message key="book">Buch</message>
-  <message key="map">Karte</message>
+  <message key="map_mono">Karte (Monografie)</message>
+  
+  <message key="monograph_digi">Monografie, digitalisiert</message>
+  <message key="monograph_first">Monografie</message>
+  <message key="anthology_first">Sammmelband</message>
+  <message key="anthology_digi">Sammelband, digitalisiert</message>
+  <message key="anthologyArticle">Sammelband- / Konferenzbeitrag</message>
+  <message key="anthologyArticle_first">Sammelband- / Konferenzbeitrag</message>
+  <message key="anthologyArticle_digi">Sammelband- / Konferenzbeitrag, digitalisiert</message>
+  <message key="conferencePaper">Konferenzbeitrag</message>
+  <message key="map_anthology">Karte (Sammelband)</message>
+  <message key="map_digi">Karte, digitalisiert</message>
+
 
   <message key="publishedVersion">Verlagsversion</message>
   <message key="draft">Entwurf</message>
