@@ -753,14 +753,14 @@
                     <xsl:for-each select="dim:field[@element='description' and @qualifier='abstract']">
                         <xsl:choose>
                             <xsl:when test="node()">
-				<xsl:if test="contains(node(), '   ')">
+				<!--<xsl:if test="contains(node(), '   ')">
 					<xsl:value-of select="substring-before(node(),'   ')"/>
 					<br />
 					<xsl:value-of select="substring-after(node(),'   ')"/>
 				</xsl:if>
-				<xsl:if test="not(contains(node(), '   '))">
-                                        <xsl:copy-of select="node()"/>
-                                </xsl:if>
+				<xsl:if test="not(contains(node(), '   '))">-->
+                                        <xsl:value-of select="node()" disable-output-escaping="yes"/>
+                                <!--</xsl:if>-->
                             </xsl:when>
                             <xsl:otherwise>
                                 <xsl:text>&#160;</xsl:text>
@@ -1501,6 +1501,17 @@
 
 	
     		<xsl:choose>
+			<xsl:when test="dim:field[@element='rights'] = 'CC::CC Public Domain Mark 1.0'">
+                                <a href="https://creativecommons.org/publicdomain/mark/1.0/">
+                                <img class="img-responsive" src="/themes/Mirage2/images/creativecommons/cc-mark.png" alt="Public Domain Mark 1.0"/>
+                                </a>
+                        </xsl:when>
+                         <xsl:when test="dim:field[@element='rights'] = 'CC::CC0 1.0 Universal Public Domain Dedication'">
+                                <a href="https://creativecommons.org/publicdomain/zero/1.0/">
+                                <img class="img-responsive" src="/themes/Mirage2/images/creativecommons/cc-zero.png" alt="Universal Public Domain Dedication"/>
+                                </a>
+                        </xsl:when>
+
                         <xsl:when test="dim:field[@element='rights'] = 'CC::CC BY-NC 1.0'">
                                 <a href="https://creativecommons.org/licenses/by-nc/1.0/">
                                 <img class="img-responsive" src="/themes/Mirage2/images/creativecommons/cc-by-nc.png" alt="Attribution-NonCommercial 1.0"/>
