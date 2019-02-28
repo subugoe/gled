@@ -2892,6 +2892,6 @@ Got to the following website to utilise you option to deactivate data collection
   </message>
   <message key="xmlui.mirage2.itemSummaryView.Subjects">Subjects:</message>
   <message key="xmlui.dri2xhtml.METS-1.0.item-isversionof">Other online version: </message>
-  <message key"xmlui.dri2xhtml.METS-1.0.item-toc">Content</message>
+  <message key="xmlui.dri2xhtml.METS-1.0.item-toc">Content</message>
 
 </catalogue>
