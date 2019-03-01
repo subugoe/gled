@@ -2023,7 +2023,7 @@
 	<message key="xmlui.dri2xhtml.METS-1.0.item-title">Titel</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-author">Autor(en)</message>
         <message key="xmlui.dri2xhtml.METS-1.0.item-editor">Herausgeber</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-abstract">Zusammenfassung:</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-abstract">Zusammenfassung</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-description">Beschreibung</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-uri">Zum Verlinken/Bookmarken: </message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-date">Erstveröffentlichung: </message>

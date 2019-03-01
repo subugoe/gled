@@ -189,7 +189,6 @@
                <xsl:call-template name="itemSummaryView-show-full"/>
 	    </xsl:if>--></td></tr></table>
             <xsl:call-template name="itemSummaryView-DIM-abstract"/>
-	    <xsl:call-template name="itemSummaryView-DIM-toc"/>
             <xsl:call-template name="itemSummaryView-collections"/>
 	    <xsl:call-template name="itemSummaryView-subjects"/>
 	    <xsl:call-template name="display-rights"/>          
@@ -746,7 +745,7 @@
         </div>
     </xsl:template>
 
-   <xsl:template name="itemSummaryView-DIM-toc">
+<!--   <xsl:template name="itemSummaryView-DIM-toc">
         <xsl:if test="dim:field[@element='description' and @qualifier='tableofcontents']">
             <div class="simple-item-view-description item-page-field-wrapper table">
                 <h5><i18n:text>xmlui.dri2xhtml.METS-1.0.item-toc</i18n:text></h5>
@@ -754,14 +753,7 @@
                     <xsl:for-each select="dim:field[@element='description' and @qualifier='tableofcontents']">
                         <xsl:choose>
                             <xsl:when test="node()">
-                                <!--<xsl:if test="contains(node(), '   ')">
-                                        <xsl:value-of select="substring-before(node(),'   ')"/>
-                                        <br />
-                                        <xsl:value-of select="substring-after(node(),'   ')"/>
-                                </xsl:if>
-                                <xsl:if test="not(contains(node(), '   '))">-->
                                         <xsl:value-of select="node()" disable-output-escaping="yes"/>
-                                <!--</xsl:if>-->
                             </xsl:when>
                             <xsl:otherwise>
                                 <xsl:text>&#160;</xsl:text>
@@ -777,11 +769,11 @@
                 </div>
             </div>
         </xsl:if>
-    </xsl:template>
+    </xsl:template>-->
 
 
 
-    <xsl:template name="itemSummaryView-DIM-abstract">
+<!--    <xsl:template name="itemSummaryView-DIM-abstract">
         <xsl:if test="dim:field[@element='description' and @qualifier='abstract']">
             <div class="simple-item-view-description item-page-field-wrapper table">
                 <h5><i18n:text>xmlui.dri2xhtml.METS-1.0.item-abstract</i18n:text></h5>
@@ -789,14 +781,7 @@
                     <xsl:for-each select="dim:field[@element='description' and @qualifier='abstract']">
                         <xsl:choose>
                             <xsl:when test="node()">
-				<!--<xsl:if test="contains(node(), '   ')">
-					<xsl:value-of select="substring-before(node(),'   ')"/>
-					<br />
-					<xsl:value-of select="substring-after(node(),'   ')"/>
-				</xsl:if>
-				<xsl:if test="not(contains(node(), '   '))">-->
                                         <xsl:value-of select="node()" disable-output-escaping="yes"/>
-                                <!--</xsl:if>-->
                             </xsl:when>
                             <xsl:otherwise>
                                 <xsl:text>&#160;</xsl:text>
@@ -812,7 +797,61 @@
                 </div>
             </div>
         </xsl:if>
-    </xsl:template>
+    </xsl:template>-->
+
+<xsl:template name="itemSummaryView-DIM-abstract">
+ <ul class="nav nav-tabs" id="myTab">
+            <xsl:if test="//dim:field[@element='description'][@qualifier='abstract']">
+                <li class="active"><a data-target="#abstract" data-toggle="tab" style="cursor: pointer;font-weight:bold;font-size:small;"><i18n:text>xmlui.dri2xhtml.METS-1.0.item-abstract</i18n:text></a></li>
+            </xsl:if>
+            <xsl:if test="//dim:field[@element='description'][@qualifier='tableofcontents']">
+                <li>
+                    <xsl:if test="not(//dim:field[@element='description'][@qualifier='abstract'])"><xsl:attribute name="class">active</xsl:attribute></xsl:if>
+                    <a data-target="#toc" data-toggle="tab" style="cursor: pointer;font-weight:bold;font-size:small;"><i18n:text>xmlui.dri2xhtml.METS-1.0.item-toc</i18n:text></a>
+                </li>
+            </xsl:if>
+        </ul>
+        
+		<div class="tab-content">
+            <div id="abstract" style="margin-bottom: 1.5em;">
+                <xsl:attribute name="class"><xsl:text>tab-pane </xsl:text>
+					<xsl:if test="//dim:field[@element='description'][@qualifier='abstract']"><xsl:text> active</xsl:text></xsl:if>
+                </xsl:attribute>
+                <xsl:for-each select="//dim:field[@element='description'][@qualifier='abstract']">
+                    <xsl:choose>
+                            <xsl:when test="node()">
+                                      <xsl:value-of select="node()" disable-output-escaping="yes"/>
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:text>&#160;</xsl:text>
+                            </xsl:otherwise>
+                        </xsl:choose>
+                        <xsl:if test="count(following-sibling::dim:field[@element='description' and @qualifier='abstract']) != 0">
+                            <div class="spacer">&#160;</div>
+                        </xsl:if>
+                </xsl:for-each>
+
+            </div>
+            <div id="toc">
+                <xsl:attribute name="class"><xsl:text>tab-pane</xsl:text>
+                    <xsl:if test="//dim:field[@element='description'][@qualifier='tableofcontents'] and not(//dim:field[@element='description'][@qualifier='abstract'])"><xsl:text> active</xsl:text></xsl:if>
+                </xsl:attribute>
+                 <xsl:for-each select="dim:field[@element='description' and @qualifier='tableofcontents']">
+                        <xsl:choose>
+                            <xsl:when test="node()">
+                                          <xsl:value-of select="node()" disable-output-escaping="yes"/>
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:text>&#160;</xsl:text>
+                            </xsl:otherwise>
+                        </xsl:choose>
+                        <xsl:if test="count(following-sibling::dim:field[@element='description' and @qualifier='tableofcontents']) != 0">
+                            <div class="spacer">&#160;</div>
+                        </xsl:if>
+                    </xsl:for-each>
+			</div>
+			</div>
+  </xsl:template>
 
     <xsl:template name="itemSummaryView-DIM-authors">
         <xsl:if test="dim:field[@element='contributor'][@qualifier='author' and descendant::text()] or dim:field[@element='creator' and descendant::text()] or dim:field[@element='contributor' and descendant::text()]">

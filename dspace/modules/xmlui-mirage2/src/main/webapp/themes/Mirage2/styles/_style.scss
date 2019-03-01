@@ -558,3 +558,8 @@ a.list-group-item.ds-option[href="/browse?type=subject"] {
   padding: 5px;
   margin-top: 15px;
 }
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+    background-color: none;
+    background: url(/themes/Mirage2/images/bg1.png) repeat;
+}
+
