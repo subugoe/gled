@@ -800,7 +800,7 @@
     </xsl:template>-->
 
 <xsl:template name="itemSummaryView-DIM-abstract">
- <ul class="nav nav-tabs" id="myTab">
+ <ul class="nav nav-tabs" id="myTab" style="margin-bottom: 0px;">
             <xsl:if test="//dim:field[@element='description'][@qualifier='abstract']">
                 <li class="active"><a data-target="#abstract" data-toggle="tab" style="cursor: pointer;font-weight:bold;font-size:small;"><i18n:text>xmlui.dri2xhtml.METS-1.0.item-abstract</i18n:text></a></li>
             </xsl:if>
@@ -812,8 +812,8 @@
             </xsl:if>
         </ul>
         
-		<div class="tab-content">
-            <div id="abstract" style="margin-bottom: 1.5em;">
+		<div class="tab-content" style="border-bottom: 1px solid #ddd;margin-bottom: 20px;border-right: 1px solid #ddd;border-left: 1px solid #ddd;padding: 20px;">
+            <div id="abstract">
                 <xsl:attribute name="class"><xsl:text>tab-pane </xsl:text>
 					<xsl:if test="//dim:field[@element='description'][@qualifier='abstract']"><xsl:text> active</xsl:text></xsl:if>
                 </xsl:attribute>
