@@ -4071,7 +4071,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [12.500, 51.800],[12.667, 51.800],[12.667, 51.700],[12.500, 51.700],[12.500, 51.800]]]},         "properties" : { "Title" : "[Neue Nr. 4241] Kemberg", "Location" : "Kemberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204241]%20Kemberg&creator=Linstow,%20O.,%20v.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [12.500, 51.800],[12.667, 51.800],[12.667, 51.700],[12.500, 51.700],[12.500, 51.800]]]},         "properties" : { "Title" : "[Neue Nr. 4241] Kemberg", "Location" : "Kemberg", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1913", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3213","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -4641,7 +4641,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.167, 51.500],[10.333, 51.500],[10.333, 51.400],[10.167, 51.400],[10.167, 51.500]]]},         "properties" : { "Title" : "[Neue Nr. 4527] Berlingerode", "Location" : "Berlingerode", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204527]%20Berlingerode&creator=Speyer,%20O.;%20Zeise,%20O","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.167, 51.500],[10.333, 51.500],[10.333, 51.400],[10.167, 51.400],[10.167, 51.500]]]},         "properties" : { "Title" : "[Neue Nr. 4527] Berlingerode", "Location" : "Berlingerode", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1902", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3204","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -5496,7 +5496,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [6.667, 51.100],[6.833, 51.100],[6.833, 51.000],[6.667, 51.000],[6.667, 51.100]]]},         "properties" : { "Title" : "[Neue Nr. 4906] Stommeln", "Location" : "Stommeln", "Subtitle" : "Pulheim", "Layer": "GK25 / extern","Text": "Link:", "LText1": "zur Karte ersch. 1931 (Paket Düsseldorf, Köln)", "ML1": "OpenGeodata.NRW","Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [6.667, 51.100],[6.833, 51.100],[6.833, 51.000],[6.667, 51.000],[6.667, 51.100]]]},         "properties" : { "Title" : "[Neue Nr. 4906] Stommeln", "Location" : "Stommeln", "Subtitle" : "Pulheim", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1931", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3218","LText2": "zur Karte ersch. 1931 (Paket Düsseldorf, Köln)","ML2": "OpenGeodata.NRW","Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -6011,22 +6011,22 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [15.500, 51.000],[15.667, 51.000],[15.667, 50.900],[15.500, 50.900],[15.500, 51.000]]]},         "properties" : { "Title" : "[Neue Nr. 5059] Altkemnitz", "Location" : "Altkemnitz", "Subtitle" : "Stara Kamienica", "Layer": "GK25 / extern","Text": "Link:", "LText1": "zur Karte ersch. 1932", "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa","Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5059_(2946)_Altkemnitz_geol_1932_UPozn.jpg","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [15.500, 51.000],[15.667, 51.000],[15.667, 50.900],[15.500, 50.900],[15.500, 51.000]]]},         "properties" : { "Title" : "[Neue Nr. 5059] Altkemnitz", "Location" : "Altkemnitz", "Subtitle" : "Stara Kamienica (poln.)", "Layer": "GK25 / extern","Text": "Link:", "LText1": "zur Karte ersch. 1932", "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa","Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5059_(2946)_Altkemnitz_geol_1932_UPozn.jpg","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [15.667, 51.000],[15.833, 51.000],[15.833, 50.900],[15.667, 50.900],[15.667, 51.000]]]},         "properties" : { "Title" : "[Neue Nr. 5060] Hirschberg", "Location" : "Hirschberg", "Subtitle" : "Jelenia Góra", "Layer": "GK25 / extern","Text": "Link:", "LText1": "zur Karte ersch. 1932", "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa","Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5060_(2947)_Hirschberg_geol_1932_UPozn.jpg","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [15.667, 51.000],[15.833, 51.000],[15.833, 50.900],[15.667, 50.900],[15.667, 51.000]]]},         "properties" : { "Title" : "[Neue Nr. 5060] Hirschberg", "Location" : "Hirschberg", "Subtitle" : "Jelenia Góra (poln.)", "Layer": "GK25 / extern","Text": "Link:", "LText1": "zur Karte ersch. 1932", "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa","Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5060_(2947)_Hirschberg_geol_1932_UPozn.jpg","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [15.833, 51.000],[16.000, 51.000],[16.000, 50.900],[15.833, 50.900],[15.833, 51.000]]]},         "properties" : { "Title" : "[Neue Nr. 5061] Kauffung", "Location" : "Kauffung", "Subtitle" : "Wojcieszów", "Layer": "GK25 / extern","Text": "Link:", "LText1": "zur Karte ersch. 1932", "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa","Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5061_(2948)_Kauffung_geol_1932_UPozn.jpg","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [15.833, 51.000],[16.000, 51.000],[16.000, 50.900],[15.833, 50.900],[15.833, 51.000]]]},         "properties" : { "Title" : "[Neue Nr. 5061] Kauffung", "Location" : "Kauffung", "Subtitle" : "Wojcieszów (poln.)", "Layer": "GK25 / extern","Text": "Link:", "LText1": "zur Karte ersch. 1932", "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa","Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5061_(2948)_Kauffung_geol_1932_UPozn.jpg","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [16.000, 51.000],[16.167, 51.000],[16.167, 50.900],[16.000, 50.900],[16.000, 51.000]]]},         "properties" : { "Title" : "[Neue Nr. 5062] Bolkenhain", "Location" : "Bolkenhain", "Subtitle" : "Bolków (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205062]%20Bolkenhain&creator=Zimmermann,%20E.;%20Haack,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [16.000, 51.000],[16.167, 51.000],[16.167, 50.900],[16.000, 50.900],[16.000, 51.000]]]},         "properties" : { "Title" : "[Neue Nr. 5062] Bolkenhain", "Location" : "Bolkenhain", "Subtitle" : "Bolków (poln.)", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1929", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3219","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -6281,7 +6281,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [15.667, 50.900],[15.833, 50.900],[15.833, 50.800],[15.667, 50.800],[15.667, 50.900]]]},         "properties" : { "Title" : "[Neue Nr. 5160] Warmbrunn", "Location" : "Warmbrunn", "Subtitle" : "Cieplice Śląskie (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205160]%20Warmbrunn&creator=Berg,%20G.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [15.667, 50.900],[15.833, 50.900],[15.833, 50.800],[15.667, 50.800],[15.667, 50.900]]]},         "properties" : { "Title" : "[Neue Nr. 5160] Warmbrunn", "Location" : "Warmbrunn", "Subtitle" : "Cieplice Śląskie-Zdrój (poln.)", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1921", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3220","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -6296,17 +6296,17 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [16.167, 50.900],[16.333, 50.900],[16.333, 50.800],[16.167, 50.800],[16.167, 50.900]]]},         "properties" : { "Title" : "[Neue Nr. 5163] Freiburg in Schlesien", "Location" : "Freiburg in Schlesien", "Subtitle" : "Swiebodzice (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205163]%20Freiburg%20in%20Schlesien&creator=Berg,%20G.;%20Dathe,%20E.;%20Zimmermann,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [16.167, 50.900],[16.333, 50.900],[16.333, 50.800],[16.167, 50.800],[16.167, 50.900]]]},         "properties" : { "Title" : "[Neue Nr. 5163] Freiburg in Schlesien", "Location" : "Freiburg in Schlesien", "Subtitle" : "Świebodzice (poln.)", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1910", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3214","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [16.500, 50.900],[16.667, 50.900],[16.667, 50.800],[16.500, 50.800],[16.500, 50.900]]]},         "properties" : { "Title" : "[Neue Nr. 5165] Weizenrodau", "Location" : "Weizenrodau", "Subtitle" : "Pszenno (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205165]%20Weizenrodau&creator=Finckh,%20L.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [16.500, 50.900],[16.667, 50.900],[16.667, 50.800],[16.500, 50.800],[16.500, 50.900]]]},         "properties" : { "Title" : "[Neue Nr. 5165] Weizenrodau", "Location" : "Weizenrodau", "Subtitle" : "Pszenno (poln.)", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1919", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3221","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [16.667, 50.900],[16.833, 50.900],[16.833, 50.800],[16.667, 50.800],[16.667, 50.900]]]},         "properties" : { "Title" : "[Neue Nr. 5166] Zobten", "Location" : "Zobten", "Subtitle" : "Sobótka (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205166]%20Zobten&creator=Finckh,%20L.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [16.667, 50.900],[16.833, 50.900],[16.833, 50.800],[16.667, 50.800],[16.667, 50.900]]]},         "properties" : { "Title" : "[Neue Nr. 5166] Zobten", "Location" : "Zobten", "Subtitle" : "Sobótka (poln.), Zota (schl.)", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1928", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3222","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -6443,6 +6443,16 @@ var geojson={ "type" : "FeatureCollection",
             "type" : "Polygon",
             "coordinates" :[[ [11.167, 50.800],[11.333, 50.800],[11.333, 50.700],[11.167, 50.700],[11.167, 50.800]]]},         "properties" : { "Title" : "[Neue Nr. 5233] Stadt Remda", "Location" : "Stadt Remda", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205233]%20Stadt%20Remda&creator=Fritsch,%20K.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
+		 { "type" : "Feature",
+        "geometry" : {
+            "type" : "Polygon",
+            "coordinates" :[[ [11,333, 50,800],[11,500, 50,800],[11,500, 50,700],[11,333, 50,700],[11,333, 50,800]]]},         "properties" : { "Title" : "[Neue Nr. 5234] Rudolstadt", "Location" : "Rudolstadt", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205234]%20Rudolstadt&creator=Richter,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        },
+		 { "type" : "Feature",
+        "geometry" : {
+            "type" : "Polygon",
+            "coordinates" :[[ [11,500, 50,800],[11,667, 50,800],[11,667, 50,700],[11,500, 50,700],[11,500, 50,800]]]},         "properties" : { "Title" : "[Neue Nr. 5235] Orlamünde", "Location" : "Orlamünde", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205235]%20Orlam%C3%BCnde&creator=Richter,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
@@ -6526,27 +6536,27 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [16.000, 50.800],[16.167, 50.800],[16.167, 50.700],[16.000, 50.700],[16.000, 50.800]]]},         "properties" : { "Title" : "[Neue Nr. 5262] Landeshut", "Location" : "Landeshut", "Subtitle" : "Kamienna Góra", "Layer": "GK25 / extern","Text": "Link:", "LText1": "zur Karte ersch. 1940", "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa","Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5262_(3072)_Landeshut_geol_1940_UPozn.jpg","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [16.000, 50.800],[16.167, 50.800],[16.167, 50.700],[16.000, 50.700],[16.000, 50.800]]]},         "properties" : { "Title" : "[Neue Nr. 5262] Landeshut", "Location" : "Landeshut", "Subtitle" : "Kamienna Góra (poln.)", "Layer": "GK25 / extern","Text": "Link:", "LText1": "zur Karte ersch. 1940", "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa","Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5262_(3072)_Landeshut_geol_1940_UPozn.jpg","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [16.167, 50.800],[16.333, 50.800],[16.333, 50.700],[16.167, 50.700],[16.167, 50.800]]]},         "properties" : { "Title" : "[Neue Nr. 5263] Waldenburg in Schlesien", "Location" : "Waldenburg in Schlesien", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205263]%20Waldenburg%20in%20Schlesien&creator=Berg,%20G.;%20Dathe,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [16.167, 50.800],[16.333, 50.800],[16.333, 50.700],[16.167, 50.700],[16.167, 50.800]]]},         "properties" : { "Title" : "[Neue Nr. 5263] Waldenburg in Schlesien", "Location" : "Waldenburg in Schlesien", "Subtitle" : "Wałbrzych (poln.)", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1910", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3215","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [16.333, 50.800],[16.500, 50.800],[16.500, 50.700],[16.333, 50.700],[16.333, 50.800]]]},         "properties" : { "Title" : "[Neue Nr. 5264] Charlottenbrunn", "Location" : "Charlottenbrunn", "Subtitle" : "Jedlina Zdrój", "Layer": "GK25 / extern","Text": "Link:", "LText1": "zur Karte ersch. 1924", "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa","Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5264_(3074)_Charlottenbrunn_geol_1924_UPozn.jpg","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [16.333, 50.800],[16.500, 50.800],[16.500, 50.700],[16.333, 50.700],[16.333, 50.800]]]},         "properties" : { "Title" : "[Neue Nr. 5264] Charlottenbrunn", "Location" : "Charlottenbrunn", "Subtitle" : "Jedlina Zdrój (poln.)", "Layer": "GK25 / extern","Text": "Link:", "LText1": "zur Karte ersch. 1924", "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa","Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5264_(3074)_Charlottenbrunn_geol_1924_UPozn.jpg","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [16.500, 50.800],[16.667, 50.800],[16.667, 50.700],[16.500, 50.700],[16.500, 50.800]]]},         "properties" : { "Title" : "[Neue Nr. 5265] Reichenbach", "Location" : "Reichenbach", "Subtitle" : "Dzierzoniow (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205265]%20Reichenbach&creator=Dathe,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [16.500, 50.800],[16.667, 50.800],[16.667, 50.700],[16.500, 50.700],[16.500, 50.800]]]},         "properties" : { "Title" : "[Neue Nr. 5265] Reichenbach", "Location" : "Reichenbach", "Subtitle" : "Dzierżoniów (poln.)", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1924", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3223","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [16.667, 50.800],[16.833, 50.800],[16.833, 50.700],[16.667, 50.700],[16.667, 50.800]]]},         "properties" : { "Title" : "[Neue Nr. 5266] Lauterbach", "Location" : "Lauterbach", "Subtitle" : "Karpacz (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205266]%20Lauterbach&creator=Barsch,%20O.;%20Finckh,%20L.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [16.667, 50.800],[16.833, 50.800],[16.833, 50.700],[16.667, 50.700],[16.667, 50.800]]]},         "properties" : { "Title" : "[Neue Nr. 5266] Lauterbach", "Location" : "Lauterbach", "Subtitle" : "Sieniawka (poln.)", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1924", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3224","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -6653,6 +6663,11 @@ var geojson={ "type" : "FeatureCollection",
             "type" : "Polygon",
             "coordinates" :[[ [11.167, 50.700],[11.333, 50.700],[11.333, 50.600],[11.167, 50.600],[11.167, 50.700]]]},         "properties" : { "Title" : "[Neue Nr. 5333] Schwarzburg", "Location" : "Schwarzburg", "Subtitle" : "Blankenburg/Schwarzburg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205333]%20Schwarzburg&creator=Loretz,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
+		 { "type" : "Feature",
+        "geometry" : {
+            "type" : "Polygon",
+            "coordinates" :[[ [11,333, 50,700],[11,500, 50,700],[11,500, 50,600],[11,333, 50,600],[11,333, 50,700]]]},         "properties" : { "Title" : "[Neue Nr. 5334] Saalfeld", "Location" : "Saalfeld", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205334]%20Saalfeld&creator=Richter,%20R.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+        },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
@@ -6716,7 +6731,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [16.000, 50.700],[16.167, 50.700],[16.167, 50.600],[16.000, 50.600],[16.000, 50.700]]]},         "properties" : { "Title" : "[Neue Nr. 5362] Schömberg", "Location" : "Schömberg", "Subtitle" : "Sulikow (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205362]%20Sch%C3%B6mberg&creator=Berg,%20G.;%20Dathe,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [16.000, 50.700],[16.167, 50.700],[16.167, 50.600],[16.000, 50.600],[16.000, 50.700]]]},         "properties" : { "Title" : "[Neue Nr. 5362] Schömberg", "Location" : "Schömberg", "Subtitle" : "Chełmsko Śląskie (poln.)", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1910", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3216","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -6726,7 +6741,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [16.333, 50.700],[16.500, 50.700],[16.500, 50.600],[16.333, 50.600],[16.333, 50.700]]]},         "properties" : { "Title" : "[Neue Nr. 5364] Rudolfswaldau", "Location" : "Rudolfswaldau", "Subtitle" : "Rudolfswaldau/Głuszyca", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1904", "ML1": "GEO-LEOe-docs","Link1": "http://dx.doi.org/10.23689/fidgeo-2148","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [16.333, 50.700],[16.500, 50.700],[16.500, 50.600],[16.333, 50.600],[16.333, 50.700]]]},         "properties" : { "Title" : "[Neue Nr. 5364] Rudolfswaldau", "Location" : "Rudolfswaldau", "Subtitle" : "Sierpnice (poln.)", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1904", "ML1": "GEO-LEOe-docs","Link1": "http://dx.doi.org/10.23689/fidgeo-2148","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -6916,7 +6931,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [16.667, 50.600],[16.833, 50.600],[16.833, 50.500],[16.667, 50.500],[16.667, 50.600]]]},         "properties" : { "Title" : "[Neue Nr. 5466] Frankenstein", "Location" : "Frankenstein", "Subtitle" : "Zabkowice Sl. (poln.)", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205466]%20Frankenstein&creator=Finckh,%20L.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [16.667, 50.600],[16.833, 50.600],[16.833, 50.500],[16.667, 50.500],[16.667, 50.600]]]},         "properties" : { "Title" : "[Neue Nr. 5466] Frankenstein", "Location" : "Frankenstein", "Subtitle" : "Ząbkowice Śląskie (poln.)", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1929", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3217","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -6946,7 +6961,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [8.167, 50.500],[8.333, 50.500],[8.333, 50.400],[8.167, 50.400],[8.167, 50.500]]]},         "properties" : { "Title" : "[Neue Nr. 5515] Weilburg", "Location" : "Weilburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205515]%20Weilburg&creator=Ahlburg,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [8.167, 50.500],[8.333, 50.500],[8.333, 50.400],[8.167, 50.400],[8.167, 50.500]]]},         "properties" : { "Title" : "[Neue Nr. 5515] Weilburg", "Location" : "Weilburg", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1918", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3226","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -7101,7 +7116,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [8.167, 50.400],[8.333, 50.400],[8.333, 50.300],[8.167, 50.300],[8.167, 50.400]]]},         "properties" : { "Title" : "[Neue Nr. 5615] Eisenbach", "Location" : "Eisenbach", "Subtitle" : "Villmar", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205615]%20Eisenbach&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [8.167, 50.400],[8.333, 50.400],[8.333, 50.300],[8.167, 50.300],[8.167, 50.400]]]},         "properties" : { "Title" : "[Neue Nr. 5615] Eisenbach", "Location" : "Eisenbach", "Subtitle" : "Villmar", "Layer": "GK25 / GEO-LEOe-docs)","Text": "Link:", "LText1": "zur Karte ersch. 1881; 1885 [Lagerstätten]", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3225","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -7186,7 +7201,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [7.667, 50.300],[7.833, 50.300],[7.833, 50.200],[7.667, 50.200],[7.667, 50.300]]]},         "properties" : { "Title" : "[Neue Nr. 5712] Dachsenhausen", "Location" : "Dachsenhausen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205712]%20Dachsenhausen&creator=Holzapfel,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [7.667, 50.300],[7.833, 50.300],[7.833, 50.200],[7.667, 50.200],[7.667, 50.300]]]},         "properties" : { "Title" : "[Neue Nr. 5712] Dachsenhausen", "Location" : "Dachsenhausen", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1891", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3205","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
