@@ -2527,7 +2527,7 @@
         <figcaption class="einzeilig">Paleontology</figcaption>
         </figure>
         <figure class="frontpage_images">
-        <a href="handle/11858/Geochemistry_Minearology_Petrology">
+        <a href="handle/11858/GeochemistryMinearologyPetrology">
         <image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemistry, Mineralogy, Petrology" />
         </a>
         <figcaption>Geochemistry, Mineralogy, Petrology</figcaption>
@@ -2535,13 +2535,13 @@
 </div>
 <div id="second_row" class="hidden-xs hidden-sm hidden-md">
         <figure class="frontpage_images">
-        <a href="handle/11858/Geophysics_extraterristicResearch">
+        <a href="handle/11858/Geophysics">
         <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysics, Extraterristic Research" />
 	</a>
         <figcaption>Geophysics, Extraterristic Research</figcaption>
         </figure>
         <figure class="frontpage_images">
-        <a href="handle/11858/Energy_Resources_Environment">
+        <a href="handle/11858/EnergyResourcesEnvironment">
         <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energy, Ressources, Environment" />
         </a>
         <figcaption>Energy, Ressources, Environment</figcaption>
@@ -2577,13 +2577,13 @@
 </div>
 <div id="second_row" class="hidden-lg hidden-xs">
         <figure class="frontpage_images">
-        <a href="handle/11858/Geochemistry_Minearology_Petrology">
+        <a href="handle/11858/GeochemistryMinearologyPetrology">
         <image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemistry, Mineralogy, Petrology" />
         </a>
         <figcaption>Geochemistry, Mineralogy, Petrology</figcaption>
         </figure>
                 <figure class="frontpage_images">
-        <a href="handle/11858/Geophysics_extraterristicResearch">
+        <a href="handle/11858/Geophysics">
         <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysics, Extraterristic Research" />
                 </a>
         <figcaption>Geophysics, Extraterristic Research</figcaption>
@@ -2591,7 +2591,7 @@
 </div>
 <div id="third_row"  class="hidden-lg hidden-xs">
         <figure class="frontpage_images">
-        <a href="handle/11858/Energy_Resources_Environment">
+        <a href="handle/11858/EnergyResourcesEnvironment">
         <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energy, Ressources, Environment" />
         </a>
         <figcaption>Energy, Ressources, Environment</figcaption>
@@ -2629,7 +2629,7 @@
 </div>
 <div id="third_row" class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_images">
-        <a href="handle/11858/Geochemistry_Minearology_Petrology">
+        <a href="handle/11858/GeochemistryMinearologyPetrology">
         <image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemistry, Mineralogy, Petrology" />
         </a>
         <figcaption>Geochemistry, Mineralogy, Petrology</figcaption>
@@ -2637,7 +2637,7 @@
 </div>
 <div id="fourth_row" class="hidden-lg hidden-sm hidden-md">
                 <figure class="frontpage_images">
-        <a href="handle/11858/Geophysics_extraterristicResearch">
+        <a href="handle/11858/Geophysics">
         <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysics, Extraterristic Research" />
                 </a>
         <figcaption>Geophysics, Extraterristic Research</figcaption>
@@ -2645,7 +2645,7 @@
 </div>
 <div id="fifth_row"  class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_images">
-        <a href="handle/11858/Energy_Resources_Environment">
+        <a href="handle/11858/EnergyResourcesEnvironment">
         <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energy, Ressources, Environment" />
         </a>
         <figcaption>Energy, Ressources, Environment</figcaption>

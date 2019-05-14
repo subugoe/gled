@@ -2023,7 +2023,7 @@
 	<message key="xmlui.dri2xhtml.METS-1.0.item-title">Titel</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-author">Autor(en)</message>
         <message key="xmlui.dri2xhtml.METS-1.0.item-editor">Herausgeber</message>
-	<message key="xmlui.dri2xhtml.METS-1.0.item-abstract">Zusammenfassung:</message>
+	<message key="xmlui.dri2xhtml.METS-1.0.item-abstract">Zusammenfassung</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-description">Beschreibung</message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-uri">Zum Verlinken/Bookmarken: </message>
 	<message key="xmlui.dri2xhtml.METS-1.0.item-date">Erstveröffentlichung: </message>
@@ -2532,7 +2532,7 @@
         <figcaption class="einzeilig">Paläontologie</figcaption>
         </figure>
         <figure class="frontpage_images">
-        <a href="handle/11858/Geochemistry_Minearology_Petrology">
+        <a href="handle/11858/GeochemistryMinearologyPetrology">
         <image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
         </a>
         <figcaption>Geochemie, Mineralogie, Petrologie</figcaption>
@@ -2540,13 +2540,13 @@
 </div>
 <div id="second_row" class="hidden-xs hidden-sm hidden-md">
         <figure class="frontpage_images">
-        <a href="handle/11858/Geophysics_extraterristicResearch">
+        <a href="handle/11858/Geophysics">
         <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Extraterristische Forschung" />
 </a>
         <figcaption>Geophysik, Extraterristische Forschung</figcaption>
         </figure>
         <figure class="frontpage_images">
-        <a href="handle/11858/Energy_Resources_Environment">
+        <a href="handle/11858/EnergyResourcesEnvironment">
         <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energie, Ressourcen, Umwelt" />
         </a>
         <figcaption class="einzeilig">Energie, Ressourcen, Umwelt</figcaption>
@@ -2582,13 +2582,13 @@
 </div>
 <div id="second_row" class="hidden-lg hidden-xs">
         <figure class="frontpage_images">
-        <a href="handle/11858/Geochemistry_Minearology_Petrology">
+        <a href="handle/11858/GeochemistryMinearologyPetrology">
         <image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
         </a>
         <figcaption>Geochemie, Mineralogie, Petrologie</figcaption>
         </figure>
                 <figure class="frontpage_images">
-        <a href="handle/11858/Geophysics_extraterristicResearch">
+        <a href="handle/11858/Geophysics">
         <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Extraterristische Forschung" />
                 </a>
         <figcaption>Geophysik, Extraterristische Forschung</figcaption>
@@ -2596,7 +2596,7 @@
 </div>
 <div id="third_row"  class="hidden-lg hidden-xs">
         <figure class="frontpage_images">
-        <a href="handle/11858/Energy_Resources_Environment">
+        <a href="handle/11858/EnergyResourcesEnvironment">
         <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energie, Ressourcen, Umwelt" />
         </a>
         <figcaption class="einzeilig">Energie, Ressourcen, Umwelt</figcaption>
@@ -2634,7 +2634,7 @@
 </div>
 <div id="third_row" class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_images">
-        <a href="handle/11858/Geochemistry_Minearology_Petrology">
+        <a href="handle/11858/GeochemistryMinearologyPetrology">
         <image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
         </a>
         <figcaption>Geochemie, Mineralogie, Petrologie</figcaption>
@@ -2650,7 +2650,7 @@
 </div>
 <div id="fifth_row"  class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_images">
-        <a href="handle/11858/Energy_Resources_Environment">
+        <a href="handle/11858/EnergyResources_Environment">
         <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energie, Ressourcen, Umwelt" />
         </a>
         <figcaption class="einzeilig">Energie, Ressourcen, Umwelt</figcaption>
@@ -3052,7 +3052,7 @@ ie Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinr
         <figcaption class="einzeilig">Paläontologie</figcaption>
         </figure>
         <figure class="frontpage_images">
-        <a href="handle/11858/Geochemistry_Minearology_Petrology">
+        <a href="handle/11858/GeochemistryMinearologyPetrology">
         <image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
         </a>
         <figcaption>Geochemie, Mineralogie, Petrologie</figcaption>
@@ -3060,13 +3060,13 @@ ie Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinr
 </div>
 <div id="second_row" class="hidden-xs hidden-sm hidden-md">
         <figure class="frontpage_images">
-        <a href="handle/11858/Geophysics_extraterristicResearch">
+        <a href="handle/11858/Geophysics">
         <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Extraterristische Forschung" />
 </a>
         <figcaption>Geophysik, Extraterristische Forschung</figcaption>
         </figure>
         <figure class="frontpage_images">
-        <a href="handle/11858/Energy_Resources_Environment">
+        <a href="handle/11858/EnergyResourcesEnvironment">
         <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energie, Ressourcen, Umwelt" />
         </a>
         <figcaption class="einzeilig">Energie, Ressourcen, Umwelt</figcaption>
@@ -3102,13 +3102,13 @@ ie Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinr
 </div>
 <div id="second_row" class="hidden-lg hidden-xs">
         <figure class="frontpage_images">
-        <a href="handle/11858/Geochemistry_Minearology_Petrology">
+        <a href="handle/11858/GeochemistryMinearologyPetrology">
         <image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
         </a>
         <figcaption>Geochemie, Mineralogie, Petrologie</figcaption>
         </figure>
 		<figure class="frontpage_images">
-        <a href="handle/11858/Geophysics_extraterristicResearch">
+        <a href="handle/11858/Geophysics">
         <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Extraterristische Forschung" />
 		</a>
         <figcaption>Geophysik, Extraterristische Forschung</figcaption>
@@ -3116,7 +3116,7 @@ ie Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinr
 </div>
 <div id="third_row"  class="hidden-lg hidden-xs">
         <figure class="frontpage_images">
-        <a href="handle/11858/Energy_Resources_Environment">
+        <a href="handle/11858/EnergyResourcesEnvironment">
         <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energie, Ressourcen, Umwelt" />
         </a>
         <figcaption class="einzeilig">Energie, Ressourcen, Umwelt</figcaption>
@@ -3154,7 +3154,7 @@ ie Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinr
 </div>
 <div id="third_row" class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_images">
-        <a href="handle/11858/Geochemistry_Minearology_Petrology">
+        <a href="handle/11858/GeochemistryMinearologyPetrology">
         <image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
         </a>
         <figcaption>Geochemie, Mineralogie, Petrologie</figcaption>
@@ -3162,7 +3162,7 @@ ie Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinr
 </div>
 <div id="fourth_row" class="hidden-lg hidden-sm hidden-md">
 		<figure class="frontpage_images">
-        <a href="handle/11858/Geophysics_extraterristicResearch">
+        <a href="handle/11858/Geophysics">
         <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Extraterristische Forschung" />
 		</a>
         <figcaption>Geophysik, Extraterristische Forschung</figcaption>
@@ -3170,7 +3170,7 @@ ie Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinr
 </div>
 <div id="fifth_row"  class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_images">
-        <a href="handle/11858/Energy_Resources_Environment">
+        <a href="handle/11858/EnergyResourcesEnvironment">
         <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energie, Ressourcen, Umwelt" />
         </a>
         <figcaption class="einzeilig">Energie, Ressourcen, Umwelt</figcaption>
