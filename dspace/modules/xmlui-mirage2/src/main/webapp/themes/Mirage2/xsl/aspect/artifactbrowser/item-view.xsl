@@ -1056,9 +1056,9 @@
                      <xsl:text>DOI: </xsl:text>
                         <a>
                         <xsl:attribute name="href">
-                                <xsl:copy-of select="concat('http://doi.org/', dim:field[@element='identifier'][@qualifier='doi'][1]/node())"/>
+                                <xsl:copy-of select="concat('https://doi.org/', dim:field[@element='identifier'][@qualifier='doi'][1]/node())"/>
                         </xsl:attribute>
-                        <xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/>
+                        <xsl:copy-of select="concat('https://doi.org/', dim:field[@element='identifier'][@qualifier='doi'][1]/node())"/>
                         </a>
                 </span>
             </div>
