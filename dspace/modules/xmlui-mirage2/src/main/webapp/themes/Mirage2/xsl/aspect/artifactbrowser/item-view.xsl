@@ -194,7 +194,7 @@
 	    <xsl:call-template name="display-rights"/>          
 
 	<!--SocialMedia-Buttons-->      
-        <div id="socialmedia">
+        <!--<div id="socialmedia">
                         <xsl:text>Share on: </xsl:text>
                         <ul class="share-buttons">
 				<li><a>
@@ -215,7 +215,7 @@
                                 </a></li>
 
                         </ul>
-                </div>
+                </div>-->
 
     </div>
     </xsl:template>

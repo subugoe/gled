@@ -4281,12 +4281,12 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [12.500, 51.700],[12.667, 51.700],[12.667, 51.600],[12.500, 51.600],[12.500, 51.700]]]},         "properties" : { "Title" : "[Neue Nr. 4341] Söllichau", "Location" : "Söllichau", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204341]%20S%C3%B6llichau&creator=Linstow,%20O.,%20v.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [12.500, 51.700],[12.667, 51.700],[12.667, 51.600],[12.500, 51.600],[12.500, 51.700]]]},         "properties" : { "Title" : "[Neue Nr. 4341] Söllichau", "Location" : "Söllichau", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1913", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3431","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [12.667, 51.700],[12.833, 51.700],[12.833, 51.600],[12.667, 51.600],[12.667, 51.700]]]},         "properties" : { "Title" : "[Neue Nr. 4342] Schmiedeberg Bez. Halle", "Location" : "Schmiedeberg Bez. Halle", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204342]%20Schmiedeberg%20Bez.%20Halle&creator=Linstow,%20O.,%20von","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [12.667, 51.700],[12.833, 51.700],[12.833, 51.600],[12.667, 51.600],[12.667, 51.700]]]},         "properties" : { "Title" : "[Neue Nr. 4342] Schmiedeberg Bez. Halle", "Location" : "Schmiedeberg Bez. Halle", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1916", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3432","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -6531,7 +6531,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [15.833, 50.800],[16.000, 50.800],[16.000, 50.700],[15.833, 50.700],[15.833, 50.800]]]},         "properties" : { "Title" : "[Neue Nr. 5261] Schmiedeberg (Niederschlesien), Tschöpsdorf", "Location" : "Schmiedeberg (Niederschlesien), Tschöpsdorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205261]%20Schmiedeberg%20(Niederschlesien),%20Tsch%C3%B6psdorf&creator=Berg,%20G.;%20Dathe,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [15.833, 50.800],[16.000, 50.800],[16.000, 50.700],[15.833, 50.700],[15.833, 50.800]]]},         "properties" : { "Title" : "[Neue Nr. 5261] Schmiedeberg (Niederschlesien), Tschöpsdorf", "Location" : "Schmiedeberg (Niederschlesien), Tschöpsdorf", "Subtitle" : "Kowary", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1940", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3444","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -6636,7 +6636,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.000, 50.700],[10.167, 50.700],[10.167, 50.600],[10.000, 50.600],[10.000, 50.700]]]},         "properties" : { "Title" : "[Neue Nr. 5326] Tann", "Location" : "Tann", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205326]%20Tann&creator=Haak,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.000, 50.700],[10.167, 50.700],[10.167, 50.600],[10.000, 50.600],[10.000, 50.700]]]},         "properties" : { "Title" : "[Neue Nr. 5326] Tann", "Location" : "Tann", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1912", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3442","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -6811,7 +6811,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [9.500, 50.600],[9.667, 50.600],[9.667, 50.500],[9.500, 50.500],[9.500, 50.600]]]},         "properties" : { "Title" : "[Neue Nr. 5423] Großenlüder", "Location" : "Großenlüder", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205423]%20Gro%DFenl%C3%BCder&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [9.500, 50.600],[9.667, 50.600],[9.667, 50.500],[9.500, 50.500],[9.500, 50.600]]]},         "properties" : { "Title" : "[Neue Nr. 5423] Großenlüder", "Location" : "Großenlüder", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1933", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3423","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -7121,11 +7121,6 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [9.667, 50.400],[9.833, 50.400],[9.833, 50.300],[9.667, 50.300],[9.667, 50.400]]]},         "properties" : { "Title" : "[Neue Nr. 5624 / 5724] Oberzell, Güntershof", "Location" : "Oberzell, Güntershof", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205624%20/%205724]%20Oberzell,%20G%C3%BCntershof&creator=Seyfried,%20E.,%20v.;%20Reis,%20O.%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
-        },
-         { "type" : "Feature",
-        "geometry" : {
-            "type" : "Polygon",
             "coordinates" :[[ [10.333, 50.400],[10.500, 50.400],[10.500, 50.300],[10.333, 50.300],[10.333, 50.400]]]},         "properties" : { "Title" : "[Neue Nr. 5628] Mendhausen, Römhild", "Location" : "Mendhausen, Römhild", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205628]%20Mendhausen,%20R%C3%B6mhild&creator=Proescholdt,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
@@ -7341,12 +7336,12 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [8.000, 50.200],[8.167, 50.200],[8.167, 50.100],[8.000, 50.100],[8.000, 50.200]]]},         "properties" : { "Title" : "[Neue Nr. 5814] Langenschwalbach", "Location" : "Langenschwalbach", "Subtitle" : "Bad Schwalbach", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205814]%20Langenschwalbach&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [8.000, 50.200],[8.167, 50.200],[8.167, 50.100],[8.000, 50.100],[8.000, 50.200]]]},         "properties" : { "Title" : "[Neue Nr. 5814] Bad Schwalbach", "Location" : "Bad Schwalbach", "Subtitle" : "Langenschwalbach", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1930", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3428","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [8.167, 50.200],[8.333, 50.200],[8.333, 50.100],[8.167, 50.100],[8.167, 50.200]]]},         "properties" : { "Title" : "[Neue Nr. 5815] Platte", "Location" : "Platte", "Subtitle" : "Wehen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205815]%20Platte&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [8.167, 50.200],[8.333, 50.200],[8.333, 50.100],[8.167, 50.100],[8.167, 50.200]]]},         "properties" : { "Title" : "[Neue Nr. 5815] Platte", "Location" : "Platte", "Subtitle" : "Wehen", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1879", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3429","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -7456,12 +7451,12 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [8.000, 50.100],[8.167, 50.100],[8.167, 50.000],[8.000, 50.000],[8.000, 50.100]]]},         "properties" : { "Title" : "[Neue Nr. 5914] Eltville", "Location" : "Eltville", "Subtitle" : "Eltville-Heidenfahrt", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205914]%20Eltville&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [8.000, 50.100],[8.167, 50.100],[8.167, 50.000],[8.000, 50.000],[8.000, 50.100]]]},         "properties" : { "Title" : "[Neue Nr. 5914] Eltville", "Location" : "Eltville", "Subtitle" : "Eltville-Heidenfahrt", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1879", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3443","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [8.167, 50.100],[8.333, 50.100],[8.333, 50.000],[8.167, 50.000],[8.167, 50.100]]]},         "properties" : { "Title" : "[Neue Nr. 5915] Wiesbaden", "Location" : "Wiesbaden", "Subtitle" : "Wiesbaden-Kastel", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205915]%20Wiesbaden&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [8.167, 50.100],[8.333, 50.100],[8.333, 50.000],[8.167, 50.000],[8.167, 50.100]]]},         "properties" : { "Title" : "[Neue Nr. 5915] Wiesbaden-Kastel", "Location" : "Wiesbaden-Kastel", "Subtitle" : "Wiesbaden", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1922", "ML1": "GEO-LEOe-docs","Link1": "http://doi.org/10.23689/fidgeo-3430","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
