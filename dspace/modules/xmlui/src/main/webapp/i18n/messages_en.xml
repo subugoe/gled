@@ -2754,7 +2754,7 @@
 
         <message key="xmlui.impressum.head">Imprint</message>
         <message key="xmlui.impressum.label.offerer">Publisher</message>
-        <message key="xmlui.impressum.text.offerer">Authorized representative of the Göttingen State and University Library is Dr. Wolfram Horstmann. The library is a central institution of the Georg-August-Universität Göttingen. Georg-August-Universität Göttingen is a public law corporation. It is legally represented by its President, Professor Ulrike Beisiegel, Doctor of Physiology.</message>
+        <message key="xmlui.impressum.text.offerer">Authorized representative of the Göttingen State and University Library is Dr. Wolfram Horstmann. The library is a central institution of the Georg-August-Universität Göttingen. Georg-August-Universität Göttingen is a public law corporation. It is legally represented by its acting President Dr. Valérie Schüller (Vice President Finance and Human Resources).</message>
 
         <message key="xmlui.impressum.label.controlling">Competent supervisory authority  </message>
         <message key="xmlui.impressum.controlling.gau">Georg-August-Universität Göttingen Public Law Foundation</message>
