@@ -1771,7 +1771,9 @@
                                 <img class="img-responsive" src="/themes/Mirage2/images/creativecommons/cc-by-nc-sa.png" alt="Attribution-NonCommercial-ShareAlike 4.0"/>
                                 </a>
                         </xsl:when>
-
+			 <xsl:when test="contains(dim:field[@element='rights'], 'der Rechte durch die VG')">
+                               <div><xsl:text>Wahrnehmung der Rechte durch die VG (Verwertungsgesellschaft) Wort (§ 51 VGG (Verwertungsgesellschaftengesetz)).</xsl:text></div>
+                        </xsl:when>
                 </xsl:choose>
 		
 
