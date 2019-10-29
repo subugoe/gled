@@ -44,6 +44,45 @@
 
                         <!-- Handle only doctype map_digi -->
                                 <xsl:if test="//doc:metadata/doc:element[@name='dc']/doc:element[@name='type']/doc:element/doc:field = 'map_digi'">
+
+			 <datafield>
+
+                        <xsl:attribute name="tag">032C</xsl:attribute>
+                        <subfield>
+                                 <xsl:attribute name="code">a</xsl:attribute>
+
+                                                                <xsl:text>Online-Ausg.</xsl:text>
+                         </subfield>
+
+            </datafield>
+
+
+                        <datafield>
+                        <xsl:attribute name="tag">033N</xsl:attribute>
+                        <subfield>
+                                 <xsl:attribute name="code">p</xsl:attribute>
+
+                                                                <xsl:text>Göttingen</xsl:text>
+                         </subfield>
+			<subfield>
+                                 <xsl:attribute name="code">n</xsl:attribute>
+
+                                                                <xsl:text>Niedersächsische Staats- und Universitätsbibliothek</xsl:text>
+                         </subfield>
+
+            </datafield>
+        <datafield>
+
+                        <xsl:attribute name="tag">0362</xsl:attribute>
+                        <subfield>
+				<xsl:attribute name="code">a</xsl:attribute>
+
+                                                                <xsl:text>FID GEO Digitalisate</xsl:text>
+                         </subfield>
+
+            </datafield>
+
+
 			<datafield>
 
                         <xsl:attribute name="tag">045Y</xsl:attribute>
@@ -56,8 +95,8 @@
             </datafield>
 						
 
-                        <datafield>
 
+                        <datafield>
                         <xsl:attribute name="tag">016A</xsl:attribute>
                         <subfield>
                                  <xsl:attribute name="code">0</xsl:attribute>
@@ -207,10 +246,20 @@
 														<xsl:attribute name="code">x</xsl:attribute>
 														<xsl:text>D</xsl:text>
 												</subfield>
+							 <subfield>
+                                                                                                                <xsl:attribute name="code">3</xsl:attribute>
+                                                                                                                <xsl:text>Volltext</xsl:text>
+                                                                                                </subfield>
+
 						 <subfield>
                                                         <xsl:attribute name="code">4</xsl:attribute>
 							<xsl:text>LF</xsl:text>
                                                 </subfield>
+							 <subfield>
+                                                                                                                <xsl:attribute name="code">5</xsl:attribute>
+                                                                                                                <xsl:text>34</xsl:text>
+                                                                                                </subfield>
+
                                         </datafield>
 					 <xsl:for-each select="//doc:metadata/doc:element[@name='dc']/doc:element[@name='identifier']/doc:element[@name='doi']/doc:element/doc:field">
                                         <datafield>
@@ -253,7 +302,7 @@
                                                 <xsl:attribute name="tag">011@</xsl:attribute>
 
                                        
-                                <xsl:variable name="date2"><xsl:value-of select="//doc:metadata/doc:element[@name='dc']/doc:element[@name='date']/doc:element[@name='available']/doc:element/doc:field" /></xsl:variable>
+                                <!--<xsl:variable name="date2"><xsl:value-of select="//doc:metadata/doc:element[@name='dc']/doc:element[@name='date']/doc:element[@name='available']/doc:element/doc:field" /></xsl:variable>
                                                                                        
                                                 <subfield>
                                                         <xsl:attribute name="code">a</xsl:attribute>
@@ -276,12 +325,12 @@
                                                                         <xsl:text>[</xsl:text><xsl:value-of select="$date2" /><xsl:text>]</xsl:text>
                                                                 </xsl:otherwise>
                                                         </xsl:choose>
-                                                </subfield>
+                                                </subfield>-->
 
 
-						<xsl:variable name="date"><xsl:value-of select="doc:element/doc:field" /></xsl:variable>
+						<xsl:variable name="date"><xsl:value-of select="//doc:metadata/doc:element[@name='dc']/doc:element[@name='date']/doc:element[@name='issued']/doc:element/doc:field" /></xsl:variable>
                                                 <subfield>
-                                                        <xsl:attribute name="code">r</xsl:attribute>
+                                                        <xsl:attribute name="code">a</xsl:attribute>
                                                         <xsl:choose>
                                                                 <xsl:when test="contains($date, '-')">
                                                                         <xsl:value-of select="substring-before($date, '-')" />
@@ -309,6 +358,25 @@
                                                                                 </datafield>
 
                                 </xsl:if>
+
+				<xsl:if test="@name='available'">
+                                 <datafield>
+                                                <xsl:attribute name="tag">011B</xsl:attribute>
+					<xsl:variable name="date2"><xsl:value-of select="//doc:metadata/doc:element[@name='dc']/doc:element[@name='date']/doc:element[@name='available']/doc:element/doc:field" /></xsl:variable>
+				 <subfield>
+                                                        <xsl:attribute name="code">a</xsl:attribute>
+                                                        <xsl:choose>
+                                                                <xsl:when test="contains($date2, '-')">
+                                                                        <xsl:value-of select="substring-before($date2, '-')" />
+                                                                </xsl:when>
+                                                                <xsl:otherwise>
+                                                                        <xsl:value-of select="$date2" />
+                                                                </xsl:otherwise>
+                                                        </xsl:choose>
+                                                </subfield>
+				</datafield>
+				</xsl:if>
+
 
                         </xsl:for-each>
 
@@ -398,22 +466,20 @@
                         <!-- Publisher and publisher place: $p Place, $n publisher name -->
 
 
-                                                                        <xsl:if test="//doc:metadata/doc:element[@name='dc']/doc:element[@name='publisher']/doc:element/doc:field">
+                                                                        <xsl:for-each select="//doc:metadata/doc:element[@name='dc']/doc:element[@name='publisher']/doc:element/doc:field">
                                                                                 <datafield>
                                                         <xsl:attribute name="tag">033A</xsl:attribute>
                                                                 <subfield>
                                                                                 <xsl:attribute name="code">p</xsl:attribute>
-                                                                                <xsl:text>Göttingen</xsl:text>
-
+										 <xsl:value-of select="substring-after(., ', ')" />		
                                                                 </subfield>
                                                                 <subfield>
                                                                                 <xsl:attribute name="code">n</xsl:attribute>
-                                                                                <xsl:text>Niedersächsische Staats- und Universitätsbibliothek</xsl:text>
-
+										<xsl:value-of select="substring-before(., ', ')" />
                                                                 </subfield>
 
                                                 </datafield>
-                                                                        </xsl:if>
+                                                                        </xsl:for-each>
 
                         <!-- extent: 4060 = 034D -->
                         <!-- O-Record only. File Size missing!!!
@@ -639,7 +705,7 @@
 																
                                         </datafield>
                                                 </xsl:for-each>
-                                                <xsl:for-each select="//doc:metadata/doc:element[@name='dc']/doc:element[@name='subject']/doc:element[@name='free']/doc:element/doc:field">
+                                                <!--<xsl:for-each select="//doc:metadata/doc:element[@name='dc']/doc:element[@name='subject']/doc:element[@name='free']/doc:element/doc:field">
                                                                                 <datafield>
                                                         <xsl:attribute name="tag">044L</xsl:attribute>
 							<xsl:attribute name="occurence"><xsl:value-of select="concat('0', position() - 1)" /></xsl:attribute>
@@ -649,7 +715,7 @@
 
                                                                 </subfield>
                                         </datafield>
-                                                </xsl:for-each>
+                                                </xsl:for-each>-->
 
 
                         <xsl:for-each select="//doc:metadata/doc:element[@name='dc']/doc:element[@name='subject']/doc:element[@name='other']">
