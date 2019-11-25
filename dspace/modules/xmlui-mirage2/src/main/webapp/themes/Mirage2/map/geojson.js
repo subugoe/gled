@@ -681,7 +681,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.500, 54.000],[11.000, 54.000],[11.000, 53.900],[10.500, 53.900],[10.500, 54.000]]]},         "properties" : { "Title" : "[Neue Nr. 2029 / 2030 / 2031] Curau, Schwartau, Travemünde", "Location" : "Curau, Schwartau, Travemünde", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1915", "ML1": "GEO-LEOe-docs","Link1": "http://dx.doi.org/10.23689/fidgeo-3474","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.750, 54.000],[10.917, 54.000],[10.917, 53.900],[10.750, 53.900],[10.750, 54.000]]]},         "properties" : { "Title" : "[Neue Nr. 2029 / 2030 / 2031] Curau, Schwartau, Travemünde", "Location" : "Curau, Schwartau, Travemünde", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1915", "ML1": "GEO-LEOe-docs","Link1": "http://dx.doi.org/10.23689/fidgeo-3474","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -1401,7 +1401,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.500, 53.500],[10.667, 53.500],[10.667, 53.400],[10.500, 53.400],[10.500, 53.500]]]},         "properties" : { "Title" : "[Neue Nr. 2529] Pötrau", "Location" : "Pötrau", "Subtitle" : "Büchen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202529]%20P%C3%B6trau&creator=Gagel,%20C.;%20Schlunck,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.500, 53.500],[10.667, 53.500],[10.667, 53.400],[10.500, 53.400],[10.500, 53.500]]]},         "properties" : { "Title" : "[Neue Nr. 2529] Pötrau", "Location" : "Pötrau", "Subtitle" : "Büchen", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1915", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3520","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -1556,22 +1556,22 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [7.500, 53.400],[7.667, 53.400],[7.667, 53.300],[7.500, 53.300],[7.500, 53.400]]]},         "properties" : { "Title" : "[Neue Nr. 2611] Hesel", "Location" : "Hesel", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202611]%20Hesel&creator=Wildvang,%20D.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [7.500, 53.400],[7.667, 53.400],[7.667, 53.300],[7.500, 53.300],[7.500, 53.400]]]},         "properties" : { "Title" : "[Neue Nr. 2611] Hesel", "Location" : "Hesel", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1935", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3521","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [9.833, 53.400],[10.000, 53.400],[10.000, 53.300],[9.833, 53.300],[9.833, 53.400]]]},         "properties" : { "Title" : "[Neue Nr. 2625] Hittfeld", "Location" : "Hittfeld", "Subtitle" : "Buchholz i.d.Nordheide", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202625]%20Hittfeld&creator=Koert,%20W.;%20M%C3%BCller,%20G.;%20Schlunck,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [9.833, 53.400],[10.000, 53.400],[10.000, 53.300],[9.833, 53.300],[9.833, 53.400]]]},         "properties" : { "Title" : "[Neue Nr. 2625] Hittfeld", "Location" : "Hittfeld", "Subtitle" : "Buchholz i.d.Nordheide", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1910", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3523","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.167, 53.400],[10.333, 53.400],[10.333, 53.300],[10.167, 53.300],[10.167, 53.400]]]},         "properties" : { "Title" : "[Neue Nr. 2627] Winsen a. d. Luhe", "Location" : "Winsen a. d. Luhe", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202627]%20Winsen%20a.%20d.%20Luhe&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.167, 53.400],[10.333, 53.400],[10.333, 53.300],[10.167, 53.300],[10.167, 53.400]]]},         "properties" : { "Title" : "[Neue Nr. 2627] Winsen a. d. Luhe", "Location" : "Winsen a. d. Luhe", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1904", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3522","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.333, 53.400],[10.500, 53.400],[10.500, 53.300],[10.333, 53.300],[10.333, 53.400]]]},         "properties" : { "Title" : "[Neue Nr. 2628] Artlenburg", "Location" : "Artlenburg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202628]%20Artlenburg&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.333, 53.400],[10.500, 53.400],[10.500, 53.300],[10.333, 53.300],[10.333, 53.400]]]},         "properties" : { "Title" : "[Neue Nr. 2628] Artlenburg", "Location" : "Artlenburg", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1904", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3524","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -1696,12 +1696,12 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [7.333, 53.300],[7.500, 53.300],[7.500, 53.200],[7.333, 53.200],[7.333, 53.300]]]},         "properties" : { "Title" : "[Neue Nr. 2710] Leer", "Location" : "Leer", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202710]%20Leer&creator=Wildvang,%20D.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [7.333, 53.300],[7.500, 53.300],[7.500, 53.200],[7.333, 53.200],[7.333, 53.300]]]},         "properties" : { "Title" : "[Neue Nr. 2710] Leer", "Location" : "Leer", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1928", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3525","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [7.500, 53.300],[7.667, 53.300],[7.667, 53.200],[7.500, 53.200],[7.500, 53.300]]]},         "properties" : { "Title" : "[Neue Nr. 2711] Nortmoor", "Location" : "Nortmoor", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202711]%20Nortmoor&creator=Wildvang,%20D.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [7.500, 53.300],[7.667, 53.300],[7.667, 53.200],[7.500, 53.200],[7.500, 53.300]]]},         "properties" : { "Title" : "[Neue Nr. 2711] Nortmoor", "Location" : "Nortmoor", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1934", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3526","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -1821,17 +1821,17 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [7.167, 53.200],[7.333, 53.200],[7.333, 53.100],[7.167, 53.100],[7.167, 53.200]]]},         "properties" : { "Title" : "[Neue Nr. 2809] Bunde", "Location" : "Bunde", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202809]%20Bunde&creator=Wildvang,%20D.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [7.167, 53.200],[7.333, 53.200],[7.333, 53.100],[7.167, 53.100],[7.167, 53.200]]]},         "properties" : { "Title" : "[Neue Nr. 2809] Bunde", "Location" : "Bunde", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1928", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3527","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [7.333, 53.200],[7.500, 53.200],[7.500, 53.100],[7.333, 53.100],[7.333, 53.200]]]},         "properties" : { "Title" : "[Neue Nr. 2810] Weener", "Location" : "Weener", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202810]%20Weener&creator=Wildvang,%20D.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [7.333, 53.200],[7.500, 53.200],[7.500, 53.100],[7.333, 53.100],[7.333, 53.200]]]},         "properties" : { "Title" : "[Neue Nr. 2810] Weener", "Location" : "Weener", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1934", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3528","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [7.500, 53.200],[7.667, 53.200],[7.667, 53.100],[7.500, 53.100],[7.500, 53.200]]]},         "properties" : { "Title" : "[Neue Nr. 2811] West-Rhauderfehn", "Location" : "West-Rhauderfehn", "Subtitle" : "Rhauderfehn", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202811]%20West-Rhauderfehn&creator=Wildvang,%20D.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [7.500, 53.200],[7.667, 53.200],[7.667, 53.100],[7.500, 53.100],[7.500, 53.200]]]},         "properties" : { "Title" : "[Neue Nr. 2811] West-Rhauderfehn", "Location" : "West-Rhauderfehn", "Subtitle" : "Rhauderfehn", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1934", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3529","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -1841,7 +1841,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [8.833, 53.200],[9.000, 53.200],[9.000, 53.100],[8.833, 53.100],[8.833, 53.200]]]},         "properties" : { "Title" : "[Neue Nr. 2819] Lilienthal", "Location" : "Lilienthal", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202819]%20Lilienthal&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [8.833, 53.200],[9.000, 53.200],[9.000, 53.100],[8.833, 53.100],[8.833, 53.200]]]},         "properties" : { "Title" : "[Neue Nr. 2819] Lilienthal", "Location" : "Lilienthal", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1931", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3530","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -1976,17 +1976,17 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.167, 53.100],[10.333, 53.100],[10.333, 53.000],[10.167, 53.000],[10.167, 53.100]]]},         "properties" : { "Title" : "[Neue Nr. 2927] Wriedel", "Location" : "Wriedel", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202927]%20Wriedel&creator=Monke,%20H.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.167, 53.100],[10.333, 53.100],[10.333, 53.000],[10.167, 53.000],[10.167, 53.100]]]},         "properties" : { "Title" : "[Neue Nr. 2927] Wriedel", "Location" : "Wriedel", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1913", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3531","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.333, 53.100],[10.500, 53.100],[10.500, 53.000],[10.333, 53.000],[10.333, 53.100]]]},         "properties" : { "Title" : "[Neue Nr. 2928] Ebstorf", "Location" : "Ebstorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202928]%20Ebstorf&creator=Harbort,%20E.;%20Monke,%20H.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.333, 53.100],[10.500, 53.100],[10.500, 53.000],[10.333, 53.000],[10.333, 53.100]]]},         "properties" : { "Title" : "[Neue Nr. 2928] Ebstorf", "Location" : "Ebstorf", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1910", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3532","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.500, 53.100],[10.667, 53.100],[10.667, 53.000],[10.500, 53.000],[10.500, 53.100]]]},         "properties" : { "Title" : "[Neue Nr. 2929] Bevensen", "Location" : "Bevensen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202929]%20Bevensen&creator=Monke,%20H.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.500, 53.100],[10.667, 53.100],[10.667, 53.000],[10.500, 53.000],[10.500, 53.100]]]},         "properties" : { "Title" : "[Neue Nr. 2929] Bevensen", "Location" : "Bevensen", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1910", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3533","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -2231,7 +2231,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [7.000, 52.900],[7.167, 52.900],[7.167, 52.800],[7.000, 52.800],[7.000, 52.900]]]},         "properties" : { "Title" : "[Neue Nr. 3108] Rütenbrock", "Location" : "Rütenbrock", "Subtitle" : "Rüthenbrock", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203108]%20R%C3%BCtenbrock&creator=Koert,%20W.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [7.000, 52.900],[7.167, 52.900],[7.167, 52.800],[7.000, 52.800],[7.000, 52.900]]]},         "properties" : { "Title" : "[Neue Nr. 3108] Rütenbrock", "Location" : "Rütenbrock", "Subtitle" : "Rüthenbrock", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1907", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3534","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -2376,17 +2376,17 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [7.167, 52.800],[7.333, 52.800],[7.333, 52.700],[7.167, 52.700],[7.167, 52.800]]]},         "properties" : { "Title" : "[Neue Nr. 3209] Haren (Ems)", "Location" : "Haren (Ems)", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203209]%20Haren%20(Ems)&creator=Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [7.167, 52.800],[7.333, 52.800],[7.333, 52.700],[7.167, 52.700],[7.167, 52.800]]]},         "properties" : { "Title" : "[Neue Nr. 3209] Haren (Ems)", "Location" : "Haren (Ems)", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1907", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3535","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.000, 52.800],[10.167, 52.800],[10.167, 52.700],[10.000, 52.700],[10.000, 52.800]]]},         "properties" : { "Title" : "[Neue Nr. 3226] Sülze", "Location" : "Sülze", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203226]%20S%C3%BClze&creator=Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.000, 52.800],[10.167, 52.800],[10.167, 52.700],[10.000, 52.700],[10.000, 52.800]]]},         "properties" : { "Title" : "[Neue Nr. 3226] Sülze", "Location" : "Sülze", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1915", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3536","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.167, 52.800],[10.333, 52.800],[10.333, 52.700],[10.167, 52.700],[10.167, 52.800]]]},         "properties" : { "Title" : "[Neue Nr. 3227] Eschede", "Location" : "Eschede", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203227]%20Eschede&creator=Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.167, 52.800],[10.333, 52.800],[10.333, 52.700],[10.167, 52.700],[10.167, 52.800]]]},         "properties" : { "Title" : "[Neue Nr. 3227] Eschede", "Location" : "Eschede", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1915", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3537","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -2536,7 +2536,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [9.833, 52.700],[10.000, 52.700],[10.000, 52.600],[9.833, 52.600],[9.833, 52.700]]]},         "properties" : { "Title" : "[Neue Nr. 3325] Winsen a. d. Aller", "Location" : "Winsen a. d. Aller", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203325]%20Winsen%20a.%20d.%20Aller&creator=Monke,%20H.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [9.833, 52.700],[10.000, 52.700],[10.000, 52.600],[9.833, 52.600],[9.833, 52.700]]]},         "properties" : { "Title" : "[Neue Nr. 3325] Winsen a. d. Aller", "Location" : "Winsen a. d. Aller", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1915", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3538","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -2546,7 +2546,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.167, 52.700],[10.333, 52.700],[10.333, 52.600],[10.167, 52.600],[10.167, 52.700]]]},         "properties" : { "Title" : "[Neue Nr. 3327] Beedenbostel", "Location" : "Beedenbostel", "Subtitle" : "Lachendorf", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203327]%20Beedenbostel&creator=Harbort,%20E.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.167, 52.700],[10.333, 52.700],[10.333, 52.600],[10.167, 52.600],[10.167, 52.700]]]},         "properties" : { "Title" : "[Neue Nr. 3327] Beedenbostel", "Location" : "Beedenbostel", "Subtitle" : "Lachendorf", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1915", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3539","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -2691,17 +2691,17 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [9.833, 52.600],[10.000, 52.600],[10.000, 52.500],[9.833, 52.500],[9.833, 52.600]]]},         "properties" : { "Title" : "[Neue Nr. 3425] Fuhrberg", "Location" : "Fuhrberg", "Subtitle" : "Wettmar", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203425]%20Fuhrberg&creator=Harbort,%20E.;%20Monke,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [9.833, 52.600],[10.000, 52.600],[10.000, 52.500],[9.833, 52.500],[9.833, 52.600]]]},         "properties" : { "Title" : "[Neue Nr. 3425] Fuhrberg", "Location" : "Fuhrberg", "Subtitle" : "Wettmar", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1915", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3542","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.000, 52.600],[10.167, 52.600],[10.167, 52.500],[10.000, 52.500],[10.000, 52.600]]]},         "properties" : { "Title" : "[Neue Nr. 3426] Wathlingen", "Location" : "Wathlingen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203426]%20Wathlingen&creator=Harbort,%20E.;%20Monke,%20H.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.000, 52.600],[10.167, 52.600],[10.167, 52.500],[10.000, 52.500],[10.000, 52.600]]]},         "properties" : { "Title" : "[Neue Nr. 3426] Wathlingen", "Location" : "Wathlingen", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1915", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3543","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.167, 52.600],[10.333, 52.600],[10.333, 52.500],[10.167, 52.500],[10.167, 52.600]]]},         "properties" : { "Title" : "[Neue Nr. 3427] Bröckel", "Location" : "Bröckel", "Subtitle" : "Wienhausen", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203427]%20Br%C3%B6ckel&creator=Harbort,%20E.;%20Monke,%20H.;%20Stoller,%20J.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.167, 52.600],[10.333, 52.600],[10.333, 52.500],[10.167, 52.500],[10.167, 52.600]]]},         "properties" : { "Title" : "[Neue Nr. 3427] Bröckel", "Location" : "Bröckel", "Subtitle" : "Wienhausen", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1915", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3544","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -3276,12 +3276,12 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.667, 52.300],[10.833, 52.300],[10.833, 52.200],[10.667, 52.200],[10.667, 52.300]]]},         "properties" : { "Title" : "[Neue Nr. 3730] Königslutter", "Location" : "Königslutter", "Subtitle" : "Königslutter am Elm", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203730]%20K%C3%B6nigslutter&creator=Harbort,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.667, 52.300],[10.833, 52.300],[10.833, 52.200],[10.667, 52.200],[10.667, 52.300]]]},         "properties" : { "Title" : "[Neue Nr. 3730] Königslutter", "Location" : "Königslutter", "Subtitle" : "Königslutter am Elm", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1914", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3545","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.833, 52.300],[11.000, 52.300],[11.000, 52.200],[10.833, 52.200],[10.833, 52.300]]]},         "properties" : { "Title" : "[Neue Nr. 3731] Süpplingen", "Location" : "Süpplingen", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203731]%20S%C3%BCpplingen&creator=Harbort,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.833, 52.300],[11.000, 52.300],[11.000, 52.200],[10.833, 52.200],[10.833, 52.300]]]},         "properties" : { "Title" : "[Neue Nr. 3731] Süpplingen", "Location" : "Süpplingen", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1914", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3546","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -3481,7 +3481,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.500, 52.200],[10.667, 52.200],[10.667, 52.100],[10.500, 52.100],[10.500, 52.200]]]},         "properties" : { "Title" : "[Neue Nr. 3829] Wolfenbüttel", "Location" : "Wolfenbüttel", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203829]%20Wolfenb%C3%BCttel&creator=Harbort,%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.500, 52.200],[10.667, 52.200],[10.667, 52.100],[10.500, 52.100],[10.500, 52.200]]]},         "properties" : { "Title" : "[Neue Nr. 3829] Wolfenbüttel", "Location" : "Wolfenbüttel", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1928", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3547","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -3626,7 +3626,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [9.333, 52.100],[9.500, 52.100],[9.500, 52.000],[9.333, 52.000],[9.333, 52.100]]]},         "properties" : { "Title" : "[Neue Nr. 3922] Kirchohsen", "Location" : "Kirchohsen", "Subtitle" : "Hameln-S", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203922]%20Kirchohsen&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [9.333, 52.100],[9.500, 52.100],[9.500, 52.000],[9.333, 52.000],[9.333, 52.100]]]},         "properties" : { "Title" : "[Neue Nr. 3922] Kirchohsen", "Location" : "Kirchohsen", "Subtitle" : "Hameln Süd", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1915", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3548","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -3646,17 +3646,17 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.000, 52.100],[10.167, 52.100],[10.167, 52.000],[10.000, 52.000],[10.000, 52.100]]]},         "properties" : { "Title" : "[Neue Nr. 3926] Bockenem", "Location" : "Bockenem", "Subtitle" : "(Bad) Salzdetfurth", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203926]%20Bockenem&creator=Grupe,%20O.;%20Haack,%20W.;%20Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.000, 52.100],[10.167, 52.100],[10.167, 52.000],[10.000, 52.000],[10.000, 52.100]]]},         "properties" : { "Title" : "[Neue Nr. 3926] Bockenem", "Location" : "Bockenem", "Subtitle" : "(Bad) Salzdetfurth", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1929", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3549","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.167, 52.100],[10.333, 52.100],[10.333, 52.000],[10.167, 52.000],[10.167, 52.100]]]},         "properties" : { "Title" : "[Neue Nr. 3927] Ringelheim", "Location" : "Ringelheim", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203927]%20Ringelheim&creator=Schroeder,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.167, 52.100],[10.333, 52.100],[10.333, 52.000],[10.167, 52.000],[10.167, 52.100]]]},         "properties" : { "Title" : "[Neue Nr. 3927] Ringelheim", "Location" : "Ringelheim", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1912", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3550","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.333, 52.100],[10.500, 52.100],[10.500, 52.000],[10.333, 52.000],[10.333, 52.100]]]},         "properties" : { "Title" : "[Neue Nr. 3928] Salzgitter", "Location" : "Salzgitter", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203928]%20Salzgitter&creator=Schroeder,%20H.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.333, 52.100],[10.500, 52.100],[10.500, 52.000],[10.333, 52.000],[10.333, 52.100]]]},         "properties" : { "Title" : "[Neue Nr. 3928] Salzgitter", "Location" : "Salzgitter", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1912", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3551","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -3786,7 +3786,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.000, 52.000],[10.167, 52.000],[10.167, 51.900],[10.000, 51.900],[10.000, 52.000]]]},         "properties" : { "Title" : "[Neue Nr. 4026] Lamspringe", "Location" : "Lamspringe", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204026]%20Lamspringe&creator=Grupe,%20O.;%20Haack,%20W.;%20Schucht,%20F.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.000, 52.000],[10.167, 52.000],[10.167, 51.900],[10.000, 51.900],[10.000, 52.000]]]},         "properties" : { "Title" : "[Neue Nr. 4026] Lamspringe", "Location" : "Lamspringe", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1915", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3552","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -3891,7 +3891,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [9.500, 51.900],[9.667, 51.900],[9.667, 51.800],[9.500, 51.800],[9.500, 51.900]]]},         "properties" : { "Title" : "[Neue Nr. 4123] Stadtoldendorf", "Location" : "Stadtoldendorf", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204123]%20Stadtoldendorf&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [9.500, 51.900],[9.667, 51.900],[9.667, 51.800],[9.500, 51.800],[9.500, 51.900]]]},         "properties" : { "Title" : "[Neue Nr. 4123] Stadtoldendorf", "Location" : "Stadtoldendorf", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1910", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3553","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -4026,7 +4026,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [9.500, 51.800],[9.667, 51.800],[9.667, 51.700],[9.500, 51.700],[9.500, 51.800]]]},         "properties" : { "Title" : "[Neue Nr. 4223] Sievershausen", "Location" : "Sievershausen", "Subtitle" : "Neuhaus im Solling", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204223]%20Sievershausen&creator=Grupe,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [9.500, 51.800],[9.667, 51.800],[9.667, 51.700],[9.500, 51.700],[9.500, 51.800]]]},         "properties" : { "Title" : "[Neue Nr. 4223] Sievershausen", "Location" : "Sievershausen", "Subtitle" : "Neuhaus im Solling", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1910", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3554","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -5341,7 +5341,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [11.167, 51.200],[11.333, 51.200],[11.333, 51.100],[11.167, 51.100],[11.167, 51.200]]]},         "properties" : { "Title" : "[Neue Nr. 4833] Cölleda", "Location" : "Cölleda", "Subtitle" : "Kölleda", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204833]%20C%C3%B6lleda&creator=Schmid,%20E.%20E.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [11.167, 51.200],[11.333, 51.200],[11.333, 51.100],[11.167, 51.100],[11.167, 51.200]]]},         "properties" : { "Title" : "[Neue Nr. 4833] Cölleda", "Location" : "Cölleda", "Subtitle" : "Kölleda", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1873", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3555","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -5551,22 +5551,22 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [8.833, 51.100],[9.000, 51.100],[9.000, 51.000],[8.833, 51.000],[8.833, 51.100]]]},         "properties" : { "Title" : "[Neue Nr. 4919] Frankenau", "Location" : "Frankenau", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204919]%20Frankenau&creator=Denckmann,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [8.833, 51.100],[9.000, 51.100],[9.000, 51.000],[8.833, 51.000],[8.833, 51.100]]]},         "properties" : { "Title" : "[Neue Nr. 4919] Frankenau", "Location" : "Frankenau", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1892", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3557","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [9.000, 51.100],[9.167, 51.100],[9.167, 51.000],[9.000, 51.000],[9.000, 51.100]]]},         "properties" : { "Title" : "[Neue Nr. 4920] Kellerwald", "Location" : "Kellerwald", "Subtitle" : "Armsfeld", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204920]%20Kellerwald&creator=Denckmann,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [9.000, 51.100],[9.167, 51.100],[9.167, 51.000],[9.000, 51.000],[9.000, 51.100]]]},         "properties" : { "Title" : "[Neue Nr. 4920] Kellerwald", "Location" : "Kellerwald", "Subtitle" : "Armsfeld", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1902", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3558","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [9.167, 51.100],[9.333, 51.100],[9.333, 51.000],[9.167, 51.000],[9.167, 51.100]]]},         "properties" : { "Title" : "[Neue Nr. 4921] Borken", "Location" : "Borken", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204921]%20Borken&creator=Blanckenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [9.167, 51.100],[9.333, 51.100],[9.333, 51.000],[9.167, 51.000],[9.167, 51.100]]]},         "properties" : { "Title" : "[Neue Nr. 4921] Borken", "Location" : "Borken", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1925", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3559","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [9.333, 51.100],[9.500, 51.100],[9.500, 51.000],[9.333, 51.000],[9.333, 51.100]]]},         "properties" : { "Title" : "[Neue Nr. 4922] Homberg", "Location" : "Homberg", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204922]%20Homberg&creator=Blankenhorn,%20M.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [9.333, 51.100],[9.500, 51.100],[9.500, 51.000],[9.333, 51.000],[9.333, 51.100]]]},         "properties" : { "Title" : "[Neue Nr. 4922] Homberg", "Location" : "Homberg", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1918", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3560","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -5591,12 +5591,12 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.667, 51.100],[10.833, 51.100],[10.833, 51.000],[10.667, 51.000],[10.667, 51.100]]]},         "properties" : { "Title" : "[Neue Nr. 4930] Gräfen Tonna", "Location" : "Gräfen Tonna", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204930]%20Gr%C3%A4fen%20Tonna&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.667, 51.100],[10.833, 51.100],[10.833, 51.000],[10.667, 51.000],[10.667, 51.100]]]},         "properties" : { "Title" : "[Neue Nr. 4930] Gräfen Tonna", "Location" : "Gräfen Tonna", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1883", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3561","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [10.833, 51.100],[11.000, 51.100],[11.000, 51.000],[10.833, 51.000],[10.833, 51.100]]]},         "properties" : { "Title" : "[Neue Nr. 4931] Andisleben", "Location" : "Andisleben", "Subtitle" : "Erfurt-NW, Welschleben/Andisleben", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204931]%20Andisleben&creator=Speyer,%20O.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [10.833, 51.100],[11.000, 51.100],[11.000, 51.000],[10.833, 51.000],[10.833, 51.100]]]},         "properties" : { "Title" : "[Neue Nr. 4931] Andisleben", "Location" : "Andisleben", "Subtitle" : "Erfurt-NW, Walschleben", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1883", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3562","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -7211,7 +7211,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [8.333, 50.300],[8.500, 50.300],[8.500, 50.200],[8.333, 50.200],[8.333, 50.300]]]},         "properties" : { "Title" : "[Neue Nr. 5716] Feldberg", "Location" : "Feldberg", "Subtitle" : "Oberreifenberg", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205716]%20Feldberg&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [8.333, 50.300],[8.500, 50.300],[8.500, 50.200],[8.333, 50.200],[8.333, 50.300]]]},         "properties" : { "Title" : "[Neue Nr. 5716] Feldberg", "Location" : "Feldberg", "Subtitle" : "Oberreifenberg", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1886", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3556","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -7341,7 +7341,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [8.333, 50.200],[8.500, 50.200],[8.500, 50.100],[8.333, 50.100],[8.333, 50.200]]]},         "properties" : { "Title" : "[Neue Nr. 5816] Königstein am Taunus", "Location" : "Königstein am Taunus", "Subtitle" : "", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205816]%20K%C3%B6nigstein%20am%20Taunus&creator=Koch,%20Carl","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [8.333, 50.200],[8.500, 50.200],[8.500, 50.100],[8.333, 50.100],[8.333, 50.200]]]},         "properties" : { "Title" : "[Neue Nr. 5816] Königstein am Taunus", "Location" : "Königstein am Taunus", "Subtitle" : "", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1922", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3540","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
@@ -7441,7 +7441,7 @@ var geojson={ "type" : "FeatureCollection",
          { "type" : "Feature",
         "geometry" : {
             "type" : "Polygon",
-            "coordinates" :[[ [7.667, 50.100],[7.833, 50.100],[7.833, 50.000],[7.667, 50.000],[7.667, 50.100]]]},         "properties" : { "Title" : "[Neue Nr. 5912] Caub", "Location" : "Caub", "Subtitle" : "Kaub", "Layer": "GK25 / bestellbar (FID GEO)","Text": "Bedarf melden: ", "LText1": "FID GEO", "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205912]%20Caub&creator=Holzapfel,%20E.;%20Leppla,%20A.","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
+            "coordinates" :[[ [7.667, 50.100],[7.833, 50.100],[7.833, 50.000],[7.667, 50.000],[7.667, 50.100]]]},         "properties" : { "Title" : "[Neue Nr. 5912] Caub", "Location" : "Caub", "Subtitle" : "Kaub", "Layer": "GK25 / GEO-LEOe-docs","Text": "Link:", "LText1": "zur Karte ersch. 1903", "ML1": "GEO-LEOe-docs","Link1": "https://doi.org/10.23689/fidgeo-3541","LText2": "","ML2": "","Link2": "", "LText3": "", "ML3": "","Link3": ""}
         },
          { "type" : "Feature",
         "geometry" : {
