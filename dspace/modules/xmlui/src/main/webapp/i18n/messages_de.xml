@@ -2685,6 +2685,7 @@
         <li><a href="handle/11858/6455/browse?type=series">Berliner Geographische Abhandlungen</a></li>
         <li><a href="handle/11858/6454/browse?type=series">Berliner Geographische Blätter – BGB</a></li>
 	<li><a href="handle/11858/7500/browse?type=series">Berliner geowissenschaftliche Abhandlungen / Reihe A</a></li>
+	<li><a href="handle/11858/7892/browse?type=series">Berliner geowissenschaftliche Abhandlungen / Reihe B</a></li>
 	<li><a href="handle/11858/4062/browse?type=series">Discussion Papers / Centre for Regional Studies</a></li>
         <li><a href="handle/11858/00-1735-0000-0001-4444-F/browse?type=series">E&amp;G-Quaternary Science Journal</a></li>
         <li><a href="handle/11858/00-1735-0000-0001-4424-8/browse?type=series">Electronic Journal of the Freiberg Geoscience Department</a></li>
@@ -2798,7 +2799,7 @@ Falls Sie der Meinung sind, dass es diese Seite geben sollte, bitte kontaktieren
 	<!-- impressum -->
         <message key="xmlui.impressum.head">Impressumm</message>
         <message key="xmlui.impressum.label.offerer">Anbieter</message>        
-        <message key="xmlui.impressum.text.offerer">Die Niedersaechsische Staats- und Universitätsbibliothek wird von Dr. Wolfram Horstmann geleitet. Sie ist zentrale Einrichtung der Georg-August-Universität Göttingen. Die Georg-August-Universität Göttingen ist eine Körperschaft des öffentlichen Rechts. Sie wird durch die Präsidentin (kommissarisch) Dr. Valérie Schüller (Vizepräsidentin für Finanzen und Personal) gesetzlich vertreten:<br />
+        <message key="xmlui.impressum.text.offerer">Die Niedersaechsische Staats- und Universitätsbibliothek wird von Dr. Wolfram Horstmann geleitet. Sie ist zentrale Einrichtung der Georg-August-Universität Göttingen. Die Georg-August-Universität Göttingen ist eine Körperschaft des öffentlichen Rechts. Sie wird durch Prof. Dr. Reinhard Jahn gesetzlich vertreten, der beauftragt ist, das Amt des Präsidenten wahrzunehmen:<br />
 </message>
         
         <message key="xmlui.impressum.label.controlling">Zuständige Aufsichtsbehörde:  </message>
@@ -3019,7 +3020,7 @@ ie Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinr
    <message key="xmlui.collection.zfgp.introduction">Die „Zeitschrift für Geophysik“ wurde von der Deutschen Geophysikalischen Gesellschaft (DGG) von 1925 bis 1973 herausgegeben. Von 1974 bis 1987 wurde sie unter dem Titel „Journal of geophysics“ fortgeführt. Ab 1988 publiziert die DGG gemeinsam mit der European Geophysical Society (EGS) und der Royal Astronomical Society (RAS), seit 1989 unter dem Titel „Geophysical journal international / publ. for the Royal Astronomical Society, the Deutsche Geophysikalische Gesellschaft and the European Geophysical Society“.</message>
 
   <message key="xmlui.map.top"><h2>Geologische Karte 1:25 000</h2>
-  <div><input type="checkbox" class="read-more-state" id="post-2" /><div class="read-more-wrap">Online frei verfügbare Blätter der GK25 (mit Links). Außerdem gemeinfreie Blätter der GK25, die von Forschenden zur unentgeltlichen Digitalisierung durch den FID GEO vorschlagen werden können.
+  <div><input type="checkbox" class="read-more-state" id="post-2" /><div class="read-more-wrap">Online frei verfügbare Blätter der GK25 (mit Links). Außerdem gemeinfreie Blätter der GK25, die von Forschenden zur unentgeltlichen Digitalisierung durch den FID GEO vorgeschlagen werden können.
   <ul style="list-style-type: disc; list-style-position: inside; padding-left: 1em; margin-bottom: 0.5em; text-indent: -1.4em; margin-left: 1em;"><li class="read-more-target" style="padding-top: 1em;"><b>GK25/GEO-LEOe-docs:</b> Hier sind die bereits auf GEO-LEOe-docs verfügbaren Kartenblätter des Werks verzeichnet.</li>
   <li class="read-more-target" style="padding-top: 1em;"><b>GK25/extern:</b>Hier finden Sie Links zu andernorts online frei verfügbaren Kartenblättern des Werks. <br />In erster Linie sind folgende Sammlungen integriert: 
   <ul class="map-list"><li>Mapster / Archivkarten von Polen und Mitteleuropa: <a href="http://igrek.amzp.pl/">http://igrek.amzp.pl</a></li>
