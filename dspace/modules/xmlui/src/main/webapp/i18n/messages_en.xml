@@ -2677,7 +2677,15 @@
    <h2>Periodicals and Journals</h2>
         <div class="series">
 	<ul>
-	<!--<li><a href="handle/11858/7499/browse?type=series">Abhandlungen des Geographischen Instituts, Anthropogeographie</a></li>-->
+	 <li><a href="handle/11858/7499/browse?type=series">Abhandlungen Anthropogeographie - Institut für Geographische Wissenschaften</a></li>
+        <li><a href="handle/11858/7896/browse?type=series">Abhandlungen Anthropogeographie. Sonderhefte</a></li>
+        <li><a href="handle/11858/7692/browse?type=series">Abhandlungen des 1. Geographischen Instituts der Freien Universität Berlin</a></li>
+        <li><a href="handle/11858/7693/browse?type=series">Abhandlungen des Geographischen Instituts, Anthropogeographie</a></li>
+        <li><a href="handle/11858/7897/browse?type=series">Abhandlungen des Geographischen Instituts, Anthropogeographie. Sonderhefte</a></li>
+        <li><a href="handle/11858/7691/browse?type=series">Abhandlungen des Geographischen Instituts der Freien Universität Berlin</a></li>
+
+
+
 	<li><a href="handle/11858/6346/browse?type=series">Archiv Natur- und Landeskunde Mecklenburg-Vorpommern</a></li>
         <li><a href="handle/11858/6455/browse?type=series">Berliner Geographische Abhandlungen</a></li>
 	<li><a href="handle/11858/6454/browse?type=series">Berliner Geographische Blätter – BGB</a></li>
@@ -2689,13 +2697,13 @@
 	<li><a href="handle/11858/6401/browse?type=series">Geological map 1 : 25000 (GK25)</a></li>
         <li><a href="handle/11858/00-1735-0000-0022-A79A-4/browse?type=series">Greifswalder Geographische Arbeiten</a></li>
 	<li><a href="handle/11858/7501/browse?type=series">Journal of Geophysics - Zeitschrift für Geophysik</a></li>
-	<!--<li><a href="handle/11858/7497/browse?type=series">Mitteilungen der Reichsanstalt für Erdbebenforschung in Jena</a></li>-->
+	<li><a href="handle/11858/7497/browse?type=series">Mitteilungen der Reichsanstalt für Erdbebenforschung in Jena</a></li>
         <li><a href="handle/11858/00-1735-0000-0006-0D8F-5/browse?type=series">Neubrandenburger Geologische Beiträge</a></li>
         <li><a href="handle/11858/4061/browse?type=series">Scientific Technical Report / Deutsches Geoforschungszentrum Potsdam</a></li>
         <li><a href="handle/11858/6421/browse?type=series">TELMA – Berichte der Deutschen Gesellschaft für Moor- und Torfkunde</a></li>
 	<li><a href="handle/11858/6341/browse?type=series">TERRA NOSTRA - Schriften der GeoUnion Alfred-Wegener-Stiftung</a></li>
-	<!--<li><a href="handle/11858/7498/browse?type=series">Veröffentlichungen der Reichsanstalt für Erdbebenforschung in Jena</a></li>
-	<li><a href="handle/11858/7496/browse?type=series">Veröffentlichungen des Instituts für Bodendynamik und Erdbebenforschung in Jena</a></li>-->
+	<li><a href="handle/11858/7498/browse?type=series">Veröffentlichungen der Reichsanstalt für Erdbebenforschung in Jena</a></li>
+	<li><a href="handle/11858/7496/browse?type=series">Veröffentlichungen des Instituts für Bodendynamik und Erdbebenforschung in Jena</a></li>
 	<li><a href="handle/11858/7132/browse?type=series">Zeitschrift für Geophysik</a></li>
 	</ul>
 	</div>
