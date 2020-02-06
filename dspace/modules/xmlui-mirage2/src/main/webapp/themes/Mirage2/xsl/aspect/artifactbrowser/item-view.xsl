@@ -189,7 +189,8 @@
                <xsl:call-template name="itemSummaryView-show-full"/>
 	    </xsl:if>--></td></tr></table>
             <xsl:call-template name="itemSummaryView-DIM-abstract"/>
-            <xsl:call-template name="itemSummaryView-collections"/>
+		<xsl:call-template name="itemSummaryView-statistics"/>
+		<xsl:call-template name="itemSummaryView-collections"/>
 	    <xsl:call-template name="itemSummaryView-subjects"/>
 	    <xsl:call-template name="display-rights"/>          
 
@@ -1231,6 +1232,24 @@
         </xsl:if>
     </xsl:template>
 
+<xsl:template name="itemSummaryView-statistics">
+            <div class="simple-item-view-collections item-page-field-wrapper table" style="margin-bottom: 1.5em;">
+		 <h5>
+                    <i18n:text>Statistik:</i18n:text>
+                </h5>
+
+<xsl:if test="contains(dim:field[@element='identifier'][@qualifier='uri'], 'gldocs')">
+<xsl:variable name="statlink"><xsl:value-of select="concat('https://e-docs.geo-leo.de/handle/', substring-after(//dim:field[@element='identifier'][@qualifier='uri'], 'gldocs-'), '/statistics')" /></xsl:variable>
+<a href="{$statlink}"><i18n:text>xmlui.statistics.link</i18n:text></a>
+</xsl:if>
+<xsl:if test="contains(dim:field[@element='identifier'][@qualifier='uri'], 'handle')">
+<xsl:variable name="statlink"><xsl:value-of select="concat('https://e-docs.geo-leo.de/handle/', substring-after(//dim:field[@element='identifier'][@qualifier='uri'], 'handle.net/'), '/statistics')" /></xsl:variable>
+<a href="{$statlink}"><i18n:text>xmlui.statistics.link</i18n:text></a>
+</xsl:if>
+           </div>
+    </xsl:template>
+
+
    <xsl:template name="itemSummaryView-subjects">
 	 <xsl:if test="dim:field[@element='subject' and @qualifier='free'] or dim:field[@element='subject' and @qualifier='gokverbal']">
 	    <div class="simple-item-view-collections item-page-field-wrapper table" style="margin-bottom: 1.5em;">
@@ -1280,7 +1299,7 @@
                     </xsl:variable>
 
                     <xsl:for-each select="//mets:fileSec/mets:fileGrp[@USE='CONTENT' or @USE='ORIGINAL' or @USE='LICENSE']/mets:file">
-
+		<xsl:if test="not(contains(mets:FLocat[@LOCTYPE='URL']/@xlink:href, 'alteversion'))">
 			<xsl:call-template name="itemSummaryView-DIM-file-section-entry">
                             <xsl:with-param name="href" select="mets:FLocat[@LOCTYPE='URL']/@xlink:href" />
                             <xsl:with-param name="mimetype" select="@MIMETYPE" />
@@ -1290,6 +1309,7 @@
                             <xsl:with-param name="label" select="mets:FLocat[@LOCTYPE='URL']/@xlink:label" />
                             <xsl:with-param name="size" select="@SIZE" />
                         </xsl:call-template>
+			</xsl:if>
                     </xsl:for-each>
                 </div>
 		<!--Metadaten-Export-->
@@ -1319,6 +1339,7 @@
         <div>
 
             <a>
+
                 <xsl:attribute name="href">
                     <xsl:value-of select="$href"/>
                 </xsl:attribute>
