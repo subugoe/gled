@@ -1903,12 +1903,12 @@
     <message key="xmlui.statistics.search.error">Bei der Erstellung der Statistik ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal.</message>
     <message key="xmlui.statistics.search.no-results">Für den ausgewählten Zeitraum gibt es keine Suchstatistiken.</message>
     <message key="xmlui.statistics.workflow.title">Geschäftsgangstatistik</message>
-    <message key="xmlui.statistics.visits.total">Gesamtzugriffe</message>
-    <message key="xmlui.statistics.visits.month">Gesamtzugriffe pro Monat</message>
-    <message key="xmlui.statistics.visits.views">Zugriffe</message>
+    <message key="xmlui.statistics.visits.total">Gesamtzugriffe auf die Publikationsseite</message>
+    <message key="xmlui.statistics.visits.month">Gesamtzugriffe auf die Publikationsseite pro Monat</message>
+    <message key="xmlui.statistics.visits.views">Anzahl</message>
     <message key="xmlui.statistics.visits.countries">Zugriffe nach Ländern</message>
     <message key="xmlui.statistics.visits.cities">Zugriffe nach Städten</message>
-    <message key="xmlui.statistics.visits.bitstreams">Dateiabrufe</message>
+    <message key="xmlui.statistics.visits.bitstreams">Zugriffe auf Dateien</message>
     <message key="xmlui.statistics.Navigation.title">Statistik</message>
     <message key="xmlui.statistics.Navigation.usage.view">Benutzungsstatistik</message>
     <message key="xmlui.statistics.Navigation.search.view">Suchstatistik</message>
@@ -2694,6 +2694,8 @@
 	<li><a href="handle/11858/7500/browse?type=series">Berliner geowissenschaftliche Abhandlungen / Reihe A</a></li>
 	<li><a href="handle/11858/7892/browse?type=series">Berliner geowissenschaftliche Abhandlungen / Reihe B</a></li>
         <li><a href="handle/11858/7964/browse?type=series">Berliner geowissenschaftliche Abhandlungen / Reihe C</a></li>
+	<li><a href="handle/11858/7985/browse?type=series">Berliner geowissenschaftliche Abhandlungen / Reihe D</a></li>
+        <li><a href="handle/11858/7986/browse?type=series">Berliner geowissenschaftliche Abhandlungen / Reihe E</a></li>
 	<li><a href="handle/11858/4062/browse?type=series">Discussion Papers / Centre for Regional Studies</a></li>
         <li><a href="handle/11858/00-1735-0000-0001-4444-F/browse?type=series">E&amp;G-Quaternary Science Journal</a></li>
         <li><a href="handle/11858/00-1735-0000-0001-4424-8/browse?type=series">Electronic Journal of the Freiberg Geoscience Department</a></li>
@@ -3283,5 +3285,110 @@ Wenn Sie in die Verarbeitung durch die Niedersächsische Staats- und Universitä
 </message>
 <message key="xmlui.dri2xhtml.METS-1.0.item-isversionof">Weitere Online-Version: </message>
 <message key="xmlui.dri2xhtml.METS-1.0.item-toc">Inhalt</message>
+<message key="xmlui.statistics.link">Zugriffsstatistik</message>
+
+        <!-- REQUEST COPY -->
+        <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestForm.java -->
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.title">Request a copy of the document</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.trail">Request a copy of the document</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.head">Request a copy of the document</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestForm.login_para">Users of this system, can login to view this document.</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestForm.login">Login</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestForm.para1">Enter the following information to request a copy of the document from the responsible person.</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail">Your e-mail address</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail_help">This email address is used for sending the document.</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail.error">E-mail is mandatory</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.message">Message</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.message.error">Message is mandatory</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.files">Files</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.allFiles">All files (of this document) in restricted access.</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.notAllFiles">Only The requested file.</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterName">Name</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterName.error">Name is required</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.submit">Request copy</message>
+
+        <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestSent.java -->
+        <message key="xmlui.ArtifactBrowser.ItemRequestSent.title">Your request has been sent.</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestSent.trail">Your request has been sent.</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestSent.head">Your request has been sent.</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestSent.para1">Your request has been sent to the author or responsible person.</message>
+
+        <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestResponseDecisionForm.java -->
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.title">Document copy request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.trail">Document copy request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.head">Document copy request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.para1">IF YOU ARE THE AUTHOR (OR AN AUTHOR) OF DOCUMENT "{0}" use the buttons to answer the user's request.</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.para2">This repository will propose an appropriate model reply, which you may edit.</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.contactRequester">Initial reply to requester</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.contactAuthor"> Author permission request</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.send">Send copy</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.dontSend">Don't send copy</message>
+
+        <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestResponseTrueForm.java -->
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.title">Document copy request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.trail">Document copy request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.head">Document copy request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.para1">This is the text to be sent to the applicant.</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.message">Message</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.subject">Subject</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.mail">Send</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.back">Back</message>
+
+    <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestResponseFalseForm.java -->
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.title">Document copy request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.trail">Document copy request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.head">Document copy request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.para1">This is the text to be sent to the applicant (together with the document).</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.message">Message</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.subject">Subject</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.mail">Send</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.back">Back</message>
+
+         <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestChangeStatusForm.java -->
+        <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.title">Change permissions request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.trail">Change permissions request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.head">Change permissions request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.para1">You may use this occasion to reconsider the access restrictions on the document (to avoid having to respond to these requests), if there is no reason$</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.name">Name</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.email">E-mail</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.name.error">The name is required</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.email.error">The e-mail address is required</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.changeToOpen">Change to open access</message>
+
+        <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestResponseFalseForm.java -->
+        <message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.title">Request sent</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.trail">Request sent</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.head">Your request to change permissions has been sent</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.para1">Your request has been sent to the administrator</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.para2">Thanks</message>
+
+    <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestContactRequester.java -->
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.title">Document copy request</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.trail">Document copy request</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.head">Document copy request</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.para1">Initial communication with the requester, to let them know their request is being processed.</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.toEmail">To</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.subject">Subject</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.message">Message</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.mail">Send</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.back">Back</message>
+
+    <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestContactAuthor.java -->
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.title">Document copy request</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.trail">Document copy request</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.head">Document copy request</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.para1">This is the text to be sent to the applicant (together with the document).</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.toEmail">To</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.subject">Subject</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.message">Message</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.mail">Send</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.back">Back</message>
+
+    <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestResponseSent.java -->
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.title">Your response has been sent.</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.trail">Your response has been sent.</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.head">Your response has been sent.</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.para1">Your response has been sent.</message>
+
 
 </catalogue>
