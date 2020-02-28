@@ -80,7 +80,7 @@
 			  <xsl:call-template name="volume" />
 			  <xsl:call-template name="number" />
 			  <xsl:call-template name="pages" />
-
+			<xsl:call-template name="doi" />
 			</xsl:when>
 	        <!-- anthologyArticle, anthologyArticle_digi -->
 		    <xsl:when test="($type='anthologyArticle') ">
@@ -92,8 +92,9 @@
 				<xsl:call-template name="title" />
 				<xsl:call-template name="booktitle" />
 				<xsl:call-template name="year"/>
+				<xsl:call-template name="doi" />
 	        </xsl:when>
-	        <xsl:when test="($type='anthologyArticle')">
+	        <xsl:when test="($type='anthologyArticle_digi')">
 				<xsl:choose>
 					<xsl:when test="$content_type='conference'">
 						<xsl:text>TY - CPAPER</xsl:text>
@@ -108,6 +109,7 @@
 				<xsl:call-template name="title" />
 				<xsl:call-template name="booktitle" />
 				<xsl:call-template name="year"/>
+				<xsl:call-template name="doi" />
 	        </xsl:when>
 	        <!-- anthology, anthology_first, anthology_digi -->
 	        <xsl:when test="($type='anthology') or ($type='map_anth')">
@@ -127,6 +129,7 @@
 				  <xsl:call-template name="editors" />
 				  <xsl:call-template name="title" />
 				  <xsl:call-template name="year"/>
+				<xsl:call-template name="doi" />
 				  
 			</xsl:when>
 			<!-- monograph, monograph_first, monograph_digi -->
@@ -148,6 +151,7 @@
 				  <xsl:call-template name="authors" />
 				  <xsl:call-template name="title" />
 				  <xsl:call-template name="year"/>
+				<xsl:call-template name="doi" />
 			</xsl:when>        
 			</xsl:choose>
 			
@@ -233,7 +237,7 @@
 
     <xsl:template name="doi">
 		<xsl:for-each select="dim:field[@element='identifier'][@qualifier='doi']" >
-			<xsl:text>DO - </xsl:text><xsl:value-of select="dim:field[@element='identifier'][@qualifier='doi']" />
+			<xsl:text>DO - </xsl:text><xsl:value-of select="." />
 			<xsl:call-template name="newline"/>
 		</xsl:for-each>
     </xsl:template>

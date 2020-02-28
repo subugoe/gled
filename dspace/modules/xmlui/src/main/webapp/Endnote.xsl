@@ -73,7 +73,9 @@
 				<xsl:call-template name="newline"/>  				
 				<xsl:call-template name="authors" />
 				<xsl:call-template name="title" />
+				
 				<xsl:call-template name="title_alternative" />
+				<xsl:call-template name="doi" />
 				<xsl:if test="not(contains($type, '_first'))">
 					<xsl:call-template name="journal" />
 					<xsl:call-template name="volume" />
@@ -100,6 +102,7 @@
 				<xsl:call-template name="title_alternative" />
 				<xsl:call-template name="booktitle" />
 				<xsl:call-template name="year"/>
+				<xsl:call-template name="doi" />
 	        </xsl:when>
 	        <!-- anthology, anthology_first, anthology_digi, map_anth -->
 	        <xsl:when test="($type='anthology') or ($type='map_anth')">
@@ -119,7 +122,7 @@
 				  <xsl:call-template name="title" />
 				  <xsl:call-template name="title_alternative" />
 				  <xsl:call-template name="year"/>
-				  
+					<xsl:call-template name="doi" />				  
 			</xsl:when>
 			<!-- monograph, monograph_first, monograph_digi, map_mono -->
 			<xsl:when test="($type='monograph') or ($type='map_mono')">
@@ -142,6 +145,7 @@
 				  <xsl:call-template name="title" />
 				  <xsl:call-template name="title_alternative" />
 				  <xsl:call-template name="year"/>
+				<xsl:call-template name="doi" />
 			</xsl:when> 
 		   
 			</xsl:choose>
@@ -222,10 +226,10 @@
     </xsl:template>
 
     <xsl:template name="doi">
-		<xsl:if test="//dim:field[@element='identifier'][@qualifier='doi']" >
-		<xsl:text>&#37;R </xsl:text><xsl:value-of select="dim:field[@element='identifier'][@qualifier='doi']" />
+		<xsl:for-each select="//dim:field[@element='identifier'][@qualifier='doi']">
+		<xsl:text>&#37;R </xsl:text><xsl:value-of select="." />
 		<xsl:call-template name="newline"/>
-		</xsl:if>
+		</xsl:for-each>
     </xsl:template>
 
     <xsl:template name="language">

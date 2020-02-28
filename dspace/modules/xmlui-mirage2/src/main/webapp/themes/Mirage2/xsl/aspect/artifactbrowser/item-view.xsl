@@ -599,6 +599,9 @@
 			    <xsl:when test="dim:field[@element='identifier'][@qualifier='citation']">
                             <xsl:text>In: </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='citation'][1]/node()"/>
 				</xsl:when>
+				<xsl:when test="dim:field[@element='bibliographicCitation'][@qualifier='journal']">
+                            <xsl:text>In: </xsl:text><xsl:copy-of select="dim:field[@element='bibliographicCitation'][@qualifier='journal'][1]/node()"/>
+                                </xsl:when>
 			    <xsl:otherwise>
                             <xsl:text>In: </xsl:text><xsl:if test="dim:field[@element='relation'][@qualifier='volume']"><xsl:copy-of select="dim:field[@element='relation'][@qualifier='volume'][1]/node()"/></xsl:if>
 				</xsl:otherwise>
