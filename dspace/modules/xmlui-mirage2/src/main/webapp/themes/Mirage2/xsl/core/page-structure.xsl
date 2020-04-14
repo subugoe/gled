@@ -415,7 +415,7 @@
 
 
                         <div class="navbar-header pull-right visible-xs hidden-sm hidden-md hidden-lg">
-			<ul class="nav navbar-nav pull-left"><li><a target="_blank" href="http://geo-leo.de" title="GEO-LEO Suchportal">GEO-LEO</a></li></ul>
+			<ul class="nav navbar-nav pull-left"><li><a target="_blank" href="https://geo-leo.de" title="GEO-LEO Suchportal">GEO-LEO</a></li></ul>
                         <ul class="nav nav-pills pull-left ">
 
 
@@ -799,6 +799,7 @@
 				<a href="http://www.dfg.de" title="DFG">DFG</a>
 				<a href="http://www.sub.uni-goettingen.de" title="SUB Göttingen">SUB</a>
 				<a href="http://fidgeo.de" title="FID GEO">FID GEO</a>
+				<a href="https://montanportal.com/" title="FID Montan">FID Montan</a>
 			</div>
 		    </div>
                     <!--<div class="col-xs-5 col-sm-4 hidden-print">
