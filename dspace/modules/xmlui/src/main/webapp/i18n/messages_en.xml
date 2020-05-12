@@ -2542,9 +2542,9 @@
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/EnergyResourcesEnvironment">
-        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energy, Ressources, Environment" />
+        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Mining, Energy, Ressources, Environment" />
         </a>
-        <figcaption>Energy, Ressources, Environment</figcaption>
+        <figcaption>Mining, Energy, Ressources, Environment</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/Geography">
@@ -2592,9 +2592,9 @@
 <div id="third_row"  class="hidden-lg hidden-xs">
         <figure class="frontpage_images">
         <a href="handle/11858/EnergyResourcesEnvironment">
-        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energy, Ressources, Environment" />
+        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Mining, Energy, Ressources, Environment" />
         </a>
-        <figcaption>Energy, Ressources, Environment</figcaption>
+        <figcaption>Mining, Energy, Ressources, Environment</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/Geography">
@@ -2646,9 +2646,9 @@
 <div id="fifth_row"  class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_images">
         <a href="handle/11858/EnergyResourcesEnvironment">
-        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energy, Ressources, Environment" />
+        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Mining, Energy, Ressources, Environment" />
         </a>
-        <figcaption>Energy, Ressources, Environment</figcaption>
+        <figcaption>Mining, Energy, Ressources, Environment</figcaption>
         </figure>
 </div>
 <div id="sixth_row"  class="hidden-lg hidden-sm hidden-md">
@@ -2821,7 +2821,7 @@ Got to the following website to utilise you option to deactivate data collection
   <message key="xmlui.impressum.picture.geochemistry.source">Source/Creator: Strekeisen</message>
   <message key="xmlui.impressum.picture.geochemistry.license">License: Creative Commons Attribution - ShareAlike 4.0</message>
 
-  <message key="xmlui.impressum.picture.environment">Energy, Ressources, Environmental Sciences</message>
+  <message key="xmlui.impressum.picture.environment">Mining, Energy, Ressources, Environmental Sciences</message>
   <message key="xmlui.impressum.picture.environment.source">NASA</message>
   <message key="xmlui.impressum.picture.environment.license">License: public domain</message>
 
@@ -2885,24 +2885,25 @@ Got to the following website to utilise you option to deactivate data collection
   <message key="xmlui.dri2xhtml.METS-1.0.item-isbasedon">Supplement: </message>
   <message key="xmlui.dri2xhtml.METS-1.0.citation-link">Permalink: </message>
 
-  <message key="xmlui.map.top"><h2>Geologische Karte 1:25 000</h2>
-  <div><input type="checkbox" class="read-more-state" id="post-2" /><div class="read-more-wrap">Online frei verfügbare Blätter der GK25 (mit Links). Außerdem gemeinfreie Blätter der GK25, die von Forschenden zur unentgeltlichen Digitalisierung durch den FID GEO vorgeschlagen werden können.
-  <ul style="list-style-type: disc; list-style-position: inside; padding-left: 1em; margin-bottom: 0.5em; text-indent: -1.4em; margin-left: 1em;"><li class="read-more-target" style="padding-top: 1em;"><b>GK25/GEO-LEOe-docs:</b> Hier sind die bereits auf GEO-LEOe-docs verfügbaren Kartenblätter des Werks verzeichnet.</li>
-  <li class="read-more-target" style="padding-top: 1em;"><b>GK25/extern:</b>Hier finden Sie Links zu andernorts online frei verfügbaren Kartenblättern des Werks. <br />In erster Linie sind folgende Sammlungen integriert:
-  <ul class="map-list"><li>Mapster / Archivkarten von Polen und Mitteleuropa: <a href="http://igrek.amzp.pl/">http://igrek.amzp.pl</a></li>
-      <li>Univ. Potsdam: <a href="https://digital.ub.uni-potsdam.de/content/titleinfo/41237">https://digital.ub.uni-potsdam.de/content/titleinfo/41237</a> <i>(Liste)</i> bzw. <a href="https://digital.ub.uni-potsdam.de/nav/classification/42482">https://digital.ub.uni-potsdam.de/nav/classification/42482</a> <i>(Übersichtskarte)</i></li>
+  <message key="xmlui.map.top"><h2>Geological map 1:25 000</h2>
+  <div><input type="checkbox" class="read-more-state" id="post-2" /><div class="read-more-wrap">Online freely available Geological map sheets 1:25 000 (GK25) with links.<br/>In addition, researchers can propose public domain map sheets of the GK25 for digitization by the FID GEO free of charge.
+  <ul style="list-style-type: disc; list-style-position: inside; padding-left: 1em; margin-bottom: 0.5em; text-indent: -1.4em; margin-left: 1em;"><li class="read-more-target" style="padding-top: 1em;"><b>GK25/GEO-LEOe-docs:</b> Shows the map sheets of the publications that are already available on GEO-LEOe-docs.</li>
+  <li class="read-more-target" style="padding-top: 1em;"><b>GK25/extern:</b>External-Links to map sheets that are freely available online.<br/>The following collections are integrated:
+  <ul class="map-list"><li>Mapster / archive maps of Poland and Central Europe: <a href="http://igrek.amzp.pl/">http://igrek.amzp.pl</a></li>
+      <li>Univ. Potsdam: <a href="https://digital.ub.uni-potsdam.de/content/titleinfo/41237">https://digital.ub.uni-potsdam.de/content/titleinfo/41237</a> <i>(list)</i> or <a href="https://digital.ub.uni-potsdam.de/nav/classification/42482">https://digital.ub.uni-potsdam.de/nav/classification/42482</a> <i>(overview map)</i></li>
       <li>LfU Bayern: <a href="http://www.petrefakten.de/geologische_karten_bayern.php">http://www.petrefakten.de/geologische_karten_bayern.php</a></li>
       <li>SLUB Dresden: <a href="https://kartenforum.slub-dresden.de/">https://kartenforum.slub-dresden.de/</a></li></ul>
-  Für Niedersachsen ist die GK25 außerdem auf dem <a href="http://nibis.lbeg.de/cardomap3/">NIBIS® KARTENSERVER</a> des LBEG als frei zugängliches Gesamtwerk umgesetzt.</li>
-  <li class="read-more-target" style="padding-top: 1em;"><b>GK25/bestellbar:</b> Die alten Ausgaben der geologischen Karte 1:25000 sind zu einem großen Teil bereits gemeinfrei*. Wenn Sie wissenschaftlich arbeiten, können Sie über <a href="https://e-docs.geo-leo.de/contact">das Kontaktformular</a> oder per E-Mail (<a href="mailto:info@fidgeo.de">info@fidgeo.de</a>) Bedarf melden, woraufhin entsprechende Kartenblätter vom FID GEO digitalisiert und auf GEO-LEOe-docs zur Verfügung gestellt werden. Ihnen entstehen dabei keine Kosten.</li>
+  For Lower Saxony, the GK25 is implemented on the <a href="http://nibis.lbeg.de/cardomap3/">NIBIS® Card Server</a> as a freely accessible complete work..</li>
+  <li class="read-more-target" style="padding-top: 1em;"><b>GK25/ to order:</b> The old editions of the geological map 1: 25000 are primarily in the public domain*. If you work scientifically, you can use the <a href="https://e-docs.geo-leo.de/contact">contact form</a> or send an e-mail (<a href="mailto:info@fidgeo.de">info@fidgeo.de</a>) to report requirements. The FID GEO will digitize the relevant map sheets and make them available on GEO-LEOe-docs, free of charge.</li>
   </ul>
-  <div class="read-more-target" style="margin-bottom: 0.5em;">Kostenpflichtige Bestellungen gedruckter und digitaler Kartenblätter der GK25 sind i.d.R. über die Landesämter möglich.</div>
-  <div class="read-more-target" style="margin-bottom: 0.5em;">Sollten Ihnen weitere Online-Ressourcen bekannt sein, oder haben Sie andere Hinweise, freuen wir uns über Ihre Nachricht (<a href="mailto:info@fidgeo.de">info@fidgeo.de</a>).   </div>
-  <div class="read-more-target" style="margin-bottom: 0.5em;">* <span style="font-size: smaller;">Gemeinfreiheit tritt 70 Jahre nach Tod der bzw. des zuletzt verstorbenen Miturheberin bzw. Miturhebers ein. Die Bewertung der Gemeinfreiheit für die Karten (GK25) erfolgte anhand von Katalogseinträgen, und kann daher nach Sichtung des Originals (durch mögliche Beteiligung weiterer Personen) revidiert werden.</span></div></div>
+  <div class="read-more-target" style="margin-bottom: 0.5em;">Map orders that are subject to a charge for printed and digital GK25 map sheets are possible through the state offices.</div>
+  <div class="read-more-target" style="margin-bottom: 0.5em;">If you are aware of other online resources or have any other information, we look forward to your message (<a href="mailto:info@fidgeo.de">info@fidgeo.de</a>).   </div>
+  <div class="read-more-target" style="margin-bottom: 0.5em;">* <span style="font-size: smaller;">Public domain occurs 70 years after the death of the last deceased (co)-author. The assessment of the public domain for the maps (GK25) is based on catalog entries. After inspecting the original, with the possible participation of additional people, the public domain license might be revoked.</span></div></div>
   <label for="post-2" class="read-more-trigger"></label></div>
   </message>
-  <message key="xmlui.map.bottom"><div style="font-size: smaller; margin-top: 0.5em;" ><i>„Geologische Spezialkarte von Preussen und den Thüringischen Staaten“ / Hrsg. durch d. Kgl. Preuss. Min. f. Handel, Gewerbe u. öffentl. Arbeiten - 1:25 000 - Berlin [u.a.] 1853-1943, Teilweise unter den Titeln: „Geologische Karte von Preußen und benachbarten Bundesstaaten“, „Geologische Karte von Preußen und benachbarten Bundesländern“, „Geologische Karte von Preußen und benachbarten deutschen Ländern“, sowie  „Geologische Specialkarte des Königreichs Sachsen“/ Hrsg. durch d. Königl. Finanzministerium. - 1:25 000 - Leipzig [u.a.].</i></div>
-  </message>
+  <message key="xmlui.map.bottom"><div style="font-size: smaller; margin-top: 0.5em; margin-bottom: 2em;" ><i>„Geologische Spezialkarte von Preussen und den Thüringischen Staaten“ / Hrsg. durch d. Kgl. Preuss. Min. f. Handel, Gewerbe u. öffentl. Arbeiten - 1:25 000 - Berlin [u.a.] 1853-1943, Teilweise unter den Titeln: „Geologische Karte von Preußen und benachbarten Bundesstaaten“, „Geologische Karte von Preußen und benachbarten Bundesländern“, „Geologische Karte von Preußen und benachbarten deutschen Ländern“, sowie  „Geologische Specialkarte des Königreichs Sachsen“/ Hrsg. durch d. Königl. Finanzministerium. - 1:25 000 - Leipzig [u.a.].</i></div>
+ <div>If you want to be informed about newly added maps, please go to your profile and select <i>(Alle Publikationen - Institutionelle Serien und Zeitschriften - Geologische Karte 1 : 25 000 (GK25))</i> under subscriptions: <a href="/profile">Profile</a></div> 
+ </message>
   <message key="xmlui.mirage2.itemSummaryView.Subjects">Subjects:</message>
   <message key="xmlui.dri2xhtml.METS-1.0.item-isversionof">Other online version: </message>
   <message key="xmlui.dri2xhtml.METS-1.0.item-toc">Content</message>

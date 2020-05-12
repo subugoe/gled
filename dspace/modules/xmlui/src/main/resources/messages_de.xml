@@ -348,11 +348,11 @@
 	<message key="xmlui.EPerson.CannotRegister.para1">Dieses Repositorium ist so konfiguriert, dass eine Registrierung in diesem Kontext nicht möglich ist. Bitte wenden Sie sich and den <a href="../contact">Administrator</a>, wenn Sie Fragen dazu haben.</message>
 	
 	<!-- org.dspace.app.xmlui.eperson.EditProfile.java -->
-	<message key="xmlui.EPerson.EditProfile.title_update">Benutzerdaten aktualisieren</message>
-	<message key="xmlui.EPerson.EditProfile.title_create">Benutzerdaten anlegen</message>
-	<message key="xmlui.EPerson.EditProfile.trail_update">Benutzerdaten aktualisieren</message>
-	<message key="xmlui.EPerson.EditProfile.head_update">Benutzerdaten aktualisieren</message>
-	<message key="xmlui.EPerson.EditProfile.head_create">Benutzerdaten anlegen</message>
+	<message key="xmlui.EPerson.EditProfile.title_update">Profil aktualisieren</message>
+	<message key="xmlui.EPerson.EditProfile.title_create">Profil anlegen</message>
+	<message key="xmlui.EPerson.EditProfile.trail_update">Profil aktualisieren</message>
+	<message key="xmlui.EPerson.EditProfile.head_update">Profil aktualisieren</message>
+	<message key="xmlui.EPerson.EditProfile.head_create">Profil anlegen</message>
 	<message key="xmlui.EPerson.EditProfile.email_address">E-Mail-Adresse</message>
 	<message key="xmlui.EPerson.EditProfile.first_name">Vorname</message>
 	<message key="xmlui.EPerson.EditProfile.last_name">Nachname</message>
@@ -367,7 +367,7 @@
 	<message key="xmlui.EPerson.EditProfile.password">Passwort</message>
 	<message key="xmlui.EPerson.EditProfile.confirm_password">Erneute Eingabe zur Bestätigung</message>
 	<message key="xmlui.EPerson.EditProfile.submit_update">Registrierung abgeschlossen</message>
-	<message key="xmlui.EPerson.EditProfile.submit_create">Benutzerdaten aktualisieren</message>
+	<message key="xmlui.EPerson.EditProfile.submit_create">Profil aktualisieren</message>
 	<message key="xmlui.EPerson.EditProfile.error_required">Dies ist ein Pflichtfeld</message>
 	<message key="xmlui.EPerson.EditProfile.error_invalid_password">Wählen Sie ein Passwort, welches mindestens 6 Zeichen lang ist.</message>
 	<message key="xmlui.EPerson.EditProfile.error_unconfirmed_password">Bitte geben Sie Ihr Passwort noch einmal ein, um es zu bestätigen.</message>
@@ -377,7 +377,7 @@
 	
 	<!-- org.dspace.app.xmlui.eperson.EPersonUtils.java -->
 	<message key="xmlui.EPerson.EPersonUtils.register_verify_email">E-Mail-Adresse verifizieren</message>
-	<message key="xmlui.EPerson.EPersonUtils.register_create_profile">Benutzerdaten anlegen</message>
+	<message key="xmlui.EPerson.EPersonUtils.register_create_profile">Profil anlegen</message>
 	<message key="xmlui.EPerson.EPersonUtils.register_finished">Fertig</message>
 	<message key="xmlui.EPerson.EPersonUtils.forgot_verify_email">E-Mail-Adresse verifizieren</message>
 	<message key="xmlui.EPerson.EPersonUtils.forgot_reset_password">Passwort neu setzen</message>
@@ -397,7 +397,7 @@
 	
 	<!-- org.dspace.app.xmlui.eperson.Navigation.java -->
 	<message key="xmlui.EPerson.Navigation.my_account">Mein Benutzerkonto</message>
-	<message key="xmlui.EPerson.Navigation.profile">Benutzerdaten</message>
+	<message key="xmlui.EPerson.Navigation.profile">Profil</message>
 	<message key="xmlui.EPerson.Navigation.logout">Ausloggen</message>
 	<message key="xmlui.EPerson.Navigation.login">Einloggen</message>
 	<message key="xmlui.EPerson.Navigation.register">Registrieren</message>
@@ -449,10 +449,10 @@
 	<message key="xmlui.eperson.shibbLoginFailure.p1">Die Authentifizierung vie Shibboleth steht momentan nicht zur Verfügung. Bitte wenden Sie sich an den Administrator.</message>
 	
 	<!-- org.dspace.app.xmlui.eperson.ProfileUpdated.java -->
-	<message key="xmlui.EPerson.ProfileUpdated.title">Benutzerdaten aktualisiert</message>
-	<message key="xmlui.EPerson.ProfileUpdated.trail">Benutzerdaten aktualisieren</message>
-	<message key="xmlui.EPerson.ProfileUpdated.head">Benutzerdaten aktualisiert</message>
-	<message key="xmlui.EPerson.ProfileUpdated.para1">Ihre Benutzerdaten wurden aktualisiert.</message>
+	<message key="xmlui.EPerson.ProfileUpdated.title">Profil aktualisiert</message>
+	<message key="xmlui.EPerson.ProfileUpdated.trail">Profil aktualisieren</message>
+	<message key="xmlui.EPerson.ProfileUpdated.head">Profil aktualisiert</message>
+	<message key="xmlui.EPerson.ProfileUpdated.para1">Ihre Profil wurden aktualisiert.</message>
 	
 	<!-- org.dspace.app.xmlui.eperson.RegistrationFinished.java -->
 	<message key="xmlui.EPerson.RegistrationFinished.title">Registrierung abgeschlossen</message>
@@ -1903,12 +1903,12 @@
     <message key="xmlui.statistics.search.error">Bei der Erstellung der Statistik ist ein Fehler aufgetreten. Bitte versuchen Sie es später noch einmal.</message>
     <message key="xmlui.statistics.search.no-results">Für den ausgewählten Zeitraum gibt es keine Suchstatistiken.</message>
     <message key="xmlui.statistics.workflow.title">Geschäftsgangstatistik</message>
-    <message key="xmlui.statistics.visits.total">Gesamtzugriffe</message>
-    <message key="xmlui.statistics.visits.month">Gesamtzugriffe pro Monat</message>
-    <message key="xmlui.statistics.visits.views">Zugriffe</message>
+    <message key="xmlui.statistics.visits.total">Gesamtzugriffe auf die Publikationsseite</message>
+    <message key="xmlui.statistics.visits.month">Gesamtzugriffe auf die Publikationsseite pro Monat</message>
+    <message key="xmlui.statistics.visits.views">Anzahl</message>
     <message key="xmlui.statistics.visits.countries">Zugriffe nach Ländern</message>
     <message key="xmlui.statistics.visits.cities">Zugriffe nach Städten</message>
-    <message key="xmlui.statistics.visits.bitstreams">Dateiabrufe</message>
+    <message key="xmlui.statistics.visits.bitstreams">Zugriffe auf Dateien</message>
     <message key="xmlui.statistics.Navigation.title">Statistik</message>
     <message key="xmlui.statistics.Navigation.usage.view">Benutzungsstatistik</message>
     <message key="xmlui.statistics.Navigation.search.view">Suchstatistik</message>
@@ -2547,9 +2547,9 @@
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/EnergyResourcesEnvironment">
-        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energie, Ressourcen, Umwelt" />
+        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Montanwesen, Energie, Ressourcen, Umwelt" />
         </a>
-        <figcaption class="einzeilig">Energie, Ressourcen, Umwelt</figcaption>
+        <figcaption>Montanwesen, Energie, Ressourcen, Umwelt</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/Geography">
@@ -2597,9 +2597,9 @@
 <div id="third_row"  class="hidden-lg hidden-xs">
         <figure class="frontpage_images">
         <a href="handle/11858/EnergyResourcesEnvironment">
-        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energie, Ressourcen, Umwelt" />
+        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Montanwesen, Energie, Ressourcen, Umwelt" />
         </a>
-        <figcaption class="einzeilig">Energie, Ressourcen, Umwelt</figcaption>
+        <figcaption>Montanwesen, Energie, Ressourcen, Umwelt</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/Geography">
@@ -2651,9 +2651,9 @@
 <div id="fifth_row"  class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_images">
         <a href="handle/11858/EnergyResources_Environment">
-        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energie, Ressourcen, Umwelt" />
+        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Montanwesen, Energie, Ressourcen, Umwelt" />
         </a>
-        <figcaption class="einzeilig">Energie, Ressourcen, Umwelt</figcaption>
+        <figcaption>Montanwesen, Energie, Ressourcen, Umwelt</figcaption>
         </figure>
 </div>
 <div id="sixth_row"  class="hidden-lg hidden-sm hidden-md">
@@ -2680,24 +2680,36 @@
     <h2>Serien und Zeitschriften</h2>
         <div class="series">
 	<ul>
-	<!--<li><a href="handle/11858/7499/browse?type=series">Abhandlungen des Geographischen Instituts, Anthropogeographie</a></li>-->
+	<li><a href="handle/11858/7499/browse?type=series">Abhandlungen Anthropogeographie - Institut für Geographische Wissenschaften</a></li>
+        <li><a href="handle/11858/7896/browse?type=series">Abhandlungen Anthropogeographie. Sonderhefte</a></li>
+        <li><a href="handle/11858/7692/browse?type=series">Abhandlungen des 1. Geographischen Instituts der Freien Universität Berlin</a></li>
+        <li><a href="handle/11858/7693/browse?type=series">Abhandlungen des Geographischen Instituts, Anthropogeographie</a></li>
+        <li><a href="handle/11858/7897/browse?type=series">Abhandlungen des Geographischen Instituts, Anthropogeographie. Sonderhefte</a></li>
+        <li><a href="handle/11858/7691/browse?type=series">Abhandlungen des Geographischen Instituts der Freien Universität Berlin</a></li>
+
+
 	<li><a href="handle/11858/6346/browse?type=series">Archiv Natur- und Landeskunde Mecklenburg-Vorpommern</a></li>
         <li><a href="handle/11858/6455/browse?type=series">Berliner Geographische Abhandlungen</a></li>
         <li><a href="handle/11858/6454/browse?type=series">Berliner Geographische Blätter – BGB</a></li>
 	<li><a href="handle/11858/7500/browse?type=series">Berliner geowissenschaftliche Abhandlungen / Reihe A</a></li>
+	<li><a href="handle/11858/7892/browse?type=series">Berliner geowissenschaftliche Abhandlungen / Reihe B</a></li>
+        <li><a href="handle/11858/7964/browse?type=series">Berliner geowissenschaftliche Abhandlungen / Reihe C</a></li>
+	<li><a href="handle/11858/7985/browse?type=series">Berliner geowissenschaftliche Abhandlungen / Reihe D</a></li>
+        <li><a href="handle/11858/7986/browse?type=series">Berliner geowissenschaftliche Abhandlungen / Reihe E</a></li>
 	<li><a href="handle/11858/4062/browse?type=series">Discussion Papers / Centre for Regional Studies</a></li>
         <li><a href="handle/11858/00-1735-0000-0001-4444-F/browse?type=series">E&amp;G-Quaternary Science Journal</a></li>
         <li><a href="handle/11858/00-1735-0000-0001-4424-8/browse?type=series">Electronic Journal of the Freiberg Geoscience Department</a></li>
+        <li><a href="handle/11858/8041/browse?type=series">Geologica Bavarica</a></li>
 	<li><a href="handle/11858/6401/browse?type=series">Geologische Karte 1 : 25000 (GK25)</a></li>
         <li><a href="handle/11858/00-1735-0000-0022-A79A-4/browse?type=series">Greifswalder Geographische Arbeiten</a></li>
 	<li><a href="handle/11858/7501/browse?type=series">Journal of Geophysics - Zeitschrift für Geophysik</a></li>
-	<!--<li><a href="handle/11858/7497/browse?type=series">Mitteilungen der Reichsanstalt für Erdbebenforschung in Jena</a></li>-->
+	<li><a href="handle/11858/7497/browse?type=series">Mitteilungen der Reichsanstalt für Erdbebenforschung in Jena</a></li>
         <li><a href="handle/11858/00-1735-0000-0006-0D8F-5/browse?type=series">Neubrandenburger Geologische Beiträge</a></li>
         <li><a href="handle/11858/4061/browse?type=series">Scientific Technical Report / Deutsches Geoforschungszentrum Potsdam</a></li>
 	<li><a href="handle/11858/6421/browse?type=series&amp;rpp=20&amp;offset=20">TELMA – Berichte der Deutschen Gesellschaft für Moor- und Torfkunde</a></li>
 	<li><a href="handle/11858/6341/browse?type=series">TERRA NOSTRA - Schriften der GeoUnion Alfred-Wegener-Stiftung</a></li>
-	<!--<li><a href="handle/11858/7498/browse?type=series">Veröffentlichungen der Reichsanstalt für Erdbebenforschung in Jena</a></li>
-        <li><a href="handle/11858/7496/browse?type=series">Veröffentlichungen des Instituts für Bodendynamik und Erdbebenforschung in Jena</a></li>-->
+	<li><a href="handle/11858/7498/browse?type=series">Veröffentlichungen der Reichsanstalt für Erdbebenforschung in Jena</a></li>
+        <li><a href="handle/11858/7496/browse?type=series">Veröffentlichungen des Instituts für Bodendynamik und Erdbebenforschung in Jena</a></li>
 	<li><a href="handle/11858/7132/browse?type=series">Zeitschrift für Geophysik</a></li>
         </ul>
 	</div>
@@ -2853,7 +2865,7 @@ Umsatzsteuergesetz:  </message>
   <message key="xmlui.impressum.picture.geochemistry.source">Quelle/Autor: Strekeisen</message>
   <message key="xmlui.impressum.picture.geochemistry.license">Lizenz: Creative Commons Attribution - ShareAlike 4.0</message>
 
-  <message key="xmlui.impressum.picture.environment">Energie, Ressourcen, Umweltwissenschaften</message>
+  <message key="xmlui.impressum.picture.environment">Montanwesen, Energie, Ressourcen, Umweltwissenschaften</message>
   <message key="xmlui.impressum.picture.environment.source">Quelle/Autor: Nasa</message>
   <message key="xmlui.impressum.picture.environment.license">Lizenz: public domain</message>
 
@@ -2861,15 +2873,15 @@ Umsatzsteuergesetz:  </message>
 
 	<!-- about us -->
 	<message key="xmlui.aboutus.head">Über uns</message>
-        <message key="xmlui.aboutus.section1">Im Fachrepositorium GEO-LEOe-docs des FID GEO werden Dokumente über die Geowissenschaften der festen Erde gesammelt, erschlossen und dauerhaft bewahrt. Das Angebot umfasst das gesamte Spektrum wissenschaftlicher Publikationen von Monographien über Pre- und Postprints begutachteter Forschungsarbeiten bis hin zu institutionellen Serien und Zeitschriften sowie grauer Literatur.</message>
-        <message key="xmlui.aboutus.section2">Fachgesellschaften, geowissenschaftliche Einrichtungen und einzelne Wissenschaftler können ihre Dokumente in GEO-LEO e-docs veröffentlichen oder bereits veröffentlichte Dokumente online stellen. Fachgesellschaften und wissenschaftliche Einrichtungen sind eingeladen, eigene Sammlungen einzurichten, auf denen sie selbstständig ihre Serien, Zeitschriften und andere Informationsressourcen veröffentlichen. Das Team des FID GEO bietet dafür unterschiedliche Formen der Unterstützung und Zusammenarbeit an.</message>
-	<message key="xmlui.aboutus.section3">Als zentrale Publikationsplattform und Open-Access-Server wurde das Repositorium im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) 2004-2007 geförderten Projekts zum Aufbau der Virtuellen Fachbibliothek „GEO-LEO“ entwickelt. Die verschiedenen Sammlungen des Repositoriums orientierten sich an den überregionalen Sammelschwerpunkten der Projektpartner Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB Göttingen) und der Universitätsbibliothek der TU Bergakademie Freiberg. Sie wurden als Archive frei zugänglicher digitaler Volltexte im Kontext des jeweiligen Sondersammelgebiets im Programm der DFG für die überregionale Literatur- und Informationsversorgung konzipiert. Mit Projektende ging GEO-LEO e-docs in den Routinebetrieb der SUB Göttingen über, wo die Publikationsplattform erstmals in 2012 im Zuge einer kompletten Erneuerung modernisiert wurde. </message>
-	<message key="xmlui.aboutus.section4">Mittlerweile ist das Repositorium Teil der Informationsinfrastruktur des Fachinformationsdienstes für die Geowissenschaften der festen Erde (FID GEO), der als DFG-gefördertes Gemeinschaftsprojekt der SUB Göttingen und der Abteilung Bibliothek und Informationsdienste des Deutschen GeoForschungszentrum GFZ in Potsdam seit 2016 aufgebaut wird. Mit der Erweiterung von GEO-LEOe-docs zum Fachrepositorium des FID GEO wurde das zugrundeliegende DSpace-System neu aufgesetzt. Gleichzeitig waren mit diesem Schritt auch einige konzeptionelle Veränderungen verbunden: </message>
+        <message key="xmlui.aboutus.section1">Im Fachrepositorium GEO-LEO<i>e-docs</i> des FID GEO werden Dokumente über Geowissenschaften gesammelt, erschlossen und dauerhaft bewahrt. Das Angebot umfasst das gesamte Spektrum wissenschaftlicher Publikationen von Monographien über Pre- und Postprints begutachteter Forschungsarbeiten bis hin zu institutionellen Serien und Zeitschriften sowie grauer Literatur und Karten.</message>
+        <message key="xmlui.aboutus.section2">Fachgesellschaften, geowissenschaftliche Einrichtungen und einzelne Wissenschaftler können ihre Dokumente in GEO-LEO<i>e-docs</i> veröffentlichen oder bereits veröffentlichte Dokumente online stellen. Fachgesellschaften und wissenschaftliche Einrichtungen sind eingeladen, eigene Sammlungen einzurichten, auf denen sie selbstständig ihre Serien, Zeitschriften und andere Informationsressourcen veröffentlichen. Das Team des FID GEO bietet dafür unterschiedliche Formen der Unterstützung und Zusammenarbeit an.</message>
+	<message key="xmlui.aboutus.section3">Als zentrale Publikationsplattform und Open-Access-Server wurde das Repositorium im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) 2004-2007 geförderten Projekts zum Aufbau der Virtuellen Fachbibliothek „GEO-LEO“ entwickelt. Die verschiedenen Sammlungen des Repositoriums orientierten sich an den überregionalen Sammelschwerpunkten der Projektpartner Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB Göttingen) und der Universitätsbibliothek der TU Bergakademie Freiberg. Sie wurden als Archive frei zugänglicher digitaler Volltexte im Kontext des jeweiligen Sondersammelgebiets im Programm der DFG für die überregionale Literatur- und Informationsversorgung konzipiert. Mit Projektende ging GEO-LEO<i>e-docs</i> in den Routinebetrieb der SUB Göttingen über, wo die Publikationsplattform erstmals in 2012 im Zuge einer kompletten Erneuerung modernisiert wurde.</message>
+	<message key="xmlui.aboutus.section4">Mittlerweile ist das Repositorium Teil der Informationsinfrastruktur des Fachinformationsdienstes für die Geowissenschaften (FID GEO), der als DFG-gefördertes Gemeinschaftsprojekt der SUB Göttingen und der Abteilung Bibliothek und Informationsdienste des Deutschen GeoForschungszentrum GFZ in Potsdam seit 2016 betrieben wird. Mit der Erweiterung von GEO-LEO<i>e-docs</i> zum Fachrepositorium des FID GEO wurde das zugrundeliegende DSpace-System neu aufgesetzt. Gleichzeitig waren mit diesem Schritt auch einige konzeptionelle Veränderungen verbunden:</message>
 	<message key="xmlui.aboutus.listitem1">Die Vergabe von DOI für alle Dokumente sorgt für eine dauerhafte Verfügbarkeit und verlässliche Zitierbarkeit.</message>
-	<message key="xmlui.aboutus.listitem2">Eine neue Sammlungsstruktur orientiert sich stärker an verschiedenen Fachdisziplinen der Geowissenschaften der festen Erde und ermöglicht die Akzentuierung einzelner Serien.</message>
+	<message key="xmlui.aboutus.listitem2">Eine neue Sammlungsstruktur orientiert sich stärker an verschiedenen Fachdisziplinen der Geowissenschaften und ermöglicht die Akzentuierung einzelner Serien.</message>
 	<message key="xmlui.aboutus.listitem3">Zusätzliche Funktionalitäten wie eine Zitationsanalyse, Nutzung eines Print-on-demand-Dienstes sowie eine Schnittstelle für Peer-Review sind konfigurierbar.</message>
 	<message key="xmlui.aboutus.listitem4">Die Sammlungen sind Archive frei zugänglicher digitaler Volltexte im Kontext des Programms der DFG Fachinformationsdienste für die Wissenschaft. </message>
-	<message key="xmlui.aboutus.section5">Eine erste Kooperation besteht bereits seit mehreren Jahren mit der Geozon Science Media UG. Als Ausgründungsprojekt des Institutes für Geographie und Geologie der Universität Greifswald und Open Access-Verlag für Geo- und Umweltwissenschaften stellt Geozon seine gesamten aggregierten und veredelten Publikationen in GEO-LEO e-docs ein. Weitere Kooperationen werden folgen, wie z.B. aktuell mit der GeoUnion und der Deutschen Geophysikalischen Gesellschaft. </message>
+	<message key="xmlui.aboutus.section5">In diesem Kontext gibt es für die Nutzung des Repositoriums als Publikationsplattform Kooperationen mit verschiedenen Organisationen, wie z.B. mit dem Fachinformationsdienst Montan der UB Freiberg. Eine erste Kooperation gab es über mehrere Jahre mit der Geozon Science Media UG. Als Ausgründungsprojekt des Institutes für Geographie und Geologie der Universität Greifswald und Open Access-Verlag für Geo- und Umweltwissenschaften stellte Geozon seine gesamten aggregierten und veredelten Publikationen in GEO-LEO<i>e-docs</i> ein. Hinzu kommen aktuell Kooperationen mit der GeoUnion Alfred-Wegener-Stiftung und mit einzelnen Fachgesellschaften wie der Deutschen Geophysikalischen Gesellschaft und der Deutschen Gesellschaft für Moor- und Torfkunde. Kooperationen mit weiteren Organisationen sind in Vorbereitung.</message>
 	<message key="xmlui.aboutus.label.generalHelp">Allgemeine Konzeption und fachliche Betreuung:</message>
 	<message key="xmlui.aboutus.name.geography">Mechthild Schüler (Geographie und Thematische Karten)</message>
 	<message key="xmlui.aboutus.tel.geography">Tel.: +49 (0)551 / 39-5278</message>
@@ -2877,6 +2889,9 @@ Umsatzsteuergesetz:  </message>
 	<message key="xmlui.aboutus.name.inke">Dr. Inke Achterberg</message>
         <message key="xmlui.aboutus.tel.inke">Tel.: +49 (0)551 / 39-9738</message>
         <message key="xmlui.aboutus.mail.inke">E-Mail: achterberg@sub.uni-goettingen.de</message>
+         <message key="xmlui.aboutus.name.malte">Malte Semmler</message>
+        <message key="xmlui.aboutus.tel.malte">Tel.: +49 (0)551 / 39-9738</message>
+        <message key="xmlui.aboutus.mail.malte">E-Mail: semmler@sub.uni-goettingen.de</message>
         <message key="xmlui.aboutus.name.montan">Cornelia Rau (Geo- und Montanwissenschaften)</message>	
         <message key="xmlui.aboutus.tel.montan">Tel.: +49 (0)3731 / 39-3383</message>
         <message key="xmlui.aboutus.mail.montan">E-Mail: Cornela.Rau@ub.tu-freiberg.de</message>
@@ -3034,7 +3049,8 @@ ie Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinr
   <div class="read-more-target" style="margin-bottom: 0.5em;">* <span style="font-size: smaller;">Gemeinfreiheit tritt 70 Jahre nach Tod der bzw. des zuletzt verstorbenen Miturheberin bzw. Miturhebers ein. Die Bewertung der Gemeinfreiheit für die Karten (GK25) erfolgte anhand von Katalogseinträgen, und kann daher nach Sichtung des Originals (durch mögliche Beteiligung weiterer Personen) revidiert werden.</span></div></div>
   <label for="post-2" class="read-more-trigger"></label></div>
   </message>
-  <message key="xmlui.map.bottom"><div style="font-size: smaller; margin-top: 0.5em;" ><i>„Geologische Spezialkarte von Preussen und den Thüringischen Staaten“ / Hrsg. durch d. Kgl. Preuss. Min. f. Handel, Gewerbe u. öffentl. Arbeiten - 1:25 000 - Berlin [u.a.] 1853-1943, Teilweise unter den Titeln: „Geologische Karte von Preußen und benachbarten Bundesstaaten“, „Geologische Karte von Preußen und benachbarten Bundesländern“, „Geologische Karte von Preußen und benachbarten deutschen Ländern“, sowie  „Geologische Specialkarte des Königreichs Sachsen“/ Hrsg. durch d. Königl. Finanzministerium. - 1:25 000 - Leipzig [u.a.].</i></div>
+  <message key="xmlui.map.bottom"><div style="font-size: smaller; margin-top: 0.5em; margin-bottom: 2em;" ><i>„Geologische Spezialkarte von Preussen und den Thüringischen Staaten“ / Hrsg. durch d. Kgl. Preuss. Min. f. Handel, Gewerbe u. öffentl. Arbeiten - 1:25 000 - Berlin [u.a.] 1853-1943, Teilweise unter den Titeln: „Geologische Karte von Preußen und benachbarten Bundesstaaten“, „Geologische Karte von Preußen und benachbarten Bundesländern“, „Geologische Karte von Preußen und benachbarten deutschen Ländern“, sowie  „Geologische Specialkarte des Königreichs Sachsen“/ Hrsg. durch d. Königl. Finanzministerium. - 1:25 000 - Leipzig [u.a.].</i></div>
+  <div>Um per Mail über neue Karten informiert zu werden bitte zu Ihrem Profil gehen und unter Abonnements die Sammlung “(Alle Publikationen - Institutionelle Serien und Zeitschriften - Geologische Karte 1 : 25 000 (GK25))” auswählen: <a href="/profile">Profil</a></div>
   </message>
   <message key="xmlui.mirage2.itemSummaryView.Subjects">Schlagworte:</message>
   <message key="xmlui.testtest">
@@ -3067,9 +3083,9 @@ ie Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinr
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/EnergyResourcesEnvironment">
-        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energie, Ressourcen, Umwelt" />
+        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Montanwesen, Energie, Ressourcen, Umwelt" />
         </a>
-        <figcaption class="einzeilig">Energie, Ressourcen, Umwelt</figcaption>
+        <figcaption>Montanwesen, Energie, Ressourcen, Umwelt</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/Geography">
@@ -3117,9 +3133,9 @@ ie Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinr
 <div id="third_row"  class="hidden-lg hidden-xs">
         <figure class="frontpage_images">
         <a href="handle/11858/EnergyResourcesEnvironment">
-        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energie, Ressourcen, Umwelt" />
+        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Montanwesen, Energie, Ressourcen, Umwelt" />
         </a>
-        <figcaption class="einzeilig">Energie, Ressourcen, Umwelt</figcaption>
+        <figcaption>Montanwesen, Energie, Ressourcen, Umwelt</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/Geography">
@@ -3171,9 +3187,9 @@ ie Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinr
 <div id="fifth_row"  class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_images">
         <a href="handle/11858/EnergyResourcesEnvironment">
-        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Energie, Ressourcen, Umwelt" />
+        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Montanwesen, Energie, Ressourcen, Umwelt" />
         </a>
-        <figcaption class="einzeilig">Energie, Ressourcen, Umwelt</figcaption>
+        <figcaption>Montanwesen, Energie, Ressourcen, Umwelt</figcaption>
         </figure>
 </div>
 <div id="sixth_row"  class="hidden-lg hidden-sm hidden-md">
@@ -3274,5 +3290,110 @@ Wenn Sie in die Verarbeitung durch die Niedersächsische Staats- und Universitä
 </message>
 <message key="xmlui.dri2xhtml.METS-1.0.item-isversionof">Weitere Online-Version: </message>
 <message key="xmlui.dri2xhtml.METS-1.0.item-toc">Inhalt</message>
+<message key="xmlui.statistics.link">Zugriffsstatistik</message>
+
+        <!-- REQUEST COPY -->
+        <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestForm.java -->
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.title">Request a copy of the document</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.trail">Request a copy of the document</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.head">Request a copy of the document</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestForm.login_para">Users of this system, can login to view this document.</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestForm.login">Login</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestForm.para1">Enter the following information to request a copy of the document from the responsible person.</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail">Your e-mail address</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail_help">This email address is used for sending the document.</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterEmail.error">E-mail is mandatory</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.message">Message</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.message.error">Message is mandatory</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.files">Files</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.allFiles">All files (of this document) in restricted access.</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.notAllFiles">Only The requested file.</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterName">Name</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.requesterName.error">Name is required</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestForm.submit">Request copy</message>
+
+        <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestSent.java -->
+        <message key="xmlui.ArtifactBrowser.ItemRequestSent.title">Your request has been sent.</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestSent.trail">Your request has been sent.</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestSent.head">Your request has been sent.</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestSent.para1">Your request has been sent to the author or responsible person.</message>
+
+        <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestResponseDecisionForm.java -->
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.title">Document copy request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.trail">Document copy request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.head">Document copy request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.para1">IF YOU ARE THE AUTHOR (OR AN AUTHOR) OF DOCUMENT "{0}" use the buttons to answer the user's request.</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.para2">This repository will propose an appropriate model reply, which you may edit.</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.contactRequester">Initial reply to requester</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.contactAuthor"> Author permission request</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.send">Send copy</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseDecisionForm.dontSend">Don't send copy</message>
+
+        <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestResponseTrueForm.java -->
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.title">Document copy request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.trail">Document copy request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.head">Document copy request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.para1">This is the text to be sent to the applicant.</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.message">Message</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.subject">Subject</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.mail">Send</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseFalseForm.back">Back</message>
+
+    <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestResponseFalseForm.java -->
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.title">Document copy request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.trail">Document copy request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.head">Document copy request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.para1">This is the text to be sent to the applicant (together with the document).</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.message">Message</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.subject">Subject</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.mail">Send</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestResponseTrueForm.back">Back</message>
+
+         <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestChangeStatusForm.java -->
+        <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.title">Change permissions request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.trail">Change permissions request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.head">Change permissions request</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.para1">You may use this occasion to reconsider the access restrictions on the document (to avoid having to respond to these requests), if there is no reason$</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.name">Name</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.email">E-mail</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.name.error">The name is required</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.email.error">The e-mail address is required</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestChangeStatusForm.changeToOpen">Change to open access</message>
+
+        <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestResponseFalseForm.java -->
+        <message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.title">Request sent</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.trail">Request sent</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.head">Your request to change permissions has been sent</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.para1">Your request has been sent to the administrator</message>
+        <message key="xmlui.ArtifactBrowser.ItemRequestStatusChanged.para2">Thanks</message>
+
+    <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestContactRequester.java -->
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.title">Document copy request</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.trail">Document copy request</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.head">Document copy request</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.para1">Initial communication with the requester, to let them know their request is being processed.</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.toEmail">To</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.subject">Subject</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.message">Message</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.mail">Send</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactRequester.back">Back</message>
+
+    <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestContactAuthor.java -->
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.title">Document copy request</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.trail">Document copy request</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.head">Document copy request</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.para1">This is the text to be sent to the applicant (together with the document).</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.toEmail">To</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.subject">Subject</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.message">Message</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.mail">Send</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestContactAuthor.back">Back</message>
+
+    <!-- org.dspace.app.xmlui.artifactbrowser.ItemRequestResponseSent.java -->
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.title">Your response has been sent.</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.trail">Your response has been sent.</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.head">Your response has been sent.</message>
+    <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.para1">Your response has been sent.</message>
+
 
 </catalogue>

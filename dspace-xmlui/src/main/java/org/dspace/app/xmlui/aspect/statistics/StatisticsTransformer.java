@@ -264,8 +264,8 @@ public class StatisticsTransformer extends AbstractDSpaceTransformer {
                             + dso.getID() + " and type " + dso.getType()
                             + " and handle: " + dso.getHandle(), e);
         }
-
-        try {
+	
+	try {
             StatisticsListing statListing = new StatisticsListing(
                        new StatisticsDataVisits(dso));
 
