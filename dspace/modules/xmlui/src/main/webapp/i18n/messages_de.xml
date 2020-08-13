@@ -2642,7 +2642,7 @@
 </div>
 <div id="fourth_row" class="hidden-lg hidden-sm hidden-md">
                 <figure class="frontpage_images">
-        <a href="handle/11858/Geophysics_extraterristicResearch">
+        <a href="handle/11858/Geophysics">
         <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Extraterristische Forschung" />
                 </a>
         <figcaption>Geophysik, Extraterristische Forschung</figcaption>
@@ -2650,7 +2650,7 @@
 </div>
 <div id="fifth_row"  class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_images">
-        <a href="handle/11858/EnergyResources_Environment">
+        <a href="handle/11858/EnergyResourcesEnvironment">
         <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Montanwesen, Energie, Ressourcen, Umwelt" />
         </a>
         <figcaption>Montanwesen, Energie, Ressourcen, Umwelt</figcaption>
