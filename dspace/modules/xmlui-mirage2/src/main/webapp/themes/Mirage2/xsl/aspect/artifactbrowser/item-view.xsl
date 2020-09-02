@@ -966,7 +966,12 @@
 <div>        <xsl:if test="dim:field[@element='description' and @qualifier='isbasedon']">
                 <i18n:text>xmlui.dri2xhtml.METS-1.0.item-isbasedon</i18n:text>
                 <xsl:for-each select="dim:field[@element='description'][@qualifier='isbasedon']">
-                        <xsl:copy-of select="./node()"/>
+        		<a>                
+			<xsl:attribute name="href">
+			<xsl:copy-of select="./node()"/>
+			</xsl:attribute>
+			<xsl:copy-of select="./node()"/>
+			</a>
                 </xsl:for-each>
         </xsl:if>
 </div>
