@@ -521,7 +521,7 @@
 	<message key="xmlui.Submission.general.go_mydspace">Gehe zu Mein FID GEO</message>
 	<message key="xmlui.Submission.general.submission.title">Dokument veröffentlichen</message>
 	<message key="xmlui.Submission.general.submission.trail">Dokument veröffentlichen</message>
-	<message key="xmlui.Submission.general.submission.head">Dokument veröffentlichen</message>	
+	<message key="xmlui.Submission.general.submission.head">Dokument veröffentlichen <a href="/help#publication" target="_blank"><span class="glyphicon glyphicon-question-sign" aria-hidden="true"/></a></message>	
 	<message key="xmlui.Submission.general.submission.previous">&lt; Zurück</message>
 	<message key="xmlui.Submission.general.submission.save">Speichern / Abbrechen</message>
 	<message key="xmlui.Submission.general.submission.next">Weiter &gt;</message>
@@ -3394,6 +3394,7 @@ Wenn Sie in die Verarbeitung durch die Niedersächsische Staats- und Universitä
     <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.trail">Your response has been sent.</message>
     <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.head">Your response has been sent.</message>
     <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.para1">Your response has been sent.</message>
+<message key="xmlui.navigation.help">Hilfe</message>
 
 
 </catalogue>

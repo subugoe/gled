@@ -632,7 +632,7 @@
 	<message key="xmlui.Submission.general.go_mydspace">Go to MyFID GEO Home</message>
 	<message key="xmlui.Submission.general.submission.title">Item submission</message>
 	<message key="xmlui.Submission.general.submission.trail">Item submission</message>
-	<message key="xmlui.Submission.general.submission.head">Item submission</message>
+	<message key="xmlui.Submission.general.submission.head">Item submission <a href="/help#publication" target="_blank"><span class="glyphicon glyphicon-question-sign"  aria-hidden="true"/></a></message>
 	<message key="xmlui.Submission.general.submission.previous">&lt; Previous</message>
 	<message key="xmlui.Submission.general.submission.save">Save &amp; Exit</message>
 	<message key="xmlui.Submission.general.submission.next">Next &gt;</message>
@@ -2908,4 +2908,5 @@ Got to the following website to utilise you option to deactivate data collection
   <message key="xmlui.dri2xhtml.METS-1.0.item-isversionof">Other online version: </message>
   <message key="xmlui.dri2xhtml.METS-1.0.item-toc">Content</message>
 <message key="xmlui.statistics.link">View Statistics</message>
+<message key="xmlui.navigation.help">Help</message>
 </catalogue>

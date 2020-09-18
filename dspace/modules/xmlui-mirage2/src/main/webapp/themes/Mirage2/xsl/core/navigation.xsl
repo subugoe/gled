@@ -80,6 +80,9 @@
                                 </a>
                         </div>
 
+<div class="publish">
+                                <a class="publishButton">
+<xsl:attribute name="href"><xsl:value-of select="concat($context-path, '/help')" /></xsl:attribute><i18n:text>xmlui.navigation.help</i18n:text></a></div>
 
 
 
@@ -158,6 +161,9 @@
                     </form>
                 </div>
             </xsl:if>
+<!--Hilfe-Link-->
+<!--<div class="list-group"><a class="list-group-item active">      <span class="h5 list-group-item-heading h5">Infos</span></a>
+                                <a href="/help" class="list-group-item ds-option">Hilfe</a></div>-->
             
 
 <xsl:if test="/dri:document/dri:meta/dri:userMeta/@authenticated = 'yes'">
@@ -167,11 +173,6 @@
 <xsl:apply-templates select="dri:list[@n='browse']"/>
 
 <xsl:apply-templates select="dri:list[@n='discovery']"/>
-
-<!--Hilfe-Link-->
-<div class="list-group"><a class="list-group-item active">	<span class="h5 list-group-item-heading h5">Infos</span></a>
-                                <a href="/help" class="list-group-item ds-option">Hilfe</a></div>
-
 
 
 <xsl:apply-templates select="dri:list[@n='context']"/>
