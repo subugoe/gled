@@ -176,7 +176,8 @@
                                         <span class="publisher">
                                             <xsl:copy-of select="dim:field[@element='bibliographicCitation' and @qualifier='journal']/node()"/>
                                         </span>
-                                        <xsl:text>, </xsl:text>
+                                        <xsl:text>, </xsl:text></xsl:when>
+					<xsl:when test="dim:field[@element='date' and @qualifier='issued']">
 					<span class="date">
         	                        <xsl:value-of select="substring(dim:field[@element='date' and @qualifier='issued']/node(),1,10)"/>
 	                                </span>

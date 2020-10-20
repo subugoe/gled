@@ -291,10 +291,11 @@
 							<xsl:text>)</xsl:text>
 						</xsl:when>
 						<xsl:otherwise>
+							<xsl:if test="dri:list[@n=(concat($handle, ':dc.publisher'))]">
 							<span class="publisher">
 								<xsl:copy-of select="dri:list[@n=(concat($handle, ':dc.publisher'))]/dri:item"/>
 							</span>
-							<xsl:text>, </xsl:text>
+							<xsl:text>, </xsl:text></xsl:if>
 							<span class="date">
 							<xsl:value-of select="substring(dri:list[@n=(concat($handle, ':dc.date.issued'))]/dri:item,1,10)"/>
 							</span>
