@@ -148,7 +148,21 @@
 
 		<!--<xsl:call-template name="itemSummaryView-DIM-URI"/>-->
 		<xsl:call-template name="itemSummaryView-DIM-DOI"/>
-		<xsl:call-template name="itemSummaryView-DIM-isversionof"/>
+<xsl:if test="dim:field[@element='relation' and @qualifier='ispartof']">
+                <xsl:for-each select="dim:field[@element='relation' and @qualifier='ispartof']">
+                       <xsl:text>In: </xsl:text>
+<a>
+                            <xsl:attribute name="href">
+                                <xsl:copy-of select="./node()"/>
+                            </xsl:attribute>
+                            <xsl:copy-of select="./node()"/>
+                        </a>
+
+
+                </xsl:for-each>
+        </xsl:if>
+	
+	<xsl:call-template name="itemSummaryView-DIM-isversionof"/>
 
 	    <!--<xsl:call-template name="itemSummaryView-DIM-URI"/>-->
 	    <xsl:call-template name="itemSummaryView-DIM-isbasedon"/>
@@ -1044,7 +1058,7 @@
 <xsl:template name="itemSummaryView-DIM-relationIsPartOf">
 <div>        <xsl:if test="dim:field[@element='relation' and @qualifier='ispartof']">
                 <xsl:for-each select="dim:field[@element='relation' and @qualifier='ispartof']">
-                        <xsl:copy-of select="./node()"/>
+                        <xsl:copy-of select="."/>
                 </xsl:for-each>
         </xsl:if>
 </div>    
@@ -1106,7 +1120,11 @@
                 <xsl:attribute name="class"><xsl:text>ds-dc_contributor_author-authority</xsl:text></xsl:attribute>
             </xsl:if>
             <xsl:copy-of select="node()"/>
-       
+                <xsl:if test="starts-with(@authority, '0000-')">
+<a target="_blank" href="{concat('//orcid.org/',@authority)}" title="ORCID">
+<img src="/themes/Mirage2/images/ORCIDiD_icon16x16.png" alt="ORCIDiD" style="margin:4px;"/>
+</a>
+                </xsl:if>
     </xsl:template>
 
 <xsl:template name="itemSummaryView-DIM-URI">

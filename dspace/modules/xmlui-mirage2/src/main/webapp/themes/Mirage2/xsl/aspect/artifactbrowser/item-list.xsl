@@ -172,6 +172,13 @@
 								<!-- article, article_first, article_digi -->
                                    <xsl:when test="dim:field[@element='type'] = 'article' or dim:field[@element='type'] = 'article_first' or dim:field[@element='type'] = 'article_digi'">
                                    <xsl:choose> 
+					<xsl:when test="dim:field[@element='relation' and @qualifier='volume']">
+                                        <span class="publisher">
+                                            <xsl:copy-of select="dim:field[@element='relation' and @qualifier='volume']/node()"/>
+                                        </span>
+                                        <xsl:text>)</xsl:text>
+                                    </xsl:when>
+
 				   <xsl:when test="dim:field[@element='bibliographicCitation' and @qualifier='journal']">
                                         <span class="publisher">
                                             <xsl:copy-of select="dim:field[@element='bibliographicCitation' and @qualifier='journal']/node()"/>
@@ -182,12 +189,6 @@
         	                        <xsl:value-of select="substring(dim:field[@element='date' and @qualifier='issued']/node(),1,10)"/>
 	                                </span>
                     		        <xsl:text>)</xsl:text>
-                                    </xsl:when>
-				    <xsl:when test="dim:field[@element='relation' and @qualifier='volume']">
-                                        <span class="publisher">
-                                            <xsl:copy-of select="dim:field[@element='relation' and @qualifier='volume']/node()"/>
-                                        </span>
-                                        <xsl:text>)</xsl:text>
                                     </xsl:when>
 				    <xsl:otherwise>
 					<span class="publisher">

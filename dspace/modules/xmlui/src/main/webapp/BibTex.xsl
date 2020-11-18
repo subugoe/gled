@@ -81,7 +81,7 @@
 				<xsl:call-template name="year"/>
 	        </xsl:when>
 	        <!-- anthology, anthology_first, anthology_digi -->
-	        <xsl:when test="($type='anthology') or ($type='map_anth')">
+	        <xsl:when test="starts-with($type, 'anthology') or ($type='map_anth')">
 				<xsl:choose>
 					<xsl:when test="starts-with($type, 'map')">
 						<xsl:text>&#64;misc&#123;</xsl:text><xsl:value-of select="concat('gledocs_', translate($id, '/', '_'))" />

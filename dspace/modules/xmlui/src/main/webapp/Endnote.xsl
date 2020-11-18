@@ -105,7 +105,7 @@
 				<xsl:call-template name="doi" />
 	        </xsl:when>
 	        <!-- anthology, anthology_first, anthology_digi, map_anth -->
-	        <xsl:when test="($type='anthology') or ($type='map_anth')">
+	        <xsl:when test="starts-with($type, 'anthology') or ($type='map_anth')">
 				<xsl:choose>
 					<xsl:when test="$content_type='conference'">
 						<xsl:text>&#37;0 Conference Proceedings</xsl:text>
