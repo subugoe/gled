@@ -195,7 +195,7 @@
 	<!-- org.dspace.app.xmlui.artifactbrowser.CommunityBrowser.java -->
 	<message key="xmlui.ArtifactBrowser.CommunityBrowser.title">Bereichsliste</message>
 	<message key="xmlui.ArtifactBrowser.CommunityBrowser.trail">Bereichsliste</message>
-	<message key="xmlui.ArtifactBrowser.CommunityBrowser.head">Bereiche in FID GEO</message>
+	<message key="xmlui.ArtifactBrowser.CommunityBrowser.head">Bereiche in GEO-LEOe-docs</message>
 	<message key="xmlui.ArtifactBrowser.CommunityBrowser.select">Wählen Sie einen Bereich, um die enthaltenen Sammlungen zu durchstöbern.</message>
 
 	<!-- org.dspace.app.xmlui.artifactbrowser.CommunityViewer.java -->
@@ -405,7 +405,7 @@
 	<!-- org.dspace.app.xmlui.eperson.PasswordLogin.java -->
 	<message key="xmlui.EPerson.PasswordLogin.title">Einloggen</message>
 	<message key="xmlui.EPerson.PasswordLogin.trail">Einloggen</message>
-	<message key="xmlui.EPerson.PasswordLogin.head1">In FID GEO Einloggen</message>
+	<message key="xmlui.EPerson.PasswordLogin.head1">In GEO-LEOe-docs Einloggen</message>
 	<message key="xmlui.EPerson.PasswordLogin.email_address">E-Mail-Addresse</message>
 	<message key="xmlui.EPerson.PasswordLogin.error_bad_login">Die angegebene E-Mail-Adresse und/oder das Passwort sind ungültig.</message>
 	<message key="xmlui.EPerson.PasswordLogin.password">Passwort</message>
@@ -418,7 +418,7 @@
 	<!-- org.dspace.app.xmlui.eperson.LDAPLogin.java -->
 	<message key="xmlui.EPerson.LDAPLogin.title">Einloggen</message>
 	<message key="xmlui.EPerson.LDAPLogin.trail">Einloggen</message>
-	<message key="xmlui.EPerson.LDAPLogin.head1">In FID GEO einloggen</message>
+	<message key="xmlui.EPerson.LDAPLogin.head1">In GEO-LEOe-docs einloggen</message>
 	<message key="xmlui.EPerson.LDAPLogin.username">Benutzername</message>
 	<message key="xmlui.EPerson.LDAPLogin.error_bad_login">Der Benutzername und/oder Passwort sind ungültig.</message>
 	<message key="xmlui.EPerson.LDAPLogin.password">Passwort</message>
@@ -517,11 +517,11 @@
 	<!-- general submission aspect messages -->
 	<message key="xmlui.Submission.general.default.title">Ressourcen einreichen</message>
 	<message key="xmlui.Submission.general.default.trail">Ressourcen einreichen</message>
-	<message key="xmlui.Submission.general.mydspace_home">Mein FID GEO</message>
-	<message key="xmlui.Submission.general.go_mydspace">Gehe zu Mein FID GEO</message>
+	<message key="xmlui.Submission.general.mydspace_home">Mein GEO-LEOe-docs</message>
+	<message key="xmlui.Submission.general.go_mydspace">Gehe zu Mein GEO-LEOe-docs</message>
 	<message key="xmlui.Submission.general.submission.title">Dokument veröffentlichen</message>
 	<message key="xmlui.Submission.general.submission.trail">Dokument veröffentlichen</message>
-	<message key="xmlui.Submission.general.submission.head">Dokument veröffentlichen <a href="/help#publication" target="_blank"><span class="glyphicon glyphicon-question-sign"  aria-hidden="true"/></a></message>	
+	<message key="xmlui.Submission.general.submission.head">Dokument veröffentlichen <a href="/help#publication" target="_blank"><span class="glyphicon glyphicon-question-sign" aria-hidden="true"/></a></message>	
 	<message key="xmlui.Submission.general.submission.previous">&lt; Zurück</message>
 	<message key="xmlui.Submission.general.submission.save">Speichern / Abbrechen</message>
 	<message key="xmlui.Submission.general.submission.next">Weiter &gt;</message>
@@ -595,7 +595,7 @@
 
     <!-- Same transformer, completed submissions section -->
     <message key="xmlui.Submission.Submissions.completed.head">Angenommene Veröffentlichungen</message>
-    <message key="xmlui.Submission.Submissions.completed.info">Dies sind Ihre Veröffentlichungen, die in FID GEO angenommen wurden.</message>
+    <message key="xmlui.Submission.Submissions.completed.info">Dies sind Ihre Veröffentlichungen, die in GEO-LEOe-docs angenommen wurden.</message>
     <message key="xmlui.Submission.Submissions.completed.column1">Zugangsdatum</message>
     <message key="xmlui.Submission.Submissions.completed.column2">Titel</message>
     <message key="xmlui.Submission.Submissions.completed.column3">Sammlung</message>
@@ -2191,7 +2191,7 @@
   <message key="xmlui.ChoiceLookupTransformer.field.dc_publisher.nonauthority">Nicht-Referenzwert: @1@</message>
 
   <!-- mobile theme -->
-  <message key="xmlui.mobile.home_mobile">FID GEO Mobil</message>
+  <message key="xmlui.mobile.home_mobile">GEO-LEOe-docs Mobil</message>
   <message key="xmlui.mobile.search_all">Suche</message>
   <message key="xmlui.mobile.browse_all">Stöbern nach:</message>
   <message key="xmlui.mobile.browse_date">Datum</message>
@@ -2516,7 +2516,7 @@
   <message key="xmlui.dri2xhtml.structural.impressum-link">Impressum</message>
   <message key="xmlui.home.text">
         <!--<h2>Publikationsserver des FID GEO</h2>-->
-	<h2>Publikationsserver des <a href="http://fidgeo.de" target="_blank"><image class="frontpage-logo" src="/themes/Mirage2/images/fidgeo2.png" alt="FID GEO Logo"/></a></h2>
+	<h2>Publikationsserver des <a href="https://www.fidgeo.de" target="_blank"><image class="frontpage-logo" src="/themes/Mirage2/images/fidgeo2.png" alt="FID GEO Logo"/></a></h2>
 
   <div id="first_row" class="hidden-xs hidden-sm hidden-md">
         <figure class="frontpage_images">
@@ -2810,7 +2810,7 @@ Falls Sie der Meinung sind, dass es diese Seite geben sollte, bitte kontaktieren
 	<!-- impressum -->
         <message key="xmlui.impressum.head">Impressumm</message>
         <message key="xmlui.impressum.label.offerer">Anbieter</message>        
-        <message key="xmlui.impressum.text.offerer">Die Niedersaechsische Staats- und Universitätsbibliothek wird von Dr. Wolfram Horstmann geleitet. Sie ist zentrale Einrichtung der Georg-August-Universität Göttingen. Die Georg-August-Universität Göttingen ist eine Körperschaft des öffentlichen Rechts. Sie wird durch Prof. Dr. Reinhard Jahn gesetzlich vertreten, der beauftragt ist, das Amt des Präsidenten wahrzunehmen:<br />
+        <message key="xmlui.impressum.text.offerer">Die Niedersaechsische Staats- und Universitätsbibliothek wird von Dr. Wolfram Horstmann geleitet. Sie ist zentrale Einrichtung der Georg-August-Universität Göttingen. Die Georg-August-Universität Göttingen ist eine Körperschaft des öffentlichen Rechts. Sie wird durch die Präsidentin (kommissarisch) Dr. Valérie Schüller (Vizepräsidentin für Finanzen und Personal) gesetzlich vertreten.<br />
 </message>
         
         <message key="xmlui.impressum.label.controlling">Zuständige Aufsichtsbehörde:  </message>
@@ -2949,7 +2949,7 @@ Die Urheberin bzw. der Urheber erklärt, dass mit der Bereitstellung des Werkes 
   </message>
   <message key="xmlui.deposit.license.li4">
 Weitergabe von Metadaten und Dokumenten:<br />
-ie Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinräumung (Ziffer 1) das Recht ein, die Metadaten des Werks unentgeltlich anderen Datenbanken zur Verfügung zu stellen. Darüber hinaus ist die SUB Göttingen berechtigt, das Werk Dritten im Rahmen nationaler Sammelaufträge zur Online-Bereitstellung oder Archivierung zur Verfügung zu stellen.
+Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinräumung (Ziffer 1) das Recht ein, die Metadaten des Werks unentgeltlich anderen Datenbanken zur Verfügung zu stellen. Darüber hinaus ist die SUB Göttingen berechtigt, das Werk Dritten im Rahmen nationaler Sammelaufträge zur Online-Bereitstellung oder Archivierung zur Verfügung zu stellen.
 </message>
    <message key="xmlui.deposit.license.date">Göttingen, August 2018</message>
 
@@ -2988,6 +2988,7 @@ ie Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtseinr
   <message key="bookpart">Bookpart</message>
   <message key="book">Buch</message>
   <message key="map_mono">Karte (Monografie)</message>
+  <message key="map">Karte</message>
   
   <message key="monograph_digi">Monografie, digitalisiert</message>
   <message key="monograph_first">Monografie</message>
@@ -3395,5 +3396,8 @@ Wenn Sie in die Verarbeitung durch die Niedersächsische Staats- und Universitä
     <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.head">Your response has been sent.</message>
     <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.para1">Your response has been sent.</message>
 <message key="xmlui.navigation.help">Hilfe</message>
+
+<message key="xmlui.dri2xhtml.METS-1.0.item-isreplacedby">Journal Version: </message> 
+<message key="xmlui.pages">s.</message>
 
 </catalogue>

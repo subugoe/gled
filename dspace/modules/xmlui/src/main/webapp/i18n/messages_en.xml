@@ -518,20 +518,20 @@
 	<!-- org.dspace.app.xmlui.eperson.PasswordLogin.java -->
 	<message key="xmlui.EPerson.PasswordLogin.title">Sign in</message>
 	<message key="xmlui.EPerson.PasswordLogin.trail">Sign in</message>
-	<message key="xmlui.EPerson.PasswordLogin.head1">Sign in to FID GEO</message>
+	<message key="xmlui.EPerson.PasswordLogin.head1">Sign in to GEO-LEOe-docs</message>
 	<message key="xmlui.EPerson.PasswordLogin.email_address">E-Mail Address</message>
 	<message key="xmlui.EPerson.PasswordLogin.error_bad_login">The email address and/or password supplied were not valid.</message>
 	<message key="xmlui.EPerson.PasswordLogin.password">Password</message>
 	<message key="xmlui.EPerson.PasswordLogin.forgot_link"> Forgot your password?</message>
 	<message key="xmlui.EPerson.PasswordLogin.submit">Sign in</message>
 	<message key="xmlui.EPerson.PasswordLogin.head2">Register new user</message>
-	<message key="xmlui.EPerson.PasswordLogin.para1">Register an account to subscribe to collections for email updates, and submit new items to FID GEO.</message>
+	<message key="xmlui.EPerson.PasswordLogin.para1">Register an account to subscribe to collections for email updates, and submit new items to GEO-LEOe-docs.</message>
 	<message key="xmlui.EPerson.PasswordLogin.register_link">Click here to register.</message>
 
 	<!-- org.dspace.app.xmlui.eperson.LDAPLogin.java -->
 	<message key="xmlui.EPerson.LDAPLogin.title">Sign in</message>
 	<message key="xmlui.EPerson.LDAPLogin.trail">Sign in</message>
-	<message key="xmlui.EPerson.LDAPLogin.head1">Sign in to FID GEO</message>
+	<message key="xmlui.EPerson.LDAPLogin.head1">Sign in to GEO-LEOe-docs</message>
 	<message key="xmlui.EPerson.LDAPLogin.username">User Name</message>
 	<message key="xmlui.EPerson.LDAPLogin.error_bad_login">The user name and/or password supplied were not valid.</message>
 	<message key="xmlui.EPerson.LDAPLogin.password">Password</message>
@@ -570,7 +570,7 @@
 	<!-- org.dspace.app.xmlui.eperson.RegistrationFinished.java -->
 	<message key="xmlui.EPerson.RegistrationFinished.title">Registration finished</message>
 	<message key="xmlui.EPerson.RegistrationFinished.head">Registration Finished</message>
-	<message key="xmlui.EPerson.RegistrationFinished.para1">You're now registered to use the FID GEO system.  You can subscribe to collections to receive email updates about new items.</message>
+	<message key="xmlui.EPerson.RegistrationFinished.para1">You're now registered to use the GEO-LEOe-docs system.  You can subscribe to collections to receive email updates about new items.</message>
 
 	<!-- org.dspace.app.xmlui.eperson.ResetPassword.java -->
 	<message key="xmlui.EPerson.ResetPassword.title">Reset password</message>
@@ -586,7 +586,7 @@
 	<!-- org.dspace.app.xmlui.eperson.StartForgotPassword.java -->
 	<message key="xmlui.EPerson.StartForgotPassword.title">Forgot Password</message>
 	<message key="xmlui.EPerson.StartForgotPassword.head">Forgot Password</message>
-	<message key="xmlui.EPerson.StartForgotPassword.para1">Enter the email address you provided when you registered with FID GEO. An email will be sent to that address with further instructions.</message>
+	<message key="xmlui.EPerson.StartForgotPassword.para1">Enter the email address you provided when you registered with GEO-LEOe-docs. An email will be sent to that address with further instructions.</message>
 	<message key="xmlui.EPerson.StartForgotPassword.email_address">Email Address</message>
 	<message key="xmlui.EPerson.StartForgotPassword.email_address_help">Enter the same address used when registering.</message>
 	<message key="xmlui.EPerson.StartForgotPassword.error_not_found">Email address not found.</message>
@@ -599,7 +599,7 @@
 	<message key="xmlui.EPerson.StartRegistration.reset_password_for">Reset password for</message>
 	<message key="xmlui.EPerson.StartRegistration.submit_reset">Reset password</message>
 	<message key="xmlui.EPerson.StartRegistration.head2">New user registration</message>
-	<message key="xmlui.EPerson.StartRegistration.para2">Register an account to subscribe to collections for email updates, and submit new items to FID GEO.</message>
+	<message key="xmlui.EPerson.StartRegistration.para2">Register an account to subscribe to collections for email updates, and submit new items to GEO-LEOe-docs.</message>
 	<message key="xmlui.EPerson.StartRegistration.email_address">Email Address</message>
 	<message key="xmlui.EPerson.StartRegistration.email_address_help">This address will be verified and used as your login name.</message>
 	<message key="xmlui.EPerson.StartRegistration.error_bad_email">Unable to send email to this address.</message>
@@ -628,8 +628,8 @@
 
 
 	<!-- general submission aspect messages -->
-	<message key="xmlui.Submission.general.mydspace_home">MyFID GEO Home</message>
-	<message key="xmlui.Submission.general.go_mydspace">Go to MyFID GEO Home</message>
+	<message key="xmlui.Submission.general.mydspace_home">My GEO-LEOe-docs Home</message>
+	<message key="xmlui.Submission.general.go_mydspace">Go to My GEO-LEOe-docs Home</message>
 	<message key="xmlui.Submission.general.submission.title">Item submission</message>
 	<message key="xmlui.Submission.general.submission.trail">Item submission</message>
 	<message key="xmlui.Submission.general.submission.head">Item submission <a href="/help#publication" target="_blank"><span class="glyphicon glyphicon-question-sign"  aria-hidden="true"/></a></message>
@@ -707,7 +707,7 @@
 	<message key="xmlui.Submission.Submissions.status_unknown">Unknown state</message>
         <!-- Same transformer, completed submissions section -->
         <message key="xmlui.Submission.Submissions.completed.head">Archived Submissions</message>
-        <message key="xmlui.Submission.Submissions.completed.info">These are your completed submissions which have been accepted into FID GEO.</message>
+        <message key="xmlui.Submission.Submissions.completed.info">These are your completed submissions which have been accepted into GEO-LEOe-docs.</message>
         <message key="xmlui.Submission.Submissions.completed.column1">Date accepted</message>
         <message key="xmlui.Submission.Submissions.completed.column2">Title</message>
         <message key="xmlui.Submission.Submissions.completed.column3">Collection</message>
@@ -2165,7 +2165,7 @@
 			<span id="ds-footer-logo">&#160;</span>
 		</a>
 		<p>
-			This website is using Manakin, a new front end for FID GEO created by Texas A&amp;M University
+			This website is using Manakin, a new front end for DSpace created by Texas A&amp;M University
 			Libraries. The interface can be extensively modified through Manakin Aspects and XSL based Themes.
 			For more information visit
 			<a href="http://di.tamu.edu">http://di.tamu.edu</a> and
@@ -2390,7 +2390,7 @@
   <message key="xmlui.ChoiceLookupTransformer.field.dc_contributor_author.nonauthority">Local value "@1@" (not in Naming Authority)</message>
 
   <!-- mobile theme -->
-  <message key="xmlui.mobile.home_mobile">FID GEO Mobile</message>
+  <message key="xmlui.mobile.home_mobile">GEO-LEOe-docs Mobile</message>
   <message key="xmlui.mobile.search_all">Search ALL</message>
   <message key="xmlui.mobile.browse_all">Browse ALL by</message>
   <message key="xmlui.mobile.browse_date">Date</message>
@@ -2511,7 +2511,7 @@
 
     <message key="xmlui.home.text">
         <!--<h2>Publicationserver of the FID GEO</h2>-->
-	 <h2>Publicationserver of the <a href="http://fidgeo.de" target="_blank"><image class="frontpage-logo" src="/themes/Mirage2/images/fidgeo2.png" alt="FID GEO Logo"/></a></h2>
+	 <h2>Publicationserver of the <a href="https://www.fidgeo.de" target="_blank"><image class="frontpage-logo" src="/themes/Mirage2/images/fidgeo2.png" alt="FID GEO Logo"/></a></h2>
 
 	<div id="first_row" class="hidden-xs hidden-sm hidden-md">
         <figure class="frontpage_images">
@@ -2767,7 +2767,7 @@
 
         <message key="xmlui.impressum.head">Imprint</message>
         <message key="xmlui.impressum.label.offerer">Publisher</message>
-        <message key="xmlui.impressum.text.offerer">Authorized representative of the Göttingen State and University Library is Dr. Wolfram Horstmann. The library is a central institution of the Georg-August-Universität Göttingen. The University of Göttingen (Georg-August-Universität Göttingen) is a public law corporation. It is legally represented by its President, Prof. Dr. Reinhard Jahn.</message>
+        <message key="xmlui.impressum.text.offerer">Authorized representative of the Göttingen State and University Library is Dr. Wolfram Horstmann. The library is a central institution of the Georg-August-Universität Göttingen. The University of Göttingen (Georg-August-Universität Göttingen) is a public law corporation. It is legally represented by its acting President Dr. Valérie Schüller (Vice President Finance and Human Resources).</message>
 
         <message key="xmlui.impressum.label.controlling">Competent supervisory authority  </message>
         <message key="xmlui.impressum.controlling.gau">Georg-August-Universität Göttingen Public Law Foundation</message>
@@ -2909,4 +2909,6 @@ Got to the following website to utilise you option to deactivate data collection
   <message key="xmlui.dri2xhtml.METS-1.0.item-toc">Content</message>
 <message key="xmlui.statistics.link">View Statistics</message>
 <message key="xmlui.navigation.help">Help</message>
+<message key="xmlui.dri2xhtml.METS-1.0.item-isreplacedby">Journal Version: </message>
+<message key="xmlui.pages">p.</message>
 </catalogue>
