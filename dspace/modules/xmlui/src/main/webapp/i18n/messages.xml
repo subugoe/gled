@@ -3399,5 +3399,100 @@ Wenn Sie in die Verarbeitung durch die Niedersächsische Staats- und Universitä
 
 <message key="xmlui.dri2xhtml.METS-1.0.item-isreplacedby">Journal Version: </message> 
 <message key="xmlui.pages">s.</message>
+<message key="xmlui.gmit.text">
+<h2>GMIT - Geowissenschaftliche Mitteilungen</h2>
+    <div class="gmit">
+        <p>Die GMIT - Geowissenschaftliche Mitteilungen ist das gemeinsame Nachrichtenheft des Berufsverbandes Deutscher Geowissenschaftler (BDG), der Deutschen Geologischen Gesellschaft – Geologische Vereinigung (DGGV), der Deutschen Geophysikalischen Gesellschaft (DGG), der Deutschen Mineralogischen Gesellschaft (DMG), der Deutschen Quartärvereinigung (DEUQUA), der Paläontologischen Gesellschaft (PalGes) und des Oberrheinischen Geologischen Vereins (OGV). Als jüngstes Mitglied ist 2015 die Deutsche Ton- und Tonmineralgruppe (DTTG) beigetreten. Der Bezug des gedruckten Heftes ist im Mitgliedsbeitrag enthalten.</p>
+<p> GMIT erscheint vier Mal im Jahr. Sie erreicht alle Mitglieder der genannten Gesellschaften und wird in Universitäten, Forschungseinrichtungen, Behörden und Unternehmen gelesen.</p>
+        <div class="row-gmit" style="margin-top:20px;">
+                <div class="row-gmit">
+                <h3>2020</h3>
+
+                <figure style="display:grid;grid-template-columns:repeat(auto-fill, minmax(15em, 1fr));gap:2em;">
+
+                <figure>
+                <a href="https://geoberuf.de/fileadmin/user_upload/bdg-media/04_veroeffentlichungen/gmit/GMIT_81.pdf">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit81.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                 <figcaption style="grid-column:1 / -1;"><a href="https://geoberuf.de/fileadmin/user_upload/bdg-media/04_veroeffentlichungen/gmit/GMIT_81.pdf">GMIT 81 - September 2020</a></figcaption>
+                </figure>
+
+                <figure>
+               <a href="https://e-docs.geo-leo.de/handle/11858/00-1735-0000-0001-3307-F">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit80.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a href="https://e-docs.geo-leo.de/handle/11858/00-1735-0000-0001-3307-F">GMIT 80 - Juni 2020</a></figcaption>
+                </figure>
+
+                <figure>
+                <a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_79.pdf">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit79.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_79.pdf">GMIT 79 - März 2020</a></figcaption>
+                </figure>
+                </figure>
+                </div>
+                <div class="row-gmit">
+                <h3>2019</h3>
+                <figure style="display:grid;grid-template-columns:repeat(auto-fill, minmax(15em, 1fr));gap:2em;">
+                <figure>
+                <a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_78.pdf">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit78.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_78.pdf">GMIT 78 - Dezember 2019</a></figcaption>
+                </figure>
+                <figure>
+                                <a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/Gmit_77.pdf">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit77.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/Gmit_77.pdf">GMIT 77 - September 2019</a></figcaption>
+                </figure>
+                <figure>
+                <a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_76__1_.pdf">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit76.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_76__1_.pdf">GMIT 76 - Juni 2019</a></figcaption>
+                </figure>
+                <figure>
+                <a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_75.pdf">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit75.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_75.pdf">GMIT 75 - März 2019</a></figcaption>
+                </figure>
+				</figure>
+                </div>
+                <div class="row-gmit">
+                <h3>2018</h3>
+                <figure style="display:grid;grid-template-columns:repeat(auto-fill, minmax(15em, 1fr));gap:2em;">
+                <figure>
+                                <a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_74.pdf">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit74.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_74.pdf">GMIT 74 - Dezember 2018</a></figcaption>
+                </figure>
+                <figure>
+                <a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_73.pdf">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit73.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_73.pdf">GMIT 73 - Juni 2018</a></figcaption>
+                </figure>
+                <figure>
+                <a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_72.pdf">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit72.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                                </a>
+                <figcaption style="grid-column:1 / -1;"><a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_72.pdf">GMIT 72 - Juni 2018</a></figcaption>
+                </figure>
+                <figure>
+                <a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_71.pdf">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit71.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                                </a>
+                <figcaption style="grid-column:1 / -1;"><a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_71.pdf">GMIT 71 - März 2018</a></figcaption>
+                </figure>
+                </figure>
+         </div>
+</div>
+</div>
+</message>
+
 
 </catalogue>
