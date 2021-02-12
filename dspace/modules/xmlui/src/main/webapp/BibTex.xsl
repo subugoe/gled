@@ -99,7 +99,7 @@
 				  
 			</xsl:when>
 			<!-- monograph, monograph_first, monograph_digi -->
-			<xsl:when test="($type='monograph') or ($type='map_mono')">
+			<xsl:when test="($type='monograph') or ($type='map_mono') or ($type='map_digi')">
 				<xsl:choose>
 					<xsl:when test="starts-with($type, 'map')">
 						<xsl:text>&#64;misc&#123;</xsl:text><xsl:value-of select="concat('gledocs_', translate($id, '/', '_'))" />
@@ -123,7 +123,7 @@
 					<xsl:call-template name="publisher" />
 				</xsl:otherwise>
 			</xsl:choose>
-
+			<xsl:call-template name="newline"/>
 			<xsl:call-template name="series" />
 			<xsl:call-template name="abstract" />
 			<!-- <xsl:call-template name="language" /> -->

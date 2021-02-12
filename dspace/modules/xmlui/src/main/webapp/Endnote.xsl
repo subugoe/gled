@@ -125,7 +125,7 @@
 					<xsl:call-template name="doi" />				  
 			</xsl:when>
 			<!-- monograph, monograph_first, monograph_digi, map_mono -->
-			<xsl:when test="($type='monograph') or ($type='map_mono')">
+			<xsl:when test="($type='monograph') or ($type='map_mono') or ($type='map_digi')">
 				<xsl:choose>
 					<xsl:when test="$content_type='thesis'">
 						<xsl:text>&#37;0 Thesis</xsl:text>

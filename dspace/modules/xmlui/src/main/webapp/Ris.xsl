@@ -67,10 +67,10 @@
 				<!-- What is the TY for article not published in journal??? -->
 				<xsl:choose>
 					<xsl:when test="contains($type, 'Paper')">
-						<xsl:text>TY - CPAPER</xsl:text>
+						<xsl:text>TY  - CPAPER</xsl:text>
 					</xsl:when> 
 					<xsl:otherwise>
-						<xsl:text>TY - JOUR</xsl:text>
+						<xsl:text>TY  - JOUR</xsl:text>
 					</xsl:otherwise>
 				</xsl:choose>	
 			  <xsl:call-template name="newline"/>
@@ -80,27 +80,29 @@
 			  <xsl:call-template name="volume" />
 			  <xsl:call-template name="number" />
 			  <xsl:call-template name="pages" />
+			<xsl:call-template name="journal" />
 			<xsl:call-template name="doi" />
 			</xsl:when>
 	        <!-- anthologyArticle, anthologyArticle_digi -->
 		    <xsl:when test="($type='anthologyArticle') ">
-				<xsl:text>TY - CHAP</xsl:text>
+				<xsl:text>TY  - CHAP</xsl:text>
 				
 				<xsl:call-template name="newline"/>
 				<xsl:call-template name="authors" />
 				<xsl:call-template name="editors" />
 				<xsl:call-template name="title" />
 				<xsl:call-template name="booktitle" />
+				<xsl:call-template name="seriestitle" />
 				<xsl:call-template name="year"/>
 				<xsl:call-template name="doi" />
 	        </xsl:when>
 	        <xsl:when test="($type='anthologyArticle_digi')">
 				<xsl:choose>
 					<xsl:when test="$content_type='conference'">
-						<xsl:text>TY - CPAPER</xsl:text>
+						<xsl:text>TY  - CPAPER</xsl:text>
 					</xsl:when> 
 					<xsl:otherwise>
-						<xsl:text>TY - CHAP</xsl:text>
+						<xsl:text>TY  - CHAP</xsl:text>
 					</xsl:otherwise>
 				</xsl:choose>				
 				<xsl:call-template name="newline"/>
@@ -108,6 +110,7 @@
 				<xsl:call-template name="editors" />
 				<xsl:call-template name="title" />
 				<xsl:call-template name="booktitle" />
+				<xsl:call-template name="seriestitle" />
 				<xsl:call-template name="year"/>
 				<xsl:call-template name="doi" />
 	        </xsl:when>
@@ -115,34 +118,35 @@
 	        <xsl:when test="starts-with($type, 'anthology') or ($type='map_anth')">
 				<xsl:choose>
 					<xsl:when test="$content_type='conference'">
-						<xsl:text>TY - CONF</xsl:text>
+						<xsl:text>TY  - CONF</xsl:text>
 					</xsl:when> 
 					<xsl:when test="starts-with($type, 'map')">
-						<xsl:text>TY - MAP</xsl:text>
+						<xsl:text>TY  - MAP</xsl:text>
 					</xsl:when>
 					<xsl:otherwise>
-						<xsl:text>TY - BOOK</xsl:text>
+						<xsl:text>TY  - BOOK</xsl:text>
 					</xsl:otherwise>
 				</xsl:choose>					
 				
 				  <xsl:call-template name="newline"/>
 				  <xsl:call-template name="editors" />
 				  <xsl:call-template name="title" />
+					<xsl:call-template name="seriestitle" />
 				  <xsl:call-template name="year"/>
 				<xsl:call-template name="doi" />
 				  
 			</xsl:when>
 			<!-- monograph, monograph_first, monograph_digi -->
-			<xsl:when test="($type='monograph') or ($type='map_mono')">
+			<xsl:when test="($type='monograph') or ($type='map_mono') or ($type='map_digi')">
 				<xsl:choose>
 					<xsl:when test="$content_type='thesis'">
-						<xsl:text>TY - THES</xsl:text>
+						<xsl:text>TY  - THES</xsl:text>
 					</xsl:when>
 					<xsl:when test="starts-with($type, 'map')">
-						<xsl:text>TY - MAP</xsl:text>
+						<xsl:text>TY  - MAP</xsl:text>
 					</xsl:when>
 					<xsl:otherwise>
-						<xsl:text>TY - BOOK</xsl:text>
+						<xsl:text>TY  - BOOK</xsl:text>
 					</xsl:otherwise>
 				</xsl:choose>
 				
@@ -150,6 +154,7 @@
 				  <xsl:call-template name="newline"/>
 				  <xsl:call-template name="authors" />
 				  <xsl:call-template name="title" />
+				<xsl:call-template name="seriestitle" />
 				  <xsl:call-template name="year"/>
 				<xsl:call-template name="doi" />
 			</xsl:when>        
@@ -160,10 +165,10 @@
             <!-- <xsl:call-template name="language"/> -->
 			<xsl:call-template name="abstract"/>
 			<!-- <xsl:call-template name="keywords"/> -->
-			<xsl:text>UR - </xsl:text><xsl:value-of select="dim:field[@element='identifier'][@qualifier='uri']"/>
+			<xsl:text>UR  - </xsl:text><xsl:value-of select="dim:field[@element='identifier'][@qualifier='uri']"/>
 			<!-- <xsl:call-template name="language"/> -->
 			<xsl:call-template name="newline"/>
-			<xsl:text>ER -</xsl:text>
+			<xsl:text>ER  - </xsl:text>
 			<xsl:call-template name="newline"/>
 			<xsl:call-template name="newline"/>
 	<!-- <xsl:copy-of select="dim:dim" /> -->
@@ -174,7 +179,7 @@
 
 	<xsl:template name="authors">
 		<xsl:for-each select="//dim:field[@element='contributor'][@qualifier='author']">
-				<xsl:text>A1 - </xsl:text>
+				<xsl:text>A1  - </xsl:text>
 				<xsl:value-of select="." />
 			      <xsl:call-template name="newline"/> 
 			</xsl:for-each>
@@ -182,43 +187,50 @@
 	
 	<xsl:template name="editors">
 		<xsl:for-each select="//dim:field[@element='contributor'][@qualifier='editor']">
-				<xsl:text>ED - </xsl:text>
+				<xsl:text>ED  - </xsl:text>
 				<xsl:value-of select="." />
 			      <xsl:call-template name="newline"/> 
 			</xsl:for-each>
 	</xsl:template>
     
     <xsl:template name="title">
-      <xsl:text>T1 - </xsl:text><xsl:value-of select="normalize-space(//dim:field[@element='title'])" />
+      <xsl:text>T1  - </xsl:text><xsl:value-of select="normalize-space(//dim:field[@element='title'])" />
       <xsl:if test="//dim:field[@element='title'][@qualifier='alternative']">
 		  <xsl:call-template name="newline"/>
-		  <xsl:text>T1 - </xsl:text><xsl:value-of select="normalize-space(//dim:field[@element='title'][@qualifier='alternative'])" />
+		  <xsl:text>T1  - </xsl:text><xsl:value-of select="normalize-space(//dim:field[@element='title'][@qualifier='alternative'])" />
       </xsl:if>
       <xsl:call-template name="newline"/>
     </xsl:template>
     
     <xsl:template name="booktitle">
 		<xsl:for-each select="//dim:field[@element='relation'][@qualifier='ispartof']">
-		  <xsl:text>T2 - </xsl:text><xsl:value-of select="normalize-space(.)" />
+		  <xsl:text>T2  - </xsl:text><xsl:value-of select="normalize-space(.)" />
 		  <xsl:call-template name="newline"/>
+      </xsl:for-each>
+    </xsl:template>
+
+   <xsl:template name="seriestitle">
+                <xsl:for-each select="//dim:field[@element='relation'][@qualifier='ispartofseries']">
+                  <xsl:text>T3  - </xsl:text><xsl:value-of select="normalize-space(.)" />
+                  <xsl:call-template name="newline"/>
       </xsl:for-each>
     </xsl:template>
 
     <xsl:template name="journal">
       <xsl:for-each select="//dim:field[@element='bibliographicCitation'][@qualifier='journal']">
-		  <xsl:text>JF - </xsl:text><xsl:value-of select="." />
+		  <xsl:text>JF  - </xsl:text><xsl:value-of select="." />
 		  <xsl:call-template name="newline"/>
        </xsl:for-each>
     </xsl:template>
 
     <xsl:template name="year">
-      <xsl:text>Y1 - </xsl:text><xsl:value-of select="dim:field[@element='date'][@qualifier='issued']" />
+      <xsl:text>Y1  - </xsl:text><xsl:value-of select="dim:field[@element='date'][@qualifier='issued']" />
 		<xsl:call-template name="newline"/>	
     </xsl:template>
 
     <xsl:template name="abstract">
 		<xsl:for-each select="//dim:field[@element='description'][@qualifier='abstract']">
-		<xsl:text>N2 - </xsl:text><xsl:value-of select="normalize-space(.)" />
+		<xsl:text>N2  - </xsl:text><xsl:value-of select="normalize-space(.)" />
                 <xsl:call-template name="newline"/>
 		</xsl:for-each>
     </xsl:template>
@@ -227,7 +239,7 @@
 		<xsl:for-each select="dim:field[@element='subject' and not(@qualifier)]">
 		<!--<xsl:call-template name="tokenize">
 			<xsl:with-param name="list"> -->
-		<xsl:text>KW - </xsl:text>
+		<xsl:text>KW  - </xsl:text>
 				 <xsl:value-of select="dim:field[@element='subject' and not(@qualifier)]" /> 
 		<!--	</xsl:with-param>
 		</xsl:call-template> -->
@@ -237,7 +249,7 @@
 
     <xsl:template name="doi">
 		<xsl:for-each select="dim:field[@element='identifier'][@qualifier='doi']" >
-			<xsl:text>DO - </xsl:text><xsl:value-of select="." />
+			<xsl:text>DO  - </xsl:text><xsl:value-of select="." />
 			<xsl:call-template name="newline"/>
 		</xsl:for-each>
     </xsl:template>
@@ -250,14 +262,14 @@
 -->
     <xsl:template name="volume">
 		<xsl:for-each select="//dim:field[@element='bibliographicCitation'][@qualifier='volume']" >
-			<xsl:text>VL - </xsl:text><xsl:value-of select="." />			
+			<xsl:text>VL  - </xsl:text><xsl:value-of select="." />			
 			<xsl:call-template name="newline"/>
 		</xsl:for-each>
     </xsl:template>
 
    <xsl:template name="number">
 		<xsl:for-each select="//dim:field[@element='bibliographicCitation'][@qualifier='issue']" >
-			<xsl:text>IS - </xsl:text><xsl:value-of select="." />		
+			<xsl:text>IS  - </xsl:text><xsl:value-of select="." />		
 			<xsl:call-template name="newline"/>
 		</xsl:for-each>
     </xsl:template>
@@ -265,7 +277,7 @@
 
    <xsl:template name="isbn">
 		<xsl:if test="dim:field[@element='identifier'][@qualifier='isbn']" >
-			<xsl:text>SN - </xsl:text><xsl:value-of select="dim:field[@element='identifier'][@qualifier='isbn']" />			
+			<xsl:text>SN  - </xsl:text><xsl:value-of select="dim:field[@element='identifier'][@qualifier='isbn']" />			
 			<xsl:call-template name="newline"/>
 		</xsl:if>
     </xsl:template>
@@ -273,16 +285,16 @@
    <xsl:template name="issn">
 	
                 <xsl:if test="dim:field[@element='relation'][@qualifier='eISSN']" >
-					<xsl:text>SN - </xsl:text><xsl:value-of select="dim:field[@element='relation'][@qualifier='eISSN']" />
+					<xsl:text>SN  - </xsl:text><xsl:value-of select="dim:field[@element='relation'][@qualifier='eISSN']" />
 					<xsl:call-template name="newline"/>
                 </xsl:if>
                 <xsl:if test="dim:field[@element='relation'][@qualifier='pISSN']" >
-					<xsl:text>SN - </xsl:text><xsl:value-of select="dim:field[@element='relation'][@qualifier='pISSN']" />
+					<xsl:text>SN  - </xsl:text><xsl:value-of select="dim:field[@element='relation'][@qualifier='pISSN']" />
 					<xsl:call-template name="newline"/>
                 </xsl:if>
 
 		<xsl:if test="dim:field[@element='relation'][@qualifier='issn']" >
-                <xsl:text>SN - </xsl:text><xsl:value-of select="dim:field[@element='relation'][@qualifier='issn']" />
+                <xsl:text>SN  - </xsl:text><xsl:value-of select="dim:field[@element='relation'][@qualifier='issn']" />
                 <xsl:call-template name="newline"/>
                 </xsl:if>
     </xsl:template>
@@ -290,12 +302,12 @@
 
    <xsl:template name="pages">
 		<xsl:if test="//dim:field[@element='bibliographicCitation'][@qualifier='firstPage']" >
-			<xsl:text>SP - </xsl:text><xsl:value-of select="//dim:field[@element='bibliographicCitation'][@qualifier='firstPage']" />
+			<xsl:text>SP  - </xsl:text><xsl:value-of select="//dim:field[@element='bibliographicCitation'][@qualifier='firstPage']" />
 			<xsl:call-template name="newline"/>
 		</xsl:if>
 	      
 		<xsl:if test="//dim:field[@element='bibliographicCitation'][@qualifier='lastPage']" >
-			<xsl:text>EP - </xsl:text>
+			<xsl:text>EP  - </xsl:text>
 			<xsl:value-of select="//dim:field[@element='bibliographicCitation'][@qualifier='lastPage']" />	
 			<xsl:call-template name="newline"/>
 		</xsl:if>
@@ -304,12 +316,12 @@
 
    <xsl:template name="publisher">
 		<xsl:if test="//dim:field[@element='publisher']" >
-			<xsl:text>PB - </xsl:text>
+			<xsl:text>PB  - </xsl:text>
 			<xsl:choose>
 				<xsl:when test="contains(//dim:field[@element='publisher'], ',')">
 					<xsl:value-of select="substring-before(//dim:field[@element='publisher'], ',')" />
 					<xsl:call-template name="newline"/>
-					<xsl:text>CY - </xsl:text><xsl:value-of select="normalize-space(substring-after(//dim:field[@element='publisher'], ','))" />
+					<xsl:text>CY  - </xsl:text><xsl:value-of select="normalize-space(substring-after(//dim:field[@element='publisher'], ','))" />
 				</xsl:when>
 				<xsl:otherwise>
 					<xsl:value-of select="//dim:field[@element='publisher']" />
@@ -320,7 +332,7 @@
     </xsl:template>
     
     <xsl:template name="uri">
-			<xsl:text>UR - </xsl:text>
+			<xsl:text>UR  - </xsl:text>
 			<xsl:value-of select="//dim:field[@element='identifier'][@qualifier='uri']" />
 			<xsl:call-template name="newline"/>
     </xsl:template>
@@ -337,7 +349,7 @@
     <xsl:variable name="newlist" select="concat(normalize-space($list), ';')" />
      <xsl:variable name="first" select="substring-before($newlist, ';')" />
      <xsl:variable name="remaining" select="substring-after($newlist, ';')" />
-     <xsl:text>KW - </xsl:text><xsl:value-of select="$first" />
+     <xsl:text>KW  - </xsl:text><xsl:value-of select="$first" />
      <xsl:if test="$remaining">
          <xsl:call-template name="tokenize">
              <xsl:with-param name="list" select="$remaining" />
