@@ -124,7 +124,13 @@
                                   </xsl:if>
                                   <xsl:copy-of select="node()"/>
                                 </span>
-                                <xsl:if test="count(following-sibling::dim:field[@element='contributor'][@qualifier='author']) != 0">
+<xsl:if test="starts-with(@authority, '0000-')">
+<a target="_blank" href="{concat('//orcid.org/',@authority)}" title="ORCID">
+<img src="/themes/Mirage2/images/ORCIDiD_icon16x16.png" alt="ORCIDiD" style="margin:4px;"/>
+</a>
+                </xsl:if>                             
+
+   <xsl:if test="count(following-sibling::dim:field[@element='contributor'][@qualifier='author']) != 0">
                                     <xsl:text>; </xsl:text>
                                 </xsl:if>
                             </xsl:for-each>
@@ -137,6 +143,11 @@
                                   </xsl:if>
                                   <xsl:copy-of select="node()"/><xsl:text> (Hrsg.)</xsl:text>
                                 </span>
+				<xsl:if test="starts-with(@authority, '0000-')">
+<a target="_blank" href="{concat('//orcid.org/',@authority)}" title="ORCID">
+<img src="/themes/Mirage2/images/ORCIDiD_icon16x16.png" alt="ORCIDiD" style="margin:4px;"/>
+</a>
+                </xsl:if>
                                 <xsl:if test="count(following-sibling::dim:field[@element='contributor'][@qualifier='editor']) != 0">
                                     <xsl:text>; </xsl:text>
                                 </xsl:if>
@@ -183,24 +194,29 @@
                                         <span class="publisher">
                                             <xsl:copy-of select="dim:field[@element='bibliographicCitation' and @qualifier='journal']/node()"/>
                                         </span>
-                                        <xsl:text>, </xsl:text></xsl:when>
-					<xsl:when test="dim:field[@element='date' and @qualifier='issued']">
-					<span class="date">
-        	                        <xsl:value-of select="substring(dim:field[@element='date' and @qualifier='issued']/node(),1,10)"/>
-	                                </span>
-                    		        <xsl:text>)</xsl:text>
-                                    </xsl:when>
+                                        <xsl:text>, </xsl:text>
+					 <xsl:if test="dim:field[@element='date' and @qualifier='issued']">
+                                        <span class="date">
+                                        <xsl:value-of select="substring(dim:field[@element='date' and @qualifier='issued']/node(),1,10)"/>
+                                        </span>
+                                        <xsl:text>)</xsl:text>
+                                    </xsl:if>
+
+					</xsl:when>
 				    <xsl:otherwise>
 					<span class="publisher">
                                             <xsl:copy-of select="dim:field[@element='publisher']/node()"/>
                                         </span>
-                                        <xsl:text>, </xsl:text>
-					<span class="date">
-	                                <xsl:value-of select="substring(dim:field[@element='date' and @qualifier='issued']/node(),1,10)"/>
-        	        	        </span>
-                	        	<xsl:text>)</xsl:text>
+				 <xsl:if test="dim:field[@element='date' and @qualifier='issued']">
+                                        <span class="date">
+                                        <xsl:value-of select="substring(dim:field[@element='date' and @qualifier='issued']/node(),1,10)"/>
+                                        </span>
+                                        <xsl:text>)</xsl:text>
+                                    </xsl:if>
+
 				    </xsl:otherwise>
 				    </xsl:choose>
+
                                 </xsl:when>
 								<!-- anthologyArticle_digi, anthologyArticle, conferencePaper -->
                                 <xsl:when test="dim:field[@element='type'] = 'anthologyArticle' or dim:field[@element='type'] = 'anthologyArticle_digi' or dim:field[@element='type'] = 'conferencePaper'">
@@ -233,10 +249,11 @@
                                         <xsl:text>)</xsl:text>
                                     </xsl:when>
 				    <xsl:otherwise>
+					<xsl:if test="dim:field[@element='publisher']">
 					<span class="publisher">
                                             <xsl:copy-of select="dim:field[@element='publisher']/node()"/>
                                         </span>
-                                        <xsl:text>, </xsl:text>
+                                        <xsl:text>, </xsl:text></xsl:if>
                                         <span class="date">
                                         <xsl:value-of select="substring(dim:field[@element='date' and @qualifier='issued']/node(),1,10)"/>
                                         </span>
@@ -250,12 +267,11 @@
                                         <span class="publisher">
                                             <xsl:copy-of select="dim:field[@element='publisher']/node()"/>
                                         </span>
-                                        <xsl:text>, </xsl:text>
+                                        <xsl:text>, </xsl:text></xsl:if>
 					<span class="date">
                                         <xsl:value-of select="substring(dim:field[@element='date' and @qualifier='issued']/node(),1,10)"/>
                                         </span>
                                         <xsl:text>)</xsl:text>
-                                    </xsl:if>
                                 </xsl:otherwise>
                                 </xsl:choose>
                         </small></span>
@@ -370,6 +386,11 @@
                                         </xsl:if>
                                         <xsl:copy-of select="node()"/>
                                     </span>
+					<xsl:if test="starts-with(@authority, '0000-')">
+<a target="_blank" href="{concat('//orcid.org/',@authority)}" title="ORCID">
+<img src="/themes/Mirage2/images/ORCIDiD_icon16x16.png" alt="ORCIDiD" style="margin:4px;"/>
+</a>
+                </xsl:if>
                                     <xsl:if test="count(following-sibling::dim:field[@element='contributor'][@qualifier='author']) != 0">
                                         <xsl:text>; </xsl:text>
                                     </xsl:if>

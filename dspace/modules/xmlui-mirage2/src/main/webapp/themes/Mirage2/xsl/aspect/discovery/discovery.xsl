@@ -214,7 +214,12 @@
                                         </xsl:if>
                                         <xsl:apply-templates select="."/>
                                     </span>
-
+<xsl:if test="starts-with($metsDoc/mets:METS/mets:dmdSec/mets:mdWrap/mets:xmlData/dim:dim/dim:field[@element='contributor' and @qualifier='author' and . = $author]/@authority, '0000-')">
+<a target="_blank" href="{concat('//orcid.org/',$metsDoc/mets:METS/mets:dmdSec/mets:mdWrap/mets:xmlData/dim:dim/dim:field[@element='contributor' and
+@qualifier='author' and . = $author]/@authority)}" title="ORCID">
+<img src="/themes/Mirage2/images/ORCIDiD_icon16x16.png" alt="ORCIDiD" style="margin:4px;"/>
+</a>
+                </xsl:if>
                                     <xsl:if test="count(following-sibling::dri:item) != 0">
                                         <xsl:text>; </xsl:text>
                                     </xsl:if>
@@ -222,7 +227,16 @@
                             </xsl:when>
 			    <xsl:when test="dri:list[@n=(concat($handle, ':dc.contributor.editor'))]">
                                 <xsl:for-each select="dri:list[@n=(concat($handle, ':dc.contributor.editor'))]/dri:item">
+					<xsl:variable name="editor">
+                                        <xsl:apply-templates select="."/>
+                                    </xsl:variable>
                                      <xsl:apply-templates select="."/>                             
+				<xsl:if test="starts-with($metsDoc/mets:METS/mets:dmdSec/mets:mdWrap/mets:xmlData/dim:dim/dim:field[@element='contributor' and @qualifier='editor' and . = $editor]/@authority, '0000-')">
+<a target="_blank" href="{concat('//orcid.org/',$metsDoc/mets:METS/mets:dmdSec/mets:mdWrap/mets:xmlData/dim:dim/dim:field[@element='contributor' and
+@qualifier='editor' and . = $editor]/@authority)}" title="ORCID">
+<img src="/themes/Mirage2/images/ORCIDiD_icon16x16.png" alt="ORCIDiD" style="margin:4px;"/>
+</a>
+                </xsl:if>
                                     <xsl:if test="count(following-sibling::dri:item) != 0">
                                         <xsl:text>; </xsl:text>
                                     </xsl:if>
@@ -335,10 +349,11 @@
 							<xsl:text>)</xsl:text>
 						</xsl:when>
 						<xsl:otherwise>
+							<xsl:if test="dri:list[@n=(concat($handle, ':dc.publisher'))]">
 							<span class="publisher">
 								<xsl:copy-of select="dri:list[@n=(concat($handle, ':dc.publisher'))]/dri:item"/>
 							</span>
-							<xsl:text>, </xsl:text>
+							<xsl:text>, </xsl:text></xsl:if>
 							<span class="date">
 							<xsl:value-of select="substring(dri:list[@n=(concat($handle, ':dc.date.issued'))]/dri:item,1,10)"/>
 							</span>

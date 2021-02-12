@@ -185,7 +185,7 @@
                 </xsl:if>
         </xsl:if>	
 
-	 <xsl:if test="dim:field[@element='type'] = 'anthologyArticle' or dim:field[@element='type'] = 'anthologyArticle_digi'">
+	 <xsl:if test="dim:field[@element='type'] = 'anthologyArticle' or dim:field[@element='type'] = 'anthologyArticle_digi' or dim:field[@element='type'] = 'anthologyArticle_first'">
                  <xsl:call-template name="citationanthoart"/>
         </xsl:if>
 
@@ -400,8 +400,10 @@
                                 </xsl:when>
                             <xsl:otherwise>
                             <xsl:if test="dim:field[@element='relation'][@qualifier='ispartof']"><xsl:text>In: </xsl:text><xsl:copy-of select="dim:field[@element='relation'][@qualifier='ispartof'][1]/node()"/><xsl:text>, </xsl:text></xsl:if>
+			
                                 </xsl:otherwise>
                         </xsl:choose>
+	 <xsl:if test="dim:field[@element='relation'][@qualifier='ispartofseries']"><xsl:copy-of select="substring-before(dim:field[@element='relation'][@qualifier='ispartofseries'][1]/node(), ';')"/><xsl:text>, </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='relation'][@qualifier='ispartofseries'][1]/node(), ';')"/><xsl:text>, </xsl:text></xsl:if>
     </xsl:variable>
 	<xsl:variable name="identifier">
                         <xsl:choose>
@@ -482,9 +484,18 @@
                             <xsl:copy-of select="dim:field[@element='relation'][@qualifier='volume'][1]/node()"/><xsl:text>, </xsl:text>
                                 </xsl:when>
                             <xsl:otherwise>
-                            <xsl:if test="dim:field[@element='relation'][@qualifier='ispartofseries']"><xsl:copy-of select="dim:field[@element='relation'][@qualifier='ispartofseries'][1]/node()"/><xsl:text>, </xsl:text></xsl:if>
+				<xsl:if test="dim:field[@element='relation'][@qualifier='ispartofseries']"><xsl:copy-of select="substring-before(dim:field[@element='relation'][@qualifier='ispartofseries'][1]/node(), ';')"/><xsl:text>, </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='relation'][@qualifier='ispartofseries'][1]/node(), ';')"/><xsl:text>, </xsl:text></xsl:if>
                                 </xsl:otherwise>
                         </xsl:choose>
+			<xsl:if test="dim:field[@element='format'][@qualifier='extent']">
+                                <xsl:copy-of select="dim:field[@element='format'][@qualifier='extent'][1]/node()"/>
+				<xsl:if test="contains(dim:field[@element='format'][@qualifier='extent'], 'S')">
+				<xsl:text>, </xsl:text>
+				</xsl:if>
+				<xsl:if test="not(contains(dim:field[@element='format'][@qualifier='extent'], 'S'))">
+                                <xsl:text>s., </xsl:text>
+                                </xsl:if>
+                        </xsl:if>
     </xsl:variable>
 	<xsl:variable name="identifier">
                         <xsl:choose>
@@ -623,11 +634,11 @@
 			    <xsl:when test="dim:field[@element='bibliographicCitation'][@qualifier='journal']">
                             <xsl:text>In: </xsl:text><xsl:copy-of select="dim:field[@element='bibliographicCitation'][@qualifier='journal'][1]/node()"/>
 				<xsl:if test="dim:field[@element='bibliographicCitation'][@qualifier='volume']">
-					<xsl:text>; Band </xsl:text><xsl:copy-of select="dim:field[@element='bibliographicCitation'][@qualifier='volume'][1]/node()"/>
+					<xsl:text>, Band </xsl:text><xsl:copy-of select="dim:field[@element='bibliographicCitation'][@qualifier='volume'][1]/node()"/>
 				</xsl:if>
 				</xsl:when>
 				<xsl:otherwise><xsl:if test="dim:field[@element='relation'][@qualifier='volume']">
-                            <xsl:text>In: </xsl:text><xsl:copy-of select="dim:field[@element='relation'][@qualifier='volume'][1]/node()"/></xsl:if>
+                            <xsl:text>In: </xsl:text><xsl:copy-of select="substring-before(dim:field[@element='relation'][@qualifier='volume'][1]/node(), ';')"/><xsl:text>, </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='relation'][@qualifier='volume'][1]/node(), ';')"/></xsl:if>
                                 </xsl:otherwise>
 			</xsl:choose>	
     </xsl:variable>
@@ -702,10 +713,22 @@
                             <xsl:when test="dim:field[@element='relation'][@qualifier='volume']">
                             <xsl:copy-of select="dim:field[@element='relation'][@qualifier='volume'][1]/node()"/><xsl:text>, </xsl:text>
                                 </xsl:when>
+				<xsl:when test="dim:field[@element='relation'][@qualifier='ispartofseries']"><xsl:copy-of select="substring-before(dim:field[@element='relation'][@qualifier='ispartofseries'][1]/node(), ';')"/><xsl:text>, </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='relation'][@qualifier='ispartofseries'][1]/node(), ';')"/><xsl:text>, </xsl:text></xsl:when>
                             <xsl:otherwise>
                             <xsl:if test="dim:field[@element='publisher'][not(@qualifier)]"><xsl:copy-of select="dim:field[@element='publisher'][not(@qualifier)][1]/node()"/><xsl:text>, </xsl:text></xsl:if>
                                 </xsl:otherwise>
+
                         </xsl:choose>
+			<xsl:if test="dim:field[@element='format'][@qualifier='extent']">
+                                <xsl:copy-of select="dim:field[@element='format'][@qualifier='extent'][1]/node()"/>
+                                <xsl:if test="contains(dim:field[@element='format'][@qualifier='extent'], 'S')">
+                                <xsl:text>, </xsl:text>
+                                </xsl:if>
+                                <xsl:if test="not(contains(dim:field[@element='format'][@qualifier='extent'], 'S'))">
+                                <xsl:text>s., </xsl:text>
+                                </xsl:if>
+                        </xsl:if>
+
     </xsl:variable>
 	<xsl:variable name="identifier">
                         <xsl:choose>
@@ -1915,6 +1938,9 @@
                                 <img class="img-responsive" src="/themes/Mirage2/images/creativecommons/cc-zero.png" alt="Universal Public Domain Dedication" style="float:left;margin-right:10px;"/>
                                 <a href="https://creativecommons.org/publicdomain/zero/1.0/" style="font-size:20px">CC Zero</a>
                         </xsl:when>
+			 <xsl:otherwise>
+                               <div><a href="https://e-docs.geo-leo.de/rights">GEO-LEO e-docs Lizenz</a></div>
+                        </xsl:otherwise>
 
 
 
