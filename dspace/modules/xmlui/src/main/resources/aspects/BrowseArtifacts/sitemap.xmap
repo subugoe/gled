@@ -72,6 +72,16 @@ collections / items / and bitstreams.
                 <map:serialize type="xml"/>
            </map:match>
 
+ <!-- statische Seite für GMIT-Übersichtsseite -->
+            <map:match pattern="gmit">
+                <map:act type="DSpacePropertyFileReader">
+                <map:parameter name="dspace.dir" value="dspace.dir" />
+                <map:transform type="Include" src="file://{dspace.dir}/config/gmit.xml" />
+                </map:act>
+                <map:serialize type="xml"/>
+           </map:match>
+
+
   <!-- statische Seite für Datenschutz -->
             <map:match pattern="privacy">
                 <map:act type="DSpacePropertyFileReader">

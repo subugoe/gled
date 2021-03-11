@@ -261,7 +261,7 @@
 
         <xsl:variable name="dateissued">
                 <xsl:if test="dim:field[@element='date'][@qualifier='issued']">
-                <xsl:copy-of select="dim:field[@element='date'][@qualifier='issued']/node()"/>
+                <xsl:copy-of select="substring(dim:field[@element='date'][@qualifier='issued']/node(), 1,4)"/>
                 </xsl:if>
     </xsl:variable>
         <xsl:variable name="citation">
@@ -319,7 +319,7 @@
 
         <xsl:variable name="dateissued">
                 <xsl:if test="dim:field[@element='date'][@qualifier='issued']">
-                <xsl:copy-of select="dim:field[@element='date'][@qualifier='issued']/node()"/>
+                <xsl:copy-of select="substring(dim:field[@element='date'][@qualifier='issued']/node(), 1,4)"/>
                 </xsl:if>
     </xsl:variable>
                 <xsl:variable name="title">
@@ -382,7 +382,7 @@
 
         <xsl:variable name="dateissued">
                 <xsl:if test="dim:field[@element='date'][@qualifier='issued']">
-                <xsl:copy-of select="dim:field[@element='date'][@qualifier='issued']/node()"/>
+                <xsl:copy-of select="substring(dim:field[@element='date'][@qualifier='issued']/node(), 1,4)"/>
                 </xsl:if>
     </xsl:variable>
                 <xsl:variable name="title">
@@ -467,7 +467,7 @@
     </xsl:variable>
         <xsl:variable name="dateissued">
                 <xsl:if test="dim:field[@element='date'][@qualifier='issued']">
-                <xsl:copy-of select="dim:field[@element='date'][@qualifier='issued']/node()"/>
+                <xsl:copy-of select="substring(dim:field[@element='date'][@qualifier='issued']/node(), 1,4)"/>
                 </xsl:if>
     </xsl:variable>
                 <xsl:variable name="title">
@@ -517,11 +517,22 @@
                         </xsl:choose>
     </xsl:variable>
 
+	<xsl:choose>
+		<xsl:when test="contains(dim:field[@element='title'][not(@qualifier)], 'GMIT')">
+	<div class="citation">
+                <span id="citation"><xsl:value-of select="concat($authors, $editors, ', ', $dateissued, ': ', $citation, $identifier)"/></span>
+                <xsl:text> </xsl:text>
+                <a href="#" onclick="copyToClipboard('#citation')" title="Copy to Clipboard"><i class="fa fa-clipboard"></i></a>
+        </div>
+		</xsl:when>
+		<xsl:otherwise>
         <div class="citation">
                 <span id="citation"><xsl:value-of select="concat($authors, $editors, ', ', $dateissued, ': ', $title, '. ', $citation, $identifier)"/></span>
                 <xsl:text> </xsl:text>
                 <a href="#" onclick="copyToClipboard('#citation')" title="Copy to Clipboard"><i class="fa fa-clipboard"></i></a>
         </div>
+		</xsl:otherwise>
+	</xsl:choose>
 </xsl:template>
 
 		<xsl:template name="citationanthogeophysik">
@@ -558,7 +569,7 @@
     </xsl:variable>
         <xsl:variable name="dateissued">
                 <xsl:if test="dim:field[@element='date'][@qualifier='issued']">
-                <xsl:copy-of select="dim:field[@element='date'][@qualifier='issued']/node()"/>
+                <xsl:copy-of select="substring(dim:field[@element='date'][@qualifier='issued']/node(), 1,4)"/>
                 </xsl:if>
     </xsl:variable>
                 <xsl:variable name="title">
@@ -615,7 +626,7 @@
     </xsl:variable>
 	<xsl:variable name="dateissued">
                 <xsl:if test="dim:field[@element='date'][@qualifier='issued']">
-		<xsl:copy-of select="dim:field[@element='date'][@qualifier='issued']/node()"/>
+		<xsl:copy-of select="substring(dim:field[@element='date'][@qualifier='issued']/node(), 1,4)"/>
 		</xsl:if>
     </xsl:variable>
 		<xsl:variable name="title">
@@ -672,11 +683,21 @@
                                 </xsl:if>
     </xsl:variable>
 
+	<xsl:if test="dim:field[@element='bibliographicCitation'][@qualifier='firstPage'] and not(dim:field[@element='identifier'][@qualifier='citation'])">
         <div class="citation">
 		<span id="citation"><xsl:value-of select="concat($authors, ', ', $dateissued, ': ', $title, '. ', $citation, $pages, $identifier)"/></span>
 		<xsl:text> </xsl:text>
 		<a href="#" onclick="copyToClipboard('#citation')" title="Copy to Clipboard"><i class="fa fa-clipboard"></i></a>
         </div>
+	</xsl:if>
+	<xsl:if test="not(dim:field[@element='bibliographicCitation'][@qualifier='firstPage']) or dim:field[@element='identifier'][@qualifier='citation']">
+	<div class="citation">
+                <span id="citation"><xsl:value-of select="concat($authors, ', ', $dateissued, ': ', $title, '. ', $citation, ', ', $identifier)"/></span>
+                <xsl:text> </xsl:text>
+                <a href="#" onclick="copyToClipboard('#citation')" title="Copy to Clipboard"><i class="fa fa-clipboard"></i></a>
+        </div>
+	</xsl:if>
+
 </xsl:template>
 
 <xsl:template name="citationmono">
@@ -697,7 +718,7 @@
     </xsl:variable>
         <xsl:variable name="dateissued">
                 <xsl:if test="dim:field[@element='date'][@qualifier='issued']">
-                <xsl:copy-of select="dim:field[@element='date'][@qualifier='issued']/node()"/>
+                <xsl:copy-of select="substring(dim:field[@element='date'][@qualifier='issued']/node(), 1,4)"/>
                 </xsl:if>
     </xsl:variable>
                 <xsl:variable name="title">
@@ -1275,7 +1296,7 @@
                 <i18n:text>xmlui.dri2xhtml.METS-1.0.item-date</i18n:text>-->
                 
                 <xsl:for-each select="dim:field[@element='date' and @qualifier='issued']">
-                    <xsl:copy-of select="substring(./node(),1,10)"/>
+                    <xsl:copy-of select="substring(./node(),1,4)"/>
                     <xsl:if test="count(following-sibling::dim:field[@element='date' and @qualifier='issued']) != 0">
                         <br/>
                     </xsl:if>
@@ -1791,10 +1812,18 @@
                                 </a>
                         </xsl:when>
                          <xsl:when test="dim:field[@element='rights'] = 'CC::CC BY 4.0'">
+				<xsl:if test="not(contains(dim:field[@element='title'], 'GMIT'))">
                                 <img class="img-responsive" src="/themes/Mirage2/images/creativecommons/cc-by.png" alt="Attribution 4.0" style="float:left;margin-right:10px;"/>
                                                                 <a href="https://creativecommons.org/licenses/by/4.0/" style="font-size:20px">
                                 <xsl:text>CC BY 4.0</xsl:text>
                                 </a>
+				</xsl:if>
+				 <xsl:if test="contains(dim:field[@element='title'], 'GMIT')">
+                                <img class="img-responsive" src="/themes/Mirage2/images/creativecommons/cc-by.png" alt="Attribution 4.0" style="float:left;margin-right:10px;" />
+                                                                <a href="https://creativecommons.org/licenses/by/4.0/" style="font-size:20px">
+                                <xsl:text>CC BY 4.0</xsl:text>
+                                </a><xsl:text> (gilt nicht für enthaltene Werbung)</xsl:text>
+                                </xsl:if>
                         </xsl:when>
                         <xsl:when test="dim:field[@element='rights'] = 'CC::CC BY-SA 1.0'">
                                 <img class="img-responsive" src="/themes/Mirage2/images/creativecommons/cc-by-sa.png" alt="Attribution-ShareAlike 1.0" style="float:left;margin-right:10px;"/>
@@ -1928,6 +1957,9 @@
                         </xsl:when>
 			<xsl:when test="contains(dim:field[@element='rights'], 'der Rechte durch die VG')">
                                <div><xsl:text>Wahrnehmung der Rechte durch die VG (Verwertungsgesellschaft) Wort (§ 51 VGG (Verwertungsgesellschaftengesetz)).</xsl:text></div>
+                        </xsl:when>
+			<xsl:when test="starts-with(dim:field[@element='rights'], 'This is an open access article under the terms')">
+                               <div><xsl:copy-of select="dim:field[@element='rights']/node()"/></div>
                         </xsl:when>
 			<xsl:when test="dim:field[@element='rights'] = 'CC::CC Public Domain Mark 1.0'">
                                <img class="img-responsive" src="/themes/Mirage2/images/creativecommons/cc-mark.png" alt="Public Domain Mark 1.0" style="float:left;margin-right:10px;"/>

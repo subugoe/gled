@@ -868,28 +868,28 @@
             <version>1.1</version>
          </dependency>
         <!-- Explicitly Specify Latest Version of Spring -->
-        <dependency>
+	<dependency>
             <artifactId>spring-core</artifactId>
             <groupId>org.springframework</groupId>
-            <version>5.2.0.RELEASE</version>
+            <version>3.1.1.RELEASE</version>
         </dependency>
 
         <dependency>
             <artifactId>spring-beans</artifactId>
             <groupId>org.springframework</groupId>
-            <version>5.2.0.RELEASE</version>
+            <version>3.1.1.RELEASE</version>
         </dependency>
 
         <dependency>
             <artifactId>spring-aop</artifactId>
             <groupId>org.springframework</groupId>
-            <version>5.2.0.RELEASE</version>
+            <version>3.1.1.RELEASE</version>
         </dependency>
 
         <dependency>
             <artifactId>spring-context</artifactId>
             <groupId>org.springframework</groupId>
-            <version>5.2.0.RELEASE</version>
+            <version>3.1.1.RELEASE</version>
         </dependency>
 
         <dependency>
@@ -907,14 +907,16 @@
         <dependency>
             <artifactId>spring-web</artifactId>
             <groupId>org.springframework</groupId>
-            <version>5.2.0.RELEASE</version>
+            <version>3.1.1.RELEASE</version>
         </dependency>
 
         <dependency>
             <artifactId>spring-webmvc</artifactId>
             <groupId>org.springframework</groupId>
-            <version>5.2.0.RELEASE</version>
+            <version>3.1.1.RELEASE</version>
         </dependency>
+
+
 
          <dependency>
             <groupId>org.apache.ant</groupId>
@@ -1292,6 +1294,12 @@
               <version>3.0.0</version>
               <scope>provided</scope>
           </dependency>
+	<dependency>
+                <groupId>org.json</groupId>
+                <artifactId>json</artifactId>
+                <version>20170516</version>
+        </dependency>
+
       </dependencies>
    </dependencyManagement>
 

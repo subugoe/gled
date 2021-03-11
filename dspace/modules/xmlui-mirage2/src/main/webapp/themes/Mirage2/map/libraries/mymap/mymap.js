@@ -2,13 +2,18 @@
 // Define map and base layers
 var mymap = L.map('mapid').setView([51.4,16.8], 5);
 
-var Mapbox=L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
-		maxZoom: 18,
-		attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
-				'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
-				'Imagery © <a href="http://mapbox.com">Mapbox</a>',
-		id: 'mapbox.streets'
+var Mapbox=L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw', {
+                maxZoom: 18,
+                attribution: '© <a href="https://www.mapbox.com/about/maps/">Mapbox</a> © <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a> <strong><a href="https://www.mapbox.com/map-feedback/" target="_blank">Improve this map</a></strong>',
+                tileSize: 512,
+                maxZoom: 18,
+                zoomOffset: -1,
+                id: 'mapbox/streets-v11',
+                accessToken: 'pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw'
 }).addTo(mymap);
+
+
+
 
 var OSM_BlackWhite = L.tileLayer('http://{s}.tiles.wmflabs.org/bw-mapnik/{z}/{x}/{y}.png', {
 	maxZoom: 18,
@@ -71,15 +76,30 @@ var selectStyle = {
 function onEachFeature(feature, layer) {
 		
 
-	 if (feature.properties.Link1 != ""&& feature.properties.Link2 == ""){
+	if (feature.properties.Link1 != "" && feature.properties.Link2 == "" && feature.properties.Link3 == "" && feature.properties.Link4 == ""){
         layer.bindPopup("<b>Title: </b>"+feature.properties.Title+"<br><b>Subtitle: </b>"+feature.properties.Subtitle+"<br><b>"+feature.properties.Text+"</b><br><a href='"+feature.properties.Link1+"' target='_blank' title='"+feature.properties.ML1+"'>"+feature.properties.LText1+"</a>");
      }
-     if (feature.properties.Link2 != "" && feature.properties.Link3 == ""){
+     if (feature.properties.Link1 != "" && feature.properties.Link2 != "" && feature.properties.Link3 == "" && feature.properties.Link4 == ""){
         layer.bindPopup("<b>Title: </b>"+feature.properties.Title+"<br><b>Subtitle: </b>"+feature.properties.Subtitle+"<br><b>"+feature.properties.Text+"</b><br><a href='"+feature.properties.Link1+"' target='_blank' title='"+feature.properties.ML1+"'>"+feature.properties.LText1+"</a><br><a href='"+feature.properties.Link2+"' target='_blank' title='"+feature.properties.ML2+"'>"+feature.properties.LText2+"</a>");
      }
-     if (feature.properties.Link3 != ""){
+     if (feature.properties.Link1 != "" && feature.properties.Link2 != "" && feature.properties.Link3 != "" && feature.properties.Link4 == ""){
         layer.bindPopup("<b>Title: </b>"+feature.properties.Title+"<br><b>Subtitle: </b>"+feature.properties.Subtitle+"<br><b>"+feature.properties.Text+"</b><br><a href='"+feature.properties.Link1+"' target='_blank' title='"+feature.properties.ML1+"'>"+feature.properties.LText1+"</a><br><a href='"+feature.properties.Link2+"' target='_blank' title='"+feature.properties.ML2+"'>"+feature.properties.LText2+"</a>"+"<br><a href='"+feature.properties.Link3+"' target='_blank' title='"+feature.properties.ML3+"'>"+feature.properties.LText3+"</a>");
-     }
+	 }
+	 if (feature.properties.Link1 != "" && feature.properties.Link2 != "" && feature.properties.Link3 != "" && feature.properties.Link4 != ""){
+        layer.bindPopup("<b>Title: </b>"+feature.properties.Title+"<br><b>Subtitle: </b>"+feature.properties.Subtitle+"<br><b>"+feature.properties.Text+"</b><br><a href='"+feature.properties.Link1+"' target='_blank' title='"+feature.properties.ML1+"'>"+feature.properties.LText1+"</a><br><a href='"+feature.properties.Link2+"' target='_blank' title='"+feature.properties.ML2+"'>"+feature.properties.LText2+"</a>"+"<br><a href='"+feature.properties.Link3+"' target='_blank' title='"+feature.properties.ML3+"'>"+feature.properties.LText3+"</a>"+"<br><a href='"+feature.properties.Link4+"' target='_blank' title='"+feature.properties.ML4+"'>"+feature.properties.LText4+"</a>");
+	 }
+	if (feature.properties.Link1 != "" && feature.properties.Link2 == "" && feature.properties.Link3 == "" && feature.properties.Link4 != ""){
+        layer.bindPopup("<b>Title: </b>"+feature.properties.Title+"<br><b>Subtitle: </b>"+feature.properties.Subtitle+"<br><b>"+feature.properties.Text+"</b><br><a href='"+feature.properties.Link1+"' target='_blank' title='"+feature.properties.ML1+"'>"+feature.properties.LText1+"</a><br><a href='"+feature.properties.Link4+"' target='_blank' title='"+feature.properties.ML4+"'>"+feature.properties.LText4+"</a>");
+     }	
+	if (feature.properties.Link1 != "" && feature.properties.Link2 == "" && feature.properties.Link3 != "" && feature.properties.Link4 == ""){
+        layer.bindPopup("<b>Title: </b>"+feature.properties.Title+"<br><b>Subtitle: </b>"+feature.properties.Subtitle+"<br><b>"+feature.properties.Text+"</b><br><a href='"+feature.properties.Link1+"' target='_blank' title='"+feature.properties.ML1+"'>"+feature.properties.LText1+"</a><br><a href='"+feature.properties.Link3+"' target='_blank' title='"+feature.properties.ML3+"'>"+feature.properties.LText3+"</a>");
+     }		
+	if (feature.properties.Link1 != "" && feature.properties.Link2 != "" && feature.properties.Link3 == "" && feature.properties.Link4 != ""){
+        layer.bindPopup("<b>Title: </b>"+feature.properties.Title+"<br><b>Subtitle: </b>"+feature.properties.Subtitle+"<br><b>"+feature.properties.Text+"</b><br><a href='"+feature.properties.Link1+"' target='_blank' title='"+feature.properties.ML1+"'>"+feature.properties.LText1+"</a><br><a href='"+feature.properties.Link2+"' target='_blank' title='"+feature.properties.ML2+"'>"+feature.properties.LText2+"</a>"+"<br><a href='"+feature.properties.Link4+"' target='_blank' title='"+feature.properties.ML4+"'>"+feature.properties.LText4+"</a>");
+	 }
+	if (feature.properties.Link1 != "" && feature.properties.Link2 == "" && feature.properties.Link3 != "" && feature.properties.Link4 != ""){
+        layer.bindPopup("<b>Title: </b>"+feature.properties.Title+"<br><b>Subtitle: </b>"+feature.properties.Subtitle+"<br><b>"+feature.properties.Text+"</b><br><a href='"+feature.properties.Link1+"' target='_blank' title='"+feature.properties.ML1+"'>"+feature.properties.LText1+"</a><br><a href='"+feature.properties.Link3+"' target='_blank' title='"+feature.properties.ML3+"'>"+feature.properties.LText3+"</a>"+"<br><a href='"+feature.properties.Link4+"' target='_blank' title='"+feature.properties.ML4+"'>"+feature.properties.LText4+"</a>");
+	 }	
 
 	var currentLayer;
 	var currentStyle = layer.options.style
@@ -151,7 +171,7 @@ var fidgeo_maps_layer = L.geoJson(geojson, {
 	
 
 // L.control
-var baseMaps={"Mapbox":Mapbox,"OSM_BlackWhite":OSM_BlackWhite};
+var baseMaps={"TerrainMap":TerrainMap,"OSM_BlackWhite":OSM_BlackWhite};
 var overlayMaps={
 	  "<font color='#073291'><b>GK25/GEO-LEOe-docs</b></font>": fidgeo_maps_layer,
 	  "<font color='#0048D8'><b>GK25/extern</b></font>": external_layer,

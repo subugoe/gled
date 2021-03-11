@@ -536,7 +536,7 @@
 	<message key="xmlui.Submission.CollectionViewer.link1">Ein Dokument in dieser Sammlung veröffentlichen</message>
 	
 	<!-- org.dspace.app.xmlui.submission.Navigation -->
-	<message key="xmlui.Submission.Navigation.submissions">Veröffentlichen</message>
+	<message key="xmlui.Submission.Navigation.submissions">Veröffentlichungen</message>
 
 	
 	<!-- org.dspace.app.xmlui.Submission.submissions -->
@@ -652,7 +652,7 @@
 	<message key="xmlui.Submission.submit.DescribeStep.unknown_field">Fehler: Unbekannter Feldtyp</message>
 	<message key="xmlui.Submission.submit.DescribeStep.required_field">Dieses Feld ist obligatorisch</message>
 	<message key="xmlui.Submission.submit.DescribeStep.last_name_help">Nachname, <i>z. B. Mustermann</i></message>
-	<message key="xmlui.Submission.submit.DescribeStep.first_name_help">Vorname(n) + Titel, <i>Max Dr.</i></message>
+	<message key="xmlui.Submission.submit.DescribeStep.first_name_help">Vorname(n) <i>Max</i></message>
 	<message key="xmlui.Submission.submit.DescribeStep.year">Jahr</message>
 	<message key="xmlui.Submission.submit.DescribeStep.month">Monat</message>
 	<message key="xmlui.Submission.submit.DescribeStep.day">Tag</message>
@@ -2701,6 +2701,7 @@
         <li><a href="handle/11858/00-1735-0000-0001-4424-8/browse?type=series">Electronic Journal of the Freiberg Geoscience Department</a></li>
         <li><a href="handle/11858/8041/browse?type=series">Geologica Bavarica</a></li>
 	<li><a href="handle/11858/6401/browse?type=series">Geologische Karte 1 : 25000 (GK25)</a></li>
+	<li><a href="handle/11858/8222/browse?type=series">GMIT Geowissenschaftliche Mitteilungen</a></li>
         <li><a href="handle/11858/00-1735-0000-0022-A79A-4/browse?type=series">Greifswalder Geographische Arbeiten</a></li>
 	<li><a href="handle/11858/7501/browse?type=series">Journal of Geophysics - Zeitschrift für Geophysik</a></li>
 	<li><a href="handle/11858/7497/browse?type=series">Mitteilungen der Reichsanstalt für Erdbebenforschung in Jena</a></li>
@@ -2974,6 +2975,7 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
   <message key="thesis">Hochschulschrift</message>
   <message key="editorial">Editorisches</message>
   <message key="excursionGuide">Exkursionsführer</message>
+	 <message key="excursionguide">Exkursionsführer</message>
   <message key="abstract">Zusammenfassung</message>
   <message key="lecture">Vorlesung</message>
   <message key="manual">Anleitung</message>
@@ -3035,9 +3037,9 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
    <message key="xmlui.collection.zfgp.introduction">Die „Zeitschrift für Geophysik“ wurde von der Deutschen Geophysikalischen Gesellschaft (DGG) von 1925 bis 1973 herausgegeben. Von 1974 bis 1987 wurde sie unter dem Titel „Journal of geophysics“ fortgeführt. Ab 1988 publiziert die DGG gemeinsam mit der European Geophysical Society (EGS) und der Royal Astronomical Society (RAS), seit 1989 unter dem Titel „Geophysical journal international / publ. for the Royal Astronomical Society, the Deutsche Geophysikalische Gesellschaft and the European Geophysical Society“.</message>
 
   <message key="xmlui.map.top"><h2>Geologische Karte 1:25 000</h2>
-  <div><input type="checkbox" class="read-more-state" id="post-2" /><div class="read-more-wrap">Online frei verfügbare Blätter der GK25 (mit Links). Außerdem gemeinfreie Blätter der GK25, die von Forschenden zur unentgeltlichen Digitalisierung durch den FID GEO vorgeschlagen werden können.
+  <div><input type="checkbox" class="read-more-state" id="post-2" /><div class="read-more-wrap">Übersicht zu online frei verfügbaren Blättern der GK25 (mit Links) sowie gemeinfreie Blättern der GK25, die von Forschenden zur unentgeltlichen Digitalisierung durch den FID GEO vorgeschlagen werden können. Die ebenfalls in die Übersicht integrierten online verfügbaren topographischen Grundlagen zu den Blättern der GK25 sind aus dem <a href="https://ifl.wissensbank.com/esearcha/browse.tt.html?type=link&amp;qtext=&amp;action=qlink&amp;q=CALL=%22MB*%22%20AND%20BDATEJ%3D1840%3A1950">Leibniz-Institut für Landeskunde (IFL)</a> verlinkt.
   <ul style="list-style-type: disc; list-style-position: inside; padding-left: 1em; margin-bottom: 0.5em; text-indent: -1.4em; margin-left: 1em;"><li class="read-more-target" style="padding-top: 1em;"><b>GK25/GEO-LEOe-docs:</b> Hier sind die bereits auf GEO-LEOe-docs verfügbaren Kartenblätter des Werks verzeichnet.</li>
-  <li class="read-more-target" style="padding-top: 1em;"><b>GK25/extern:</b>Hier finden Sie Links zu andernorts online frei verfügbaren Kartenblättern des Werks. <br />In erster Linie sind folgende Sammlungen integriert: 
+  <li class="read-more-target" style="padding-top: 1em;"><b>GK25/extern: </b>Hier finden Sie Links zu andernorts online frei verfügbaren Kartenblättern des Werks. <br />In erster Linie sind folgende Sammlungen integriert: 
   <ul class="map-list"><li>Mapster / Archivkarten von Polen und Mitteleuropa: <a href="http://igrek.amzp.pl/">http://igrek.amzp.pl</a></li>
       <li>Univ. Potsdam: <a href="https://digital.ub.uni-potsdam.de/content/titleinfo/41237">https://digital.ub.uni-potsdam.de/content/titleinfo/41237</a> <i>(Liste)</i> bzw. <a href="https://digital.ub.uni-potsdam.de/nav/classification/42482">https://digital.ub.uni-potsdam.de/nav/classification/42482</a> <i>(Übersichtskarte)</i></li>
       <li>LfU Bayern: <a href="http://www.petrefakten.de/geologische_karten_bayern.php">http://www.petrefakten.de/geologische_karten_bayern.php</a></li>
@@ -3411,24 +3413,31 @@ Wenn Sie in die Verarbeitung durch die Niedersächsische Staats- und Universitä
                 <figure style="display:grid;grid-template-columns:repeat(auto-fill, minmax(15em, 1fr));gap:2em;">
 
                 <figure>
-                <a href="https://geoberuf.de/fileadmin/user_upload/bdg-media/04_veroeffentlichungen/gmit/GMIT_81.pdf">
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8280">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit82.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                 <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8280">GMIT 82 - Dezember 2020</a></figcaption>
+                </figure>
+
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8279">
                 <image class="image-gmit" src="/themes/Mirage2/images/gmit81.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
                 </a>
-                 <figcaption style="grid-column:1 / -1;"><a href="https://geoberuf.de/fileadmin/user_upload/bdg-media/04_veroeffentlichungen/gmit/GMIT_81.pdf">GMIT 81 - September 2020</a></figcaption>
+                 <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8279">GMIT 81 - September 2020</a></figcaption>
                 </figure>
 
                 <figure>
-               <a href="https://e-docs.geo-leo.de/handle/11858/00-1735-0000-0001-3307-F">
+               <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8273">
                 <image class="image-gmit" src="/themes/Mirage2/images/gmit80.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
                 </a>
-                <figcaption style="grid-column:1 / -1;"><a href="https://e-docs.geo-leo.de/handle/11858/00-1735-0000-0001-3307-F">GMIT 80 - Juni 2020</a></figcaption>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8273">GMIT 80 - Juni 2020</a></figcaption>
                 </figure>
 
                 <figure>
-                <a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_79.pdf">
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8272">
                 <image class="image-gmit" src="/themes/Mirage2/images/gmit79.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
                 </a>
-                <figcaption style="grid-column:1 / -1;"><a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_79.pdf">GMIT 79 - März 2020</a></figcaption>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8272">GMIT 79 - März 2020</a></figcaption>
                 </figure>
                 </figure>
                 </div>
@@ -3436,63 +3445,340 @@ Wenn Sie in die Verarbeitung durch die Niedersächsische Staats- und Universitä
                 <h3>2019</h3>
                 <figure style="display:grid;grid-template-columns:repeat(auto-fill, minmax(15em, 1fr));gap:2em;">
                 <figure>
-                <a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_78.pdf">
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8271">
                 <image class="image-gmit" src="/themes/Mirage2/images/gmit78.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
                 </a>
-                <figcaption style="grid-column:1 / -1;"><a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_78.pdf">GMIT 78 - Dezember 2019</a></figcaption>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8271">GMIT 78 - Dezember 2019</a></figcaption>
                 </figure>
                 <figure>
-                                <a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/Gmit_77.pdf">
+                                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8270">
                 <image class="image-gmit" src="/themes/Mirage2/images/gmit77.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
                 </a>
-                <figcaption style="grid-column:1 / -1;"><a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/Gmit_77.pdf">GMIT 77 - September 2019</a></figcaption>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8270">GMIT 77 - September 2019</a></figcaption>
                 </figure>
                 <figure>
-                <a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_76__1_.pdf">
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8269">
                 <image class="image-gmit" src="/themes/Mirage2/images/gmit76.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
                 </a>
-                <figcaption style="grid-column:1 / -1;"><a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_76__1_.pdf">GMIT 76 - Juni 2019</a></figcaption>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8269">GMIT 76 - Juni 2019</a></figcaption>
                 </figure>
                 <figure>
-                <a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_75.pdf">
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8268">
                 <image class="image-gmit" src="/themes/Mirage2/images/gmit75.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
                 </a>
-                <figcaption style="grid-column:1 / -1;"><a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_75.pdf">GMIT 75 - März 2019</a></figcaption>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8268">GMIT 75 - März 2019</a></figcaption>
                 </figure>
-				</figure>
+                                </figure>
                 </div>
                 <div class="row-gmit">
                 <h3>2018</h3>
                 <figure style="display:grid;grid-template-columns:repeat(auto-fill, minmax(15em, 1fr));gap:2em;">
                 <figure>
-                                <a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_74.pdf">
+                                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8267">
                 <image class="image-gmit" src="/themes/Mirage2/images/gmit74.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
                 </a>
-                <figcaption style="grid-column:1 / -1;"><a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_74.pdf">GMIT 74 - Dezember 2018</a></figcaption>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8267">GMIT 74 - Dezember 2018</a></figcaption>
                 </figure>
                 <figure>
-                <a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_73.pdf">
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8266">
                 <image class="image-gmit" src="/themes/Mirage2/images/gmit73.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
                 </a>
-                <figcaption style="grid-column:1 / -1;"><a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_73.pdf">GMIT 73 - Juni 2018</a></figcaption>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8266">GMIT 73 - Juni 2018</a></figcaption>
                 </figure>
                 <figure>
-                <a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_72.pdf">
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8265">
                 <image class="image-gmit" src="/themes/Mirage2/images/gmit72.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
                                 </a>
-                <figcaption style="grid-column:1 / -1;"><a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_72.pdf">GMIT 72 - Juni 2018</a></figcaption>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8265">GMIT 72 - Juni 2018</a></figcaption>
                 </figure>
                 <figure>
-                <a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_71.pdf">
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8264">
                 <image class="image-gmit" src="/themes/Mirage2/images/gmit71.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
                                 </a>
-                <figcaption style="grid-column:1 / -1;"><a href="https://www.dggv.de/fileadmin/user_upload/images/03-zeitschrift-gmit/GMit-pdf/GMIT_71.pdf">GMIT 71 - März 2018</a></figcaption>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8264">GMIT 71 - März 2018</a></figcaption>
                 </figure>
                 </figure>
-         </div>
+                                </div>
+
+
+                                <div class="row-gmit">
+                <h3>2017</h3>
+                <figure style="display:grid;grid-template-columns:repeat(auto-fill, minmax(15em, 1fr));gap:2em;">
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8263">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit70.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8263">GMIT 70 - Dezember 2017</a></figcaption>
+                </figure>
+                <figure>
+                                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8262">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit69.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8262">GMIT 69 - September 2017</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8261">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit68.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8261">GMIT 68 - Juni 2017</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8260">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit67.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8260">GMIT 67 - März 2017</a></figcaption>
+                </figure>
+                                </figure>
+                </div>
+                <div class="row-gmit">
+                <h3>2016</h3>
+                <figure style="display:grid;grid-template-columns:repeat(auto-fill, minmax(15em, 1fr));gap:2em;">
+                <figure>
+                                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8259">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit66.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8259">GMIT 66 - Dezember 2016</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8258">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit65.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8258">GMIT 65 - Juni 2016</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8257">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit64.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8257">GMIT 64 - Juni 2016</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8256">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit63.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8256">GMIT 63 - März 2016</a></figcaption>
+                </figure>
+                </figure>
+                                </div>
+<div class="row-gmit">
+                <h3>2015</h3>
+                <figure style="display:grid;grid-template-columns:repeat(auto-fill, minmax(15em, 1fr));gap:2em;">
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8255">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit62.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8255">GMIT 62 - Dezember 2015</a></figcaption>
+                </figure>
+                <figure>
+                                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8254">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit61.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8254">GMIT 61 - September 2015</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8253">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit60.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8253">GMIT 60 - Juni 2015</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8252">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit59.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8252">GMIT 59 - März 2015</a></figcaption>
+                </figure>
+                                </figure>
+                </div>
+                <div class="row-gmit">
+                <h3>2014</h3>
+                <figure style="display:grid;grid-template-columns:repeat(auto-fill, minmax(15em, 1fr));gap:2em;">
+                <figure>
+                                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8251">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit58.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8251">GMIT 58 - Dezember 2014</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8250">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit57.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8250">GMIT 57 - Juni 2014</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8249">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit56.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8249">GMIT 56 - Juni 2014</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8248">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit55.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8248">GMIT 55 - März 2014</a></figcaption>
+                </figure>
+                </figure>
+                                </div>
+
+
+
+				<div class="row-gmit">
+                <h3>2013</h3>
+                <figure style="display:grid;grid-template-columns:repeat(auto-fill, minmax(15em, 1fr));gap:2em;">
+                <figure>
+                                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8247">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit54.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8247">GMIT 54 - Dezember 2013</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8246">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit53.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8246">GMIT 53 - Juni 2013</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8245">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit52.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8245">GMIT 52 - Juni 2013</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8244">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit51.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8244">GMIT 51 - März 2013</a></figcaption>
+                </figure>
+                </figure>
+                                </div>
+
+
+                                <div class="row-gmit">
+                <h3>2012</h3>
+                <figure style="display:grid;grid-template-columns:repeat(auto-fill, minmax(15em, 1fr));gap:2em;">
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8243">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit50.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8243">GMIT 50 - Dezember 2012</a></figcaption>
+                </figure>
+                <figure>
+                                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8242">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit49.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8242">GMIT 49 - September 2012</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8241">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit48.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8241">GMIT 48 - Juni 2012</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8240">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit47.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8240">GMIT 47 - März 2012</a></figcaption>
+                </figure>
+                                </figure>
+                </div>
+                <div class="row-gmit">
+                <h3>2011</h3>
+                <figure style="display:grid;grid-template-columns:repeat(auto-fill, minmax(15em, 1fr));gap:2em;">
+                <figure>
+                                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8239">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit46.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8239">GMIT 46 - Dezember 2011</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8238">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit45.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8238">GMIT 45 - Juni 2011</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8237">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit44.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8237">GMIT 44 - Juni 2011</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8236">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit43.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8236">GMIT 43 - März 2011</a></figcaption>
+                </figure>
+                </figure>
+                                </div>
+<div class="row-gmit">
+                <h3>2010</h3>
+                <figure style="display:grid;grid-template-columns:repeat(auto-fill, minmax(15em, 1fr));gap:2em;">
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8235">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit42.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8235">GMIT 42 - Dezember 2010</a></figcaption>
+                </figure>
+                <figure>
+                                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8234">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit41.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8234">GMIT 41 - September 2010</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8233">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit40.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8233">GMIT 40 - Juni 2010</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8232">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit39.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8232">GMIT 39 - März 2010</a></figcaption>
+                </figure>
+                                </figure>
+                </div>
+                <div class="row-gmit">
+                <h3>2009</h3>
+                <figure style="display:grid;grid-template-columns:repeat(auto-fill, minmax(15em, 1fr));gap:2em;">
+		<figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8231">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit38.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8231">GMIT 38 - Dezember 2009</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8230">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit37.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8230">GMIT 37 - Juni 2009</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8229">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit36.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8229">GMIT 36 - Juni 2009</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8228">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit35.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                                </a>
+                <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8228">GMIT 35 - März 2009</a></figcaption>
+                </figure>
+		</figure>
+                                </div>
+
+
 </div>
 </div>
+
+
 </message>
+
+<message key="journal">Zeitschrift</message>
+  <message key="poster">Poster</message>
+
+
 
 
 </catalogue>
