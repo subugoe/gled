@@ -2672,21 +2672,7 @@
                 <figcaption class="einzeilig">Übersichtskarte</figcaption>
         </figure>
 </div>
-<div style="width:680px;">
-<h3  style="text-align:center;margin-top:30px;">Zeitschriften</h3>
-<div style="margin-top:15px;font-size:1.3em;">
-		<a href="gmit">
-		<img style="vertical-align:middle; width:120px;margin-right:30px;" src="/themes/Mirage2/images/gmit-logo.jpg"/>
-		</a>
-		<span><a href="gmit">Geowissenschaftliche Mitteilungen</a></span>
-</div>
-<div  style="margin-top:15px;font-size:1.3em;">
-		<a href="handle/11858/6421">
-		<img style="vertical-align:middle;width:120px;margin-right:30px;" src="/themes/Mirage2/images/telma-logo.jpg"/>
-		</a>
-		<span><a href="handle/11858/6421">Fachzeitschrift der DGMT</a></span>
-</div>
-</div>
+
   </message>
 
 
@@ -3051,7 +3037,7 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
    <message key="xmlui.collection.zfgp.introduction">Die „Zeitschrift für Geophysik“ wurde von der Deutschen Geophysikalischen Gesellschaft (DGG) von 1925 bis 1973 herausgegeben. Von 1974 bis 1987 wurde sie unter dem Titel „Journal of geophysics“ fortgeführt. Ab 1988 publiziert die DGG gemeinsam mit der European Geophysical Society (EGS) und der Royal Astronomical Society (RAS), seit 1989 unter dem Titel „Geophysical journal international / publ. for the Royal Astronomical Society, the Deutsche Geophysikalische Gesellschaft and the European Geophysical Society“.</message>
 
   <message key="xmlui.map.top"><h2>Geologische Karte 1:25 000</h2>
-  <div><input type="checkbox" class="read-more-state" id="post-2" /><div class="read-more-wrap">Übersicht zu online frei verfügbaren Blättern der GK25 (mit Links) sowie gemeinfreie Blättern der GK25, die von Forschenden zur unentgeltlichen Digitalisierung durch den FID GEO vorgeschlagen werden können. Die ebenfalls in die Übersicht integrierten online verfügbaren topographischen Grundlagen zu den Blättern der GK25 sind aus dem <a href="https://ifl.wissensbank.com/esearcha/browse.tt.html?type=link&amp;qtext=&amp;action=qlink&amp;q=CALL=%22MB*%22%20AND%20BDATEJ%3D1840%3A1950">Leibniz-Institut für Landeskunde (IFL)</a> verlinkt.
+  <div><input type="checkbox" class="read-more-state" id="post-2" /><div class="read-more-wrap">Übersicht zu online frei verfügbaren Blättern der GK25 (mit Links) sowie gemeinfreie Blättern der GK25, die von Forschenden zur unentgeltlichen Digitalisierung durch den FID GEO vorgeschlagen werden können. Die ebenfalls in die Übersicht integrierten online verfügbaren topographischen Grundlagen zu den Blättern der GK25 sind aus dem <a href="https://ifl.wissensbank.com/esearcha/browse.tt.html?type=link&amp;qtext=&amp;action=qlink&amp;q=CALL=%22MB*%22%20AND%20BDATEJ%3D1840%3A1950">Institut für Landeskunde (IFL)</a> verlinkt.
   <ul style="list-style-type: disc; list-style-position: inside; padding-left: 1em; margin-bottom: 0.5em; text-indent: -1.4em; margin-left: 1em;"><li class="read-more-target" style="padding-top: 1em;"><b>GK25/GEO-LEOe-docs:</b> Hier sind die bereits auf GEO-LEOe-docs verfügbaren Kartenblätter des Werks verzeichnet.</li>
   <li class="read-more-target" style="padding-top: 1em;"><b>GK25/extern: </b>Hier finden Sie Links zu andernorts online frei verfügbaren Kartenblättern des Werks. <br />In erster Linie sind folgende Sammlungen integriert: 
   <ul class="map-list"><li>Mapster / Archivkarten von Polen und Mitteleuropa: <a href="http://igrek.amzp.pl/">http://igrek.amzp.pl</a></li>

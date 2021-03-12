@@ -2672,7 +2672,21 @@
                 <figcaption class="einzeilig">Übersichtskarte</figcaption>
         </figure>
 </div>
-
+<div style="width:680px;">
+<h3  style="text-align:center;margin-top:30px;">Zeitschriften</h3>
+<div style="margin-top:15px;font-size:1.3em;">
+		<a href="gmit">
+		<img style="vertical-align:middle; width:120px;margin-right:30px;" src="/themes/Mirage2/images/gmit-logo.jpg"/>
+		</a>
+		<span><a href="gmit">Geowissenschaftliche Mitteilungen</a></span>
+</div>
+<div  style="margin-top:15px;font-size:1.3em;">
+		<a href="handle/11858/6421">
+		<img style="vertical-align:middle;width:120px;margin-right:30px;" src="/themes/Mirage2/images/telma-logo.jpg"/>
+		</a>
+		<span><a href="handle/11858/6421">Fachzeitschrift der DGMT</a></span>
+</div>
+</div>
   </message>
 
 

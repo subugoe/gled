@@ -2667,21 +2667,6 @@
                 <figcaption class="einzeilig">Overview Map</figcaption>
         </figure>
 </div>
-<div style="width:680px;">
-<h3  style="text-align:center;margin-top:30px;">Journals</h3>
-<div style="margin-top:15px;font-size:1.3em;">
-                <a href="gmit">
-                <img style="vertical-align:middle; width:120px;margin-right:30px;" src="/themes/Mirage2/images/gmit-logo.jpg"/>
-                </a>
-                <span><a href="gmit">Geowissenschaftliche Mitteilungen</a></span>
-</div>
-<div  style="margin-top:15px;font-size:1.3em;">
-                <a href="handle/11858/6421">
-                <img style="vertical-align:middle;width:120px;margin-right:30px;" src="/themes/Mirage2/images/telma-logo.jpg"/>
-                </a>
-                <span><a href="handle/11858/6421">Fachzeitschrift der DGMT</a></span>
-</div>
-</div>
 
 
   </message>
@@ -2902,7 +2887,7 @@ Got to the following website to utilise you option to deactivate data collection
   <message key="xmlui.dri2xhtml.METS-1.0.citation-link">Permalink: </message>
 
   <message key="xmlui.map.top"><h2>Geological map 1:25 000</h2>
-  <div><input type="checkbox" class="read-more-state" id="post-2" /><div class="read-more-wrap">Online freely available Geological map sheets 1:25 000 (GK25) with links.<br/>In addition, researchers can propose public domain map sheets of the GK25 for digitization by the FID GEO free of charge. Topographic maps as a basis for the GK25 map sheets point to the <a href="https://ifl.wissensbank.com/esearcha/browse.tt.html?type=link&amp;qtext=&amp;action=qlink&amp;q=CALL=%22MB*%22%20AND%20BDATEJ%3D1840%3A1950">Leibniz-Institut für Landeskunde (IFL)</a>.
+  <div><input type="checkbox" class="read-more-state" id="post-2" /><div class="read-more-wrap">Online freely available Geological map sheets 1:25 000 (GK25) with links.<br/>In addition, researchers can propose public domain map sheets of the GK25 for digitization by the FID GEO free of charge. Topographic maps as a basis for the GK25 map sheets point to the <a href="https://ifl.wissensbank.com/esearcha/browse.tt.html?type=link&amp;qtext=&amp;action=qlink&amp;q=CALL=%22MB*%22%20AND%20BDATEJ%3D1840%3A1950">Institut für Landeskunde (IFL)</a>.
   <ul style="list-style-type: disc; list-style-position: inside; padding-left: 1em; margin-bottom: 0.5em; text-indent: -1.4em; margin-left: 1em;"><li class="read-more-target" style="padding-top: 1em;"><b>GK25/GEO-LEOe-docs:</b> Shows the map sheets of the publications that are already available on GEO-LEOe-docs.</li>
   <li class="read-more-target" style="padding-top: 1em;"><b>GK25/extern:</b>External-Links to map sheets that are freely available online.<br/>The following collections are integrated:
   <ul class="map-list"><li>Mapster / archive maps of Poland and Central Europe: <a href="http://igrek.amzp.pl/">http://igrek.amzp.pl</a></li>
