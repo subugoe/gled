@@ -118,7 +118,7 @@
 	<message key="xmlui.ArtifactBrowser.AdvancedSearch.conjunction">Conjunction</message>
 	<message key="xmlui.ArtifactBrowser.AdvancedSearch.search_type">Search type</message>
 	<message key="xmlui.ArtifactBrowser.AdvancedSearch.search_for">Search for</message>
-	<message key="xmlui.ArtifactBrowser.AdvancedSearch.type_author">Author</message>
+	<message key="xmlui.ArtifactBrowser.AdvancedSearch.type_author">Contributor</message>
 	<message key="xmlui.ArtifactBrowser.AdvancedSearch.type_title">Title</message>
 	<message key="xmlui.ArtifactBrowser.AdvancedSearch.type_subject">Subject</message>
 	<message key="xmlui.ArtifactBrowser.AdvancedSearch.type_abstract">Abstract</message>
@@ -167,11 +167,11 @@
 	<message key="xmlui.ArtifactBrowser.ConfigurableBrowse.order.asc">ascending</message>
 	<message key="xmlui.ArtifactBrowser.ConfigurableBrowse.order.desc">descending</message>
 
-	<message key="xmlui.ArtifactBrowser.ConfigurableBrowse.author.column_heading">Authors Name</message>
+	<message key="xmlui.ArtifactBrowser.ConfigurableBrowse.author.column_heading">Contributors</message>
 	<message key="xmlui.ArtifactBrowser.ConfigurableBrowse.subject.column_heading">Subject</message>
 
-	<message key="xmlui.ArtifactBrowser.ConfigurableBrowse.title.metadata.author">Browsing {0} by Author {1}</message>
-	<message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.metadata.author">Browsing {0} by Author</message>
+	<message key="xmlui.ArtifactBrowser.ConfigurableBrowse.title.metadata.author">Browsing {0} by Contributor {1}</message>
+	<message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.metadata.author">Browsing {0} by Contributor</message>
 
 	<message key="xmlui.ArtifactBrowser.ConfigurableBrowse.title.metadata.subject">Browsing {0} by Subject {1}</message>
 	<message key="xmlui.ArtifactBrowser.ConfigurableBrowse.trail.metadata.subject">Browsing {0} by Subject</message>
@@ -212,7 +212,7 @@
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.full_text_search">Search within this collection:</message>
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.head_browse">Browse by</message>
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.browse_titles">Titles</message>
-	<message key="xmlui.ArtifactBrowser.CollectionViewer.browse_authors">Authors</message>
+	<message key="xmlui.ArtifactBrowser.CollectionViewer.browse_authors">Contributors</message>
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.browse_dates">Dates</message>
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.advanced_search_link">Advanced Search</message>
 	<message key="xmlui.ArtifactBrowser.CollectionViewer.head_recent_submissions">Recent Submissions</message>
@@ -229,7 +229,7 @@
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.full_text_search">Search within this community and its collections:</message>
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_browse">Browse by</message>
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_titles">Titles</message>
-	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_authors">Authors</message>
+	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_authors">Contributors</message>
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.browse_dates">Dates</message>
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.advanced_search_link">Advanced Search</message>
 	<message key="xmlui.ArtifactBrowser.CommunityViewer.head_sub_communities">Sub-communities within this community</message>
@@ -275,7 +275,7 @@
 	<message key="xmlui.ArtifactBrowser.Navigation.head_all_of_dspace">All of Geo-Leo e-docs</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.communities_and_collections">Communities &amp; Collections</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.browse_title">Titles</message>
-	<message key="xmlui.ArtifactBrowser.Navigation.browse_author">Authors</message>
+	<message key="xmlui.ArtifactBrowser.Navigation.browse_author">Contributors</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.browse_subject">Subjects</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.browse_dateissued">By Issue Date</message>
 	<message key="xmlui.ArtifactBrowser.Navigation.browse_dateaccessioned">By Submit Date</message>
@@ -1728,7 +1728,7 @@
 	<message key="xmlui.administrative.mapper.SearchItemForm.submit_map">Map selected items</message>
 	<message key="xmlui.administrative.mapper.SearchItemForm.column1"></message>
 	<message key="xmlui.administrative.mapper.SearchItemForm.column2">Collection</message>
-	<message key="xmlui.administrative.mapper.SearchItemForm.column3">Author</message>
+	<message key="xmlui.administrative.mapper.SearchItemForm.column3">Contributor</message>
 	<message key="xmlui.administrative.mapper.SearchItemForm.column4">Title</message>
 
 	<!-- org.dspace.app.xmlui.administrative.mapper.BrowseItemForm -->
@@ -1738,7 +1738,7 @@
 	<message key="xmlui.administrative.mapper.BrowseItemForm.submit_unmap">Unmap selected items</message>
 	<message key="xmlui.administrative.mapper.BrowseItemForm.column1"></message>
 	<message key="xmlui.administrative.mapper.BrowseItemForm.column2">Collection</message>
-	<message key="xmlui.administrative.mapper.BrowseItemForm.column3">Author</message>
+	<message key="xmlui.administrative.mapper.BrowseItemForm.column3">Contributor</message>
 	<message key="xmlui.administrative.mapper.BrowseItemForm.column4">Title</message>
 	<message key="xmlui.administrative.mapper.BrowseItemForm.no_remove">You need the REMOVE privilege on this collection to be able to unmap items from this collection.</message>
 
@@ -2524,7 +2524,7 @@
         <a href="handle/11858/Paleontology">
         <image class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paleontology" />
         </a>
-        <figcaption class="einzeilig">Paleontology</figcaption>
+        <figcaption class="einzeilig">Paleontology, Geobiology</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/GeochemistryMinearologyPetrology">
@@ -2536,9 +2536,9 @@
 <div id="second_row" class="hidden-xs hidden-sm hidden-md">
         <figure class="frontpage_images">
         <a href="handle/11858/Geophysics">
-        <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysics, Extraterristic Research" />
+        <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysics, Extraterrestrial Research" />
 	</a>
-        <figcaption>Geophysics, Extraterristic Research</figcaption>
+        <figcaption>Geophysics, Extraterrestrial Research</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/EnergyResourcesEnvironment">
@@ -2550,7 +2550,7 @@
         <a href="handle/11858/Geography">
         <image class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geography"/>
         </a>
-        <figcaption class="einzeilig">Geography</figcaption>
+        <figcaption class="einzeilig">Geography, Hydrology</figcaption>
         </figure>
 </div>
 <div id="third_row" class="hidden-xs hidden-sm hidden-md">
@@ -2572,7 +2572,7 @@
         <a href="handle/11858/Paleontology">
         <image class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paleontology" />
         </a>
-        <figcaption class="einzeilig">Paleontology</figcaption>
+        <figcaption class="einzeilig">Paleontology, Geobiology</figcaption>
         </figure>
 </div>
 <div id="second_row" class="hidden-lg hidden-xs">
@@ -2584,9 +2584,9 @@
         </figure>
                 <figure class="frontpage_images">
         <a href="handle/11858/Geophysics">
-        <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysics, Extraterristic Research" />
+        <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysics, Extraterrestrial Research" />
                 </a>
-        <figcaption>Geophysics, Extraterristic Research</figcaption>
+        <figcaption>Geophysics, Extraterrestrial Research</figcaption>
         </figure>
 </div>
 <div id="third_row"  class="hidden-lg hidden-xs">
@@ -2600,7 +2600,7 @@
         <a href="handle/11858/Geography">
         <image class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geography"/>
         </a>
-        <figcaption class="einzeilig">Geography</figcaption>
+        <figcaption class="einzeilig">Geography, Hydrology</figcaption>
         </figure>
 </div>
 <div id="fourth_row" class="hidden-lg hidden-xs" >
@@ -2624,7 +2624,7 @@
         <a href="handle/11858/Paleontology">
         <image class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paleontology" />
         </a>
-        <figcaption class="einzeilig">Paleontology</figcaption>
+        <figcaption class="einzeilig">Paleontology, Geobiology</figcaption>
         </figure>
 </div>
 <div id="third_row" class="hidden-lg hidden-sm hidden-md">
@@ -2638,9 +2638,9 @@
 <div id="fourth_row" class="hidden-lg hidden-sm hidden-md">
                 <figure class="frontpage_images">
         <a href="handle/11858/Geophysics">
-        <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysics, Extraterristic Research" />
+        <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysics, Extraterrestrial Research" />
                 </a>
-        <figcaption>Geophysics, Extraterristic Research</figcaption>
+        <figcaption>Geophysics, Extraterrestrial Research</figcaption>
         </figure>
 </div>
 <div id="fifth_row"  class="hidden-lg hidden-sm hidden-md">
@@ -2656,7 +2656,7 @@
         <a href="handle/11858/Geography">
         <image class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geography"/>
         </a>
-        <figcaption class="einzeilig">Geography</figcaption>
+        <figcaption class="einzeilig">Geography, Hydrology</figcaption>
         </figure>
 </div>
 <div id="seventh_row"  class="hidden-lg hidden-sm hidden-md">
@@ -2668,7 +2668,13 @@
         </figure>
 </div>
 <div style="width:680px;">
-<h3  style="text-align:center;margin-top:30px;">Journals</h3>
+<h3  style="text-align:center;margin-top:30px;">Ongoing Online Publications</h3>
+<div  style="margin-top:15px;font-size:1.3em;">
+                <a href="handle/11858/8568">
+                <img style="vertical-align:middle;width:120px;margin-right:30px;" src="/themes/Mirage2/images/gaussiana_crop.png"/>
+                </a>
+                <span><a href="handle/11858/8568">Gaussiana</a></span>
+</div>
 <div style="margin-top:15px;font-size:1.3em;">
                 <a href="gmit">
                 <img style="vertical-align:middle; width:120px;margin-right:30px;" src="/themes/Mirage2/images/gmit-logo.jpg"/>
@@ -2677,16 +2683,16 @@
 </div>
 <div  style="margin-top:15px;font-size:1.3em;">
                 <a href="handle/11858/6421">
-                <img style="vertical-align:middle;width:120px;margin-right:30px;" src="/themes/Mirage2/images/telma-logo.jpg"/>
+                <img style="vertical-align:middle;width:120px;margin-right:30px;" src="/themes/Mirage2/images/Telma_crop.jpg"/>
                 </a>
                 <span><a href="handle/11858/6421">Fachzeitschrift der DGMT</a></span>
 </div>
+
 </div>
 
 
   </message>
 
-<message key="xmlui.map.top"><h2>Map Viewer</h2></message>
 
   <message key="xmlui.series.text">
    <h2>Periodicals and Journals</h2>
@@ -2713,7 +2719,6 @@
         <li><a href="handle/11858/00-1735-0000-0001-4444-F/browse?type=series">E&amp;G-Quaternary Science Journal</a></li>
         <li><a href="handle/11858/00-1735-0000-0001-4424-8/browse?type=series">Electronic Journal of the Freiberg Geoscience Department</a></li>
         <li><a href="handle/11858/8041/browse?type=series">Geologica Bavarica</a></li>
-	<li><a href="handle/11858/6401/browse?type=series">Geological map 1 : 25000 (GK25)</a></li>
 	<li><a href="handle/11858/8222/browse?type=series">GMIT Geowissenschaftliche Mitteilungen</a></li>
         <li><a href="handle/11858/00-1735-0000-0022-A79A-4/browse?type=series">Greifswalder Geographische Arbeiten</a></li>
 	<li><a href="handle/11858/7501/browse?type=series">Journal of Geophysics - Zeitschrift für Geophysik</a></li>
@@ -2725,6 +2730,14 @@
 	<li><a href="handle/11858/7498/browse?type=series">Veröffentlichungen der Reichsanstalt für Erdbebenforschung in Jena</a></li>
 	<li><a href="handle/11858/7496/browse?type=series">Veröffentlichungen des Instituts für Bodendynamik und Erdbebenforschung in Jena</a></li>
 	<li><a href="handle/11858/7132/browse?type=series">Zeitschrift für Geophysik</a></li>
+	<li><span style="font-weight:bold;">Geological Maps:</span>
+    <ul style="margin-left:15px;">
+        <li><a href="handle/11858/8575/browse?type=series">Geologische Karte von Hessen 1:25000</a></li>
+        <li><a href="handle/11858/8573/browse?type=series">Geologische Specialkarte des Großherzogtums Hessen und angrenzender Gebiete im Maasstabe von 1:50 000</a></li>
+        <li><a href="handle/11858/8574/browse?type=series">Geologische Spezialkarte von Preussen und den Thüringischen Staaten 1:25000</a></li>
+    </ul>
+</li>
+
 	</ul>
 	</div>
   </message>
@@ -2783,7 +2796,7 @@
 
         <message key="xmlui.impressum.head">Imprint</message>
         <message key="xmlui.impressum.label.offerer">Publisher</message>
-        <message key="xmlui.impressum.text.offerer">Authorized representative of the Göttingen State and University Library is Dr. Wolfram Horstmann. The library is a central institution of the Georg-August-Universität Göttingen. The University of Göttingen (Georg-August-Universität Göttingen) is a public law corporation. It is legally represented by its acting President Dr. Valérie Schüller (Vice President Finance and Human Resources).</message>
+        <message key="xmlui.impressum.text.offerer">Authorized representative of the Göttingen State and University Library is Dr. Wolfram Horstmann. The library is a central institution of the Georg-August-Universität Göttingen. The University of Göttingen (Georg-August-Universität Göttingen) is a public law corporation. It is legally represented by its acting President Professor Metin Tolan.</message>
 
         <message key="xmlui.impressum.label.controlling">Competent supervisory authority  </message>
         <message key="xmlui.impressum.controlling.gau">Georg-August-Universität Göttingen Public Law Foundation</message>
@@ -2806,8 +2819,8 @@ Got to the following website to utilise you option to deactivate data collection
         <message key="xmlui.impressum.label.editorial">Redaktion</message>
         <message key="xmlui.impressum.name.editorial">Dr. Norbert Pfurr</message>
         <message key="xmlui.impressum.scope.editorial"> (Geowissenschaften und Astronomie)</message>
-       <message key="xmlui.impressum.tel.editorial">Tel: +49 (0)551 / 39-5244</message>
-        <message key="xmlui.impressum.fax.editorial">Fax: +49 (0)551 / 39-5222</message>
+       <message key="xmlui.impressum.tel.editorial">Tel: +49 (0)551 / 39-25244</message>
+        <message key="xmlui.impressum.fax.editorial">Fax: +49 (0)551 / 39-25222</message>
         <message key="xmlui.impressum.mail.editorial">E-Mail: pfurr@sub.uni-goettingen.de</message>
         <message key="xmlui.impressum.label.tech">Technik und Administration</message>
 
@@ -2901,8 +2914,8 @@ Got to the following website to utilise you option to deactivate data collection
   <message key="xmlui.dri2xhtml.METS-1.0.item-isbasedon">Supplement: </message>
   <message key="xmlui.dri2xhtml.METS-1.0.citation-link">Permalink: </message>
 
-  <message key="xmlui.map.top"><h2>Geological map 1:25 000</h2>
-  <div><input type="checkbox" class="read-more-state" id="post-2" /><div class="read-more-wrap">Online freely available Geological map sheets 1:25 000 (GK25) with links.<br/>In addition, researchers can propose public domain map sheets of the GK25 for digitization by the FID GEO free of charge. Topographic maps as a basis for the GK25 map sheets point to the <a href="https://ifl.wissensbank.com/esearcha/browse.tt.html?type=link&amp;qtext=&amp;action=qlink&amp;q=CALL=%22MB*%22%20AND%20BDATEJ%3D1840%3A1950">Leibniz-Institut für Landeskunde (IFL)</a>.
+  <message key="xmlui.map.top"><h2>Geological map 1:25 000 <a href="/map2" style="float:right;">To Geological map 1:50.000</a></h2>
+  <div><input type="checkbox" class="read-more-state" id="post-2" /><div class="read-more-wrap">Online freely available Geological map sheets 1:25 000 (GK25) with links.<br/>In addition, researchers can propose public domain map sheets of the GK25 for digitization by the FID GEO free of charge. Topographic maps as a basis for the GK25 map sheets point to the <a href="https://ifl.wissensbank.com/esearcha/browse.tt.html?type=link&amp;qtext=&amp;action=qlink&amp;q=CALL=%22MB*%22%20AND%20BDATEJ%3D1840%3A1950">Leibniz-Institut für Länderkunde (IFL)</a>.
   <ul style="list-style-type: disc; list-style-position: inside; padding-left: 1em; margin-bottom: 0.5em; text-indent: -1.4em; margin-left: 1em;"><li class="read-more-target" style="padding-top: 1em;"><b>GK25/GEO-LEOe-docs:</b> Shows the map sheets of the publications that are already available on GEO-LEOe-docs.</li>
   <li class="read-more-target" style="padding-top: 1em;"><b>GK25/extern:</b>External-Links to map sheets that are freely available online.<br/>The following collections are integrated:
   <ul class="map-list"><li>Mapster / archive maps of Poland and Central Europe: <a href="http://igrek.amzp.pl/">http://igrek.amzp.pl</a></li>
@@ -2930,9 +2943,38 @@ Got to the following website to utilise you option to deactivate data collection
 <message key="xmlui.gmit.text">
 <h2>GMIT - Geowissenschaftliche Mitteilungen</h2>
     <div class="gmit">
-        <p>Die GMIT - Geowissenschaftliche Mitteilungen ist das gemeinsame Nachrichtenheft des Berufsverbandes Deutscher Geowissenschaftler (BDG), der Deutschen Geologischen Gesellschaft – Geologische Vereinigung (DGGV), der Deutschen Geophysikalischen Gesellschaft (DGG), der Deutschen Mineralogischen Gesellschaft (DMG), der Deutschen Quartärvereinigung (DEUQUA), der Paläontologischen Gesellschaft (PalGes) und des Oberrheinischen Geologischen Vereins (OGV). Als jüngstes Mitglied ist 2015 die Deutsche Ton- und Tonmineralgruppe (DTTG) beigetreten. Der Bezug des gedruckten Heftes ist im Mitgliedsbeitrag enthalten.</p>
+        <p>Die GMIT - Geowissenschaftliche Mitteilungen ist das gemeinsame Nachrichtenheft des Berufsverbandes Deutscher Geowissenschaftler (BDG), der Deutschen Geologischen Gesellschaft – Geologische Vereinigung (DGGV), der Deutschen Geophysikalischen Gesellschaft (DGG), der Deutschen Mineralogischen Gesellschaft (DMG), der Deutschen Quartärvereinigung (DEUQUA), der Deutschen Ton- und Tonmineralgruppe (DTTG), der Paläontologischen Gesellschaft (PalGes) und des Oberrheinischen Geologischen Vereins (OGV). Als jüngstes Mitglied ist 2019 das Geowissenschaftliche Studentische Erfahrungs- und Interessensnetzwerk (GeStEIN) beigetreten. Der Bezug des gedruckten Heftes ist im Mitgliedsbeitrag enthalten.</p>
 <p> GMIT erscheint vier Mal im Jahr. Sie erreicht alle Mitglieder der genannten Gesellschaften und wird in Universitäten, Forschungseinrichtungen, Behörden und Unternehmen gelesen.</p>
+<p>Redaktionelle Hinweise finden sie auf der Seite <a href="https://geoberuf.de/veroeffentlichungen/gmit">https://geoberuf.de/veroeffentlichungen/gmit</a>.</p>
         <div class="row-gmit" style="margin-top:20px;">
+		 <div class="row-gmit">
+                <h3>2021</h3>
+
+                <figure style="display:grid;grid-template-columns:repeat(auto-fill, minmax(15em, 1fr));gap:2em;">
+
+		<figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/9529">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit85.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                 <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/9529">GMIT 85 - September 2021</a></figcaption>
+                </figure>
+		<figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8674">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit84.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                 <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8674">GMIT 84 - Juni 2021</a></figcaption>
+                </figure>
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8335">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit83.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                 <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/8335">GMIT 83 - März 2021</a></figcaption>
+                </figure>
+                </figure>
+                </div>
+
+
+
                 <div class="row-gmit">
                 <h3>2020</h3>
 
@@ -3305,5 +3347,16 @@ Got to the following website to utilise you option to deactivate data collection
 <message key="journal">Journal</message>
   <message key="poster">Poster</message>
 <message key="excursionguide">Excursion guide</message>
+<message key="commemorativepublication">Commemorative Publication</message>
+<message key="xmlui.map2.top"><h2>Geological map 1:50 000 <a href="/map" style="float:right;">To Geological map 1:25.000</a></h2>
+<div style="margin-bottom:10px;">
+Online freely available Geological map sheets 1:50 000 (GK50) with links.
+In addition, researchers can propose public domain map sheets of the GK50 for digitization by the FID GEO free of charge: <a href="https://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/">Digitisation Request Form</a>
+</div>
+</message>
+<message key="xmlui.map2.bottom"><div style="font-size: smaller; margin-top: 0.5em; margin-bottom: 2em;" ><i>Geologische Specialkarte des Grossherzogthums Hessen und der angrenzenden Landesgebiete im Maassstabe von 1: 50 000, herausgegeben durch Hofbuchhandlung von G. Jonghaus in Darmstadt</i></div>
+ <div>If you want to be informed about newly added maps, please go to your profile and select <i>(Alle Publikationen - Institutionelle Serien und Zeitschriften - Geologische Karte 1 : 50 000 (GK50))</i> under subscriptions: <a href="/profile">Profile</a></div>
+ </message>
+<message key="xmlui.dri2xhtml.METS-1.0.item-sponsordigi">Sponsor for Digitization: </message>
 
 </catalogue>

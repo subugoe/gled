@@ -20,7 +20,7 @@
                 $(this).text("Geology");
             }
             if ($(this).text() == "Geophysik, Extraterrestische Forschung") {
-                $(this).text("Geophysics, Extraterrestic Research");
+                $(this).text("Geophysics, Extraterrestrial Research");
             }
             if ($(this).text() == "Paläontologie") {
                 $(this).text("Paleontology");

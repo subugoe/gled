@@ -1,0 +1,28 @@
+table {
+    border-collapse: collapse;
+    border-color:#3182bd;
+
+}
+
+td:nth-child(1) {
+  background:#3182bd;
+  color:white;
+
+}
+
+table, th, td {
+    border: 1px solid #08519c;
+}
+
+.info {
+    padding: 6px 8px;
+    font: 10px/12px Arial, Helvetica, sans-serif;
+    background: white;
+    background: rgba(255,255,255,0.8);
+    box-shadow: 0 0 15px rgba(0,0,0,0.2);
+    border-radius: 5px;
+}
+.info h4 {
+    margin: 0 0 5px;
+    color: #3182bd;
+}

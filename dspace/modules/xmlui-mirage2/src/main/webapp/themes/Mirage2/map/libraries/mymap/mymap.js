@@ -171,7 +171,7 @@ var fidgeo_maps_layer = L.geoJson(geojson, {
 	
 
 // L.control
-var baseMaps={"TerrainMap":TerrainMap,"OSM_BlackWhite":OSM_BlackWhite};
+var baseMaps={"Mapbox":Mapbox,"OSM_BlackWhite":OSM_BlackWhite};
 var overlayMaps={
 	  "<font color='#073291'><b>GK25/GEO-LEOe-docs</b></font>": fidgeo_maps_layer,
 	  "<font color='#0048D8'><b>GK25/extern</b></font>": external_layer,

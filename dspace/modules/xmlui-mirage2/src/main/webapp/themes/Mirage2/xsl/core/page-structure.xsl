@@ -140,7 +140,8 @@
                     </xsl:choose>
                     <!-- Javascript at the bottom for fast page loading -->
                     <xsl:call-template name="addJavascript"/>
-                </body>
+
+		</body>
                 <xsl:text disable-output-escaping="yes">&lt;/html&gt;</xsl:text>
 
             </xsl:when>
@@ -158,7 +159,9 @@
     <xsl:template name="buildHead">
         <head>
             <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
-
+		<meta http-equiv="Content-Type" content="application/javascript; charset=UTF-8"/>
+		<meta http-equiv="Content-Type" content="text/javascript; charset=UTF-8"/>
+		<meta charset="UTF-8" />
             <!-- Use the .htaccess and remove these lines to avoid edge case issues.
              More info: h5bp.com/i/378 -->
             <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
@@ -203,6 +206,8 @@
                     </xsl:attribute>
                 </link>
             </xsl:for-each>
+
+
 
             <link rel="stylesheet" href="{concat($theme-path, 'styles/main.css')}"/>
 	    <link rel="stylesheet" href="{concat($theme-path, 'styles/font-awesome-4.7.0/css/font-awesome.css')}"/>
@@ -368,13 +373,13 @@
 		<xsl:if test="$current-uri = 'http://e-docs.geo-leo.de:80/map2'">
 
 
-                  <link rel="stylesheet" href="/themes/Mirage2/map/libraries/leaflet/leaflet.css"/>
-                  <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map/libraries/leaflet/leaflet.js"></script>
-                  <link rel="stylesheet" href="/themes/Mirage2/map/libraries/leaflet-search/src/leaflet-search.css"/>
-                  <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map/libraries/leaflet-search/src/leaflet-search.js"></script>
-                  <link rel="stylesheet" href="/themes/Mirage2/map/libraries/fullscreen/Control.FullScreen.css"/>
-                  <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map/libraries/fullscreen/Control.FullScreen.js"></script>
-                  <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map/geojson.js"></script>
+                  <link rel="stylesheet" href="/themes/Mirage2/map2/libraries/leaflet/leaflet.css"/>
+                  <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map2/libraries/leaflet/leaflet.js"></script>
+                  <link rel="stylesheet" href="/themes/Mirage2/map2/libraries/leaflet-search/src/leaflet-search.css"/>
+                  <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map2/libraries/leaflet-search/src/leaflet-search.js"></script>
+                  <link rel="stylesheet" href="/themes/Mirage2/map2/libraries/fullscreen/Control.FullScreen.css"/>
+                  <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map2/libraries/fullscreen/Control.FullScreen.js"></script>
+                  <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map2/geojson.js"></script>
                   <link rel="stylesheet" href="/themes/Mirage2/map/libraries/mymap/mymapstyles.css"/>
 
                 </xsl:if>
@@ -489,7 +494,7 @@
                     </div>
 
                     <div class="navbar-header pull-right hidden-xs">
-			<ul class="nav navbar-nav pull-left"><li><a target="_blank" href="http://geo-leo.de" title="GEO-LEO Suchportal">GEO-LEO</a></li></ul>
+			<ul class="nav navbar-nav pull-left"><li><a target="_blank" href="https://geo-leo.de" title="GEO-LEO Suchportal">GEO-LEO</a></li></ul>
                         <ul class="nav navbar-nav pull-left">
                               <xsl:call-template name="languageSelection"/>
                         </ul>
@@ -796,9 +801,9 @@
                     </div>
 		    <div class="col-xs-5 col-sm-4 footer-right hidden-print">
 			<div class="pull-right">
-				<a href="http://www.dfg.de" title="DFG">DFG</a>
-				<a href="http://www.sub.uni-goettingen.de" title="SUB Göttingen">SUB</a>
-				<a href="http://fidgeo.de" title="FID GEO">FID GEO</a>
+				<a href="https://www.dfg.de" title="DFG">DFG</a>
+				<a href="https://www.sub.uni-goettingen.de" title="SUB Göttingen">SUB</a>
+				<a href="https://fidgeo.de" title="FID GEO">FID GEO</a>
 				<a href="https://montanportal.com/" title="FID Montan">FID Montan</a>
 			</div>
 		    </div>
@@ -978,11 +983,9 @@
 
 			 <xsl:if test="$current-uri = 'http://e-docs.geo-leo.de:80/map2'">
 
-                  <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map/libraries/mymap/mymap.js"></script>
+                  <script type="text/javascript" charset="UTF-8" src="/themes/Mirage2/map2/libraries/mymap/mymap.js"></script>
 
                 </xsl:if>
-
-
 
       
     </xsl:template>
@@ -1024,6 +1027,7 @@
                 </ul>
             </li>
         </xsl:if>
+
     </xsl:template>
 
 

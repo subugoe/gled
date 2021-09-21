@@ -158,18 +158,18 @@ public class XMLUIPrefillStep extends AbstractSubmissionStep
             Text PPN = form.addItem().addText("identifier_ppn");
             PPN.setLabel(T_ppn_label);
 
-        //if one of the ids already exists show it and give the possibility to refesh
+        //if one of the ids already exists show it and give the possibility to refesh; UPDATE: set to false everytime so no refresh is possible
         if ((doi != null) && (doi.length > 0))
         {
             DOI.setValue(doi[0].value);
             div.addHidden("original_doi").setValue(doi[0].value);
-            fresh = true;
+            fresh = false;
         }
         else if ((ppn != null) && (ppn.length > 0))
         {
             PPN.setValue(ppn[0].value);
             div.addHidden("original_ppn").setValue(ppn[0].value);
-            fresh = true;
+            fresh = false;
         }
 
         if (fresh)
