@@ -151,6 +151,7 @@ public class SolrBrowseCreateDAO implements BrowseCreateDAO,
                                                             "discovery.browse.authority.ignore",
                                                             new Boolean(false)),
                                             true);
+				log.debug("ignoreAuthority: " + ignoreAuthority);
                             for (int x = 0; x < values.length; x++)
                             {
                                 // Ensure that there is a value to index before
@@ -190,7 +191,7 @@ public class SolrBrowseCreateDAO implements BrowseCreateDAO,
                                     // is there any valid (with appropriate
                                     // confidence) authority key?
                                     if ((ignoreAuthority && !bi.isAuthorityIndex())
-                                            || (values[x].authority != null && values[x].confidence >= minConfidence))
+                                            && (values[x].authority != null && values[x].confidence >= minConfidence))
                                     {
                                         distFAuths.add(values[x].authority);
                                         distValuesForAC.add(values[x].value);
