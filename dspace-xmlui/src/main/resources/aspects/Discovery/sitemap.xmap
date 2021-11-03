@@ -85,7 +85,7 @@ and searching the repository.
                 <map:transform type="SidebarFacetsTransformer"/>
                 <map:transform type="FrontPageFeeds"/>
 
-                <!--<map:transform type="SiteRecentSubmissions"/>-->
+                <map:transform type="SiteRecentSubmissions"/>
 
                 <map:serialize type="xml"/>
             </map:match>

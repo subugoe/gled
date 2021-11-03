@@ -202,7 +202,7 @@ public class StatisticsTransformer extends AbstractDSpaceTransformer {
 			statisticsTable.setId("tab1");
 
 			DatasetTimeGenerator timeAxis = new DatasetTimeGenerator();
-			timeAxis.setDateInterval("month", "-24", "+1");
+			timeAxis.setDateInterval("month", "-6", "+1");
 			statisticsTable.addDatasetGenerator(timeAxis);
 
 			DatasetDSpaceObjectGenerator dsoAxis = new DatasetDSpaceObjectGenerator();
@@ -264,8 +264,8 @@ public class StatisticsTransformer extends AbstractDSpaceTransformer {
                             + dso.getID() + " and type " + dso.getType()
                             + " and handle: " + dso.getHandle(), e);
         }
-	
-	try {
+
+        try {
             StatisticsListing statListing = new StatisticsListing(
                        new StatisticsDataVisits(dso));
 

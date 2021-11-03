@@ -210,8 +210,8 @@ public class XOAI {
             SolrServer server = solrServerResolver.getServer();
             while (iterator.hasNext()) {
                 try {
-		        server.add(this.index(find(context, iterator.next().getIntColumn("item_id"))));
-        	        context.clearCache();
+                    server.add(this.index(find(context, iterator.next().getIntColumn("item_id"))));
+                    context.clearCache();
                 } catch (SQLException ex) {
                     log.error(ex.getMessage(), ex);
                 } catch (MetadataBindException e) {
@@ -276,14 +276,15 @@ public class XOAI {
         }
 
         ByteArrayOutputStream out = new ByteArrayOutputStream();
-        XmlOutputContext context = XmlOutputContext.emptyContext(out, Second);
-        retrieveMetadata(item).write(context);
-        context.getWriter().flush();
-        context.getWriter().close();
+        XmlOutputContext xmlContext = XmlOutputContext.emptyContext(out, Second);
+        retrieveMetadata(context, item).write(xmlContext);
+        xmlContext.getWriter().flush();
+        xmlContext.getWriter().close();
         doc.addField("item.compile", out.toString());
 
         if (verbose) {
-            println("Item with handle " + handle + " indexed" + item.getID());
+            println(String.format("Item %d with handle %s indexed",
+                    item.getID(), handle));
         }
 
 
@@ -465,7 +466,7 @@ public class XOAI {
             while (iterator.hasNext()) {
                 Item item = iterator.next();
                 if (verbose) System.out.println("Compiling item with handle: " + item.getHandle());
-                xoaiItemCacheService.put(item, retrieveMetadata(item));
+                xoaiItemCacheService.put(item, retrieveMetadata(context, item));
                 context.clearCache();
             }
 
