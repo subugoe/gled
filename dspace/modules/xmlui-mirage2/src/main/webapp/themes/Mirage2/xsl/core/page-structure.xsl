@@ -781,22 +781,24 @@
 			     <a href="/privacy"> <i18n:text>xmlui.dri2xhtml.structural.privacy-link</i18n:text></a>
 			     <a href="/aboutus"> <i18n:text>xmlui.dri2xhtml.structural.aboutus-link</i18n:text></a>
 			     <a href ="/rights"> <i18n:text>xmlui.dri2xhtml.structural.rights-link</i18n:text></a>
- 			     <a>
+ 			     <!--<a>
                                 <xsl:attribute name="href">
                                     <xsl:value-of
                                             select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='contextPath'][not(@qualifier)]"/>
                                     <xsl:text>/contact</xsl:text>
                                 </xsl:attribute>
                                 <i18n:text>xmlui.dri2xhtml.structural.contact-link</i18n:text>
-                            </a>
-                            <a>
+                            </a>-->
+                            <!--<a>
                                 <xsl:attribute name="href">
                                     <xsl:value-of
                                             select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='contextPath'][not(@qualifier)]"/>
                                     <xsl:text>/feedback</xsl:text>
                                 </xsl:attribute>
                                 <i18n:text>xmlui.dri2xhtml.structural.feedback-link</i18n:text>
-                            </a>
+                            </a>-->
+				<a href="mailto:fid-geo-digi@sub.uni-goettingen.de" title="Mail to fid-geo-digi@sub.uni-goettingen.de">Support: fid-geo-digi@sub.uni-goettingen.de</a>
+		
                         </div>
                     </div>
 		    <div class="col-xs-5 col-sm-4 footer-right hidden-print">

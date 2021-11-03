@@ -508,7 +508,7 @@
 				<xsl:text>, </xsl:text>
 				</xsl:if>
 				<xsl:if test="not(contains(dim:field[@element='format'][@qualifier='extent'], 'S'))">
-                                <xsl:text>s., </xsl:text>
+                                <xsl:text> S., </xsl:text>
                                 </xsl:if>
                         </xsl:if>
     </xsl:variable>
@@ -776,7 +776,7 @@
                                 <xsl:text>, </xsl:text>
                                 </xsl:if>
                                 <xsl:if test="not(contains(dim:field[@element='format'][@qualifier='extent'], 'S'))">
-                                <xsl:text>s., </xsl:text>
+                                <xsl:text> S., </xsl:text>
                                 </xsl:if>
                         </xsl:if>
 
@@ -891,16 +891,11 @@
                         </xsl:attribute>
                     </img> -->
 
-		 <a>
-                <xsl:attribute name="href">
-                <xsl:value-of select="concat(substring-before($src,'.jpg'), '?sequence=1&amp;isAllowed=y')"/>
-                </xsl:attribute>
                         <img alt="Thumbnail">
                         <xsl:attribute name="src">
                             <xsl:value-of select="$src"/>
                         </xsl:attribute>
                     </img>
-                </a>
 
                 </xsl:when>
                 <xsl:otherwise>

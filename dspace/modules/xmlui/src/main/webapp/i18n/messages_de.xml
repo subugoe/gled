@@ -411,9 +411,9 @@
 	<message key="xmlui.EPerson.PasswordLogin.password">Passwort</message>
 	<message key="xmlui.EPerson.PasswordLogin.forgot_link"> Haben Sie Ihr Passwort vergessen?</message>
 	<message key="xmlui.EPerson.PasswordLogin.submit">Einloggen</message>
-	<message key="xmlui.EPerson.PasswordLogin.head2">Einen neuen Benutzer registrieren</message>
-	<message key="xmlui.EPerson.PasswordLogin.para1">Legen Sie einen Benutzeracccount an, um Dienste wie den Neuerscheinungsinformationsdienst nutzen zu können.</message>
-	<message key="xmlui.EPerson.PasswordLogin.register_link">Klicken Sie hier, um einen neuen Benutzeraccount anzulegen.</message>
+	<message key="xmlui.EPerson.PasswordLogin.head2">Eine*n neue*n Benutzer*in registrieren</message>
+	<message key="xmlui.EPerson.PasswordLogin.para1">Legen Sie einen Benutzer*innenaccount an, um Ihre Publikationen hochzuladen und um Dienste wie den Neuerscheinungsinformationsdienst nutzen zu können.<br /> Zum Ansehen und Herunterladen der Dokumente auf GEO-LEOe-docs ist keine Anmeldung nötig.</message>
+	<message key="xmlui.EPerson.PasswordLogin.register_link">Klicken Sie hier, um einen neuen Benutzer*innenaccount anzulegen.</message>
 	
 	<!-- org.dspace.app.xmlui.eperson.LDAPLogin.java -->
 	<message key="xmlui.EPerson.LDAPLogin.title">Einloggen</message>
@@ -2762,8 +2762,8 @@
 
 
   <message key="xmlui.administrative.Navigation.administrative_content">Dokumente</message>
-  <message key="xmlui.administrative.Navigation.administrative_batch_import">Dokumente Importeren</message>
-  <message key="xmlui.administrative.batchimport.general.head1">Dokumente Importeren</message>
+  <message key="xmlui.administrative.Navigation.administrative_batch_import">Dokumente Importieren</message>
+  <message key="xmlui.administrative.batchimport.general.head1">Dokumente Importieren</message>
   <message key="xmlui.administrative.batchimport.general.select_collection">Sammlung auswählen</message>
   <message key="xmlui.administrative.batchimport.general.collection">Sammlungen</message>
   <message key="xmlui.administrative.batchimport.general.collection_help"></message>
@@ -3847,5 +3847,8 @@ Wenn Sie in die Verarbeitung durch die Niedersächsische Staats- und Universitä
 
 
 <message key="xmlui.dri2xhtml.METS-1.0.item-sponsordigi">Förderer der Digitalisierung: </message>
+<message key="xmlui.administrative.batchimport.general.collection_default">Sammlung auswählen ...</message>
+<message key="xmlui.administrative.batchimport.general.trail">Dokumente importieren</message>
+
 
 </catalogue>
