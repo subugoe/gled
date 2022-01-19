@@ -3851,4 +3851,18 @@ Wenn Sie in die Verarbeitung durch die Niedersächsische Staats- und Universitä
 <message key="xmlui.administrative.batchimport.general.trail">Dokumente importieren</message>
 
 
+<message key="xmlui.Submission.submit.progressbar.doi">DOI</message>
+
+<!-- org.dspace.app.xmlui.Submission.submit.AddDoiStep -->
+	<message key="xmlui.Submission.submit.AddDoiStep.btn">Add DOI to item</message>
+	<message key="xmlui.Submission.submit.AddDoiStep.done.btn">DOI created</message>
+	<message key="xmlui.Submission.submit.itemDOI.created">This item will get the DOI {0}.</message>
+	<message key="xmlui.Submission.submit.AddDoiStep.head">DOI</message>
+	<message key="xmlui.Submission.submit.AddDoiStep.section_head">Create DOI for Item</message>
+	<message key="xmlui.Submission.submit.itemDOI.no_doi">There will be no DOI created for this item.</message>
+	<message key="xmlui.Submission.submit.itemDOI.note">Note that this item might get a DOI by default if there is a filter set that evaluates a later state of this item.</message>
+
+<message key="xmlui.administrative.item.EditItemStatusForm.label_doi">DOI</message>
+<message key="xmlui.administrative.item.EditItemStatusForm.submit_register_doi">Register DOI</message>
+
 </catalogue>
