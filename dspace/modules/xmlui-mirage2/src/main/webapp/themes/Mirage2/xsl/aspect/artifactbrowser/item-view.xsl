@@ -111,7 +111,12 @@
 					<xsl:call-template name="itemSummaryView-DIM-title"/>
 					<xsl:call-template name="itemSummaryView-DIM-authors"/>
 					<xsl:if test="dim:field[@element='type'][@qualifier='version'] = 'publishedVersion'">
-					<i18n:text>xmlui.dri2xhtml.METS-1.0.item-journal</i18n:text><xsl:call-template name="itemSummaryView-DIM-journal"/><xsl:call-template name="itemSummaryView-DIM-volume"/><xsl:call-template name="itemSummaryView-DIM-issue"/>; <xsl:call-template name="itemSummaryView-DIM-date"/>; <xsl:call-template name="itemSummaryView-DIM-pages"/>
+					 <xsl:if test="not(contains(dim:field[@element='relation'][@qualifier='volume'], 'Mitteilungen der Deutschen Geophysikalischen'))">
+					<i18n:text>xmlui.dri2xhtml.METS-1.0.item-journal</i18n:text>
+					<xsl:call-template name="itemSummaryView-DIM-journal"/><xsl:call-template name="itemSummaryView-DIM-date"/>,
+					<xsl:call-template name="itemSummaryView-DIM-volume"/>
+					<xsl:call-template name="itemSummaryView-DIM-issue"/>: <xsl:call-template name="itemSummaryView-DIM-pages"/>
+					</xsl:if>
 					</xsl:if>
 					<xsl:if test="dim:field[@element='type'][@qualifier='version'] = 'submittedVersion'">
 					<xsl:text>Preprint</xsl:text><br />
@@ -148,7 +153,7 @@
 
 		<!--<xsl:call-template name="itemSummaryView-DIM-URI"/>-->
 		<xsl:call-template name="itemSummaryView-DIM-DOI"/>
-<xsl:if test="dim:field[@element='relation' and @qualifier='ispartof']">
+<xsl:if test="contains(dim:field[@element='relation' and @qualifier='ispartof'], 'http')">
                 <xsl:for-each select="dim:field[@element='relation' and @qualifier='ispartof']">
                        <xsl:text>In: </xsl:text>
 <a>
@@ -276,14 +281,14 @@
                         <xsl:choose>
                             <xsl:when test="dim:field[@element='identifier'][@qualifier='doi']">
 				<xsl:if test="not(contains(dim:field[@element='identifier'][@qualifier='doi'], 'doi.org'))">
-                            <xsl:text>DOI </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
+                            <xsl:text>DOI: </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
 				</xsl:if>
 				<xsl:if test="contains(dim:field[@element='identifier'][@qualifier='doi'], 'doi.org')">
-                            <xsl:text>DOI </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='identifier'][@qualifier='doi'][1]/node(), 'doi.org/')"/><xsl:text>. </xsl:text>
+                            <xsl:text>DOI: </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='identifier'][@qualifier='doi'][1]/node(), 'doi.org/')"/><xsl:text>. </xsl:text>
                                 </xsl:if>
                                 </xsl:when>
                         <xsl:otherwise>
-                            <xsl:text>DOI </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']">
+                            <xsl:text>DOI: </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']">
                                 <xsl:choose>
                                 <xsl:when test="contains(dim:field[@element='identifier'][@qualifier='uri'][1]/node(), 'doi')">
                                 <xsl:copy-of select="concat('https://doi.org/', substring-after(dim:field[@element='identifier'][@qualifier='uri'][1]/node(), 'doi.org/'))"/><xsl:text>. </xsl:text>
@@ -344,14 +349,14 @@
                         <xsl:choose>
 			<xsl:when test="dim:field[@element='identifier'][@qualifier='doi']">
                                 <xsl:if test="not(contains(dim:field[@element='identifier'][@qualifier='doi'], 'doi.org'))">
-                            <xsl:text>DOI </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
+                            <xsl:text>DOI: </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
                                 </xsl:if>
                                 <xsl:if test="contains(dim:field[@element='identifier'][@qualifier='doi'], 'doi.org')">
-                            <xsl:text>DOI </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='identifier'][@qualifier='doi'][1]/node(), 'doi.org/')"/><xsl:text>. </xsl:text>
+                            <xsl:text>DOI: </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='identifier'][@qualifier='doi'][1]/node(), 'doi.org/')"/><xsl:text>. </xsl:text>
                                 </xsl:if>
                                 </xsl:when>
                         <xsl:otherwise>
-                            <xsl:text>DOI </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']">
+                            <xsl:text>DOI: </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']">
                                 <xsl:choose>
                                 <xsl:when test="contains(dim:field[@element='identifier'][@qualifier='uri'][1]/node(), 'doi')">
                                 <xsl:copy-of select="concat('https://doi.org/', substring-after(dim:field[@element='identifier'][@qualifier='uri'][1]/node(), 'doi.org/'))"/><xsl:text>. </xsl:text>
@@ -419,14 +424,14 @@
                         <xsl:choose>
 			<xsl:when test="dim:field[@element='identifier'][@qualifier='doi']">
                                 <xsl:if test="not(contains(dim:field[@element='identifier'][@qualifier='doi'], 'doi.org'))">
-                            <xsl:text>DOI </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
+                            <xsl:text>DOI: </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
                                 </xsl:if>
                                 <xsl:if test="contains(dim:field[@element='identifier'][@qualifier='doi'], 'doi.org')">
-                            <xsl:text>DOI </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='identifier'][@qualifier='doi'][1]/node(), 'doi.org/')"/><xsl:text>. </xsl:text>
+                            <xsl:text>DOI: </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='identifier'][@qualifier='doi'][1]/node(), 'doi.org/')"/><xsl:text>. </xsl:text>
                                 </xsl:if>
                                 </xsl:when>
                         <xsl:otherwise>
-                            <xsl:text>DOI </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']">
+                            <xsl:text>DOI: </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']">
                                 <xsl:choose>
                                 <xsl:when test="contains(dim:field[@element='identifier'][@qualifier='uri'][1]/node(), 'doi')">
                                 <xsl:copy-of select="concat('https://doi.org/', substring-after(dim:field[@element='identifier'][@qualifier='uri'][1]/node(), 'doi.org/'))"/><xsl:text>. </xsl:text>
@@ -516,14 +521,14 @@
                         <xsl:choose>
 			<xsl:when test="dim:field[@element='identifier'][@qualifier='doi']">
                                 <xsl:if test="not(contains(dim:field[@element='identifier'][@qualifier='doi'], 'doi.org'))">
-                            <xsl:text>DOI </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
+                            <xsl:text>DOI: </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
                                 </xsl:if>
                                 <xsl:if test="contains(dim:field[@element='identifier'][@qualifier='doi'], 'doi.org')">
-                            <xsl:text>DOI </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='identifier'][@qualifier='doi'][1]/node(), 'doi.org/')"/><xsl:text>. </xsl:text>
+                            <xsl:text>DOI: </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='identifier'][@qualifier='doi'][1]/node(), 'doi.org/')"/><xsl:text>. </xsl:text>
                                 </xsl:if>
                                 </xsl:when>
                         <xsl:otherwise>
-                            <xsl:text>DOI </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']">
+                            <xsl:text>DOI: </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']">
                                 <xsl:choose>
                                 <xsl:when test="contains(dim:field[@element='identifier'][@qualifier='uri'][1]/node(), 'doi')">
                                 <xsl:copy-of select="concat('https://doi.org/', substring-after(dim:field[@element='identifier'][@qualifier='uri'][1]/node(), 'doi.org/'))"/><xsl:text>. </xsl:text>
@@ -605,14 +610,14 @@
                         <xsl:choose>
 			<xsl:when test="dim:field[@element='identifier'][@qualifier='doi']">
                                 <xsl:if test="not(contains(dim:field[@element='identifier'][@qualifier='doi'], 'doi.org'))">
-                            <xsl:text>DOI </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
+                            <xsl:text>DOI: </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
                                 </xsl:if>
                                 <xsl:if test="contains(dim:field[@element='identifier'][@qualifier='doi'], 'doi.org')">
-                            <xsl:text>DOI </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='identifier'][@qualifier='doi'][1]/node(), 'doi.org/')"/><xsl:text>. </xsl:text>
+                            <xsl:text>DOI: </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='identifier'][@qualifier='doi'][1]/node(), 'doi.org/')"/><xsl:text>. </xsl:text>
                                 </xsl:if>
                                 </xsl:when>
                         <xsl:otherwise>
-                            <xsl:text>DOI </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']">
+                            <xsl:text>DOI: </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']">
                                 <xsl:choose>
                                 <xsl:when test="contains(dim:field[@element='identifier'][@qualifier='uri'][1]/node(), 'doi')">
                                 <xsl:copy-of select="concat('https://doi.org/', substring-after(dim:field[@element='identifier'][@qualifier='uri'][1]/node(), 'doi.org/'))"/><xsl:text>. </xsl:text>
@@ -672,6 +677,9 @@
 				<xsl:if test="dim:field[@element='bibliographicCitation'][@qualifier='volume']">
 					<xsl:text>, Band </xsl:text><xsl:copy-of select="dim:field[@element='bibliographicCitation'][@qualifier='volume'][1]/node()"/>
 				</xsl:if>
+				 <xsl:if test="dim:field[@element='bibliographicCitation'][@qualifier='issue']">
+                                        <xsl:text>, </xsl:text><xsl:copy-of select="dim:field[@element='bibliographicCitation'][@qualifier='issue'][1]/node()"/>
+                                </xsl:if>
 				</xsl:when>
 				<xsl:otherwise><xsl:if test="dim:field[@element='relation'][@qualifier='volume']">
                             <xsl:text>In: </xsl:text><xsl:copy-of select="substring-before(dim:field[@element='relation'][@qualifier='volume'][1]/node(), ';')"/><xsl:text>, </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='relation'][@qualifier='volume'][1]/node(), ';')"/></xsl:if>
@@ -682,14 +690,14 @@
                         <xsl:choose>
 			<xsl:when test="dim:field[@element='identifier'][@qualifier='doi']">
                                 <xsl:if test="not(contains(dim:field[@element='identifier'][@qualifier='doi'], 'doi.org'))">
-                            <xsl:text>DOI </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
+                            <xsl:text>DOI: </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
                                 </xsl:if>
                                 <xsl:if test="contains(dim:field[@element='identifier'][@qualifier='doi'], 'doi.org')">
-                            <xsl:text>DOI </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='identifier'][@qualifier='doi'][1]/node(), 'doi.org/')"/><xsl:text>. </xsl:text>
+                            <xsl:text>DOI: </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='identifier'][@qualifier='doi'][1]/node(), 'doi.org/')"/><xsl:text>. </xsl:text>
                                 </xsl:if>
                                 </xsl:when>
                         <xsl:otherwise>
-                            <xsl:text>DOI </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']">
+                            <xsl:text>DOI: </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']">
                                 <xsl:choose>
                                 <xsl:when test="contains(dim:field[@element='identifier'][@qualifier='uri'][1]/node(), 'doi')">
                                 <xsl:copy-of select="concat('https://doi.org/', substring-after(dim:field[@element='identifier'][@qualifier='uri'][1]/node(), 'doi.org/'))"/><xsl:text>. </xsl:text>
@@ -705,7 +713,7 @@
 
 		 <xsl:variable name="pages">
                             <xsl:if test="dim:field[@element='bibliographicCitation'][@qualifier='firstPage']">
-                            <xsl:text>, </xsl:text><xsl:copy-of select="dim:field[@element='bibliographicCitation'][@qualifier='firstPage'][1]/node()"/>
+                            <xsl:text>: </xsl:text><xsl:copy-of select="dim:field[@element='bibliographicCitation'][@qualifier='firstPage'][1]/node()"/>
                                 </xsl:if>
                             <xsl:if test="dim:field[@element='bibliographicCitation'][@qualifier='lastPage']">
                             <xsl:text> - </xsl:text><xsl:copy-of select="dim:field[@element='bibliographicCitation'][@qualifier='lastPage'][1]/node()"/>
@@ -744,6 +752,20 @@
                                     <xsl:text>; </xsl:text>
                                 </xsl:if>
                             </xsl:for-each>
+        </xsl:if>
+	<xsl:if test="dim:field[@element='contributor'][@qualifier='editor'] and contains(dim:field[@element='relation'][@qualifier='volume'], 'Codex Montanus')">
+                            <xsl:for-each select="dim:field[@element='contributor'][@qualifier='editor']">
+                                <span>
+                                  <xsl:if test="@authority">
+                                    <xsl:attribute name="class"><xsl:text>ds-dc_contributor_author-authority</xsl:text></xsl:attribute>
+                                  </xsl:if>
+                                  <xsl:copy-of select="node()"/>
+                                </span>
+                                <xsl:if test="count(following-sibling::dim:field[@element='contributor'][@qualifier='editor']) != 0">
+                                    <xsl:text>; </xsl:text>
+                                </xsl:if>
+                            </xsl:for-each>
+				<xsl:text> (Hrsg.)</xsl:text>
         </xsl:if>
     </xsl:variable>
         <xsl:variable name="dateissued">
@@ -785,14 +807,14 @@
                         <xsl:choose>
 			<xsl:when test="dim:field[@element='identifier'][@qualifier='doi']">
                                 <xsl:if test="not(contains(dim:field[@element='identifier'][@qualifier='doi'], 'doi.org'))">
-                            <xsl:text>DOI </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
+                            <xsl:text>DOI: </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
                                 </xsl:if>
                                 <xsl:if test="contains(dim:field[@element='identifier'][@qualifier='doi'], 'doi.org')">
-                            <xsl:text>DOI </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='identifier'][@qualifier='doi'][1]/node(), 'doi.org/')"/><xsl:text>. </xsl:text>
+                            <xsl:text>DOI: </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='identifier'][@qualifier='doi'][1]/node(), 'doi.org/')"/><xsl:text>. </xsl:text>
                                 </xsl:if>
                                 </xsl:when>
                         <xsl:otherwise>
-                            <xsl:text>DOI </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']">
+                            <xsl:text>DOI: </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']">
                                 <xsl:choose>
                                 <xsl:when test="contains(dim:field[@element='identifier'][@qualifier='uri'][1]/node(), 'doi')">
                                 <xsl:copy-of select="concat('https://doi.org/', substring-after(dim:field[@element='identifier'][@qualifier='uri'][1]/node(), 'doi.org/'))"/><xsl:text>. </xsl:text>
@@ -1089,11 +1111,19 @@
 </xsl:template>
 
 <xsl:template name="itemSummaryView-DIM-type">
-<div>        <xsl:if test="dim:field[@element='type'][not(@qualifier)]">
+<div>   
+	<xsl:if test="contains(dim:field[@element='relation'][@qualifier='volume'], 'Berliner geowissenschaftliche Abhandlungen. Reihe A')">
+	<xsl:for-each select="dim:field[@element='type'][not(@qualifier)]">
+                        <xsl:text>Sammelbandbeitrag, digitalisiert</xsl:text>
+                </xsl:for-each>
+	</xsl:if>
+	<xsl:if test="not(contains(dim:field[@element='relation'][@qualifier='volume'], 'Berliner geowissenschaftliche Abhandlungen. Reihe A'))">     
+	<xsl:if test="dim:field[@element='type'][not(@qualifier)]">
                 <xsl:for-each select="dim:field[@element='type'][not(@qualifier)]">
 			<i18n:text><xsl:copy-of select="."/></i18n:text>
                 </xsl:for-each>
         </xsl:if>
+	</xsl:if>
 </div>
 </xsl:template>
 
@@ -1151,7 +1181,7 @@
 <xsl:template name="itemSummaryView-DIM-journal">
         <xsl:if test="dim:field[@element='bibliographicCitation' and @qualifier='journal']">
                 <xsl:for-each select="dim:field[@element='bibliographicCitation' and @qualifier='journal']">
-                        <xsl:copy-of select="./node()"/><xsl:text>; </xsl:text>
+                        <xsl:copy-of select="./node()"/><xsl:text>, </xsl:text>
                 </xsl:for-each>
         </xsl:if>
 </xsl:template>
@@ -1167,7 +1197,7 @@
 <xsl:template name="itemSummaryView-DIM-issue">
         <xsl:if test="dim:field[@element='bibliographicCitation' and @qualifier='issue']">
                 <xsl:for-each select="dim:field[@element='bibliographicCitation' and @qualifier='issue']">
-                        <xsl:copy-of select="./node()"/>
+                        <xsl:text>, </xsl:text><xsl:copy-of select="./node()"/>
                 </xsl:for-each>
         </xsl:if>
 </xsl:template>
@@ -1175,7 +1205,7 @@
 <xsl:template name="itemSummaryView-DIM-pages">
         <xsl:if test="dim:field[@element='bibliographicCitation' and @qualifier='firstPage']">
                 <xsl:for-each select="dim:field[@element='bibliographicCitation' and @qualifier='firstPage']">
-                        <xsl:text>p. </xsl:text><xsl:copy-of select="./node()"/>
+                        <xsl:text> </xsl:text><xsl:copy-of select="./node()"/>
                 </xsl:for-each>
 			</xsl:if>
 			<xsl:text> - </xsl:text>
@@ -1435,7 +1465,7 @@
                     </xsl:variable>
 
                     <xsl:for-each select="//mets:fileSec/mets:fileGrp[@USE='CONTENT' or @USE='ORIGINAL' or @USE='LICENSE']/mets:file">
-		<xsl:if test="not(contains(mets:FLocat[@LOCTYPE='URL']/@xlink:href, 'alteversion'))">
+		<xsl:if test="not(contains(mets:FLocat[@LOCTYPE='URL']/@xlink:href, 'alteversion')) and not(contains(mets:FLocat[@LOCTYPE='URL']/@xlink:href, 'alteVersion'))">
 			<xsl:call-template name="itemSummaryView-DIM-file-section-entry">
                             <xsl:with-param name="href" select="mets:FLocat[@LOCTYPE='URL']/@xlink:href" />
                             <xsl:with-param name="mimetype" select="@MIMETYPE" />
