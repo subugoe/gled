@@ -49,10 +49,11 @@
                     <!-- The form, complete with a text box and a button, all built from attributes referenced
                  from under pageMeta. -->
 
-<div class="publish">
-                                <a class="publishButton">
+<div class="publish" style="margin-bottom:10px;">
+                                
+<a class="publishButton">
                                 <xsl:choose>
-                                        <xsl:when test="contains(//dri:metadata[@element='request'][@qualifier='URI'], 'submit')">
+                           <xsl:when test="contains(//dri:metadata[@element='request'][@qualifier='URI'], 'submit')">
                                                 <xsl:attribute name="href"><xsl:text>#</xsl:text></xsl:attribute>
 
                                                         <i18n:text>xmlui.general.publish_now</i18n:text>
@@ -80,14 +81,14 @@
                                 </a>
                         </div>
 
-<div class="publish">
-                                <a class="publishButton">
+<div style="font-size:larger;margin-bottom:20px;text-align:center;">
+                                <a>
 <xsl:attribute name="href"><xsl:value-of select="concat($context-path, '/help')" /></xsl:attribute><i18n:text>xmlui.navigation.help</i18n:text></a></div>
 
 
 
 
-                    <form id="ds-search-form" class="" method="post">
+                    <form id="ds-search-form" class="" method="post" style="margin-bottom:10px;">
                        <xsl:attribute name="action">
                             <xsl:value-of select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='contextPath']"/>
                             <xsl:value-of
@@ -159,6 +160,10 @@
                             </xsl:if>
                         </fieldset>
                     </form>
+<div style="font-size:larger;margin-bottom:20px;text-align:center;">
+                                <a>
+<xsl:attribute name="href"><xsl:value-of select="concat($context-path, '/searchhelp')" /></xsl:attribute><i18n:text>xmlui.navigation.searchhelp</i18n:text></a></div>
+
                 </div>
             </xsl:if>
 <!--Hilfe-Link-->

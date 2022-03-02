@@ -1987,7 +1987,7 @@
 	</message>
 	<message key="xmlui.dri2xhtml.structural.contact-link">Kontakt</message>
 	<message key="xmlui.dri2xhtml.structural.feedback-link">Feedback abschicken</message>
-	<message key="xmlui.dri2xhtml.structural.privacy-link">Datenschutz</message>
+	<message key="xmlui.dri2xhtml.structural.privacy-link">Datenschutzhinweis (Opt-Out)</message>
 	<message key="xmlui.dri2xhtml.structural.head-subtitle">DSpace Repositorium (Manakin basiert)</message>
 
 	<message key="xmlui.dri2xhtml.structural.profile">Profil: </message>
@@ -2516,24 +2516,24 @@
   <message key="xmlui.dri2xhtml.structural.impressum-link">Impressum</message>
   <message key="xmlui.home.text">
         <!--<h2>Publikationsserver des FID GEO</h2>-->
-	<h2>Publikationsserver des <a href="https://www.fidgeo.de" target="_blank"><image class="frontpage-logo" src="/themes/Mirage2/images/fidgeo2.png" alt="FID GEO Logo"/></a></h2>
+	<h2>Publikationsserver des <a href="https://www.fidgeo.de" target="_blank"><img class="frontpage-logo" src="/themes/Mirage2/images/fidgeo2.png" alt="FID GEO Logo"/></a></h2>
 
   <div id="first_row" class="hidden-xs hidden-sm hidden-md">
         <figure class="frontpage_images">
         <a href="handle/11858/Geology">
-        <image class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geologie"/>
+        <img class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geologie"/>
         </a>
         <figcaption class="einzeilig">Geologie</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/Paleontology">
-        <image class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paläontologie" />
+        <img class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paläontologie" />
         </a>
         <figcaption class="einzeilig">Paläontologie, Geobiologie</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/GeochemistryMinearologyPetrology">
-        <image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
+        <img class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
         </a>
         <figcaption>Geochemie, Mineralogie, Petrologie</figcaption>
         </figure>
@@ -2541,19 +2541,19 @@
 <div id="second_row" class="hidden-xs hidden-sm hidden-md">
         <figure class="frontpage_images">
         <a href="handle/11858/Geophysics">
-        <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Extraterristische Forschung" />
+        <img class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Extraterristische Forschung" />
 </a>
         <figcaption>Geophysik, Extraterristische Forschung</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/EnergyResourcesEnvironment">
-        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Montanwesen, Energie, Ressourcen, Umwelt" />
+        <img class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Montanwesen, Energie, Ressourcen, Umwelt" />
         </a>
         <figcaption>Montanwesen, Energie, Ressourcen, Umwelt</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/Geography">
-        <image class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geographie"/>
+        <img class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geographie"/>
         </a>
         <figcaption class="einzeilig">Geographie, Hydrologie</figcaption>
         </figure>
@@ -2561,7 +2561,7 @@
 <div id="third_row" class="hidden-xs hidden-sm hidden-md">
         <figure class="frontpage_map">
         <a href="map">
-        <image class="frontpage" src="/themes/Mirage2/images/map.jpg" alt="Übersichtskarte" />
+        <img class="frontpage" src="/themes/Mirage2/images/map.jpg" alt="Übersichtskarte" />
         </a>
                 <figcaption class="einzeilig">Übersichtskarte</figcaption>
         </figure>
@@ -2569,13 +2569,13 @@
 <div id="first_row" class="hidden-lg hidden-xs">
         <figure class="frontpage_images">
         <a href="handle/11858/Geology">
-        <image class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geologie"/>
+        <img class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geologie"/>
         </a>
         <figcaption class="einzeilig">Geologie</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/Paleontology">
-        <image class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paläontologie" />
+        <img class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paläontologie" />
         </a>
         <figcaption class="einzeilig">Paläontologie, Geobiologie</figcaption>
         </figure>
@@ -2583,13 +2583,13 @@
 <div id="second_row" class="hidden-lg hidden-xs">
         <figure class="frontpage_images">
         <a href="handle/11858/GeochemistryMinearologyPetrology">
-        <image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
+        <img class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
         </a>
         <figcaption>Geochemie, Mineralogie, Petrologie</figcaption>
         </figure>
                 <figure class="frontpage_images">
         <a href="handle/11858/Geophysics">
-        <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Extraterristische Forschung" />
+        <img class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Extraterristische Forschung" />
                 </a>
         <figcaption>Geophysik, Extraterristische Forschung</figcaption>
         </figure>
@@ -2597,13 +2597,13 @@
 <div id="third_row"  class="hidden-lg hidden-xs">
         <figure class="frontpage_images">
         <a href="handle/11858/EnergyResourcesEnvironment">
-        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Montanwesen, Energie, Ressourcen, Umwelt" />
+        <img class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Montanwesen, Energie, Ressourcen, Umwelt" />
         </a>
         <figcaption>Montanwesen, Energie, Ressourcen, Umwelt</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/Geography">
-        <image class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geographie"/>
+        <img class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geographie"/>
         </a>
         <figcaption class="einzeilig">Geographie, Hydrologie</figcaption>
         </figure>
@@ -2611,7 +2611,7 @@
 <div id="fourth_row" class="hidden-lg hidden-xs" >
         <figure class="frontpage_mapm">
         <a href="map">
-        <image class="frontpage" src="/themes/Mirage2/images/map455.png" alt="Übersichtskarte" />
+        <img class="frontpage" src="/themes/Mirage2/images/map455.png" alt="Übersichtskarte" />
         </a>
                 <figcaption class="einzeilig">Übersichtskarte</figcaption>
         </figure>
@@ -2619,7 +2619,7 @@
 <div id="first_row" class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_images">
         <a href="handle/11858/Geology">
-        <image class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geologie"/>
+        <img class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geologie"/>
         </a>
         <figcaption class="einzeilig">Geologie</figcaption>
         </figure>
@@ -2627,7 +2627,7 @@
 <div id="second_row" class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_images">
         <a href="handle/11858/Paleontology">
-        <image class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paläontologie" />
+        <img class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paläontologie" />
         </a>
         <figcaption class="einzeilig">Paläontologie, Geobiologie</figcaption>
         </figure>
@@ -2635,7 +2635,7 @@
 <div id="third_row" class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_images">
         <a href="handle/11858/GeochemistryMinearologyPetrology">
-        <image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
+        <img class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
         </a>
         <figcaption>Geochemie, Mineralogie, Petrologie</figcaption>
         </figure>
@@ -2643,7 +2643,7 @@
 <div id="fourth_row" class="hidden-lg hidden-sm hidden-md">
                 <figure class="frontpage_images">
         <a href="handle/11858/Geophysics">
-        <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Extraterristische Forschung" />
+        <img class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Extraterristische Forschung" />
                 </a>
         <figcaption>Geophysik, Extraterristische Forschung</figcaption>
         </figure>
@@ -2651,7 +2651,7 @@
 <div id="fifth_row"  class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_images">
         <a href="handle/11858/EnergyResourcesEnvironment">
-        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Montanwesen, Energie, Ressourcen, Umwelt" />
+        <img class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Montanwesen, Energie, Ressourcen, Umwelt" />
         </a>
         <figcaption>Montanwesen, Energie, Ressourcen, Umwelt</figcaption>
         </figure>
@@ -2659,7 +2659,7 @@
 <div id="sixth_row"  class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_images">
         <a href="handle/11858/Geography">
-        <image class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geographie"/>
+        <img class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geographie"/>
         </a>
         <figcaption class="einzeilig">Geographie, Hydrologie</figcaption>
         </figure>
@@ -2667,7 +2667,7 @@
 <div id="seventh_row"  class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_maps">
         <a href="map">
-        <image class="frontpage" src="/themes/Mirage2/images/map220.png" alt="Übersichtskarte" />
+        <img class="frontpage" src="/themes/Mirage2/images/map220.png" alt="Übersichtskarte" />
         </a>
                 <figcaption class="einzeilig">Übersichtskarte</figcaption>
         </figure>
@@ -2677,38 +2677,38 @@
 
 <div  style="margin-top:15px;font-size:1.3em;">
                 <a href="handle/11858/8568">
-                <img style="vertical-align:middle;width:120px;margin-right:30px;" src="/themes/Mirage2/images/gaussiana_crop.png"/>
+                <img style="vertical-align:middle;width:120px;margin-right:30px;" src="/themes/Mirage2/images/gaussiana_crop.png" alt="Gaussiana Logo" />
                 </a>
                 <span><a href="handle/11858/8568">Gaussiana</a></span>
 </div>
 <div  style="margin-top:15px;font-size:1.3em;">
                 <a href="handle/11858/9611">
-                <img style="vertical-align:middle;width:120px;margin-right:30px;" src="/themes/Mirage2/images/bob.jpg"/>
+                <img style="vertical-align:middle;width:120px;margin-right:30px;" src="/themes/Mirage2/images/bob.jpg" alt="Geologische Blätter Logo" />
                 </a>
                 <span><a href="handle/11858/9611">Geologische Blätter</a></span>
 </div>
 <div style="margin-top:15px;font-size:1.3em;">
 		<a href="gmit">
-		<img style="vertical-align:middle; width:120px;margin-right:30px;" src="/themes/Mirage2/images/gmit-logo.jpg"/>
+		<img style="vertical-align:middle; width:120px;margin-right:30px;" src="/themes/Mirage2/images/gmit-logo.jpg" alt="GMIT Logo" />
 		</a>
 		<span><a href="gmit">Geowissenschaftliche Mitteilungen</a></span>
 </div>
 <div style="margin-top:15px;font-size:1.3em;">
                 <a href="handle/11858/00-1735-0000-0022-A79A-4">
-                <img style="vertical-align:middle; width:120px;margin-right:30px;" src="/themes/Mirage2/images/logo-gga.jpg"/>
+                <img style="vertical-align:middle; width:120px;margin-right:30px;" src="/themes/Mirage2/images/logo-gga.jpg" alt="GGA Logo" />
                 </a>
                 <span><a href="handle/11858/00-1735-0000-0022-A79A-4">Greifswalder Geographische Arbeiten</a></span>
 </div>
 <div  style="margin-top:15px;font-size:1.3em;">
 		<a href="handle/11858/6421">
-		<img style="vertical-align:middle;width:120px;margin-right:30px;" src="/themes/Mirage2/images/Telma_crop.jpg"/>
+		<img style="vertical-align:middle;width:120px;margin-right:30px;" src="/themes/Mirage2/images/Telma_crop.jpg" alt="Telma Logo" />
 		</a>
 		<span><a href="handle/11858/6421">Fachzeitschrift der DGMT</a></span>
 </div>
 
 <div  style="margin-top:15px;font-size:1.3em;">
                 <a href="handle/11858/9600">
-                <img style="vertical-align:middle;width:120px;margin-right:30px;" src="/themes/Mirage2/images/Rote_Blaetter.png"/>
+                <img style="vertical-align:middle;width:120px;margin-right:30px;" src="/themes/Mirage2/images/Rote_Blaetter.png" alt="Rote Blätter Logo" />
                 </a>
                 <span><a href="handle/11858/9600">Mitteilungen / Deutsche Geophysikalische Gesellschaft</a></span>
 </div>
@@ -2922,15 +2922,51 @@ Umsatzsteuergesetz:  </message>
 
 	<!-- about us -->
 	<message key="xmlui.aboutus.head">Über uns</message>
-        <message key="xmlui.aboutus.section1">Im Fachrepositorium GEO-LEO<i>e-docs</i> des FID GEO werden Dokumente über Geowissenschaften gesammelt, erschlossen und dauerhaft bewahrt. Das Angebot umfasst das gesamte Spektrum wissenschaftlicher Publikationen von Monographien über Pre- und Postprints begutachteter Forschungsarbeiten bis hin zu institutionellen Serien und Zeitschriften sowie grauer Literatur und Karten.</message>
-        <message key="xmlui.aboutus.section2">Fachgesellschaften, geowissenschaftliche Einrichtungen und einzelne Wissenschaftler können ihre Dokumente in GEO-LEO<i>e-docs</i> veröffentlichen oder bereits veröffentlichte Dokumente online stellen. Fachgesellschaften und wissenschaftliche Einrichtungen sind eingeladen, eigene Sammlungen einzurichten, auf denen sie selbstständig ihre Serien, Zeitschriften und andere Informationsressourcen veröffentlichen. Das Team des FID GEO bietet dafür unterschiedliche Formen der Unterstützung und Zusammenarbeit an.</message>
-	<message key="xmlui.aboutus.section3">Als zentrale Publikationsplattform und Open-Access-Server wurde das Repositorium im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) 2004-2007 geförderten Projekts zum Aufbau der Virtuellen Fachbibliothek „GEO-LEO“ entwickelt. Die verschiedenen Sammlungen des Repositoriums orientierten sich an den überregionalen Sammelschwerpunkten der Projektpartner Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB Göttingen) und der Universitätsbibliothek der TU Bergakademie Freiberg. Sie wurden als Archive frei zugänglicher digitaler Volltexte im Kontext des jeweiligen Sondersammelgebiets im Programm der DFG für die überregionale Literatur- und Informationsversorgung konzipiert. Mit Projektende ging GEO-LEO<i>e-docs</i> in den Routinebetrieb der SUB Göttingen über, wo die Publikationsplattform erstmals in 2012 im Zuge einer kompletten Erneuerung modernisiert wurde.</message>
-	<message key="xmlui.aboutus.section4">Mittlerweile ist das Repositorium Teil der Informationsinfrastruktur des Fachinformationsdienstes für die Geowissenschaften (FID GEO), der als DFG-gefördertes Gemeinschaftsprojekt der SUB Göttingen und der Abteilung Bibliothek und Informationsdienste des Deutschen GeoForschungszentrum GFZ in Potsdam seit 2016 betrieben wird. Mit der Erweiterung von GEO-LEO<i>e-docs</i> zum Fachrepositorium des FID GEO wurde das zugrundeliegende DSpace-System neu aufgesetzt. Gleichzeitig waren mit diesem Schritt auch einige konzeptionelle Veränderungen verbunden:</message>
-	<message key="xmlui.aboutus.listitem1">Die Vergabe von DOI für alle Dokumente sorgt für eine dauerhafte Verfügbarkeit und verlässliche Zitierbarkeit.</message>
-	<message key="xmlui.aboutus.listitem2">Eine neue Sammlungsstruktur orientiert sich stärker an verschiedenen Fachdisziplinen der Geowissenschaften und ermöglicht die Akzentuierung einzelner Serien.</message>
-	<message key="xmlui.aboutus.listitem3">Zusätzliche Funktionalitäten wie eine Zitationsanalyse, Nutzung eines Print-on-demand-Dienstes sowie eine Schnittstelle für Peer-Review sind konfigurierbar.</message>
-	<message key="xmlui.aboutus.listitem4">Die Sammlungen sind Archive frei zugänglicher digitaler Volltexte im Kontext des Programms der DFG Fachinformationsdienste für die Wissenschaft. </message>
-	<message key="xmlui.aboutus.section5">In diesem Kontext gibt es für die Nutzung des Repositoriums als Publikationsplattform Kooperationen mit verschiedenen Organisationen, wie z.B. mit dem Fachinformationsdienst Montan der UB Freiberg. Eine erste Kooperation gab es über mehrere Jahre mit der Geozon Science Media UG. Als Ausgründungsprojekt des Institutes für Geographie und Geologie der Universität Greifswald und Open Access-Verlag für Geo- und Umweltwissenschaften stellte Geozon seine gesamten aggregierten und veredelten Publikationen in GEO-LEO<i>e-docs</i> ein. Hinzu kommen aktuell Kooperationen mit der GeoUnion Alfred-Wegener-Stiftung und mit einzelnen Fachgesellschaften wie der Deutschen Geophysikalischen Gesellschaft und der Deutschen Gesellschaft für Moor- und Torfkunde. Kooperationen mit weiteren Organisationen sind in Vorbereitung.</message>
+        <message key="xmlui.aboutus.section1">Das Fachrepositorium GEO-LEOe-docs wird an der Niedersächsischen Staats- und Universitätsbibliothek Göttingen (<a href="https://www.sub.uni-goettingen.de/sub-aktuell/" target="_blank">SUB Göttingen</a>) betrieben und durch das dort ansässige Team des <a href="https://www.fidgeo.de/" target="_blank">FID GEO</a> (Fachinformationsdienst Geowissenschaften) betreut.</message>
+        <message key="xmlui.aboutus.section2">Auf GEO-LEOe-docs werden geowissenschaftliche Dokumente gesammelt, erschlossen und dauerhaft bewahrt. Das Angebot umfasst das gesamte Spektrum geowissenschaftlicher Publikationen von Monografien über Pre- und Postprints begutachteter Forschungsarbeiten bis hin zu institutionellen Serien und Zeitschriften sowie grauer Literatur und Karten. GEO-LEOe-docs veröffentlicht auch fortlaufende Netzpublikationen, die als digitale Erstveröffentlichungen, parallel zum Print, hier erscheinen. Des Weiteren bietet eine interaktive Übersichtskarte Zugang zum Kartenbestand auf GEO-LEOe-docs, und zusätzlich zu ca. 2500 online frei zugänglichen Karten anderer Anbieter.</message>
+	<message key="xmlui.aboutus.label.openaccess">Erklärung zu Open Access</message>
+	<message key="xmlui.aboutus.section3">Alle Dokumente auf GEO-LEOe-docs sind frei zugänglich, d.h. sie können weltweit, kostenlos und ohne Registrierung gelesen und heruntergeladen werden. GEO-LEOe-docs empfiehlt bei Einstellung eines Dokumentes die Vergabe der CC-BY 4.0 Lizenz.<br />
+Ein großer Teil der Inhalte ist per CC-BY Lizenz oder ausgewiesener Gemeinfreiheit (Public Domain Mark) Open Access im engeren Sinne. <br />
+Hier finden Sie die Open Access Leitlinie der Georg-August-Universität Göttingen, die Open Access für wissenschaftliche Publikationen unterstützt und fördert.</message>
+	<message key="xmlui.aboutus.label.publish">Publizieren auf GEO-LEOe-docs</message>
+
+	<message key="xmlui.aboutus.section4">Geowissenschaftliche Werke können auf GEO-LEOe-docs als Erst- oder Zweitveröffentlichung online gestellt werden.<br />
+
+Fachgesellschaften und wissenschaftliche Einrichtungen sind eingeladen, ihre Serien, Zeitschriften und andere Informationsressourcen in eigenen Sammlungen selbstständig zu veröffentlichen. Das Team des FID GEO bietet dafür verschiedene Formen der Unterstützung und Zusammenarbeit an. (<a href="mailto:fid-geo-digi@sub.uni-goettingen.de">fid-geo-digi@sub.uni-goettingen.de</a> )<br />
+
+Alle auf GEO-LEOe-docs veröffentlichten Dokumente erhalten eine DOI, sofern sie noch keine haben.<br />
+Veröffentlichte Dokumente werden nachträglich nicht mehr verändert und nur in Ausnahmefällen wieder gelöscht. Nachträgliche Ergänzungen und Korrekturen der Metadaten sind hingegen auf Anfrage möglich.<br />
+
+Die der Betreiberin von GEO-LEOe-docs einzuräumenden einfachen Nutzungsrechte können Sie vorab unter <a href="https://e-docs.geo-leo.de/rights" target="_blank">Nutzungsbedingungen / Lizenz </a>einsehen. Dabei erklären Sie auch, zum Veröffentlichung des jeweiligen Werks autorisiert zu sein und keine Rechte Dritter zu verletzen.<br />
+
+Um Ihre Publikation hochzuladen, müssen Sie sich mit Namen und E-Mail-Adresse registrieren.<br />
+
+Das Format der Dateien sollte PDF oder PDF/A sein und weder Druckschutz noch andere Nutzungsbeschränkungen enthalten.<br />
+
+Bitte beachten Sie die ausführlichen Hinweise zum Publizieren auf GEO-LEOe-docs in den <a href="https://e-docs.geo-leo.de/help" target="_blank">Informationen zum Veröffentlichen</a>.</message>
+	<message key="xmlui.aboutus.label.archive">Archivierung</message>
+	<message key="xmlui.aboutus.section5">Die Betreiberin von GEO-LEOe-docs, die SUB Göttingen und somit letztlich die Georg-August-Universität Göttingen, hat sich zur langfristigen Speicherung und dauerhaften Bereitstellung der auf GEO-LEOe-docs veröffentlichten Dokumente verpflichtet. Eine Mindestspeicherdauer von 10 Jahren ist gegenüber der DFG zugesagt. Vorgesehen ist die Bereithaltung der Dokumente allerdings für einen deutlich längeren Zeitraum.
+Die Archivierung der Inhalte erfolgt auf Servern der GWDG (Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen, einer gemeinsamen Einrichtung der Georg-August-Universität Göttingen und der Max-Planck-Gesellschaft), siehe hierzu <a href="www.gwdg.de/archivierung" target="_blank">www.gwdg.de/archivierung</a>.</message>
+
+	<message key="xmlui.aboutus.label.tech">Technische Angaben</message>
+	<message key="xmlui.aboutus.section6">Die zugrundeliegende Software ist DSpace (open source), derzeit in der Version 5.11-SNAPSHOT.
+Die Metadaten folgen dem Dublin Core Schema.
+Über die <a href="https://e-docs.geo-leo.de/oai/request?verb=Identify" target="_blank">OAI-PMH-Schnittstelle</a> können die Metadaten vollständig abgerufen werden (Harvesting). So erscheinen die Publikationen in BASE und anderen Suchportalen.
+Des Weiteren ist eine SWORD-Schnittstelle vorhanden, über die z.B. auch größere Dokumenten-Lieferungen über DeepGreen erfolgen.</message>
+
+	<message key="xmlui.aboutus.label.history">Geschichte des Repositoriums</message>
+	<message key="xmlui.aboutus.section7">Als zentrale Publikationsplattform und Open-Access-Server wurde das Repositorium im Rahmen des von der Deutschen Forschungsgemeinschaft (DFG) 2004-2007 geförderten Projekts zum Aufbau der „Virtuellen Fachbibliothek GEO-LEO“ entwickelt. Die damaligen Projektpartner waren die Niedersächsische Staats- und Universitätsbibliothek Göttingen (SUB Göttingen) und die Universitätsbibliothek der TU Bergakademie Freiberg. Beide waren für Sondersammelgebiete im Programm der DFG für die überregionale Literatur- und Informationsversorgung in den Geowissenschaften zuständig, was sich in der Sammlungsstruktur des Repositoriums widerspiegelte.<br />
+Mit Projektende ging GEO-LEOe-docs in den Routinebetrieb der SUB Göttingen über, wo die Publikationsplattform erstmals in 2012 im Zuge einer kompletten Erneuerung modernisiert wurde.<br />
+Mittlerweile ist das Repositorium Teil der Informationsinfrastruktur des Fachinformationsdienstes für Geowissenschaften (FID GEO), der als DFG-geförderter gemeinsamer Service der SUB Göttingen und der Abteilung Bibliothek und Informationsdienste des Deutschen GeoForschungszentrum GFZ in Potsdam seit 2016 betrieben wird. Mit der Erweiterung von GEO-LEOe-docs zum Fachrepositorium des FID GEO wurde das zugrundeliegende DSpace-System neu aufgesetzt, einhergehend mit funktionellen Neuerungen und konzeptionellen Veränderungen.</message>
+	<message key="xmlui.aboutus.label.coop">Kooperationen</message>
+        <message key="xmlui.aboutus.section8">Das Präsidium der <a href="www.geo-union.de/startseite.html" target="_blank">GeoUnion Alfred-Wegener-Stiftung</a>, die von der Mehrheit geowissenschaftlicher Fachgesellschaften in Deutschland getragen wird, begleitet als Beirat des FID GEO die Entwicklung des Repositoriums GEO-LEOe-docs.<br />
+Ein wichtiger Kooperationspartner für die Nutzung des Repositoriums ist weiterhin die UB Freiberg,  aktuell in Gestalt des dort ansässigen <a href="https://montanportal.com/" target="_blank">FID Montan</a>.<br />
+Hinzu kommen aktuell Kooperationen zur Nutzung des Repositoriums mit einzelnen Fachgesellschaften, wie der Deutschen Geophysikalischen Gesellschaft (DGG) und der Deutschen Gesellschaft für Moor- und Torfkunde (<a href="https://www.dgmtev.de/" target="_blank">DGMT</a>), sowie dem UNESCO <a href="https://geopark-hblo.de/aktuelles/" target="_blank">"Global Geoparks Harz. Braunschweiger Land . Ostfalen."</a>, des Weiteren mit der ARGE GMIT und verschiedenen Forschungseinrichtungen (wie dem Institut für Geographie und Geologie der Universität Greifswald und dem Geozentrum Nordbayern der Friedrich-Alexander-Universität Erlangen-Nürnberg) in Deutschland.
+Mit der Geozon Science Media UG gab es eine erste Kooperation über mehrere Jahre, bis zur Auflösung des Verlags. Als Ausgründung des Institutes für Geographie und Geologie der Universität Greifswald und Open Access-Verlag für Geo- und Umweltwissenschaften lieferte Geozon seine gesamten aggregierten und veredelten Publikationen zur Archivierung in GEO-LEOe-docs.<br />
+Bereits seit der Testphase des Projekts DeepGreen fungiert GEO-LEOe-docs als kooperierendes Repositorium mit dieser Open-Access-Drehscheibe, und bekommt im Zuge dessen umfangreiche Lieferungen geowissenschaftlicher Artikel des Verlags Wiley durch DeepGreen.<br />
+ 
+
+Kontaktieren Sie uns gerne via fid-geo-digi@sub.uni-goettingen.de</message>
 	<message key="xmlui.aboutus.label.generalHelp">Allgemeine Konzeption und fachliche Betreuung:</message>
 	<message key="xmlui.aboutus.name.geography">Mechthild Schüler (Geographie und Thematische Karten)</message>
 	<message key="xmlui.aboutus.tel.geography">Tel.: +49 (0)551 / 39-5278</message>
@@ -3086,9 +3122,10 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
 
   <message key="xmlui.map.top"><h2>Geologische Karte 1:25 000 <a href="/map2" style="float:right;">Zur Geologischen Karte 1:50.000</a></h2>
   <div><input type="checkbox" class="read-more-state" id="post-2" /><div class="read-more-wrap">Übersicht zu online frei verfügbaren Blättern der GK25 (mit Links) sowie gemeinfreie Blättern der GK25, die von Forschenden zur unentgeltlichen Digitalisierung durch den FID GEO vorgeschlagen werden können. Die ebenfalls in die Übersicht integrierten online verfügbaren topographischen Grundlagen zu den Blättern der GK25 sind aus dem <a href="https://ifl.wissensbank.com/esearcha/browse.tt.html?type=link&amp;qtext=&amp;action=qlink&amp;q=CALL=%22MB*%22%20AND%20BDATEJ%3D1840%3A1950">Leibniz-Institut für Länderkunde (IFL)</a> verlinkt.
-  <ul style="list-style-type: disc; list-style-position: inside; padding-left: 1em; margin-bottom: 0.5em; text-indent: -1.4em; margin-left: 1em;"><li class="read-more-target" style="padding-top: 1em;"><b>GK25/GEO-LEOe-docs:</b> Hier sind die bereits auf GEO-LEOe-docs verfügbaren Kartenblätter des Werks verzeichnet.</li>
+  <ul style="list-style-type: disc; list-style-position: inside; padding-left: 1em; margin-bottom: 0.5em; text-indent: -1.4em; margin-left: 1em;"><li class="read-more-target" style="padding-top: 1em;"><b>GK25/GEO-LEOe-docs:</b> Hier sind die bereits auf GEO-LEOe-docs verfügbaren Kartenblätter des Werks, i.d.R. mitsamt zugehöriger Erläuterungshefte, verzeichnet.</li>
   <li class="read-more-target" style="padding-top: 1em;"><b>GK25/extern: </b>Hier finden Sie Links zu andernorts online frei verfügbaren Kartenblättern des Werks. <br />In erster Linie sind folgende Sammlungen integriert: 
   <ul class="map-list"><li>Mapster / Archivkarten von Polen und Mitteleuropa: <a href="http://igrek.amzp.pl/">http://igrek.amzp.pl</a></li>
+	<li>ifl Leibniz-Institut für Länderkunde: <a href="https://ifl.wissensbank.com/esearcha/browse.tt.html">https://ifl.wissensbank.com/esearcha/browse.tt.html</a></li>
       <li>Univ. Potsdam: <a href="https://digital.ub.uni-potsdam.de/content/titleinfo/41237">https://digital.ub.uni-potsdam.de/content/titleinfo/41237</a> <i>(Liste)</i> bzw. <a href="https://digital.ub.uni-potsdam.de/nav/classification/42482">https://digital.ub.uni-potsdam.de/nav/classification/42482</a> <i>(Übersichtskarte)</i></li>
       <li>LfU Bayern: <a href="http://www.petrefakten.de/geologische_karten_bayern.php">http://www.petrefakten.de/geologische_karten_bayern.php</a></li>
       <li>SLUB Dresden: <a href="https://kartenforum.slub-dresden.de/">https://kartenforum.slub-dresden.de/</a></li></ul>
@@ -3108,19 +3145,19 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
 	<div id="first_row" class="hidden-xs hidden-sm hidden-md">
         <figure class="frontpage_images">
         <a href="handle/11858/Geology">
-        <image class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geologie"/>
+        <img class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geologie"/>
         </a>
         <figcaption class="einzeilig">Geologie</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/Paleontology">
-        <image class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paläontologie" />
+        <img class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paläontologie" />
         </a>
         <figcaption class="einzeilig">Paläontologie</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/GeochemistryMinearologyPetrology">
-        <image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
+        <img class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
         </a>
         <figcaption>Geochemie, Mineralogie, Petrologie</figcaption>
         </figure>
@@ -3128,19 +3165,19 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
 <div id="second_row" class="hidden-xs hidden-sm hidden-md">
         <figure class="frontpage_images">
         <a href="handle/11858/Geophysics">
-        <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Extraterristische Forschung" />
+        <img class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Extraterristische Forschung" />
 </a>
         <figcaption>Geophysik, Extraterristische Forschung</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/EnergyResourcesEnvironment">
-        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Montanwesen, Energie, Ressourcen, Umwelt" />
+        <img class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Montanwesen, Energie, Ressourcen, Umwelt" />
         </a>
         <figcaption>Montanwesen, Energie, Ressourcen, Umwelt</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/Geography">
-        <image class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geographie"/>
+        <img class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geographie"/>
         </a>
         <figcaption class="einzeilig">Geographie</figcaption>
         </figure>
@@ -3148,7 +3185,7 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
 <div id="third_row" class="hidden-xs hidden-sm hidden-md">
         <figure class="frontpage_map">
         <a href="map">
-        <image class="frontpage" src="/themes/Mirage2/images/map.jpg" alt="Übersichtskarte" />
+        <img class="frontpage" src="/themes/Mirage2/images/map.jpg" alt="Übersichtskarte" />
         </a>
 		<figcaption class="einzeilig">Übersichtskarte</figcaption>
         </figure>
@@ -3156,13 +3193,13 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
 <div id="first_row" class="hidden-lg hidden-xs">
         <figure class="frontpage_images">
         <a href="handle/11858/Geology">
-        <image class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geologie"/>
+        <img class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geologie"/>
         </a>
         <figcaption class="einzeilig">Geologie</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/Paleontology">
-        <image class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paläontologie" />
+        <img class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paläontologie" />
         </a>
         <figcaption class="einzeilig">Paläontologie</figcaption>
         </figure>
@@ -3170,13 +3207,13 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
 <div id="second_row" class="hidden-lg hidden-xs">
         <figure class="frontpage_images">
         <a href="handle/11858/GeochemistryMinearologyPetrology">
-        <image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
+        <img class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
         </a>
         <figcaption>Geochemie, Mineralogie, Petrologie</figcaption>
         </figure>
 		<figure class="frontpage_images">
         <a href="handle/11858/Geophysics">
-        <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Extraterristische Forschung" />
+        <img class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Extraterristische Forschung" />
 		</a>
         <figcaption>Geophysik, Extraterristische Forschung</figcaption>
         </figure>
@@ -3184,13 +3221,13 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
 <div id="third_row"  class="hidden-lg hidden-xs">
         <figure class="frontpage_images">
         <a href="handle/11858/EnergyResourcesEnvironment">
-        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Montanwesen, Energie, Ressourcen, Umwelt" />
+        <img class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Montanwesen, Energie, Ressourcen, Umwelt" />
         </a>
         <figcaption>Montanwesen, Energie, Ressourcen, Umwelt</figcaption>
         </figure>
         <figure class="frontpage_images">
         <a href="handle/11858/Geography">
-        <image class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geographie"/>
+        <img class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geographie"/>
         </a>
         <figcaption class="einzeilig">Geographie</figcaption>
         </figure>
@@ -3198,7 +3235,7 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
 <div id="fourth_row" class="hidden-lg hidden-xs" >
         <figure class="frontpage_mapm">
         <a href="map">
-        <image class="frontpage" src="/themes/Mirage2/images/map455.png" alt="Übersichtskarte" />
+        <img class="frontpage" src="/themes/Mirage2/images/map455.png" alt="Übersichtskarte" />
         </a>
 		<figcaption class="einzeilig">Übersichtskarte</figcaption>
         </figure>
@@ -3206,7 +3243,7 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
 <div id="first_row" class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_images">
         <a href="handle/11858/Geology">
-        <image class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geologie"/>
+        <img class="frontpage" src="/themes/Mirage2/images/geology.jpg" alt="Geologie"/>
         </a>
         <figcaption class="einzeilig">Geologie</figcaption>
         </figure>
@@ -3214,7 +3251,7 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
 <div id="second_row" class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_images">
         <a href="handle/11858/Paleontology">
-        <image class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paläontologie" />
+        <img class="frontpage" src="/themes/Mirage2/images/paleontology.jpg" alt="Paläontologie" />
         </a>
         <figcaption class="einzeilig">Paläontologie</figcaption>
         </figure>
@@ -3222,7 +3259,7 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
 <div id="third_row" class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_images">
         <a href="handle/11858/GeochemistryMinearologyPetrology">
-        <image class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
+        <img class="frontpage" src="/themes/Mirage2/images/geochemistry.jpg" alt="Geochemie, Mineralogie, Petrologie" />
         </a>
         <figcaption>Geochemie, Mineralogie, Petrologie</figcaption>
         </figure>
@@ -3230,7 +3267,7 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
 <div id="fourth_row" class="hidden-lg hidden-sm hidden-md">
 		<figure class="frontpage_images">
         <a href="handle/11858/Geophysics">
-        <image class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Extraterristische Forschung" />
+        <img class="frontpage" src="/themes/Mirage2/images/geophysics.jpg" alt="Geophysik, Extraterristische Forschung" />
 		</a>
         <figcaption>Geophysik, Extraterristische Forschung</figcaption>
         </figure>
@@ -3238,7 +3275,7 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
 <div id="fifth_row"  class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_images">
         <a href="handle/11858/EnergyResourcesEnvironment">
-        <image class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Montanwesen, Energie, Ressourcen, Umwelt" />
+        <img class="frontpage" src="/themes/Mirage2/images/energy.jpg" alt="Montanwesen, Energie, Ressourcen, Umwelt" />
         </a>
         <figcaption>Montanwesen, Energie, Ressourcen, Umwelt</figcaption>
         </figure>
@@ -3246,7 +3283,7 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
 <div id="sixth_row"  class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_images">
         <a href="handle/11858/Geography">
-        <image class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geographie"/>
+        <img class="frontpage" src="/themes/Mirage2/images/geography.jpg" alt="Geographie"/>
         </a>
         <figcaption class="einzeilig">Geographie</figcaption>
         </figure>
@@ -3254,7 +3291,7 @@ Die Urheberin bzw. der Urheber räumt der SUB Göttingen im Rahmen der Rechtsein
 <div id="seventh_row"  class="hidden-lg hidden-sm hidden-md">
         <figure class="frontpage_maps">
         <a href="map">
-        <image class="frontpage" src="/themes/Mirage2/images/map220.png" alt="Übersichtskarte" />
+        <img class="frontpage" src="/themes/Mirage2/images/map220.png" alt="Übersichtskarte" />
         </a>
 		<figcaption class="einzeilig">Übersichtskarte</figcaption>
         </figure>
@@ -3446,7 +3483,7 @@ Wenn Sie in die Verarbeitung durch die Niedersächsische Staats- und Universitä
     <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.trail">Your response has been sent.</message>
     <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.head">Your response has been sent.</message>
     <message key="xmlui.ArtifactBrowser.ItemRequestResponseSent.para1">Your response has been sent.</message>
-<message key="xmlui.navigation.help">Hilfe</message>
+<message key="xmlui.navigation.help">Hinweise zum Veröffentlichen</message>
 
 <message key="xmlui.dri2xhtml.METS-1.0.item-isreplacedby">Journal Version: </message> 
 <message key="xmlui.pages">s.</message>
@@ -3889,5 +3926,236 @@ Wenn Sie in die Verarbeitung durch die Niedersächsische Staats- und Universitä
 <message key="xmlui.administrative.item.EditItemStatusForm.label_doi">DOI</message>
 <message key="xmlui.administrative.item.EditItemStatusForm.submit_register_doi">Register DOI</message>
 
+<message key="xmlui.help.complete"><div>
+<h3 id="toc" class="ds-div-head">Hinweise zum Veröffentlichen auf GEO-LEOe-docs</h3>
+<div class="ds-static-div">
+<ul id="toc1" class="ds-simple-list">
+<li class="ds-simple-list-item">
+<a href="#copyright">Zu klärende Urheberrechtliche Fragen im Vorfeld</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="#licence">Nutzungslizenz</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="#account">Einrichten und Funktionen eines Benutzerkontos</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="#publication">Veröffentlichungsprozess (ein Dokument hochladen)</a>
+<ul style="padding-left:15px;">
+<li class="ds-simple-list-item">
+<a href="#publication1">Schritt 1: Sammlung auswählen</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="#publication2">Schritt 2: Metadatenimport</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="#publication3">Schritt 3: Auswahl des Publikationstyps</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="#publication4">Schritt 4: Beschreiben (der Publikation)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="#publication5">Schritt 5: DOI erstellen</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="#publication6">Schritt 6: Hochladen</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="#publication7">Schritt 7: Überprüfen</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="#publication8">Schritt 8: Lizenzierung (FID GEO Lizenz)</a>
+</li>
+<li class="ds-simple-list-item">
+<a href="#publication9">Nach Abschluss der Veröffentlichung</a>
+</li></ul>
+</li>
+</ul>
+</div>
+    
+<h3 id="copyright" class="ds-div-head">Zu klärende Urheberrechtliche Fragen im Vorfeld</h3>
+<div class="ds-static-div">
+Bevor Sie ein Dokument online veröffentlichen, sollten Sie klären, ob Sie dazu berechtigt sind.
+<ol>
+    <li>Wenn Sie nicht allein <b>Urheber oder Urheberin</b> sind, brauchen Sie die Zustimmung aller anderen Mitwirkenden. </li>
+<li>Wenn Sie Bilder oder Grafiken Anderer verwenden, sollten Sie ggf. auf deren urheberrechtlichen Schutz achten bzw. vor der Veröffentlichung eine Erlaubnis einholen. Bilder und Grafiken Anderer in wissenschaftlichen Arbeiten können aber auch unter das <a href="https://irights.info/artikel/zitieren-im-www/7007">Zitationsrecht</a> fallen. Das ist i.d.R. der Fall, wenn sie wissenschaftlichen Zwecken dienen (also inhaltlich relevant und nicht nur illustrativ sind), und mit einer korrekten Quellenangabe versehen sind.</li>
+<li>Wenn das Werk bereits veröffentlicht wurde, haben Sie evtl. einem <b>Verlag</b> die alleinigen Nutzungsrechte überschrieben. 
+<ul><li>Für <b>Journal-Artikel</b> bietet <a href="https://v2.sherpa.ac.uk/romeo/">Scherpa/Romeo</a> eine schnelle Übersicht, unter welchen Bedingungen ein wiss. Journal von sich aus Zweitveröffentlichungen gestattet. </li>
+<li>Allgemein gilt: Ist das <b>Journal</b> restriktiv, machen Sie ggf. von Ihrem <b>Zweitveröffentlichungsrecht</b> (§ 38 Abs. 4 UrhG) Gebrauch. Dieses ist unveräußerlich, und bleibt somit von vertraglichen Übereinkünften unberührt. Es bezieht sich auf die Online-Veröffentlichung der Manuskriptversion (Postprint) von in Periodika erschienenen wissenschaftlichen Artikeln. Unter Einhaltung der einjährigen Embargofrist nach Erscheinen der Erstveröffentlichung dürfen Sie Ihren Artikel auf einem Repositorium Ihrer Wahl einstellen. Open Access-Lizenzen, wie die CC-Lizenzen, dürfen Sie in diesem Falle nicht vergeben, da diese sich auch auf Druckwerke erstrecken, während § 38 Abs. 4 UrhG nur die Online-Veröffentlichung abdeckt. Das Zweitveröffentlichungsrecht ist anwendbar, wenn Sie (oder eine Mit-Autorin bzw. ein Mit-Autor) eine EU- oder EWR-Staatsbürgerschaft haben bzw. diesen gleichgestellt sind; ebenfalls, wenn der Veröffentlichungsort in Deutschland ist.
+(Siehe auch: FID GEO aktuell: Zweitveröffentlichung von geowissenschaftlichen Verlagspublikationen, GMIT 84, S. 25-27, 2021, <a href="https://doi.org/10.23689/fidgeo-5308">DOI 10.23689/fidgeo-5308</a>)</li>
+<li>Bei <b>Büchern bzw. Buch-Kapiteln</b> etc. ist in diesem Fall eine Anfrage beim Verlag empfehlenswert. </li></ul></li>
+</ol>
+</div>
+    
+<h3 id="licence" class="ds-div-head">Nutzungslizenz</h3>
+<div class="ds-static-div">
+Überlegen Sie, welche Nutzungslizenz erteilt Sie vergeben wollen. Es gibt folgende Optionen:<br />
+
+    <i>GEO-LEOe-docs Nutzungslizenz</i><br />
+Obligatorisch ist die <a href="/rights">GEO-LEOe-docs Nutzungslizenz</a>, mit der Sie der SUB Göttingen ein einfaches (=nicht ausschließliches) Recht zur Speicherung, Veröffentlichung und Format-Transformation des Dokuments gewähren. Nutzende dürfen Ihr Werk dann lesen, herunterladen, speichern und in geringer Anzahl drucken. Die GEO-LEOe-docs-Nutzungslizenz ist mit Inanspruchnahme des Zweitveröffentlichungsrechts (§ 38 Abs. 4 UrhG) vereinbar. Bei dieser Lizenz verbleiben die Rechte zur weiteren Nutzung und Veröffentlichung des Werks bei den Autorinnen und Autoren.<br />
+
+<i>Open Access-Lizenzen</i><br />
+Zu einer Open-Access-Veröffentlichung im engeren Sinne gehört darüber hinaus die Freigabe zur Weiterverbreitung. Das Dokument darf dann auch von anderen Anbietern zum Download bereitgestellt oder anderweitig verfügbar gemacht werden.<br />
+Um Ihr Werk Open Access zu veröffentlichen, stehen Ihnen die <a href="https://creativecommons.org/about/cclicenses/">Creative Commons (CC) -Lizenzen</a> zur Verfügung. <b>GEO-LEOe-docs empfiehlt die Vergabe der CC-BY Lizenz.</b> Diese gestattet alle Formen der Nutzung, und verpflichtet lediglich zur korrekten Angabe der Urheberinnen und Urheber sowie der vergebenen Lizenz.<br />
+Folgende Einschränkungen können über CC-Lizenzen abgebildet werden:
+<ul>
+    <li>BY	=	Namensnennung	(Urhebende sind anzugeben)</li>
+<li>SA	=	Share Alike 		(das Werk oder Teile davon darf bzw. dürfen nur unter              
+derselben Lizenz weiterverbreitet werden) </li>
+<li>ND	=	Non-Derivate		(das Werk darf nicht verändert werden)</li>
+<li>NC	=	Non-Commercial	(keine Einbindung in kostenpflichtige Angebote)</li></ul>
+Diese Komponenten können beliebig kombiniert werden, z.B. CC-BY-ND-NC. Die Einschränkungen der Nutzung über CC-BY hinaus können sich allerdings auch als kontraproduktiv erweisen, wenn dadurch z.B. die Aufnahme in ein käufliches Sammelwerk untersagt wird.<br />
+    <b>Hinweis:</b> Wenn Sie einen Journal-Artikel im Kontext von § 38 Abs. 4 UrhG (s.o.) veröffentlichen, dürfen Sie <u>keine</u> CC-Lizenz vergeben, da dies mit den Rechten des Verlags kollidieren kann.
+
+</div>
+    
+<h3 id="account" class="ds-div-head">Einrichten und Funktionen eines Benutzerkontos</h3>
+<div class="ds-static-div">
+<h4>Benutzerkonto registrieren</h4>
+<ul>
+    <li>Klicken Sie entweder oben rechts auf „Einloggen“ oder rechts auf den großen Button „Veröffentlichen“. </li>
+<li>Beide führen zur Anmelde-Seite, auf der Sie ganz unten das Link zum Registrieren neuer Benutzerinnen und Benutzer anklicken können.</li>
+<li>Im folgenden Fenster geben Sie Ihre E-Mail-Adresse ein und klicken den Button „Registrieren“.</li>
+<li>Sie erhalten eine E-Mail an die angegebene Adresse. Bitte folgen Sie dem darin angegebenen Link. </li>
+<li>Der Link aus der Mail führt Sie zum nächsten Schritt der Anmeldung. Bitte füllen Sie das Formular aus. Vor- und Nachname sind Pflichtangaben, ein Passwort ist auch erforderlich. Die Angaben „Telefon“ und „Sprache“ sind freiwillig.</li>
+<li>Ihre Angaben und das Passwort können Sie bei Bedarf ändern.</li></ul>
+	
+<h4>Funktionen des Benutzerkontos</h4>
+Angemeldeten Nutzenden stehen zwei zusätzliche Funktionen zur Verfügung:
+<ul>
+    <li><u>Sammlungen abonnieren:</u>
+<ul>
+    <li>Sie können in Ihrem persönlichem Profil Sammlungen per Dropdown-Menü wählen und per Button „Hinzufügen“ abonnieren. </li>
+    <li>In der Folge werden Sie über Neuzugänge in den gewählten Sammlungen per E-Mail benachrichtigt.</li>
+    <li>Um eine Sammlung wieder aus Ihrer Liste zu entfernen, wählen Sie diese per Häckchen an und klicken den „Entfernen“ Button.</li></ul>
+<li><u>Veröffentlichen:</u></li> 
+Wenn Sie eingeloggt sind, haben Sie die Möglichkeit, Dokumente auf GEO-LEO<i>e-docs</i> zu veröffentlichen. Beachten Sie dazu bitte die Hinweise unter „Zu klärende Urheberrechtliche Fragen im Vorfeld“ und „Nutzungslizenz“. Details zum Vorgang finden Sie im Folgenden unter „Veröffentlichungsprozess“.
+    </li></ul>
+</div>
+    
+<h3 id="publication" class="ds-div-head">Veröffentlichungsprozess (ein Dokument hochladen)</h3>
+<div class="ds-static-div">
+    <ul><li>Die Einhaltung der <a href="https://www.uni-goettingen.de/de/604506.html">guten wissenschaftlichen Praxis</a> wird bei allen Publikationen vorausgesetzt.
+        </li>
+    <li>Klären Sie <a href="#copyright"><i>Urheberrechtliche Fragen im Vorfeld</i></a> (s.o.).
+        </li>
+    <li>Entscheiden Sie, welche Lizenz Sie vergeben möchten und dürfen, die über die Basis-Lizenz des Repositoriums hinaus die Weiterverbreitung des Werks gestattet (s.o. unter „<a href="#licence"><i>Nutzungslizenz</i></a>“). <b>GEO-LEO<i>e-docs</i> empfielt die Vergabe der CC-BY Lizenz.</b>
+        </li>
+    <li><b>Registrieren</b> Sie sich auf GEO-LEOe-docs und loggen Sie sich ein.
+        </li>
+    <li>Klicken Sie den Button „<b>Veröffentlichen</b>“, um durch die verschiedenen Arbeitsschritte bis zur Veröffentlichung geleitet zu werden.
+        </li>
+    <li><b>Hinweis:</b> Sie können den Vorgang zu jeder Zeit (vor Abschluss der Veröffentlichung) speichern und später fortsetzen.
+        </li>
+    </ul>
+    <img src="themes/Mirage2/images/image1.png" alt="Screenshot Veröffentlichen Button" style="width:600px;border:1px solid #555;margin-bottom:10px;"/>
+    <h4 id="publication1" class="ds-div-head">Schritt 1: Sammlung auswählen</h4>
+    
+        <div>
+        <img src="themes/Mirage2/images/image2.png" alt="Screenshot Sammlung auswählen"  style="width:600px;border:1px solid #555;margin-bottom:10px;"/>
+            <ul>
+                <li>Wählen Sie per Dropdown-Menü eine Sammlung aus. Es stehen 6 große thematische Sammlungen zur Auswahl, dazu Sammlungen verschiedener Schriftenreihen und Konferenzen.
+                </li>
+            <li>Dieser Schritt entfällt, wenn Sie vorher bereits in einer Sammlung bewegt haben. In diesem Fall klicken Sie auf den Button „Hier veröffentlichen“.
+                </li>
+            </ul>
+    </div>
+    <h4 id="publication2" class="ds-div-head">Schritt 2: Metadatenimport</h4>
+    <div>
+        <img src="themes/Mirage2/images/image3.png" alt="Screenshot Metadaten Import"  style="width:600px;border:1px solid #555;margin-bottom:10px;"/>
+            <ul>
+            <li>Falls Ihre Publikation bereits veröffentlicht worden ist und über einen Digital Object Identifier (DOI) oder eine PPN (Pica-Produktionsnummer eines Katalogeintrags im Gemeinsamen Verbundkatalog, <a href="https://kxp.k10plus.de/">https://kxp.k10plus.de/</a>) verfügt, können Sie hier den entsprechenden Identifier eintragen. Beim Klick auf "Weiter" werden die Metadaten zur Beschreibung Ihrer Publikation automatisch importiert und in das Formular des folgenden Schrittes "Beschreibung" übernommen.</li>
+            <li>Ist kein(e) DOI oder PPN vorhanden, lassen Sie bitte die beiden Felder leer und gehen Sie weiter!</li></ul>
+    </div>
+        <h4 id="publication3" class="ds-div-head">Schritt 3: Auswahl des Publikationstyps</h4>
+    <div>
+        <img src="themes/Mirage2/images/image4.png" alt="Screenshot Auswahl Publikationstyp"  style="width:600px;border:1px solid #555;margin-bottom:10px;"/>
+        <ul>
+            <li>Hier geben Sie den Publikationstyp via Dropdown-Menü an. Dieser bestimmt, welche Metadatenfelder im folgenden Eingabeformular gesetzt sind (z.B. „Herausgeberin bzw. Herausgeber“ für Sammelwerke statt „Autor bzw. Autorin“ wie für Monographien).</li>
+            <li>Die wählbaren Publikationstypen sind: Zeitschriftenartikel, Monografie, Sammelband/Konferenzband, Sammelband-/Konferenzbeitrag und Karte, jeweils als „Erstpublikation“, „Zweitpublikation“ oder „digitalisiert“ zugeordnet, sowie Poster und Präsentation.</li></ul>
+    </div>
+    <h4 id="publication4" class="ds-div-head">Schritt 4: Beschreiben (der Publikation)</h4>
+    <div>
+        Hier werden die Metadaten zur Beschreibung des Werks (Titel, Autorinnen und Autoren, Erscheinungsjahr, Dokumentart etc.) erfasst. Bitte füllen Sie die Felder möglichst vollständig aus!<br />
+        <img src="themes/Mirage2/images/image5.png" alt="Screenshot Dokument beschreiben"  style="width:600px;border:1px solid #555;margin-bottom:10px;"/>
+<ul>
+            <li>Wenn Sie im vorherigen Schritt einen <b>Identifier</b> angegeben haben, werden hier einige importierte Daten bereits eingetragen sein. In den meisten Fällen sind jedoch nicht alle Pflichtfelder ausgefüllt. Bitte ergänzen Sie die leeren Felder und korrigieren Sie eventuelle falsche Angaben!</li>
+            <li>Erforderliche Felder sind mit * markiert.</li>
+            <li>Es gibt <b>wiederholbare Felder</b> (z.B. „Autorin(nen) bzw. Autor(en)“, um mehrere Mitwirkende anzugeben). Diese haben einen „Hinzufügen“ Button, um weitere Einträge hinzuzufügen. Um Einträge wieder zu entfernen können Sie diese per Häckchen anwählen und dann per Button „Löschen“ löschen.</li>
+            <li>Über „<b>Dokumentart</b>“ wird der übergeordnete Publikationstyp genauer definiert, z.B.  für Dissertationen Publikationstyp „Monografie (Zweitpublikation)“ und Dokumentart „Hochschulschrift“. Sie können aus folgenden Dokumentarten wählen: Forschungsarbeit, Hochschulschrift, Konferenzbericht, Lehrbuch/Vorlesung, Anleitung, Exkursionsführer, Studienarbeit, Bibliografie, Festschrift, Karte, Zusammenfassung, Editorisches, Report, Präsentation, Poster, Zeitschrift, Quelle.</li>
+            <li>Zur <b>inhaltlichen Beschreibung</b> Ihrer Veröffentlichung ist es sinnvoll einen kurzen Abstrakt einzugeben sowie Schlagworte zu vergeben.</li>
+            <li>Als letztes Feld der Beschreibung (Schritt 4) haben Sie die Möglichkeit, eine Creative-Commons-Lizenz (s.o. unter „<i>Nutzungslizenz</i>“) zu vergeben. <b>Der FID GEO empfiehlt die Vergabe der CC-BY Lizenz.</b> Damit erhält Ihr Werk den Status Open Access im engeren Sinne.</li></ul>
+    </div>
+    <h4 id="publication5" class="ds-div-head">Schritt 5: DOI erstellen</h4>
+    <div>
+        <img src="themes/Mirage2/images/image6.png" alt="Screenshot DOI erstellen"  style="width:600px;border:1px solid #555;margin-bottom:10px;"/>
+            <ul><li>Klicken sie auf den Button „<b>DOI hinzufügen</b>“, es sei denn, das Werk hat bereits eine DOI. 
+Die DOI, die Ihr Werk nach Veröffentlichung bekommen wird, wird daraufhin angezeigt. Sie haben so die Möglichkeit, diese ggf. vor dem Hochladen in Ihrem Dokument zu vermerken.
+</li></ul>
+    </div>
+    <h4 id="publication6" class="ds-div-head">Schritt 6: Hochladen</h4>
+    <div><img src="themes/Mirage2/images/image7.png" alt="Screenshot Hochladen"  style="width:600px;border:1px solid #555;margin-bottom:10px;"/>
+        <ul>     
+<li>Es muss mindestens eine Datei hochgeladen werden. Weitere Dateien (bspw. Anlagen) sind möglich.</li>
+<li>Speichern Sie Ihre Datei als PDF bzw. PDF/A ohne Einschränkungen der Nutzbarkeit wie Druckschutz etc.. Für Abbildungen wie Karten oder Diagramme können Sie auch andere geeignete Formate wie z.B. TIF wählen.</li>
+<li>Geben Sie den Dateien bitte sprechende Namen (z.B. „Stein et al. (2021)“, nicht „paper_final“). Dieser wird automatisch als Text des Download-Links angezeigt, wenn Sie keinen Eintrag im Feld „Beschreibung“ machen.</li>
+<li>Aus der ersten hochgeladenen Datei wird eine Thumbnail-Datei generiert, später als Vorschaubild angezeigt (Wir können zu diesem Zweck die Reihenfolge der Dateien auch nachträglich ändern, kontaktieren Sie uns ggf.!).</li>
+</ul>
+    </div>
+        <h4 id="publication7" class="ds-div-head">Schritt 7: Überprüfen</h4>
+    <div>
+        
+        <ul>
+<li>Die eingegebenen Daten werden Ihnen zur Überprüfung angezeigt. Für Korrekturen können Sie per Button „Zurück“ oder „Eingaben korrigieren“.</li>
+</ul>
+    </div>
+    <h4 id="publication8" class="ds-div-head">Schritt 8: Lizenzierung (FID GEO Lizenz)</h4>
+    <div>
+        
+        <ul>
+<li>Im letzten Schritt stimmen Sie der Veröffentlichung des Werks auf GEO-LEO<em>e-docs</em> zu. Sie erlauben damit die Speicherung, Online-Bereitstellung und Format-Transformation durch die SUB Göttingen. Sie erlauben damit anderen, das Werk herunterzuladen, zu speichern und in geringer Anzahl zu Drucken. Sie erklären außerdem, keine Rechte Dritter durch die Veröffentlichung zu verletzen, und im Falle des nachträglichen Bekanntwerdens rechtlicher Konflikte GEO-LEO<em>e-docs </em>umgehend zu informieren.</li>
+<li>Sie können den Text der FID GEO Lizenz jederzeit auf <a href="https://e-docs.geo-leo.de/rights">https://e-docs.geo-leo.de/rights</a> einsehen und herunterladen.</li>
+<li>Ihr Einverständnis erteilen Sie per Häckchen.</li>
+<li>Danach können Sie per Button die Veröffentlichung abschließen.</li>
+</ul>
+    </div>
+    <h4 id="publication9" class="ds-div-head">Nach Abschluss der Veröffentlichung</h4>
+    <div>
+        
+        <ul>
+<li>Ihr Beitrag wird in der ausgewählten Sammlung mit einer eigenen Publikationsseite sichtbar.</li>
+<li>Der DOI-Link (sofern eine neue DOI vergeben wurde) ist ab dem folgenden Tag aktiv. Ebenfalls ab dem folgenden Tag ist ein Vorschau-Bild (Thumbnail) Ihrer Veröffentlichung zu sehen.</li>
+<li>Veröffentlichte Dokumente werden nachträglich nicht mehr verändert und nur in Ausnahmefällen wieder gelöscht. Nachträgliche Ergänzungen und Korrekturen der Metadaten (Beschreibung) sind hingegen auf Anfrage möglich. Eine Publikation auch weiteren Sammlungen zugeordnet werden. Kontaktieren Sie uns gern (fid-geo-digi@sub.uni-goettingen.de)!</li>
+</ul>
+    </div>
+</div></div></message>
+
+<message key="xmlui.search.complete">
+<div id="file_static" class="ds-static-div primary">
+<h3 id="toc" class="ds-div-head">Suche</h3>
+<div style="margin-bottom:10px;">
+Die Suche nach Dokumenten im Repositorium kann über eine Eingabe von Suchbegriffen in ein <b>Suchfeld</b> oder über das Auflisten nach vorgegebenen Kriterien der Menüführung (<b>Browsen</b>) erfolgen:</div>
+Bei der Suche über das <b>Suchfeld</b> handelt es sich um eine <b>Volltext-Suche</b> über die Inhalte des Repositoriums. d.h., es werden sowohl die Metadaten (z.B. Titel, Schlagworte) als auch die Dokumente selbst durchsucht.
+<ul class="ds-simple-list" style="margin-top:5px;">
+<li class="ds-simple-list-item">
+<b>Eingabeoptionen</b> im Suchfeld:
+<ul style="padding-left:15px;">
+<li  class="ds-simple-list-item">Benutzen Sie <b>Anführungszeichen</b>, um eine Phrasensuche durchzuführen. (z.B. „climate change“)
+</li>
+<li  class="ds-simple-list-item">Möchten Sie Begriffe explizit aus der Suche <b>ausschließen</b>, so stellen Sie ihnen ein <b>Minuszeichen</b> voran (z.B.: sediment -carbon).
+</li>
+    </ul>
+    </li>
+<li class="ds-simple-list-item" style="margin-top:5px;">
+<b>Suche innerhalb einer Sammlung bzw. Serie</b>: Befinden Sie sich in einer Sammlung bzw. Serie, können Sie die Suche auf diese einschränken (<b>Auswahl „In dieser Sammlung“</b> unter dem Suchfeld)
+</li>
+<li class="ds-simple-list-item" style="margin-top:5px;">
+<b>Erweiterte Filter</b> und <b>Sortierungs-Optionen</b> (über das Einstellungen-Symbol) stehen nach Eingabe eines Suchbegriffs (über der Treffer-Liste) zur Verfügung.
+</li>
+</ul>
+Für das <b>Browsen</b> in den Inhalten des Repositoriums können Sie die Themen-Kacheln oder die Kategorien auf der rechten Seite in der Menüführung nutzen. Hier gelangen Sie zunächst zu Listen der Sammlungen, Serien oder Namen der Mitwirkenden. Auch ist eine Auflistung aller Dokumente nach Erscheinungsdatum oder aller Titel in alphabetischer Reihenfolge möglich. Nach Auswahl einer Sammlung oder Serie besteht die Möglichkeit einer Auflistung nach bestimmten Publikationstypen sowie der Namen der Mitwirkenden oder den vergebenen Schlagworten in den Sammlungen bzw. Serien.
+</div>
+</message>
+<message key="xmlui.navigation.searchhelp">Hinweise zur Suche</message>
 
 </catalogue>
