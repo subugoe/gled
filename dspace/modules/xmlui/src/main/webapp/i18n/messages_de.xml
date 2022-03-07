@@ -2927,7 +2927,7 @@ Umsatzsteuergesetz:  </message>
 	<message key="xmlui.aboutus.label.openaccess">Erklärung zu Open Access</message>
 	<message key="xmlui.aboutus.section3">Alle Dokumente auf GEO-LEOe-docs sind frei zugänglich, d.h. sie können weltweit, kostenlos und ohne Registrierung gelesen und heruntergeladen werden. GEO-LEOe-docs empfiehlt bei Einstellung eines Dokumentes die Vergabe der CC-BY 4.0 Lizenz.<br />
 Ein großer Teil der Inhalte ist per CC-BY Lizenz oder ausgewiesener Gemeinfreiheit (Public Domain Mark) Open Access im engeren Sinne. <br />
-Hier finden Sie die Open Access Leitlinie der Georg-August-Universität Göttingen, die Open Access für wissenschaftliche Publikationen unterstützt und fördert.</message>
+Hier finden Sie die <a href="https://www.uni-goettingen.de/de/622261.html">Open Access Leitlinie der Georg-August-Universität Göttingen</a>, die Open Access für wissenschaftliche Publikationen unterstützt und fördert.</message>
 	<message key="xmlui.aboutus.label.publish">Publizieren auf GEO-LEOe-docs</message>
 
 	<message key="xmlui.aboutus.section4">Geowissenschaftliche Werke können auf GEO-LEOe-docs als Erst- oder Zweitveröffentlichung online gestellt werden.<br />

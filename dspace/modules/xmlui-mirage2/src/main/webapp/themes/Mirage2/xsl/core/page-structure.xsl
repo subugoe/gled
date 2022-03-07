@@ -410,11 +410,11 @@
                             <span class="icon-bar"></span>
                         </button>
                         <a href="{$context-path}/" class="hidden-xs navbar-brand">
-                        <img src="{$theme-path}images/geoleo-edocs-logo.png" />
+                        <img src="{$theme-path}images/geoleo-edocs-logo.png" alt="GEO-LEOedocs Logo" />
                         <!--FID GEO Repository-->
 			</a>
                         <a href="{$context-path}/" class="pull-left visible-xs hidden-sm hidden-md hidden-lg navbar-brand-xs">
-                        <img src="{$theme-path}images/geoleo-edocs-logo.png" />
+                        <img src="{$theme-path}images/geoleo-edocs-logo.png" alt="GEO-LEOedocs Logo" />
                         <!--FID GEO Repository-->
                         </a>
 
