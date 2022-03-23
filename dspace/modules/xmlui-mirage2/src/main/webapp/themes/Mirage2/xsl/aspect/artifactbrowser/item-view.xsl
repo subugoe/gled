@@ -113,8 +113,7 @@
 					<xsl:if test="dim:field[@element='type'][@qualifier='version'] = 'publishedVersion'">
 					 <xsl:if test="not(contains(dim:field[@element='relation'][@qualifier='volume'], 'Mitteilungen der Deutschen Geophysikalischen'))">
 					<i18n:text>xmlui.dri2xhtml.METS-1.0.item-journal</i18n:text>
-					<xsl:call-template name="itemSummaryView-DIM-journal"/><xsl:call-template name="itemSummaryView-DIM-date"/>,
-					<xsl:call-template name="itemSummaryView-DIM-volume"/>
+					<xsl:call-template name="itemSummaryView-DIM-journal"/><xsl:call-template name="itemSummaryView-DIM-date"/>					<xsl:call-template name="itemSummaryView-DIM-volume"/>
 					<xsl:call-template name="itemSummaryView-DIM-issue"/>: <xsl:call-template name="itemSummaryView-DIM-pages"/>
 					</xsl:if>
 					</xsl:if>
@@ -703,13 +702,6 @@
                                 <xsl:if test="contains(dim:field[@element='identifier'][@qualifier='doi'], 'doi.org')">
                                   <xsl:text>DOI: </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='identifier'][@qualifier='doi'][1]/node(), 'doi.org/')"/><xsl:text>. </xsl:text>
                                 </xsl:if>
-                                <xsl:if test="not(contains(dim:field[@element='identifier'][@qualifier='doi'], 'doi.org'))">
-                                  <xsl:text>DOI: </xsl:text><xsl:copy-of select="dim:field[@element='identifier'][@qualifier='doi'][1]/node()"/><xsl:text>. </xsl:text>
-                                </xsl:if>
-                                <xsl:if test="contains(dim:field[@element='identifier'][@qualifier='doi'], 'doi.org')">
-                                  <xsl:text>DOI: </xsl:text><xsl:copy-of select="substring-after(dim:field[@element='identifier'][@qualifier='doi'][1]/node(), 'doi.org/')"/><xsl:text>. </xsl:text>
-                                </xsl:if>
-
                                 </xsl:when>
                         <xsl:otherwise>
                             <xsl:text>DOI: </xsl:text><xsl:if test="dim:field[@element='identifier'][@qualifier='uri']">
@@ -755,7 +747,7 @@
 
 <xsl:template name="citationmono">
         <xsl:variable name="authors">
-                <xsl:if test="dim:field[@element='contributor'][@qualifier='author']">
+                <xsl:if test="dim:field[@element='contributor'][@qualifier='author'] and not(contains(dim:field[@element='relation'][@qualifier='volume'], 'Codex Montanus'))">
                             <xsl:for-each select="dim:field[@element='contributor'][@qualifier='author']">
                                 <span>
                                   <xsl:if test="@authority">
@@ -767,8 +759,17 @@
                                     <xsl:text>; </xsl:text>
                                 </xsl:if>
                             </xsl:for-each>
+			<xsl:text>, </xsl:text>
         </xsl:if>
-	<xsl:if test="dim:field[@element='contributor'][@qualifier='editor'] and contains(dim:field[@element='relation'][@qualifier='volume'], 'Codex Montanus')">
+	<xsl:if test="dim:field[@element='contributor'][@qualifier='author'] and contains(dim:field[@element='relation'][@qualifier='volume'], 'Codex Montanus')">
+                            <xsl:for-each select="dim:field[@element='contributor'][@qualifier='author']">
+                                <span>
+                                  <xsl:text>Unbekannter Autor</xsl:text>
+                                </span>
+                            </xsl:for-each>
+				<xsl:text>, </xsl:text>
+        </xsl:if>
+      <xsl:if test="dim:field[@element='contributor'][@qualifier='editor'] and contains(dim:field[@element='relation'][@qualifier='volume'], 'Codex Montanus')">
                             <xsl:for-each select="dim:field[@element='contributor'][@qualifier='editor']">
                                 <span>
                                   <xsl:if test="@authority">
@@ -780,12 +781,31 @@
                                     <xsl:text>; </xsl:text>
                                 </xsl:if>
                             </xsl:for-each>
-				<xsl:text> (Hrsg.)</xsl:text>
+				<xsl:text> (Hrsg.), </xsl:text>
+        </xsl:if>      
+	 <xsl:if test="dim:field[@element='contributor'][@qualifier='other'] and contains(dim:field[@element='relation'][@qualifier='volume'], 'Codex Montanus')">
+                            <xsl:for-each select="dim:field[@element='contributor'][@qualifier='other']">
+                                <span>
+                                  <xsl:if test="@authority">
+                                    <xsl:attribute name="class"><xsl:text>ds-dc_contributor_author-authority</xsl:text></xsl:attribute>
+                                  </xsl:if>
+                                  <xsl:copy-of select="node()"/>
+                                </span>
+                                <xsl:if test="count(following-sibling::dim:field[@element='contributor'][@qualifier='other']) != 0">
+                                    <xsl:text>; </xsl:text>
+                                </xsl:if>
+                            </xsl:for-each>
+                                <xsl:text> (Mitw.), </xsl:text>
         </xsl:if>
     </xsl:variable>
         <xsl:variable name="dateissued">
                 <xsl:if test="dim:field[@element='date'][@qualifier='issued']">
                 <xsl:copy-of select="substring(dim:field[@element='date'][@qualifier='issued']/node(), 1,4)"/>
+                </xsl:if>
+    </xsl:variable>
+   <xsl:variable name="datecreated">
+                <xsl:if test="dim:field[@element='date'][@qualifier='created']">
+                <xsl:copy-of select="substring(dim:field[@element='date'][@qualifier='created']/node(), 1,4)"/>
                 </xsl:if>
     </xsl:variable>
                 <xsl:variable name="title">
@@ -842,12 +862,20 @@
                         </xsl:otherwise>
                         </xsl:choose>
     </xsl:variable>
-
+<xsl:if test="not(contains(dim:field[@element='relation'][@qualifier='volume'], 'Codex Montanus'))">
         <div class="citation">
-                <span id="citation"><xsl:value-of select="concat($authors, ', ', $dateissued, ': ', $title, '. ', $citation, $identifier)"/></span>
+                <span id="citation"><xsl:value-of select="concat($authors, $dateissued, ': ', $title, '. ', $citation, $identifier)"/></span>
                 <xsl:text> </xsl:text>
                 <a href="#" onclick="copyToClipboard('#citation')" title="Copy to Clipboard"><i class="fa fa-clipboard"></i></a>
         </div>
+</xsl:if>
+<xsl:if test="contains(dim:field[@element='relation'][@qualifier='volume'], 'Codex Montanus')">
+        <div class="citation">
+                <span id="citation"><xsl:value-of select="concat($authors, $datecreated, ': ', $title, '. ', $citation, $identifier)"/></span>
+                <xsl:text> </xsl:text>
+                <a href="#" onclick="copyToClipboard('#citation')" title="Copy to Clipboard"><i class="fa fa-clipboard"></i></a>
+        </div>
+</xsl:if>
 </xsl:template>
 
 
@@ -1057,6 +1085,7 @@
   </xsl:template>
 
     <xsl:template name="itemSummaryView-DIM-authors">
+        <xsl:if test="dim:field[@element='contributor'][@qualifier='author'] and not(contains(dim:field[@element='relation'][@qualifier='volume'], 'Codex Montanus'))">
         <xsl:if test="dim:field[@element='contributor'][@qualifier='author' and descendant::text()] or dim:field[@element='creator' and descendant::text()] or dim:field[@element='contributor' and descendant::text()]">
             <div class="simple-item-view-authors item-page-field-wrapper table">
                 <!--<h5><i18n:text>xmlui.dri2xhtml.METS-1.0.item-author</i18n:text></h5>-->
@@ -1082,6 +1111,46 @@
                 </xsl:choose>
             </div>
         </xsl:if>
+            </xsl:if>
+        <xsl:if test="dim:field[@element='contributor'][@qualifier='author'] and contains(dim:field[@element='relation'][@qualifier='volume'], 'Codex Montanus')">
+  <div class="simple-item-view-authors item-page-field-wrapper table">
+                            <xsl:for-each select="dim:field[@element='contributor'][@qualifier='author']">
+                                <span>
+                                  <xsl:text>Unbekannter Autor</xsl:text>
+                                </span>
+                            </xsl:for-each><br /></div>
+        </xsl:if>
+      <xsl:if test="dim:field[@element='contributor'][@qualifier='editor'] and contains(dim:field[@element='relation'][@qualifier='volume'], 'Codex Montanus')">
+                <div class="simple-item-view-authors item-page-field-wrapper table">            
+		<xsl:for-each select="dim:field[@element='contributor'][@qualifier='editor']">
+                                <span>
+                                  <xsl:if test="@authority">
+                                    <xsl:attribute name="class"><xsl:text>ds-dc_contributor_author-authority</xsl:text></xsl:attribute>
+                                  </xsl:if>
+                                  <xsl:copy-of select="node()"/>
+                                </span>
+                                <xsl:if test="count(following-sibling::dim:field[@element='contributor'][@qualifier='editor']) != 0">
+                                    <xsl:text>; </xsl:text>
+                                </xsl:if>
+                            </xsl:for-each>
+          <xsl:text> (Hrsg.)</xsl:text><br /></div>
+        </xsl:if> 
+	 <xsl:if test="dim:field[@element='contributor'][@qualifier='other'] and contains(dim:field[@element='relation'][@qualifier='volume'], 'Codex Montanus')">
+<div class="simple-item-view-authors item-page-field-wrapper table">               
+             <xsl:for-each select="dim:field[@element='contributor'][@qualifier='other']">
+                                <span>
+                                  <xsl:if test="@authority">
+                                    <xsl:attribute name="class"><xsl:text>ds-dc_contributor_author-authority</xsl:text></xsl:attribute>
+                                  </xsl:if>
+                                  <xsl:copy-of select="node()"/>
+                                </span>
+                                <xsl:if test="count(following-sibling::dim:field[@element='contributor'][@qualifier='other']) != 0">
+                                    <xsl:text>; </xsl:text>
+                                </xsl:if>
+                            </xsl:for-each>
+                                <xsl:text> (Mitw.)</xsl:text><br /></div>
+        </xsl:if>
+  
     </xsl:template>
 
 <xsl:template name="itemSummaryView-DIM-publisher">
@@ -1398,7 +1467,33 @@
                     <xsl:if test="count(following-sibling::dim:field[@element='date' and @qualifier='issued']) != 0">
                         <br/>
                     </xsl:if>
+                </xsl:for-each><br/>
+            <!--</div>-->
+        </xsl:if>
+	<xsl:if test="dim:field[@element='date' and @qualifier='printIssued' and descendant::text()]">
+            <!--<div class="simple-item-view-date word-break item-page-field-wrapper table">
+                <i18n:text>xmlui.dri2xhtml.METS-1.0.item-date</i18n:text>-->
+		
+                <xsl:for-each select="dim:field[@element='date' and @qualifier='printIssued']">
+                    <xsl:copy-of select="substring(./node(),1,4)"/>
+                    <xsl:if test="count(following-sibling::dim:field[@element='date' and @qualifier='printIssued']) != 0">
+                        <br/>
+                    </xsl:if>
                 </xsl:for-each>
+		<xsl:text> (Erscheinungsjahr der gedruckten Vorlage) </xsl:text><br/>
+            <!--</div>-->
+        </xsl:if>
+	<xsl:if test="dim:field[@element='date' and @qualifier='created' and descendant::text()]">
+            <!--<div class="simple-item-view-date word-break item-page-field-wrapper table">
+                <i18n:text>xmlui.dri2xhtml.METS-1.0.item-date</i18n:text>-->
+
+                <xsl:for-each select="dim:field[@element='date' and @qualifier='created']">
+                    <xsl:copy-of select="substring(./node(),1,4)"/>
+                    <xsl:if test="count(following-sibling::dim:field[@element='date' and @qualifier='created']) != 0">
+                        <br/>
+                    </xsl:if>
+                </xsl:for-each>
+                <xsl:text> (Entstehungsjahr der Originalvorlage) </xsl:text>
             <!--</div>-->
         </xsl:if>
     </xsl:template>
@@ -2137,4 +2232,3 @@
 
 
 </xsl:stylesheet>
-

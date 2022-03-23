@@ -122,7 +122,13 @@
                                   <xsl:if test="@authority">
                                     <xsl:attribute name="class"><xsl:text>ds-dc_contributor_author-authority</xsl:text></xsl:attribute>
                                   </xsl:if>
-                                  <xsl:copy-of select="node()"/>
+                             
+				<xsl:if test="contains(node(), 'unbekannt')">
+					<xsl:text>Unbekannter Autor</xsl:text>
+				</xsl:if>
+				<xsl:if test="not(contains(node(), 'unbekannt'))">
+				     <xsl:copy-of select="node()"/>
+				</xsl:if>
                                 </span>
 <xsl:if test="starts-with(@authority, '0000-')">
 <a target="_blank" href="{concat('//orcid.org/',@authority)}" title="ORCID">
@@ -263,7 +269,8 @@
                                 </xsl:when>
 				<!-- Rest -->
 				<xsl:otherwise>
-                                    <xsl:if test="dim:field[@element='publisher']">
+            			<xsl:if test="not(contains(dim:field[@element='relation' and @qualifier='volume'], 'Codex Montanus'))">
+		                        <xsl:if test="dim:field[@element='publisher']">
                                         <span class="publisher">
                                             <xsl:copy-of select="dim:field[@element='publisher']/node()"/>
                                         </span>
@@ -272,9 +279,21 @@
                                         <xsl:value-of select="substring(dim:field[@element='date' and @qualifier='issued']/node(),1,10)"/>
                                         </span>
                                         <xsl:text>)</xsl:text>
-                                </xsl:otherwise>
-                                </xsl:choose>
-                        </small></span>
+				</xsl:if>
+				<xsl:if test="contains(dim:field[@element='relation' and @qualifier='volume'], 'Codex Montanus')">
+                                        <xsl:if test="dim:field[@element='publisher']">
+                                        <span class="publisher">
+                                            <xsl:copy-of select="dim:field[@element='publisher']/node()"/>
+                                        </span>
+                                        <xsl:text>, </xsl:text></xsl:if>
+                                        <span class="date">
+                                        <xsl:value-of select="substring(dim:field[@element='date' and @qualifier='created']/node(),1,10)"/>
+                                        </span>
+                                        <xsl:text>)</xsl:text>
+                                </xsl:if>
+                      	        </xsl:otherwise>
+                          </xsl:choose>
+                 	</small></span>
 		</xsl:if>
             </div>
 		

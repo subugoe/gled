@@ -2968,7 +2968,19 @@ Got to the following website to utilise you option to deactivate data collection
 <p> GMIT erscheint vier Mal im Jahr. Sie erreicht alle Mitglieder der genannten Gesellschaften und wird in Universitäten, Forschungseinrichtungen, Behörden und Unternehmen gelesen.</p>
 <p>Redaktionelle Hinweise finden sie auf der Seite <a href="https://geoberuf.de/veroeffentlichungen/gmit">https://geoberuf.de/veroeffentlichungen/gmit</a>.</p>
         <div class="row-gmit" style="margin-top:20px;">
-		 <div class="row-gmit">
+		<div class="row-gmit">
+                <h3>2022</h3>
+
+                <figure style="display:grid;grid-template-columns:repeat(auto-fill, minmax(15em, 1fr));gap:2em;">
+                <figure>
+                <a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/9767">
+                <image class="image-gmit" src="/themes/Mirage2/images/gmit87.jpg" style="margin-right:10px;margin-bottom:10px;height:282px;" />
+                </a>
+                 <figcaption style="grid-column:1 / -1;"><a target="_blank" href="https://e-docs.geo-leo.de/handle/11858/9767">GMIT 87 - March 2022</a></figcaption>
+                </figure>
+		</figure>
+                </div> 
+		<div class="row-gmit">
                 <h3>2021</h3>
 
                 <figure style="display:grid;grid-template-columns:repeat(auto-fill, minmax(15em, 1fr));gap:2em;">
