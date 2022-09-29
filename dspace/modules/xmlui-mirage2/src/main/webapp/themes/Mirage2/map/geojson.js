@@ -39,9 +39,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/0192_(11)_Nimmersatt_geol_1916.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332812000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -91,9 +91,9 @@
     "LText2": "zur Karte ersch. 1916",
     "ML2": "Deutsches Museum, München",
     "Link2": "http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=6053734",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1916",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/332821000",
     "LText4": "zur Topographischen Karte ersch. 1912",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/287018000"
@@ -137,9 +137,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/0392_(7)_Schmelz_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332824000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -186,9 +186,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/0492_(10)_Schwarzort_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332828000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -235,9 +235,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/0592_(17)_Perwelk_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332839000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -284,9 +284,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/0692_(27)_Nidden_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332847000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -325,17 +325,17 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 0791] Pilkoppen",
-    "Location": "Pilkoppen",
+    "Title": "[Neue Nr. 0791] Pillkoppen",
+    "Location": "Pillkoppen",
     "Subtitle": "Morskoje (litau.), Морское",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/0791_(41)_Pilkoppen_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332850000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -382,9 +382,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/0890_(59)_Kunzen_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332851000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -431,9 +431,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/0891_(60)_Rossitten_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332853000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -480,9 +480,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/0989_(80)_Sarkau_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332854000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -529,9 +529,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/0990_(81)_Moevenhaken_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332858000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -584,9 +584,12 @@
     "LText3": "zur Karte ersch. 1914",
     "ML3": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link3": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1085_(103)_Gr._Dirschkeim_geol_Beiblatt_II_1914_UPozn.jpg",
-    "LText4": "zur Topographischen Karte ersch. 1907",
+    "LText4": "zur Karte ersch. 1914",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
-    "Link4": "https://ifl.wissensbank.com/qlink/287363000"
+    "Link4": "https://ifl.wissensbank.com/qlink/332861000",   
+	"LText5": "zur Topographischen Karte ersch. 1907",
+    "ML5": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link5": "https://ifl.wissensbank.com/qlink/287363000"
    }
   },
   {
@@ -633,9 +636,12 @@
     "LText3": "Blatt II: Küstenprofil",
     "ML3": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link3": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1086_(104)_Rauschen_geol_Beiblatt_1914_UPozn.jpg",
-    "LText4": "zur Topographischen Karte ersch. 1908",
+    "LText4": "zur Karte ersch. 1914",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
-    "Link4": "https://ifl.wissensbank.com/qlink/287366000"
+    "Link4": "https://ifl.wissensbank.com/qlink/332865000",
+	"LText5": "zur Topographischen Karte ersch. 1908",
+    "ML5": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link5": "https://ifl.wissensbank.com/qlink/287366000"
    }
   },
   {
@@ -682,9 +688,12 @@
     "LText3": "Blatt II: Küstenprofil",
     "ML3": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link3": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1087_(105)_Neukuhren_geol_Beiblatt_1914_UPozn.jpg",
-    "LText4": "zur Topographischen Karte ersch. 1908",
+    "LText4": "zur Karte ersch. 1908",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
-    "Link4": "https://ifl.wissensbank.com/qlink/287368000"
+    "Link4": "https://ifl.wissensbank.com/qlink/332869000",
+	"LText5": "zur Topographischen Karte ersch. 1908",
+    "ML5": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link5": "https://ifl.wissensbank.com/qlink/287368000"
    }
   },
   {
@@ -728,9 +737,9 @@
     "LText2": "zur Karte ersch. 1914",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1088_(106)_Cranz_geol_1914_UPozn.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1914",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/332870000",
     "LText4": "zur Topographischen Karte ersch. 1908",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/287374000"
@@ -777,9 +786,9 @@
     "LText2": "zur Karte ersch. 1914",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1089_(107)_Bledau_geol_1914_UPozn.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1914",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/332871000",
     "LText4": "zur Topographischen Karte ersch. 1908",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/287375000"
@@ -823,9 +832,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1090_(108)_Postnicken_(West)_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332872000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -878,9 +887,12 @@
     "LText3": "Blatt II: Küstenprofil",
     "ML3": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link3": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1185_(139)_Palmnicken_geol_Beiblatt_1914_UPozn.jpg",
-    "LText4": "zur Topographischen Karte ersch. 1908",
+    "LText4": "zur Karte ersch. 1914",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
-    "Link4": "https://ifl.wissensbank.com/qlink/287478000"
+    "Link4": "https://ifl.wissensbank.com/qlink/332879000",
+	"LText5": "zur Topographischen Karte ersch. 1908",
+    "ML5": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link5": "https://ifl.wissensbank.com/qlink/287478000"
    }
   },
   {
@@ -924,9 +936,9 @@
     "LText2": "zur Karte ersch. 1914",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1186_(140)_Gernau_geol_1914_UPozn.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1914",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/332882000",
     "LText4": "zur Topographischen Karte ersch. 1908",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/287488000"
@@ -973,9 +985,9 @@
     "LText2": "zur Karte ersch. 1914",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1187_(141)_Pobethen_geol_1914_UPozn.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1914",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL",
+    "Link3": "https://ifl.wissensbank.com/qlink/332884000",
     "LText4": "zur Topographischen Karte ersch. 1908",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/287491000"
@@ -1022,9 +1034,9 @@
     "LText2": "zur Karte ersch. 1914",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1188_(142)_Rudau_geol_1914_UPozn.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1914",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/332888000",
     "LText4": "zur Topographischen Karte ersch. 1908",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/287498000"
@@ -1071,9 +1083,9 @@
     "LText2": "zur Karte ersch. 1914",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1189_(143)_Powunden_geol_1914_UPozn.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1914",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/332891000",
     "LText4": "zur Topographischen Karte ersch. 1908",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/287500000"
@@ -1117,9 +1129,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1190_(144)_Schaaken_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332892000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -1169,9 +1181,9 @@
     "LText2": "Blatt II: Küstenprofil",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1285_(180)_Lochstaedt_geol_Beiblattt_1914_UPozn.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1914",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/332893000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -1215,9 +1227,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1286_(1810_Fischhausen_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332894000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -1264,9 +1276,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1287_(182)_Medenau_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332897000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -1308,11 +1320,11 @@
     "Title": "[Neue Nr. 1288] Königsberg (West)",
     "Location": "Königsberg (West)",
     "Subtitle": "Kaliningrad (russ.), Калинингра́д",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201288]%20K%C3%B6nigsberg%20(West)&creator=Kaunhowen,%20F.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1916",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/332900000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -1411,9 +1423,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1290_(185)_Schoenwalde_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332904000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -1460,9 +1472,9 @@
     "LText1": "zur Karte ersch. 1914",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1385_(226)_Pillau_geol_1914_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1914",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332934000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -1509,9 +1521,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1386_(227)_Zimmerbude_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332946000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -1558,9 +1570,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1387_(228)_Brandenburg_geol_1916.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332947000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -1607,9 +1619,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1388_(229)_Ponarth_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332948000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -1651,11 +1663,11 @@
     "Title": "[Neue Nr. 1389] Ludwigswalde",
     "Location": "Ludwigswalde",
     "Subtitle": "Lesnoje (russ.), Лесное",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201389]%20Ludwigswalde&creator=He%DF%20v.%20Wichdorff,%20H.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1916",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/332949000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -1705,6 +1717,153 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1390_(231)_Loewenhagen_geol_1916_UPozn.jpg",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332950000",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       9.5,
+       54.6
+      ],
+      [
+       9.667,
+       54.6
+      ],
+      [
+       9.667,
+       54.5
+      ],
+      [
+       9.5,
+       54.5
+      ],
+      [
+       9.5,
+       54.6
+      ]
+     ]
+    ]
+   },
+      "properties": {
+    "Title": "[Neue Nr. 1423] Schleswig",
+    "Location": "Schleswig",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1942",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/332956000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       9.833,
+       54.6
+      ],
+      [
+       9.667,
+       54.6
+      ],
+      [
+       9.667,
+       54.5
+      ],
+      [
+       9.833,
+       54.5
+      ],
+      [
+       9.833,
+       54.6
+      ]
+     ]
+    ]
+   },
+      "properties": {
+    "Title": "[Neue Nr. 1424] Brodersby",
+    "Location": "Brodersby",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1942",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/332957000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       9.833,
+       54.6
+      ],
+      [
+       10,
+       54.6
+      ],
+      [
+       10,
+       54.5
+      ],
+      [
+       9.833,
+       54.5
+      ],
+      [
+       9.833,
+       54.6
+      ]
+     ]
+    ]
+   },
+      "properties": {
+    "Title": "[Neue Nr. 1425 / 1426] Sieseby und Dorotheenthal",
+    "Location": "Sieseby und Dorotheenthal",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1942",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/332965000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -1749,14 +1908,14 @@
     "Title": "[Neue Nr. 1464 / 1465] Lanzig mit Vitte",
     "Location": "Lanzig mit Vitte",
     "Subtitle": "Lacko (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201464%20/%201465]%20Lanzig%20mit%20Vitte&creator=Keilhack,%20K.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1897",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/332987000",
+    "LText2": "Agronomische Bohrungen ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332981000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -1798,14 +1957,14 @@
     "Title": "[Neue Nr. 1466] Saleske",
     "Location": "Saleske",
     "Subtitle": "Zaleskie (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201466]%20Saleske&creator=Keilhack,%20K.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1897",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/332995000",
+    "LText2": "Agronomische Bohrungen ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332991000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -1852,9 +2011,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1484_(276)_Gr._Bruch_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332997000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -1901,9 +2060,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1485_(277)_Balga_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/332999000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -1950,9 +2109,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1486_(278)_Bladiau_geol_1916.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333003000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -1999,9 +2158,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1487_(279)_Poerschken_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333005000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -2048,9 +2207,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1488_(280_Mahnsfeld_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333013000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -2092,11 +2251,11 @@
     "Title": "[Neue Nr. 1489] Tharau",
     "Location": "Tharau",
     "Subtitle": "Wladimirowo (russ.), Влади́мирово",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201489]%20Tharau&creator=He%DF%20von%20Wichdorff,%20H.",
+     "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1916",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333015000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -2146,9 +2305,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1490_(282)_Uderwangen_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333021000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -2195,12 +2354,12 @@
     "LText1": "zur Karte ersch. 1897",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-2082",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333023000",
+    "LText3": "Agronomische Bohrungen ersch. 1897",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333027000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -2239,14 +2398,14 @@
     "Title": "[Neue Nr. 1565] Grupenhagen",
     "Location": "Grupenhagen",
     "Subtitle": "Krupy (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201565]%20Grupenhagen&creator=Keilhack,%20K.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1897",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333031000",
+    "LText2": "Agronomische Bohrungen ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333032000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -2293,12 +2452,12 @@
     "LText1": "zur Karte ersch. 1897",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1566_(319)_Peest_geogn-agr_1897_UPozn.jpg ",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333033000",
+    "LText3": "Agronomische Bohrungen ersch. 1897",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333034000",
     "LText4": "zur Topographischen Karte ersch. 1891",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/288950000"
@@ -2342,9 +2501,9 @@
     "LText1": "zur Karte ersch. 1905",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1576_(329)_Quaschin_geong-agr_1905_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1905",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333035000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -2391,9 +2550,9 @@
     "LText1": "zur Karte ersch. 1903",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-3088",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1903",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333036000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -2435,11 +2594,11 @@
     "Title": "[Neue Nr. 1583] Neukrug",
     "Location": "Neukrug",
     "Subtitle": "Nowa Karczma (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201583]%20Neukrug&creator=Klautzsch,%20A.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1916",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333037000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -2489,15 +2648,113 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1584_(333)_Alt_Passarge_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333040000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
     "LText4": "zur Topographischen Karte ersch. 1910",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/289077000"
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       13,
+       54.4
+      ],
+      [
+       13.167,
+       54.4
+      ],
+      [
+       13.167,
+       54.3
+      ],
+      [
+       13,
+       54.3
+      ],
+      [
+       13,
+       54.4
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 1644] Stralsund",
+    "Location": "Stralsund",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1953",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333043000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       13.167,
+       54.4
+      ],
+      [
+       13.333,
+       54.4
+      ],
+      [
+       13.333,
+       54.3
+      ],
+      [
+       13.167,
+       54.3
+      ],
+      [
+       13.167,
+       54.4
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 1645] Samtens",
+    "Location": "Samtens",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1953",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333044000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -2538,9 +2795,9 @@
     "LText1": "zur Karte ersch. 1915",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1663_(377)_Beelkow_geol_1915_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1915",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333045000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -2582,14 +2839,14 @@
     "Title": "[Neue Nr. 1664] Altenhagen",
     "Location": "Altenhagen",
     "Subtitle": "Jeżyce",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201664]%20Altenhagen&creator=Keilhack,%20K.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1897",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333047000",
+    "LText2": "Agronomische Bohrungen ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333048000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -2636,12 +2893,12 @@
     "LText1": "zur Karte ersch. 1897",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1665_(379)_Karwitz_geogn-agr_1897_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333049000",
+    "LText3": "Agronomische Bohrungen ersch. 1897",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333050000",
     "LText4": "zur Topographischen Karte ersch. 1891",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/289316000"
@@ -2688,12 +2945,15 @@
     "LText2": "zur Karte ersch. 1897",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1666_(380)_Schlawe_geogn-agr_1897_UPozn.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
-    "LText4": "zur Topographischen Karte ersch. 1890",
+    "LText3": "zur Karte ersch. 1897",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333065000",
+    "LText4": "Agronomische Bohrungen ersch. 1897",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
-    "Link4": "https://ifl.wissensbank.com/qlink/289317000"
+    "Link4": "https://ifl.wissensbank.com/qlink/333070000",
+	"LText5": "zur Topographischen Karte ersch. 1890",
+    "ML5": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link5": "https://ifl.wissensbank.com/qlink/289317000"
    }
   },
   {
@@ -2729,11 +2989,11 @@
     "Title": "[Neue Nr. 1676] Zuckau",
     "Location": "Zuckau",
     "Subtitle": "Żukowo (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201676]%20Zuckau&creator=K%C3%BChn,%20B.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1905",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333071000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -2783,9 +3043,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1677_(391)_Danzig_geol_1916_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1903",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333072000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -2832,9 +3092,9 @@
     "LText1": "zur Karte ersch. 1903",
     "ML1": "Deutsches Museum, München",
     "Link1": "http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=6173523",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1903",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333074000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -2881,15 +3141,113 @@
     "LText1": "zur Karte ersch. 1903",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1679_(393)_Nickelswalde_geogn-agr_1903_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1903",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333077000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
     "LText4": "zur Topographischen Karte ersch. 1910",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/289525000"
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       13,
+       54.3
+      ],
+      [
+       13.167,
+       54.3
+      ],
+      [
+       13.167,
+       54.2
+      ],
+      [
+       13,
+       54.2
+      ],
+      [
+       13,
+       54.3
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 1744] Elmenhorst",
+    "Location": "Elmenhorst",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1953",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333078000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       13.167,
+       54.3
+      ],
+      [
+       13.333,
+       54.3
+      ],
+      [
+       13.333,
+       54.2
+      ],
+      [
+       13.167,
+       54.2
+      ],
+      [
+       13.167,
+       54.3
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 1745] Stahlbrode",
+    "Location": "Stahlbrode",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1953",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333079000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -3028,9 +3386,9 @@
     "LText1": "zur Karte ersch. 1915",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1762_(447)_Gr._Moellen_geol_1915_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1915",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333081000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -3077,9 +3435,9 @@
     "LText1": "zur Karte ersch. 1915",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1763_(448)_Zanow_geol_1915_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1915",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333083000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -3126,12 +3484,12 @@
     "LText1": "zur Karte ersch. 1897",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1764_(449)_Damerow_geogn-agr_1897_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333084000",
+    "LText3": "Agronomische Bohrungen ersch. 1897",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333086000",
     "LText4": "zur Topographischen Karte ersch. 1891",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/290021000"
@@ -3170,14 +3528,14 @@
     "Title": "[Neue Nr. 1765] Zirchow",
     "Location": "Zirchow",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201765]%20Zirchow&creator=Keilhack,%20K.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1897",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333091000",
+    "LText2": "Agronomische Bohrungen ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333092000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -3219,14 +3577,14 @@
     "Title": "[Neue Nr. 1766] Wussow",
     "Location": "Wussow",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201766]%20Wussow&creator=Keilhack,%20K.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1897",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333093000",
+    "LText2": "Agronomische Bohrungen ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333094000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -3273,15 +3631,64 @@
     "LText1": "zur Karte ersch. 1905",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1776_Prangenau_geognostisch-agronomische_1905.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1905",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333188000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
     "LText4": "zur Topographischen Karte ersch. 1900",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/290162000"
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       18.5,
+       54.3
+      ],
+      [
+       18.667,
+       54.3
+      ],
+      [
+       18.667,
+       54.2
+      ],
+      [
+       18.5,
+       54.2
+      ],
+      [
+       18.5,
+       54.3
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 1777] Praust",
+    "Location": "Praust",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1903",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333189000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -3322,9 +3729,9 @@
     "LText1": "zur Karte ersch. 1903",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1778_(463)_Trutenau_geogn-agr_1903_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1903",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333190000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -3371,9 +3778,9 @@
     "LText1": "zur Karte ersch. 1903",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1779_Kasemark_geognostisch-agronomische_1903.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1903",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333193000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -3420,12 +3827,12 @@
     "LText1": "zur Karte ersch. 1896",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1789_Gr_Peisten_geognostisch-agronomische_1896.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1896",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333205000",
+    "LText3": "Agronomische Bohrungen ersch. 1896",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333196000",
     "LText4": "zur Topographischen Karte ersch. 1913",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/290261000"
@@ -3464,14 +3871,14 @@
     "Title": "[Neue Nr. 1790] Bartenstein",
     "Location": "Bartenstein",
     "Subtitle": "Bartoszyce (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201790]%20Bartenstein&creator=Klebs,%20R.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1896",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333210000",
+    "LText2": "Agronomische Bohrungen ersch. 1896",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333207000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -3518,12 +3925,12 @@
     "LText1": "zur Karte ersch. 1896",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1791_(476)_Landskron_geogn-agr_1896_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1896",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333223000",
+    "LText3": "Agronomische Bohrungen ersch. 1896",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333227000",
     "LText4": "zur Topographischen Karte ersch. 1936",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/290269000"
@@ -3562,14 +3969,14 @@
     "Title": "[Neue Nr. 1792] Schippenbeil",
     "Location": "Schippenbeil",
     "Subtitle": "Sepopol (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201792]%20Schippenbeil&creator=Klebs,%20R.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1897",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333230000",
+    "LText2": "Agronomische Bohrungen ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333249000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -3616,12 +4023,12 @@
     "LText1": "zur Karte ersch. 1897",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1793_(478)_Doenhoffstaedt_geogn-agr_1897_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333251000",
+    "LText3": "Agronomische Bohrungen ersch. 1897",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333252000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -3665,9 +4072,9 @@
     "LText1": "zur Karte ersch. 1904",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1794_(479)_Barten_geogn-agr_1904_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1904",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333254000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -3709,11 +4116,11 @@
     "Title": "[Neue Nr. 1795] Drengfurth",
     "Location": "Drengfurth",
     "Subtitle": "Srokowo (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201795]%20Drengfurth&creator=Kaunhowen,%20F.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1904",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333255000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -3758,11 +4165,11 @@
     "Title": "[Neue Nr. 1796] Angerburg",
     "Location": "Angerburg",
     "Subtitle": "Węgorzewo (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201796]%20Angerburg&creator=Gagel,%20C.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1903",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333257000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -3812,6 +4219,55 @@
     "LText1": "zur Karte ersch. 1910",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1797_(482)_Buddern_geogn-agr_1910_UPozn.jpg",
+    "LText2": "zur Karte ersch. 1910",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333258000",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       22,
+       54.3
+      ],
+      [
+       22.167,
+       54.3
+      ],
+      [
+       22.167,
+       54.2
+      ],
+      [
+       22,
+       54.2
+      ],
+      [
+       22,
+       54.3
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 1798] Benkheim",
+    "Location": "Benkheim",
+    "Subtitle": "Banie Mazurskie",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1910",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL",
+    "Link1": "https://ifl.wissensbank.com/qlink/333259000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -3861,9 +4317,9 @@
     "LText1": "zur Karte ersch. 1912",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1799_Grabowen_geognostisch-agronomische_1912.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1912",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333285000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -3910,9 +4366,9 @@
     "LText1": "zur Karte ersch. 1935",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25_west/1844_(512)_Grimmen_geol_1935.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1935",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333292000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -3959,9 +4415,9 @@
     "LText1": "zur Karte ersch. 1935",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25_west/1845_(513)_Horst_geol_1935.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1935",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333294000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -4008,9 +4464,9 @@
     "LText1": "zur Karte ersch. 1924",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25_west/1846_(514)_Neunkirchen_geol_1924.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1924",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333295000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -4057,9 +4513,9 @@
     "LText1": "zur Karte ersch. 1924",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25_west/1847_(515)_Wusterhausen_geol_1924.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1924",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333296000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -4106,9 +4562,9 @@
     "LText1": "zur Karte ersch. 1917",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25_west/1848_(516)_Croeslin_geol_1917.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1917",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333297000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -4155,9 +4611,9 @@
     "LText1": "zur Karte ersch. 1917",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25_west/1849_(517)_Karlshagen_u._Insel_Greifswalder_Oie_geol_1917.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1917",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333298000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -4204,9 +4660,9 @@
     "LText1": "zur Karte ersch. 1915",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1857_(519)_Robe_geol_1915_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1915",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333299000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -4253,9 +4709,9 @@
     "LText1": "zur Karte ersch. 1906",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1858_(520)_Langenhagen_geogn-agr_1906_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1906",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333308000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -4297,11 +4753,11 @@
     "Title": "[Neue Nr. 1859] Kolberg",
     "Location": "Kolberg",
     "Subtitle": "Kolobrzeg (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201859]%20Kolberg&creator=Keilhack,%20K.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1906",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333322000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -4444,11 +4900,11 @@
     "Title": "[Neue Nr. 1862] Alt-Belz",
     "Location": "Alt-Belz",
     "Subtitle": "Stare Bielice (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201862]%20Alt-Belz&creator=Menzel,%20H.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1915",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333329000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -4498,9 +4954,9 @@
     "LText1": "zur Karte ersch. 1913",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1863_(525)_Koeslin_geol_1913_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1913",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333330000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -4542,14 +4998,14 @@
     "Title": "[Neue Nr. 1864] Kösternitz",
     "Location": "Kösternitz",
     "Subtitle": "Kościernica (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201864]%20K%C3%B6sternitz&creator=Keilhack,%20K.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1896",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333335000",
+    "LText2": "Agrogomische Bohrungen ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333336000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -4596,12 +5052,12 @@
     "LText1": "zur Karte ersch. 1896",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1865_(527)_Alt-Zowen_geogn-agr_1896_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1896",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333337000",
+    "LText3": "Agronomische Bohrungen ersch. 1897",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333340000",
     "LText4": "zur Topographischen Karte ersch. 1891",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/290673000"
@@ -4640,14 +5096,14 @@
     "Title": "[Neue Nr. 1866] Pollnow",
     "Location": "Pollnow",
     "Subtitle": "Polanow (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201866]%20Pollnow&creator=Keilhack,%20K.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1896",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333344000",
+    "LText2": "Agronomische Bohrungen ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333346000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -4694,9 +5150,9 @@
     "LText1": "zur Karte ersch. 1905",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1876_(538)_Gr._Paglau_geogn-agr_1905_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1905",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333360000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -4738,14 +5194,14 @@
     "Title": "[Neue Nr. 1889] Heilsberg",
     "Location": "Heilsberg",
     "Subtitle": "Lidzbark Warminski (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201889]%20Heilsberg&creator=Klebs,%20R.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1890",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333361000",
+    "LText2": "Agronomische Bohrungen ersch. 1890",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333362000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -4792,12 +5248,12 @@
     "LText1": "zur Karte ersch. 1890",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1890_(552)_Gallingen_geogn-agr_1890_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "Agronomische Bohrungen ersch. 1890",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333367000",
+    "LText3": "zur Karte ersch. 1890",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333366000",
     "LText4": "zur Topographischen Karte ersch. 1913",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/290718000"
@@ -4841,12 +5297,12 @@
     "LText1": "zur Karte ersch. 1896",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1891_(553)_Gr._Schwansfeld_geogn-agr_1896_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1896",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333368000",
+    "LText3": "Agronomische Bohrungen ersch. 1896",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333662000",
     "LText4": "zur Topographischen Karte ersch. 1936",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/290722000"
@@ -4890,12 +5346,12 @@
     "LText1": "zur Karte ersch. 1897",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1892_(554)_Langheim_geogn-agr_1897_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333663000",
+    "LText3": "Agronomische Bohrungen ersch. 1897",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333664000",
     "LText4": "zur Topographischen Karte ersch. 1938",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/290727000"
@@ -4934,14 +5390,14 @@
     "Title": "[Neue Nr. 1893] Lamgarben",
     "Location": "Lamgarben",
     "Subtitle": "Garbno (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201893]%20Lamgarben&creator=Klebs,%20R.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1897",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333665000",
+    "LText2": "Agronomische Bohrungen ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333667000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -4988,9 +5444,9 @@
     "LText1": "zur Karte ersch. 1904",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1894_(556)_Wenden_geogn-agr_1904.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1904",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333669000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -5032,11 +5488,11 @@
     "Title": "[Neue Nr. 1895] Rosengarten",
     "Location": "Rosengarten",
     "Subtitle": "Radzieje (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201895]%20Rosengarten&creator=Kaunhowen,%20F.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1904",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333670000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -5081,11 +5537,11 @@
     "Title": "[Neue Nr. 1896] Gr. Steinort",
     "Location": "Gr. Steinort",
     "Subtitle": "Kamionek Wielki (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201896]%20Gr.%20Steinort&creator=Gagel,%20C.",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1903",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333712000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -5135,15 +5591,64 @@
     "LText1": "zur Karte ersch. 1903",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1897_Kutten_geognostisch-agronomische_1903.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1903",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333713000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
     "LText4": "zur Topographischen Karte ersch. 1927",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/290732000"
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       22,
+       54.2
+      ],
+      [
+       22.167,
+       54.2
+      ],
+      [
+       22.167,
+       54.1
+      ],
+      [
+       22,
+       54.1
+      ],
+      [
+       22,
+       54.2
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 1898] Kerschken",
+    "Location": "Kerschken",
+    "Subtitle": "Kierzki (poln.)",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1910",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333714000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -5184,9 +5689,9 @@
     "LText1": "zur Karte ersch. 1912",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1899_Gr_Duneyken_geognostisch-agronomische_1912.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1912",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333715000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -5233,9 +5738,9 @@
     "LText1": "zur Karte ersch. 1935",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25_west/1944_(591)_Gr._Rakow_geol_1935.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1935",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL",
+    "Link2": "https://ifl.wissensbank.com/qlink/333724000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -5282,9 +5787,9 @@
     "LText1": "zur Karte ersch. 1935",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25_west/1945_(592)_Griebenow_geol_1935.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1935",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333728000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -5331,9 +5836,9 @@
     "LText1": "zur Karte ersch. 1924",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25_west/1946_(593)_Greifswald_geol_1924.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1924",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333729000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -5380,9 +5885,9 @@
     "LText1": "zur Karte ersch. 1924",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25_west/1947_(594)_Hanshagen_geol_1924.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1924",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333731000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -5429,9 +5934,9 @@
     "LText1": "zur Karte ersch. 1917",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25_west/1948_(595)_Wolgast_geol_1917.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1917",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333733000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -5478,9 +5983,9 @@
     "LText1": "zur Karte ersch. 1917",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25_west/1949_(596)_Zinnowitz_geol_1917.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1917",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333824000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -5527,9 +6032,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1950_(597)_Ueckernitz_geol_1916.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333825000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -5579,9 +6084,9 @@
     "LText2": "zur Karte ersch. 1915",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1956_Karnitz_m._Kirchhagener_Fichten_geol.-agr._1915.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1915",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333826000",
     "LText4": "zur Topographischen Karte ersch. 1891",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/291112000"
@@ -5625,9 +6130,9 @@
     "LText1": "zur Karte ersch. 1915",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1957_(602)_Treptow_an_der_Rega_geol_1915_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1915",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333827000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -5674,9 +6179,9 @@
     "LText1": "zur Karte ersch. 1906",
     "ML1": "Deutsches Museum, München",
     "Link1": "http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=6173524",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1906",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333828000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -5726,9 +6231,9 @@
     "LText2": "zur Karte ersch. 1906",
     "ML2": "Deutsches Museum, München",
     "Link2": "http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=6173525",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1906",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333829000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -5816,11 +6321,11 @@
     "Title": "[Neue Nr. 1962] Bulgrin",
     "Location": "Bulgrin",
     "Subtitle": "Białogórzyno (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201962]%20Bulgrin&creator=Menzel,%20H.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333830000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -5870,9 +6375,9 @@
     "LText1": "zur Karte ersch. 1913",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1963_(608)_Seegar_geol_1913_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1913",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": " https://ifl.wissensbank.com/qlink/333831000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -5918,13 +6423,13 @@
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1896",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
-    "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1964_(609)_Klannin_geogn-agr_1896_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "Link1": "htzur Karte ersch. 1896tp://maps.mapywig.org/m/German_maps/series/025K_TK25/1964_(609)_Klannin_geogn-agr_1896_UPozn.jpg",
+    "LText2": "zur Karte ersch. 1896",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333833000",
+    "LText3": "Agronomische Bohrungen ersch. 1897",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333834000",
     "LText4": "zur Topographischen Karte ersch. 1891",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/291162000"
@@ -5968,12 +6473,12 @@
     "LText1": "zur Karte ersch. 1896",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1965_(610)_Kurow_geogn-agr_1896_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1896",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333835000",
+    "LText3": "Agronomische Bohrungen ersch. 1897",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333836000",
     "LText4": "zur Topographischen Karte ersch. 1891",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/291170000"
@@ -6017,12 +6522,12 @@
     "LText1": "zur Karte ersch. 1896",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1966_Sydow_geognostisch-agronomische_1896.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1896",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333839000",
+    "LText3": "Agronomische Bohrungen ersch. 1897",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333840000",
     "LText4": "zur Topographischen Karte ersch. 1891",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/291174000"
@@ -6066,12 +6571,12 @@
     "LText1": "zur Karte ersch. 1890",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1989_(634)_Wernegitten_geogn-agr_1890_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1890",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333841000",
+    "LText3": "Agronomische Bohrungen ersch. 1890",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333842000",
     "LText4": "zur Topographischen Karte ersch. 1913",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/291529000"
@@ -6115,12 +6620,12 @@
     "LText1": "zur Karte ersch. 1897",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1990_(635)_Siegfriedswalde_geogn-agr_1897_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1890",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333843000",
+    "LText3": "Agronomische Bohrungen ersch. 1890",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333844000",
     "LText4": "zur Topographischen Karte ersch. 1913",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/291532000"
@@ -6164,9 +6669,9 @@
     "LText1": "zur Karte ersch. 1896",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1991_(636)_Bischofstein_geogn-agr_1896_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1896",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333845000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -6213,12 +6718,12 @@
     "LText1": "zur Karte ersch. 1897",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1992_(637)_Roessel_geogn-agr_1897_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333853000",
+    "LText3": "Agronomische Bohrungen ersch. 1897",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333855000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -6262,12 +6767,12 @@
     "LText1": "zur Karte ersch. 1904",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1993_(638)_Heiligelinde_geogn-agr_1897_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333856000",
+    "LText3": "Agronomische Bohrungen ersch. 1897",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333885000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -6306,11 +6811,11 @@
     "Title": "[Neue Nr. 1994] Rastenburg",
     "Location": "Rastenburg",
     "Subtitle": "Kętrzyn (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201994]%20Rastenburg&creator=Klautzsch,%20A.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1904",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333886000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -6354,15 +6859,15 @@
    "properties": {
     "Title": "[Neue Nr. 1995] Groß-Stürlack",
     "Location": "Groß-Stürlack",
-    "Subtitle": "Sterławki Wielkie (poln.)",
+    "Subtitle": "Gr. Stuerlack, Sterławki Wielkie (poln.)",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1904",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1995_Gr_Stuerlack_geognostisch-agronomische_1904.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1904",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333887000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -6404,11 +6909,11 @@
     "Title": "[Neue Nr. 1996] Lötzen",
     "Location": "Lötzen",
     "Subtitle": "Gizycko (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201996]%20L%C3%B6tzen&creator=Gagel,%20C.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1903",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333889000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -6453,11 +6958,11 @@
     "Title": "[Neue Nr. 1997] Kruglanken",
     "Location": "Kruglanken",
     "Subtitle": "Kruklanki (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201997]%20Kruglanken&creator=Gagel,%20C.",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1903",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333890000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -6507,9 +7012,9 @@
     "LText1": "zur Karte ersch. 1912",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/1998_Orlowen_geognostisch-agronomische_1912.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1912",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333895000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -6551,11 +7056,11 @@
     "Title": "[Neue Nr. 1999] Rogonnen/Czychen",
     "Location": "Rogonnen/Czychen",
     "Subtitle": "Cichy (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%201999]%20Rogonnen/Czychen&creator=Harbort,%20E.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1912",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333899000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -6654,6 +7159,55 @@
     "LText1": "zur Karte ersch. 1915",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-3474",
+    "LText2": "zur Karte ersch. 1939 (Kurau)",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333910000",
+    "LText3": "zur Karte ersch. 1939 (Travemünde)",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333912000",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       13.833,
+       54
+      ],
+      [
+       14,
+       54
+      ],
+      [
+       14,
+       53.9
+      ],
+      [
+       13.833,
+       53.9
+      ],
+      [
+       13.833,
+       54
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2049] Lassan",
+    "Location": "Lassan",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1956",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333913000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -6661,7 +7215,7 @@
     "ML3": "",
     "Link3": "",
     "LText4": "",
-    "ML4": "",
+    "ML4": ")",
     "Link4": ""
    }
   },
@@ -6703,9 +7257,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2050_(681)_Benz_geol_1916.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333914000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -6752,9 +7306,9 @@
     "LText1": "zur Karte ersch. 1914",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2051_(682)_Swinemuende_geol_1914_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1914",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333915000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -7046,9 +7600,9 @@
     "LText1": "zur Karte ersch. 1906",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2058_(689)_Koelpin_geol_1906_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1912",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333921000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -7139,11 +7693,11 @@
     "Title": "[Neue Nr. 2062] Boissin",
     "Location": "Boissin",
     "Subtitle": "Byszyno (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202062]%20Boissin&creator=Schneider,%20O.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333922000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -7188,11 +7742,11 @@
     "Title": "[Neue Nr. 2063] Groß Tychow",
     "Location": "Groß Tychow",
     "Subtitle": "Tychowo (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202063]%20Gro%DF%20Tychow&creator=Finckh,%20L.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333924000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -7236,15 +7790,15 @@
    "properties": {
     "Title": "[Neue Nr. 2064] Voldekow",
     "Location": "Voldekow",
-    "Subtitle": "Wełdkowo (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202064]%20Voldekow&creator=Keilhack,%20K.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Subtitle": "Groß Voldekow, Wełdkowo (poln.)",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1893",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333925000",
+    "LText2": "Agronomische Bohrungen ersch. 1893",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333926000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -7291,9 +7845,9 @@
     "LText1": "zur Karte ersch. 1893",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://doi.org/10.23689/fidgeo-3257",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1893",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333929000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -7334,15 +7888,15 @@
    "properties": {
     "Title": "[Neue Nr. 2066] Groß Karzenburg",
     "Location": "Groß Karzenburg",
-    "Subtitle": "Sępolno Wielkie (poln.)",
+    "Subtitle": "Gr. Carzenburg, Sępolno Wielkie (poln.)",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1893",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2066_Gr_Carzenburg_geognostisch-agronomische_1893.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1893",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333936000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -7433,11 +7987,11 @@
     "Title": "[Neue Nr. 2092] Kabienen/Cabienen",
     "Location": "Kabienen/Cabienen",
     "Subtitle": "Kabiny (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202092]%20Kabienen/Cabienen&creator=Krause,%20P.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1911",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333940000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -7482,11 +8036,11 @@
     "Title": "[Neue Nr. 2093] Giesenau/Seehesten",
     "Location": "Giesenau/Seehesten",
     "Subtitle": "Olsztyn (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202093]%20Giesenau/Seehesten&creator=Klautzsch,%20A.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1911",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333953000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -7547,6 +8101,55 @@
     "Link4": "https://ifl.wissensbank.com/qlink/294362000"
    }
   },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       10.333,
+       53.9
+      ],
+      [
+       10.5,
+       53.9
+      ],
+      [
+       10.5,
+       53.8
+      ],
+      [
+       10.333,
+       53.8
+      ],
+      [
+       10.333,
+       53.9
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2128] Bad Oldesloe",
+    "Location": "Bad Oldesloe",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1935",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333956000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -7585,9 +8188,9 @@
     "LText1": "zur Karte ersch. 1915",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-3476",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1939",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333957000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -7634,6 +8237,55 @@
     "LText1": "zur Karte ersch. 1915",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-3477",
+    "LText2": "zur Karte ersch. 1939",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333960000",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       13.833,
+       53.9
+      ],
+      [
+       14,
+       53.9
+      ],
+      [
+       14,
+       53.8
+      ],
+      [
+       13.833,
+       53.8
+      ],
+      [
+       13.833,
+       53.9
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2149] Usedom",
+    "Location": "Usedom",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1956",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333961000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -7678,11 +8330,11 @@
     "Title": "[Neue Nr. 2150] Zirchow",
     "Location": "Zirchow",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202150]%20Zirchow&creator=Klautzsch,%20A.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1916",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333962000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -7732,9 +8384,9 @@
     "LText1": "zur Karte ersch. 1914",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2151_(768)_Caseburg_geol_1914_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1914",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333963000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -7776,11 +8428,11 @@
     "Title": "[Neue Nr. 2152] Lebbin",
     "Location": "Lebbin",
     "Subtitle": "Lubin (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202152]%20Lebbin&creator=Keilhack,%20K.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1914",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333964000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -7928,12 +8580,12 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2155_(772)_Gueltzow_geogn-agr_1902-1940_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333965000",
+    "LText3": "Agronomische Bohrungen ersch. 1902",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333966000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -7977,12 +8629,12 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2156_(773)_Schwessow_geogn-agr_1902_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333967000",
+    "LText3": "Agronomische Bohrungen ersch. 1902",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333968000",
     "LText4": "zur Topographischen Karte ersch. 1891",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/295139000"
@@ -8026,12 +8678,12 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2157_(774)_Plathe_geogn-agr_1902_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333979000",
+    "LText3": "Agronomische Bohrungen ersch. 1902",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333980000",
     "LText4": "zur Topographischen Karte ersch. 1891",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/295150000"
@@ -8075,9 +8727,9 @@
     "LText1": "zur Karte ersch. 1912",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2158_(775)_Witzmitz_geol_1912-1940_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1912",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333981000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -8124,9 +8776,9 @@
     "LText1": "zur Karte ersch. 1907",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2162_(779)_Wusterbarth_geogn-agr_1907_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1907",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": " https://ifl.wissensbank.com/qlink/333982000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -8173,9 +8825,9 @@
     "LText1": "zur Karte ersch. 1907",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2163_(780)_Gr._Kroessin_geogn-agr_1907_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1907",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333983000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -8217,14 +8869,14 @@
     "Title": "[Neue Nr. 2164] Gramenz",
     "Location": "Gramenz",
     "Subtitle": "Grzmiaca (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202164]%20Gramenz&creator=Keilhack,%20K.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1893",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/333985000",
+    "LText2": "Agronomische Bohrungen ersch. 1893",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333986000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -8271,12 +8923,12 @@
     "LText1": "zur Karte ersch. 1893",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2165_Wurchow_geognostisch-agronomische_1893.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1893",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333987000",
+    "LText3": "Agronomische Bohrungen ersch. 1893",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333997000",
     "LText4": "zur Topographischen Karte ersch. 1877",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/295332000"
@@ -8320,12 +8972,12 @@
     "LText1": "zur Karte ersch. 1893",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2166_Kasimirshof_geognostisch-agronomische_1893.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1893",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/333998000",
+    "LText3": "Agronomische Bohrungen ersch. 1893",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/333999000",
     "LText4": "zur Topographischen Karte ersch. 1877",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/295348000"
@@ -8369,12 +9021,12 @@
     "LText1": "zur Karte ersch. 1889",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2178_(795)_Mewe_geogn-agr_1889_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1889",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334000000",
+    "LText3": "Agronomische Bohrungen ersch. 1889",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334001000",
     "LText4": "zur Topographischen Karte ersch. 1910",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/295445000"
@@ -8413,14 +9065,14 @@
     "Title": "[Neue Nr. 2179] Rehhof",
     "Location": "Rehhof",
     "Subtitle": "Ryjewo (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202179]%20Rehhof&creator=Jentzsch,%20A.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1889",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334002000",
+    "LText2": "Agronomische Bohrungen ersch. 1889",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334003000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -8467,12 +9119,12 @@
     "LText1": "zur Karte ersch. 1895",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2180_(797)_Pestlin_geogn-agr_1895_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1895",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334010000",
+    "LText3": "Agronomische Bohrungen ersch. 1895",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334011000",
     "LText4": "zur Topographischen Karte ersch. 1910",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/295452000"
@@ -8516,12 +9168,12 @@
     "LText1": "zur Karte ersch. 1909",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2181_(798)_Gross-Rohdau_geogn-agr_1895_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1895",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334014000",
+    "LText3": "Agronomische Bohrungen ersch. 1895",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334016000",
     "LText4": "zur Topographischen Karte ersch. 1910",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/295456000"
@@ -8560,11 +9212,60 @@
     "Title": "[Neue Nr. 2190] Wartenburg",
     "Location": "Wartenburg",
     "Subtitle": "Barczewo (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202190]%20Wartenburg&creator=Klautzsch,%20A.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1911",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334019000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       20.833,
+       53.9
+      ],
+      [
+       21,
+       53.9
+      ],
+      [
+       21,
+       53.8
+      ],
+      [
+       20.833,
+       53.8
+      ],
+      [
+       20.833,
+       53.9
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2191] Bischofsburg",
+    "Location": "Bischofsburg",
+    "Subtitle": "Biskupice (poln.)",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1911",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334023000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -8663,9 +9364,9 @@
     "LText1": "zur Karte ersch. 1927",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2193_(810)_Sensburg_geogn-agr_1909_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1909",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334026000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -9066,6 +9767,55 @@
     "Link4": ""
    }
   },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       10.333,
+       53.8
+      ],
+      [
+       10.5,
+       53.8
+      ],
+      [
+       10.5,
+       53.7
+      ],
+      [
+       10.333,
+       53.7
+      ],
+      [
+       10.333,
+       53.8
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2228] Eichede",
+    "Location": "Eichede",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1935",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334087000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -9300,9 +10050,9 @@
     "LText1": "zur Karte ersch. 1900",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2253_(864)_Paulsdorf_geogn-agr_1900_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334150000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -9349,9 +10099,9 @@
     "LText1": "zur Karte ersch. 1900",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2254_(895)_Pribbernow_geogn-agr_1900_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334151000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -9393,14 +10143,14 @@
     "Title": "[Neue Nr. 2255] Moratz",
     "Location": "Moratz",
     "Subtitle": "Moracz (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202255]%20Moratz&creator=Keilhack,%20K.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1902",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334108000",
+    "LText2": "Agronomische Bohrungen ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334152000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -9447,9 +10197,9 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2256_(867)_Zickerke_geogn-agr_1902_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334153000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -9496,9 +10246,9 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2257_(868)_Gr._Sabow_geogn-agr_1902_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334154000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -9589,11 +10339,11 @@
     "Title": "[Neue Nr. 2262] Polzin",
     "Location": "Polzin",
     "Subtitle": "Połczyn Zdrój (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202262]%20Polzin&creator=Schneider,%20O.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1907",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334117000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -9687,14 +10437,14 @@
     "Title": "[Neue Nr. 2264] Bärwalde",
     "Location": "Bärwalde",
     "Subtitle": "Barwice (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202264]%20B%C3%A4rwalde&creator=Keilhack,%20K.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1893",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334122000",
+    "LText2": "Agronomische Bohrungen ersch. 1893",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334155000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -9741,9 +10491,9 @@
     "LText1": "zur Karte ersch. 1893",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2265_Persanzig_geognostisch-agronomische_1893.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrung ersch. 1893",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334156000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -9790,9 +10540,9 @@
     "LText1": "zur Karte ersch. 1893",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2266_Neustettin_geognostisch-agronomische_1893.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1893",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334158000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -9842,9 +10592,9 @@
     "LText2": "zur Karte ersch. 1889",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2278_(889)_Muensterwalde_geogn-agr_1889_UPozn.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "Agronomische Bohrungen ersch. 1889",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334159000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -9888,9 +10638,9 @@
     "LText1": "zur Karte ersch. 1889",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-2087",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1889",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334160000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -9937,9 +10687,9 @@
     "LText1": "zur Karte ersch. 1895",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2280_(891)_Gr._Krebs_geogn-agr_1895_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1895",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334164000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -9986,9 +10736,9 @@
     "LText1": "zur Karte ersch. 1895",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2281_(892)_Riesenburg_geogn-agr_1895_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1895",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334165000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -10035,9 +10785,9 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2290_Gr_Bartelsdorf_geognostisch-agronomische_1902.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334166000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -10084,9 +10834,9 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2291_(902)_Mensguth_geogn-agr_1902_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334167000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -10179,12 +10929,12 @@
     "Subtitle": "Nawiady (poln.)",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1902",
+    "LText1": "zur Karte ersch. 1909",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2293_Aweyden_geognostisch-agronomische_1902.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1909",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334172000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -10732,6 +11482,55 @@
     "Link4": ""
    }
   },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       9.667,
+       53.7
+      ],
+      [
+       9.833,
+       53.7
+      ],
+      [
+       9.833,
+       53.6
+      ],
+      [
+       9.667,
+       53.6
+      ],
+      [
+       9.667,
+       53.7
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2324] Pinneberg",
+    "Location": "Pinneberg",
+    "Subtitle": "",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1915",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334193000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -10779,6 +11578,153 @@
     "LText4": "zur Topographischen Karte ersch. 1937",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/296382000"
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       10,
+       53.7
+      ],
+      [
+       10.167,
+       53.7
+      ],
+      [
+       10.167,
+       53.6
+      ],
+      [
+       10,
+       53.6
+      ],
+      [
+       10,
+       53.7
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2326] Bergstedt",
+    "Location": "Bergstedt",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1912",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://doi.org/10.23689/fidgeo-3500",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       10.167,
+       53.7
+      ],
+      [
+       10.333,
+       53.7
+      ],
+      [
+       10.333,
+       53.6
+      ],
+      [
+       10.167,
+       53.6
+      ],
+      [
+       10.167,
+       53.7
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2327] Ahrensburg",
+    "Location": "Ahrensburg",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1912",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334196000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       10.333,
+       53.7
+      ],
+      [
+       10.5,
+       53.7
+      ],
+      [
+       10.5,
+       53.6
+      ],
+      [
+       10.333,
+       53.6
+      ],
+      [
+       10.333,
+       53.7
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2328] Trittau",
+    "Location": "Trittau",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1935",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334197000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -10868,12 +11814,12 @@
     "LText1": "zur Karte ersch. 1914",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25_west/2330_Moelln_geol.-agr._1914.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1907",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334200000",
+    "LText3": "zur Karte ersch. 1914",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334199000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -10926,6 +11872,55 @@
     "LText4": "zur Topographischen Karte ersch. 1881",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/296415000"
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.167,
+       53.7
+      ],
+      [
+       14.333,
+       53.7
+      ],
+      [
+       14.333,
+       53.6
+      ],
+      [
+       14.167,
+       53.6
+      ],
+      [
+       14.167,
+       53.7
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2351] Rieth",
+    "Location": "Rieth",
+    "Subtitle": "Paulsdorf, Groß Salitz",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1927",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334202000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -11015,12 +12010,12 @@
     "LText1": "zur Karte ersch. 1927",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2353_(961)_Gr._Stepenitz_geogn-agr_1900_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334204000",
+    "LText3": "Agronomische Bohrungen ersch. 1900",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334206000",
     "LText4": "zur Topographischen Karte ersch. 1925",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/296675000"
@@ -11157,11 +12152,11 @@
     "Title": "[Neue Nr. 2356] Naugard",
     "Location": "Naugard",
     "Subtitle": "Nowogard (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202356]%20Naugard&creator=Schmidt,%20M.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1907",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334210000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -11206,11 +12201,11 @@
     "Title": "[Neue Nr. 2357] Farbezin",
     "Location": "Farbezin",
     "Subtitle": "Wierzbięcin (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202357]%20Farbezin&creator=Zeise,%20O.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1907",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334211000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -11459,9 +12454,9 @@
     "LText2": "zur Karte ersch. 1900",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2378_(896)_Neuenburg_geogn-agr_1900_UPozn.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "Agronomische Bohrungen ersch. 1900",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334217000",
     "LText4": "zur Topographischen Karte ersch. 1906",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/297324000"
@@ -11508,9 +12503,9 @@
     "LText2": "zur Karte ersch. 1900",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2379_(987)_Garnsee_geogn-agr_1900_UPozn.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "Agronomische Bohrungen Karte ersch. 1900",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334289000",
     "LText4": "zur Topographischen Karte ersch. 1906",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/297325000"
@@ -11549,14 +12544,14 @@
     "Title": "[Neue Nr. 2380] Niederzehren",
     "Location": "Niederzehren",
     "Subtitle": "Czarne Dolne (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202380]%20Niederzehren&creator=Jentzsch,%20A.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1898",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334302000",
+    "LText2": "Agronomische Bohrungen Karte ersch. 1898",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334305000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -11603,9 +12598,9 @@
     "LText1": "zur Karte ersch. 1898",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2381_(989)_Freystadt_geogn-agr_1898_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1898",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334316000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -11652,9 +12647,9 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2390_Passenheim_geognostisch-agronomische_1902.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334324000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -11701,9 +12696,9 @@
     "LText1": "zur Karte ersch. 1904",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2391_(999)_Gr._Schoendemerau_geogn-agr_1904_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1904",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334347000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -11799,9 +12794,9 @@
     "LText1": "zur Karte ersch. 1904",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2393_Babienten_geognostisch-agronomische_1904.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1904",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334353000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -12055,6 +13050,55 @@
     "Link4": "https://ifl.wissensbank.com/qlink/297518000"
    }
   },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       8.167,
+       53.6
+      ],
+      [
+       8.333,
+       53.6
+      ],
+      [
+       8.333,
+       53.5
+      ],
+      [
+       8.167,
+       53.5
+      ],
+      [
+       8.167,
+       53.6
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2415] Eckwarden",
+    "Location": "Eckwarden",
+    "Subtitle": "Butjadingen West",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1931",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334368000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -12153,6 +13197,55 @@
     "Link4": "https://ifl.wissensbank.com/qlink/297592000"
    }
   },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       9.667,
+       53.6
+      ],
+      [
+       9.833,
+       53.6
+      ],
+      [
+       9.833,
+       53.5
+      ],
+      [
+       9.667,
+       53.5
+      ],
+      [
+       9.667,
+       53.6
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2424] Wedel",
+    "Location": "Wedel",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1915",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334369000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -12189,11 +13282,11 @@
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1915",
-    "ML1": "Deutsches Museum",
-    "Link1": "http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=6173527",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334370000",
+    "LText2": "zur Karte ersch. 1915",
+    "ML2": "Deutsches Museum",
+    "Link2": "http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=6173527",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -12240,15 +13333,64 @@
     "LText1": "zur Karte ersch. 1912",
     "ML1": "Deutsches Museum, München",
     "Link1": "http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=6173528",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1912",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334371000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
     "LText4": "zur Topographischen Karte ersch. 1888",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/297603000"
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       10.167,
+       53.6
+      ],
+      [
+       10.333,
+       53.6
+      ],
+      [
+       10.333,
+       53.5
+      ],
+      [
+       10.167,
+       53.5
+      ],
+      [
+       10.167,
+       53.6
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2427] Glinde",
+    "Location": "Glinde",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1912",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334372000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -12480,14 +13622,14 @@
     "Title": "[Neue Nr. 2453] Pölitz",
     "Location": "Pölitz",
     "Subtitle": "Police (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202453]%20P%C3%B6litz&creator=Keilhack,%20K.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1900",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334377000",
+    "LText2": "Agronomische Bohrungen ersch. 1904",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334400000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -12529,14 +13671,14 @@
     "Title": "[Neue Nr. 2454] Gollnow",
     "Location": "Gollnow",
     "Subtitle": "Goleniów (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202454]%20Gollnow&creator=Keilhack,%20K.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1900",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334401000",
+    "LText2": "Agronomische Bohrungen ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334402000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -12583,9 +13725,9 @@
     "LText1": "zur Karte ersch. 1907",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2455_(1059)_Speck_geogn_agr_1907_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1907",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334403000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -12632,9 +13774,9 @@
     "LText1": "zur Karte ersch. 1906",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2456_(1060)_Eichenwalde_geogn-agr_1906_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1907",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334407000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -12676,11 +13818,11 @@
     "Title": "[Neue Nr. 2457] Daber",
     "Location": "Daber",
     "Subtitle": "Dobra (Łobez) (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202457]%20Daber&creator=Korn,%20J.;%20Stoller,%20J.;%20Zeise,%20O.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1907",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334408000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -12779,9 +13921,9 @@
     "LText1": "zur Karte ersch. 1905",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2473_(1077)_Tuchel_geogn-agr_1905.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1905",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334409000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -12828,9 +13970,9 @@
     "LText1": "zur Karte ersch. 1905",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2474_Lindenbusch_geognostisch-agronomische_1905.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1905",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334412000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -12877,9 +14019,9 @@
     "LText1": "zur Karte ersch. 1908",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2475_(1079)_Dritschmin_geogn-agr_1908_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1908",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334414000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -12926,9 +14068,9 @@
     "LText1": "zur Karte ersch. 1909",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2477_(1081)_Warlubien_geogn-agr_1909_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1909",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334416000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -12975,12 +14117,12 @@
     "LText1": "zur Karte ersch. 1900",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2478_(1082)_Feste_Courbiere_geogn-agr_1900_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334417000",
+    "LText3": "Agronomische Bohrungen ersch. 1900",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334418000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -13024,12 +14166,12 @@
     "LText1": "zur Karte ersch. 1900",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2479_(1083)_Roggenhausen_geogn-agr_1900_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334419000",
+    "LText3": "Agronomische Bohrungen ersch. 1900",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334420000",
     "LText4": "zur Topographischen Karte ersch. 1900",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/297753000"
@@ -13076,9 +14218,9 @@
     "LText2": "zur Karte ersch. 1898",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2480_(1084)_Lessen_geogn-agr_1898_UPozn.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "Agronomische Bohrungen ersch. 1898",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334422000",
     "LText4": "zur Topographischen Karte ersch. 1910",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/297757000"
@@ -13122,12 +14264,12 @@
     "LText1": "zur Karte ersch. 1898",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2481_(1085)_Schwenten_geogn-agr_1898_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1898",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334423000",
+    "LText3": "Agronomische Bohrungen ersch. 1898",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334424000",
     "LText4": "zur Topographischen Karte ersch. 1910",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/297760000"
@@ -13171,12 +14313,12 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2490_(1094)_Jedwabno_geogn-agr_1902_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334426000",
+    "LText3": "Agronomische Bohrungen ersch. 1902",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334427000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -13220,12 +14362,12 @@
     "LText1": "zur Karte ersch. 1904",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2491_(1095)_Ortelsburg_geogn-agr_1904_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1904",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334428000",
+    "LText3": "Agronomische Bohrungen ersch. 1904",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334429000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -13269,12 +14411,12 @@
     "LText1": "zur Karte ersch. 1904",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2492_(1096)_Olschienen_geogn-agr_1904_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1904",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334430000",
+    "LText3": "Agronomische Bohrungen ersch. 1904",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334431000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -13318,12 +14460,12 @@
     "LText1": "zur Karte ersch. 1904",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2493_Schwentainen_geognostisch-agronomische_1904.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1904",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334432000",
+    "LText3": "Agronomische Bohrungen ersch. 1904",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334433000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -13612,15 +14754,64 @@
     "LText1": "zur Karte ersch. 1910",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3766",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1914",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334447000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
     "LText4": "zur Topographischen Karte ersch. 1910",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/317278000"
+   }
+  },
+   {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       10,
+       53.5
+      ],
+      [
+       10.167,
+       53.5
+      ],
+      [
+       10.167,
+       53.4
+      ],
+      [
+       10,
+       53.4
+      ],
+      [
+       10,
+       53.5
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2526] Allermöhe",
+    "Location": "Allermöhe",
+    "Subtitle": "",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1910",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334450000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -13658,9 +14849,9 @@
     "Subtitle": "",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1910",
+    "LText1": "zur Karte ersch. 1912",
     "ML1": "GEO-LEOe-docs",
-    "Link1": "https://doi.org/10.23689/fidgeo-3766",
+    "Link1": "https://doi.org/10.23689/fidgeo-3749",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -13819,6 +15010,55 @@
     "Link4": "https://ifl.wissensbank.com/qlink/298059000"
    }
   },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       13.167,
+       53.5
+      ],
+      [
+       13.333,
+       53.5
+      ],
+      [
+       13.333,
+       53.4
+      ],
+      [
+       13.167,
+       53.4
+      ],
+      [
+       13.167,
+       53.5
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2545] Stargard in Mecklenburg",
+    "Location": "Stargard in Mecklenburg",
+    "Subtitle": "Burg Stargard",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1932",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334496000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -13857,9 +15097,9 @@
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/86633",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1899",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334504000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -13906,9 +15146,9 @@
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/86740",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1899",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334510000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -13955,9 +15195,9 @@
     "LText1": "zur Karte ersch. 1897",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/80948",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334514000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -14004,9 +15244,9 @@
     "LText1": "zur Karte ersch. 1897",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/80861",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334521000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -14053,9 +15293,9 @@
     "LText1": "zur Karte ersch. 1897",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/81068",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334526000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -14097,14 +15337,14 @@
     "Title": "[Neue Nr. 2552] Kreckow",
     "Location": "Kreckow",
     "Subtitle": "Grambow",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202552]%20Kreckow&creator=M%C3%BCller,%20G.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1898",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334527000",
+    "LText2": "Agronomische Bohrungen ersch. 1898",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334528000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -14151,12 +15391,12 @@
     "LText1": "zur Karte ersch. 1898",
     "ML1": "Deutsches Museum, München",
     "Link1": "http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=6173529",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1898",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334530000",
+    "LText3": "Agronomische Bohrungen ersch. 1898",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334531000",
     "LText4": "zur Topographischen Karte ersch. 1903",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/298282000"
@@ -14200,9 +15440,9 @@
     "LText1": "zur Karte ersch. 1898",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://doi.org/10.23689/fidgeo-3231",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1898",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334536000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -14390,7 +15630,7 @@
    "properties": {
     "Title": "[Neue Nr. 2573] Klonowo",
     "Location": "Klonowo",
-    "Subtitle": "Klonowo (poln.)",
+    "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1905",
@@ -14636,14 +15876,14 @@
     "Title": "[Neue Nr. 2578] Graudenz",
     "Location": "Graudenz",
     "Subtitle": "Grudziadz (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202578]%20Graudenz&creator=Jentzsch,%20A.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1901",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334587000",
+    "LText2": "Agronomische Bohrungen ersch. 1901",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334588000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -14690,9 +15930,9 @@
     "LText1": "zur Karte ersch. 1901",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2579_(1175)_Okonin_geogn-agr_1901_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1901",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334594000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -14739,9 +15979,9 @@
     "LText1": "zur Karte ersch. 1901",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2580_(1176)_Linowo_geogn-agr_1901_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1901",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334600000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -14788,9 +16028,9 @@
     "LText1": "zur Karte ersch. 1901",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2581_(1177)_Gr._Plowenz_geogn-agr_1901_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1901",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334603000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -14935,12 +16175,12 @@
     "LText1": "zur Karte ersch. 1896",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2590_(1186)_Malga_geogn-agr_1896_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334604000",
+    "LText3": "Agronomische Bohrungen ersch. 1902",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334605000",
     "LText4": "zur Topographischen Karte ersch. 1911",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/298343000"
@@ -14984,9 +16224,9 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2591_(1187)_Gr._Schiemanen_geogn-agr_1902_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334607000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -15033,9 +16273,9 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2592_(1188)_Lipowietz_geogn-agr_1902_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334609000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -15082,9 +16322,9 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2593_(1189)_Liebenberg_geogn-agr_1902_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334614000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -15183,9 +16423,9 @@
     "LText2": "zur Karte ersch. 1926",
     "ML2": "Deutsches Museum, München",
     "Link2": "http://digital.bib-bvb.de/webclient/DeliveryManager?custom_att_2=simple_viewer&pid=6173530",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1926",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334619000",
     "LText4": "zur Topographischen Karte ersch. 1893",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/298515000"
@@ -15583,6 +16823,104 @@
     "Link4": "https://ifl.wissensbank.com/qlink/298727000"
    }
   },
+   {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       13,
+       53.4
+      ],
+      [
+       13.167,
+       53.4
+      ],
+      [
+       13.167,
+       53.3
+      ],
+      [
+       13,
+       53.3
+      ],
+      [
+       13,
+       53.4
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2644] Neustrelitz",
+    "Location": "Neustrelitz",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1932",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334672000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       13.167,
+       53.4
+      ],
+      [
+       13.333,
+       53.4
+      ],
+      [
+       13.333,
+       53.3
+      ],
+      [
+       13.167,
+       53.3
+      ],
+      [
+       13.167,
+       53.4
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2645] Thurow",
+    "Location": "Thurow",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1932",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334676000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -15670,9 +17008,9 @@
     "LText1": "zur Karte ersch. 1893",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/106433",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1893",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334709000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -15719,12 +17057,12 @@
     "LText1": "zur Karte ersch. 1898",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/81795",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1893",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334717000",
+    "LText3": "Agronomische Bohrungen ersch. 1893",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334718000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -15768,9 +17106,9 @@
     "LText1": "zur Karte ersch. 1897",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/81157",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334720000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -15817,9 +17155,9 @@
     "LText1": "zur Karte ersch. 1897",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/81255",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334722000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -15866,9 +17204,9 @@
     "LText1": "zur Karte ersch. 1897",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/81345",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334724000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -15915,9 +17253,9 @@
     "LText1": "zur Karte ersch. 1898",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/81702",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1898",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334726000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -15964,12 +17302,12 @@
     "LText1": "zur Karte ersch. 1921",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2653_(1240)_Podejuch_geol_1921_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1898",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334975000",
+    "LText3": "Agronomische Bohrungen ersch. 1898",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/334980000",
     "LText4": "zur Topographischen Karte ersch. 1936",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/298812000"
@@ -16008,14 +17346,14 @@
     "Title": "[Neue Nr. 2654] Alt-Damm",
     "Location": "Alt-Damm",
     "Subtitle": "Dąbie (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202654]%20Alt-Damm&creator=Wahnschaffe,%20F.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1898",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334981000",
+    "LText2": "Agronomische Bohrungen ersch. 1898",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334982000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -16057,11 +17395,11 @@
     "Title": "[Neue Nr. 2655] Kublank",
     "Location": "Kublank",
     "Subtitle": "Kobylanka (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202655]%20Kublank&creator=Korn,%20J.;%20Wunstorf,%20W.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1909",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334997000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -16106,11 +17444,11 @@
     "Title": "[Neue Nr. 2656] Stargard in Pommern",
     "Location": "Stargard in Pommern",
     "Subtitle": "Stargard Szczeciński",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202656]%20Stargard%20in%20Pommern&creator=Korn,%20J.",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1909",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/334998000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -16160,9 +17498,9 @@
     "LText1": "zur Karte ersch. 1921",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2657_(1244)_Marienfliess_geog-agr_1909_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1909",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/334999000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -16206,7 +17544,7 @@
     "Subtitle": "Serock (poln.)",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1909",
+    "LText1": "zur Karte ersch. 1908",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2674_(1261)_Schirotzken_geogn-agr_1908_UPozn.jpg",
     "LText2": "",
@@ -16454,9 +17792,9 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2690_(1277)_Reuschwerder_geogn-agr_1902_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335005000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -16503,9 +17841,9 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2691_(1278)_Willenberg-Opalenietz_(Nord)_geogn-agr_1902_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335020000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -16552,9 +17890,9 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2692_(1279)_Gr._Leschienen_geogn-agr_1902_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335041000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -16745,15 +18083,15 @@
     "Subtitle": "",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1912",
+    "LText1": "zur Karte ersch. 1921",
     "ML1": "GEO-LEOe-docs",
-    "Link1": "http://dx.doi.org/10.23689/fidgeo-2125",
-    "LText2": "zur Karte ersch. 1921",
+    "Link1": "http://resolver.sub.uni-goettingen.de/purl?gldocs-11858/6393",
+    "LText2": "zur Karte ersch. 1912",
     "ML2": "GEO-LEOe-docs",
-    "Link2": "http://resolver.sub.uni-goettingen.de/purl?gldocs-11858/6393",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "Link2": "http://dx.doi.org/10.23689/fidgeo-2125",
+    "LText3": "zur Karte ersch. 1904",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/335053000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -16988,11 +18326,60 @@
     "Title": "[Neue Nr. 2742] Mirow",
     "Location": "Mirow",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202742]%20Mirow&creator=Gagel,%20C.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1917",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335085000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       13,
+       53.3
+      ],
+      [
+       13.167,
+       53.3
+      ],
+      [
+       13.167,
+       53.2
+      ],
+      [
+       13,
+       53.2
+      ],
+      [
+       13,
+       53.3
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2744] Ahrensberg",
+    "Location": "Ahrensberg",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1906",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335086000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -17140,9 +18527,9 @@
     "LText1": "zur Karte ersch. 1893",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/95282",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1893",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335090000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -17189,12 +18576,12 @@
     "LText1": "zur Karte ersch. 1889",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/85035",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1893",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335107000",
+    "LText3": "Agronomische Bohrungen ersch. 1893",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/335109000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -17238,9 +18625,9 @@
     "LText1": "zur Karte ersch. 1897",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/81437",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335114000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -17287,9 +18674,9 @@
     "LText1": "zur Karte ersch. 1897",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/81521",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335118000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -17339,9 +18726,9 @@
     "LText2": "zur Karte ersch. 1897",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2751_(1323)_Pencun_geogn-agr_1897.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "Agronomische Bohrungen ersch. 1897",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/335093000",
     "LText4": "zur Topographischen Karte ersch. 1888",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/299729000"
@@ -17385,9 +18772,9 @@
     "LText1": "zur Karte ersch. 1898",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/88606",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1898",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335095000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -17434,9 +18821,9 @@
     "LText1": "zur Karte ersch. 1898",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2753_(1325)_Woltin_geogn-agr_1898_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1898",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335098000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -17483,9 +18870,9 @@
     "LText1": "zur Karte ersch. 1900",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2754_(1326)_Neumark_geog-agr_1900_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335104000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -17529,7 +18916,7 @@
     "Subtitle": "Wierzbno (poln.)",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1908",
+    "LText1": "zur Karte ersch. 1910",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2755_(1327)_Werben_in_Pommern_geol_1908_600dpi_UPozn.jpg",
     "LText2": "",
@@ -17576,11 +18963,11 @@
     "Title": "[Neue Nr. 2756] Kollin",
     "Location": "Kollin",
     "Subtitle": "Kolin (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202756]%20Kollin&creator=Soenderop,%20F.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1910",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335124000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -17826,12 +19213,12 @@
     "LText1": "zur Karte ersch. 1932",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2791_(1361)_Willenberg-Opalenietz_(Sued)_geogn-agr_1902_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335130000",
+    "LText3": "Agronomische Bohrungen ersch. 1902",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/335131000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -18022,15 +19409,64 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Univ. Bremen",
     "Link1": "http://gauss.suub.uni-bremen.de/suub/hist/index.jsp?id=Kt.+I-170",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1931",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335188000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
     "LText4": "zur Topographischen Karte ersch. 1900",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/300052000"
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       8.667,
+       53.2
+      ],
+      [
+       8.833,
+       53.2
+      ],
+      [
+       8.833,
+       53.1
+      ],
+      [
+       8.667,
+       53.1
+      ],
+      [
+       8.667,
+       53.2
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2818] Lesum",
+    "Location": "Lesum",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1931",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335189000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -18080,6 +19516,55 @@
     "LText4": "zur Topographischen Karte ersch. 1937",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/300060000"
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       10.333,
+       53.2
+      ],
+      [
+       10.5,
+       53.2
+      ],
+      [
+       10.5,
+       53.1
+      ],
+      [
+       10.333,
+       53.1
+      ],
+      [
+       10.333,
+       53.2
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2828] Bienenbüttel",
+    "Location": "Bienenbüttel",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1910",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335191000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -18316,9 +19801,9 @@
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/86277",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1899",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335197000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -18659,9 +20144,9 @@
     "LText1": "zur Karte ersch. 1893",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/95356",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1893",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335206000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -18708,9 +20193,9 @@
     "LText1": "zur Karte ersch. 1893",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/95444",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1893",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335212000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -18757,9 +20242,9 @@
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/86884",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1899",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335217000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -18809,9 +20294,9 @@
     "LText2": "zur Karte ersch. 1899",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2850_(1403)_Passow_geogn-agr_1899.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "Agronomische Bohrungen ersch. 1899",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/335232000",
     "LText4": "zur Topographischen Karte ersch. 1890",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/300296000"
@@ -18858,9 +20343,9 @@
     "LText2": "zur Karte ersch. 1899",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2851_(1404)_Cunow_geogn-agr_1899.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "Agronomische Bohrungen ersch. 1899",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/335237000",
     "LText4": "zur Topographischen Karte ersch. 1890",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/300297000"
@@ -18904,9 +20389,9 @@
     "LText1": "zur Karte ersch. 1898",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/88704",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1898",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335248000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -18953,9 +20438,9 @@
     "LText1": "zur Karte ersch. 1898",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2853_(1406)_Bahn_gegn-agr_1898_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1898",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335252000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -19002,9 +20487,9 @@
     "LText1": "zur Karte ersch. 1900",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2854_(1407)_Schwochow_geogn-agr_1900_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335273000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -19046,11 +20531,11 @@
     "Title": "[Neue Nr. 2855] Pyritz",
     "Location": "Pyritz",
     "Subtitle": "Pyrzyce (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202855]%20Pyritz&creator=Soenderop,%20F.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1910",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335274000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -19095,11 +20580,11 @@
     "Title": "[Neue Nr. 2856] Prillwitz",
     "Location": "Prillwitz",
     "Subtitle": "Przelewice (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202856]%20Prillwitz&creator=Soenderop,%20F.",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1910",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335276000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -19209,6 +20694,55 @@
     "Link4": "https://ifl.wissensbank.com/qlink/300344000"
    }
   },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       18.833,
+       53.2
+      ],
+      [
+       19,
+       53.2
+      ],
+      [
+       19,
+       53.1
+      ],
+      [
+       18.833,
+       53.1
+      ],
+      [
+       18.833,
+       53.2
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 2879] Schönsee mit Schewen",
+    "Location": "Schönsee mit Schewen",
+    "Subtitle": "Kowalewo Pomorskie (poln.)",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1909",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335277000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -19242,11 +20776,11 @@
     "Title": "[Neue Nr. 2880] Gollub",
     "Location": "Gollub",
     "Subtitle": "Golub Dobrzyń (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202880]%20Gollub&creator=Jentzsch,%20A.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1909",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335279000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -19296,9 +20830,9 @@
     "LText1": "zur Karte ersch. 1931",
     "ML1": "Univ. Bremen",
     "Link1": "http://gauss.suub.uni-bremen.de/suub/hist/index.jsp?id=Kt.+I-176",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1931",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335281000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -19345,9 +20879,9 @@
     "LText1": "zur Karte ersch. 1931",
     "ML1": "Univ. Bremen",
     "Link1": "http://gauss.suub.uni-bremen.de/suub/hist/index.jsp?id=Kt.+I-177",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1931",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335286000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -19737,9 +21271,9 @@
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/85867",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1899",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335308000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -20080,9 +21614,9 @@
     "LText1": "zur Karte ersch. 1893",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/106487",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1893",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335327000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -20129,9 +21663,9 @@
     "LText1": "zur Karte ersch. 1893",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/95517",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1893",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335335000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -20178,9 +21712,9 @@
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/105895",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1899",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335343000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -20227,12 +21761,12 @@
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/53610",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1936",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335344000",
+    "LText3": "Agronomische Bohrungen ersch. 1899",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/335346000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -20276,15 +21810,18 @@
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/53659",
-    "LText2": "zur Karte ersch. 1938",
+    "LText2": "zur Karte ersch. 1936",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/2951_(1484)_Schwedt_geol_1938_UPozn.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
-    "LText4": "zur Topographischen Karte ersch. 1889",
+    "LText3": "zur Karte ersch. 1936",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/335356000",
+    "LText4": "Agronomische Bohrungen ersch. 1899",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
-    "Link4": "https://ifl.wissensbank.com/qlink/300813000"
+    "Link4": "https://ifl.wissensbank.com/qlink/335355000",
+    "LText5": "zur Topographischen Karte ersch. 1889",
+    "ML5": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link5": "https://ifl.wissensbank.com/qlink/300813000"
    }
   },
   {
@@ -20325,9 +21862,9 @@
     "LText1": "zur Karte ersch. 1900",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/pageview/88339",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335360000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -20369,14 +21906,14 @@
     "Title": "[Neue Nr. 2953] Wildenbruch",
     "Location": "Wildenbruch",
     "Subtitle": "Swobnica (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202953]%20Wildenbruch&creator=Gagel,%20C.;%20Michael,%20R.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1900",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335363000",
+    "LText2": "Agronomische Bohrungen ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335364000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -20423,9 +21960,9 @@
     "LText1": "zur Karte ersch. 1900",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/pageview/88603",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335368000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -20472,9 +22009,9 @@
     "LText1": "zur Karte ersch. 1901",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/pageview/99867",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1901",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335370000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -20521,9 +22058,9 @@
     "LText1": "zur Karte ersch. 1901",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/pageview/99988",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1901",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335374000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -20570,9 +22107,9 @@
     "LText1": "zur Karte ersch. 1901",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/pageview/90329",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1901",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335378000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -20614,11 +22151,109 @@
     "Title": "[Neue Nr. 2979] Schewen",
     "Location": "Schewen",
     "Subtitle": "Preußisch Lanke",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%202979]%20Schewen&creator=Maas,%20G.;%20Soenderop,%20F.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1909",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335379000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       10.167,
+       53
+      ],
+      [
+       10.333,
+       53
+      ],
+      [
+       10.333,
+       52.9
+      ],
+      [
+       10.167,
+       52.9
+      ],
+      [
+       10.167,
+       53
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3027] Eimke",
+    "Location": "Eimke",
+    "Subtitle": "Faßberg",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335441000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.667,
+       53
+      ],
+      [
+       11.833,
+       53
+      ],
+      [
+       11.833,
+       52.9
+      ],
+      [
+       11.667,
+       52.9
+      ],
+      [
+       11.667,
+       53
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3036] Wittenberge",
+    "Location": "Wittenberge",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1963",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335442000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -20668,9 +22303,9 @@
     "LText1": "zur Karte ersch. 1895",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/85427",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1895",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335446000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -20717,9 +22352,9 @@
     "LText1": "zur Karte ersch. 1895",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/85534",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1895",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335448000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -20766,9 +22401,9 @@
     "LText1": "zur Karte ersch. 1895",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/85692",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1895",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335451000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -20815,9 +22450,9 @@
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/85934",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1899",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335454000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -20864,9 +22499,9 @@
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/86045",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1899",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335456000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -20913,9 +22548,9 @@
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/86171",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1899",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335458000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -21109,9 +22744,9 @@
     "LText1": "zur Karte ersch. 1891",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/95608",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1891",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335460000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -21158,9 +22793,9 @@
     "LText1": "zur Karte ersch. 1891",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/95685",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1891",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335462000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -21207,9 +22842,9 @@
     "LText1": "zur Karte ersch. 1891",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/95760",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1891",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335464000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -21259,9 +22894,9 @@
     "LText2": "zur Karte ersch. 1914",
     "ML2": "Univ. Potsdam",
     "Link2": "https://digital.ub.uni-potsdam.de/content/titleinfo/95040",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "Agronomische Bohrungen ersch. 1899",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/335479000",
     "LText4": "zur Topographischen Karte ersch. 1889",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/302260000"
@@ -21305,9 +22940,9 @@
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/87903",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1899",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335481000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -21354,9 +22989,9 @@
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/pageview/88001",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1899",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335483000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -21406,12 +23041,12 @@
     "LText2": "zur Karte ersch. 1936",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/3052_(1558)_Koenigsberg_(in_der_Neumark)_geol_1936_UPozn.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
-    "LText4": "",
-    "ML4": "",
-    "Link4": ""
+    "LText3": "zur Karte ersch. 1902",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/335485000",
+    "LText4": "Agronomische Bohrungen ersch. 1902",
+    "ML4": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link4": "https://ifl.wissensbank.com/qlink/335486000"
    }
   },
   {
@@ -21447,14 +23082,14 @@
     "Title": "[Neue Nr. 3053] Schönfliess",
     "Location": "Schönfliess",
     "Subtitle": "Trzcińsko Zdrój (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203053]%20Sch%C3%B6nfliess&creator=Krusch,%20P.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1902",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335487000",
+    "LText2": "Agronomische Bohrungen ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335488000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -21501,9 +23136,9 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/3054_(1560)_Schildberg_geogn-agr_1902_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335490000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -21545,14 +23180,14 @@
     "Title": "[Neue Nr. 3055] Soldin",
     "Location": "Soldin",
     "Subtitle": "Myślibórz (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203055]%20Soldin&creator=Schroeder,%20H.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1901",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335491000",
+    "LText2": "Agronomische Bohrungen ersch. 1901",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335492000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -21594,11 +23229,11 @@
     "Title": "[Neue Nr. 3062] Eichberg",
     "Location": "Eichberg",
     "Subtitle": "Dębogóra (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203062]%20Eichberg&creator=Korn,%20J.",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1917",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335493000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -21841,7 +23476,7 @@
     "Subtitle": "Chodziez (poln.)",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1913",
+    "LText1": "zur Karte ersch. 1911",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/3067_Kolmar_in_Posen_geol_1913_UPozn.jpg",
     "LText2": "",
@@ -22002,6 +23637,55 @@
     "Link4": ""
    }
   },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.667,
+       52.9
+      ],
+      [
+       11.833,
+       52.9
+      ],
+      [
+       11.833,
+       52.8
+      ],
+      [
+       11.667,
+       52.8
+      ],
+      [
+       11.667,
+       52.9
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3136] Seehausen",
+    "Location": "Seehausen",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1963",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335756000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -22040,9 +23724,9 @@
     "LText1": "zur Karte ersch. 1895",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/85322",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1895",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335767000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -22089,9 +23773,9 @@
     "LText1": "zur Karte ersch. 1895",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/85253",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1895",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335774000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -22138,9 +23822,9 @@
     "LText1": "zur Karte ersch. 1895",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/85094",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1895",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335776000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -22187,9 +23871,9 @@
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/85990",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1899",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335778000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -22236,9 +23920,9 @@
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/86106",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1899",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335780000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -22285,9 +23969,9 @@
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/86222",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1899",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335782000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -22481,9 +24165,9 @@
     "LText1": "zur Karte ersch. 1891",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/95845",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1891",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335784000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -22530,9 +24214,9 @@
     "LText1": "zur Karte ersch. 1891",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/95911",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1891",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335786000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -22579,9 +24263,9 @@
     "LText1": "zur Karte ersch. 1891",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/95986",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1891",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335794000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -22628,9 +24312,9 @@
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/88105",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1899",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335796000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -22677,9 +24361,9 @@
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/88235",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1899",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335799000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -22770,14 +24454,14 @@
     "Title": "[Neue Nr. 3152] Mohrin",
     "Location": "Mohrin",
     "Subtitle": "Moryń (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203152]%20Mohrin&creator=Schr%C3%B6der,%20H.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1902",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335807000",
+    "LText2": "Agronomische Bohrungen ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335808000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -22827,9 +24511,9 @@
     "LText2": "zur Karte ersch. 1902",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/3153_(1630)_Wartenberg_geogn-agr_1902_UPozn.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "Agronomische Bohrungen ersch. 1902",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/335810000",
     "LText4": "zur Topographischen Karte ersch. 1904",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/317337000"
@@ -22876,9 +24560,9 @@
     "LText2": "zur Karte ersch. 1902",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/3154_(1631)_Rosenthal_(In_der_Mark)_geogn-agr_1902_UPozn.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "Agronomische Bohrungen ersch. 1902",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/335812000",
     "LText4": "zur Topographischen Karte ersch. 1893",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/302938000"
@@ -22922,9 +24606,9 @@
     "LText1": "zur Karte ersch. 1901",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/3155_(1632)_Staffelde_geogn-agr_1901_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1901",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335814000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -23015,11 +24699,11 @@
     "Title": "[Neue Nr. 3163] Filehne",
     "Location": "Filehne",
     "Subtitle": "Wieleń (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203163]%20Filehne&creator=Korn,%20J.",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1917",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335816000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -23276,6 +24960,55 @@
     "Link4": "https://ifl.wissensbank.com/qlink/303063000"
    }
   },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       7,
+       52.8
+      ],
+      [
+       7.167,
+       52.8
+      ],
+      [
+       7.167,
+       52.7
+      ],
+      [
+       7,
+       52.7
+      ],
+      [
+       7,
+       52.8
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3208] Hebelermeer",
+    "Location": "Hebelermeer",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1907",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335840000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -23430,6 +25163,55 @@
     "coordinates": [
      [
       [
+       11.667,
+       52.8
+      ],
+      [
+       11.833,
+       52.8
+      ],
+      [
+       11.833,
+       52.7
+      ],
+      [
+       11.667,
+       52.7
+      ],
+      [
+       11.667,
+       52.8
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3236] Osterburg",
+    "Location": "Osterburg",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1963",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335852000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
        11.833,
        52.8
       ],
@@ -23456,14 +25238,14 @@
     "Title": "[Neue Nr. 3237] Hindenburg",
     "Location": "Hindenburg",
     "Subtitle": "Goldbeck",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203237]%20Hindenburg&creator=Scholz,%20M.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1884",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/335853000",
+    "LText2": "Agronomische Bohrungen ersch. 1884",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335854000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -23510,9 +25292,9 @@
     "LText1": "zur Karte ersch. 1884",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/81854",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1883",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335859000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -23559,9 +25341,9 @@
     "LText1": "zur Karte ersch. 1884",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/81912",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1884",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335864000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -23608,9 +25390,9 @@
     "LText1": "zur Karte ersch. 1886",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/82521",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1886",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335874000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -23657,9 +25439,9 @@
     "LText1": "zur Karte ersch. 1880",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/82602",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1885",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335881000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -23706,9 +25488,9 @@
     "LText1": "zur Karte ersch. 1880",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/82663",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1885",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335891000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -23902,9 +25684,9 @@
     "LText1": "zur Karte ersch. 1882",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/78536",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1882",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335909000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -23951,9 +25733,9 @@
     "LText1": "zur Karte ersch. 1882",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/78760",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1882",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335914000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -24000,9 +25782,9 @@
     "LText1": "zur Karte ersch. 1882",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/52109",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1882",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335925000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -24196,9 +25978,9 @@
     "LText1": "zur Karte ersch. 1908",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/89315",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1908",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335963000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -24245,9 +26027,9 @@
     "LText1": "zur Karte ersch. 1908",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/99329",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1908",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335976000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -24294,9 +26076,9 @@
     "LText1": "zur Karte ersch. 1908",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/pageview/99665",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1908",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/335983000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -24585,7 +26367,7 @@
     "Subtitle": "Gościejewo (poln.)",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1916",
+    "LText1": "zur Karte ersch. 1915",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/3267_(1714)_Buelowsthal_geol_1916_UPozn.jpg",
     "LText2": "",
@@ -25023,15 +26805,15 @@
    "properties": {
     "Title": "[Neue Nr. 3334] Calbe a. M.:",
     "Location": "Calbe a. M.:",
-    "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203334]%20Calbe%20a.%20M.:&creator=Scholz,%20M.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Subtitle": "Calbe an der Milde, Kalbe an der Milde",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1880",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/338504000",
+    "LText2": "Agronomische Bohrungen ersch. 1880",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338507000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -25073,14 +26855,14 @@
     "Title": "[Neue Nr. 3335] Bismark",
     "Location": "Bismark",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203335]%20Bismark&creator=Berendt,%20G.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1878",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/338512000",
+    "LText2": "Agronomische Bohrungen ersch. 1878",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338517000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -25122,14 +26904,14 @@
     "Title": "[Neue Nr. 3336] Schinne",
     "Location": "Schinne",
     "Subtitle": "Groß Schwechtau",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203336]%20Schinne&creator=Berendt,%20G.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1878",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/338518000",
+    "LText2": "Agronomische Bohrungen ersch. 1879",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338522000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -25171,14 +26953,14 @@
     "Title": "[Neue Nr. 3337] Stendal",
     "Location": "Stendal",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203337]%20Stendal&creator=Scholz,%20M.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1883",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/338526000",
+    "LText2": "Agronomische Bohrungen ersch. 1883",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338531000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -25225,9 +27007,9 @@
     "LText1": "zur Karte ersch. 1882",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/pageview/82016",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1882",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338535000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -25274,9 +27056,9 @@
     "LText1": "zur Karte ersch. 1883",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/82018",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1883",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338548000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -25323,9 +27105,9 @@
     "LText1": "zur Karte ersch. 1880",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/107128",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1880",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338552000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -25372,9 +27154,9 @@
     "LText1": "zur Karte ersch. 1880",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/107211",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1880",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338559000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -25421,9 +27203,9 @@
     "LText1": "zur Karte ersch. 1888",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/pageview/247309",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "https://digital.ub.uni-potsdam.de/content/titleinfo/247248",
+    "LText2": "Agronomische Bohrungen ersch. 1884",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338565000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -25568,9 +27350,9 @@
     "LText1": "zur Karte ersch. 1938",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/79218",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1875",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338584000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -25617,12 +27399,12 @@
     "LText1": "zur Karte ersch. 1937",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/52267",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1882",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338588000",
+    "LText3": "Agronomische Bohrungen ersch. 1882",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/338590000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -25666,9 +27448,9 @@
     "LText1": "zur Karte ersch. 1882",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/78896",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1881",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338601000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -25715,12 +27497,12 @@
     "LText1": "zur Karte ersch. 1895",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/78977",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1895",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338602000",
+    "LText3": "Agronomische Bohrungen ersch. 1882",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/338605000",
     "LText4": "zur Topographischen Karte ersch. 1903",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/304216000"
@@ -25764,9 +27546,9 @@
     "LText1": "zur Karte ersch. 1895",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/86488",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1895",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338617000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -25810,12 +27592,12 @@
     "Subtitle": "Reichenow",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1908",
+    "LText1": "zur Karte ersch. 1895",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/99265",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1895",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338624000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -25911,9 +27693,9 @@
     "LText1": "zur Karte ersch. 1908",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/108023",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1908",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338627000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -25960,9 +27742,9 @@
     "LText1": "zur Karte ersch. 1908",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/89166",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1908",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338636000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -26006,12 +27788,12 @@
     "Subtitle": "Dąbroszyn (poln.)",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1905",
+    "LText1": "zur Karte ersch. 1908",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/pageview/89163",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1908",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338662000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -26104,12 +27886,12 @@
     "Subtitle": "Kołczyn (poln.)",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1889",
+    "LText1": "zur Karte ersch. 1905",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/pageview/91254",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1905",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338667000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -26216,6 +27998,55 @@
     "Link4": "https://ifl.wissensbank.com/qlink/317390000"
    }
   },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       16.667,
+       52.7
+      ],
+      [
+       16.833,
+       52.7
+      ],
+      [
+       16.833,
+       52.6
+      ],
+      [
+       16.667,
+       52.6
+      ],
+      [
+       16.667,
+       52.7
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3366] Obornik",
+    "Location": "Obornik",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1900",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/338675000",
+    "LText2": "Agronomische Bohrungen ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338677000",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -26249,14 +28080,14 @@
     "Title": "[Neue Nr. 3367] Lukowo",
     "Location": "Lukowo",
     "Subtitle": "Łukowo (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203367]%20Lukowo&creator=Wahnschaffe,%20F.;%20K%C3%BChn,%20B.;%20Korn,%20J.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1900",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/338679000",
+    "LText2": "Agronomische Bohrungen ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338683000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -26298,14 +28129,14 @@
     "Title": "[Neue Nr. 3368] Schocken",
     "Location": "Schocken",
     "Subtitle": "Skoki (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203368]%20Schocken&creator=K%C3%BChn,%20B.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1900",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/338691000",
+    "LText2": "Agronomische Bohrungen ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338692000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -26641,11 +28472,11 @@
     "Title": "[Neue Nr. 3432] Kunrau",
     "Location": "Kunrau",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203432]%20Kunrau&creator=Barsch,%20O.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1916",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/338702000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -26690,11 +28521,11 @@
     "Title": "[Neue Nr. 3433] Solpke",
     "Location": "Solpke",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203433]%20Solpke&creator=Barsch,%20O.",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1916",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/338704000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -26738,15 +28569,14 @@
    "properties": {
     "Title": "[Neue Nr. 3434] Gardelegen",
     "Location": "Gardelegen",
-    "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203434]%20Gardelegen&creator=Scholz,%20M.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1883",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/338705000",
+    "LText2": "Agronomische Bohrungen ersch. 1883",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338707000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -26788,14 +28618,14 @@
     "Title": "[Neue Nr. 3435] Klinke",
     "Location": "Klinke",
     "Subtitle": "Uchtspringe, Lindstedt (Klinke)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203435]%20Klinke&creator=Scholz,%20M.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1881",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/338709000",
+    "LText2": "Agronomische Bohrungen ersch. 1881",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338711000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -26837,14 +28667,14 @@
     "Title": "[Neue Nr. 3436] Lüderitz",
     "Location": "Lüderitz",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203436]%20L%C3%BCderitz&creator=Gruner,%20H.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1881",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/338715000",
+    "LText2": "Agronomische Bohrungen ersch. 1881",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338719000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -26886,14 +28716,14 @@
     "Title": "[Neue Nr. 3437] Tangermünde",
     "Location": "Tangermünde",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203437]%20Tangerm%C3%BCnde&creator=Gruner,%20H.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1904",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/338724000",
+    "LText2": "Agronomische Bohrungen ersch. 1904",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338726000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -26940,9 +28770,9 @@
     "LText1": "zur Karte ersch. 1889",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/84637",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1889",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338793000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -26986,15 +28816,15 @@
     "Subtitle": "Milow",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1880",
+    "LText1": "zur Karte ersch. 1889",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/84766",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1889",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338795000",
+    "LText3": "Agronomische Bohrungen ersch. 1889",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/338796000",
     "LText4": "zur Topographischen Karte ersch. 1882",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/304850000"
@@ -27038,9 +28868,9 @@
     "LText1": "zur Karte ersch. 1880",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/82793",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1880",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338803000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -27087,9 +28917,9 @@
     "LText1": "zur Karte ersch. 1880",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/82854",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1880",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338812000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -27133,12 +28963,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1875",
+    "LText1": "zur Karte ersch. 1880",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/82927",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1880",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338814000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -27234,9 +29064,9 @@
     "LText1": "zur Karte ersch. 1910",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/83036",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1875",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338828000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -27335,9 +29165,9 @@
     "LText2": "zur Karte ersch. 1937",
     "ML2": "Univ. Potsdam",
     "Link2": "https://digital.ub.uni-potsdam.de/content/titleinfo/57857",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "Agronomische Bohrungen ersch. 1882",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/338842000",
     "LText4": "zur Topographischen Karte ersch. 1936",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/304899000"
@@ -27384,9 +29214,9 @@
     "LText2": "zur Karte ersch. 1937",
     "ML2": "Univ. Potsdam",
     "Link2": "https://digital.ub.uni-potsdam.de/content/titleinfo/52309",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "Agronomische Bohrungen ersch. 1882",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/338850000",
     "LText4": "zur Topographischen Karte ersch. 1903",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/304900000"
@@ -27430,9 +29260,9 @@
     "LText1": "zur Karte ersch. 1882",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/78464",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen zu Sect. Alt-Landsberg (1882)",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338862000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -27479,9 +29309,9 @@
     "LText1": "zur Karte ersch. 1895",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/86434",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1895",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338883000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -27528,9 +29358,9 @@
     "LText1": "zur Karte ersch. 1895",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/86355",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1895",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338894000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -27626,9 +29456,9 @@
     "LText1": "zur Karte ersch. 1929",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/90630",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1903",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338897000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -28013,14 +29843,14 @@
     "Title": "[Neue Nr. 3466] Wargowo",
     "Location": "Wargowo",
     "Subtitle": "Wargowo (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203466]%20Wargowo&creator=Wahnschaffe,%20F.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1898",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/338916000",
+    "LText2": "Agronomische Bohrungen ersch. 1898",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338921000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -28062,14 +29892,14 @@
     "Title": "[Neue Nr. 3467] Owinsk",
     "Location": "Owinsk",
     "Subtitle": "Owińska (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203467]%20Owinsk&creator=Wahnschaffe,%20F.;%20K%C3%BChn,%20B.;%20Maas,%20G.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1898",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/338922000",
+    "LText2": "Agronomische Bohrungen ersch. 1898",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338924000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -28111,14 +29941,14 @@
     "Title": "[Neue Nr. 3468] Murowana-Goslin",
     "Location": "Murowana-Goslin",
     "Subtitle": "Murowana Goslina (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203468]%20Murowana-Goslin&creator=K%C3%BChn,%20B.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1900",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/338925000",
+    "LText2": "Agronomische Bohrungen ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338928000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -28470,7 +30300,7 @@
     "Link4": "https://ifl.wissensbank.com/qlink/305266000"
    }
   },
-  {
+   {
    "type": "Feature",
    "geometry": {
     "type": "Polygon",
@@ -28511,6 +30341,104 @@
     "LText2": "",
     "ML2": "",
     "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.167,
+       52.5
+      ],
+      [
+       11.333,
+       52.5
+      ],
+      [
+       11.333,
+       52.4
+      ],
+      [
+       11.167,
+       52.4
+      ],
+      [
+       11.167,
+       52.5
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3533] Mieste",
+    "Location": "Mieste",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1907",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/338989000",
+    "LText2": "Agronomische Bohrungen ersch. 1907",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338990000",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.333,
+       52.5
+      ],
+      [
+       11.5,
+       52.5
+      ],
+      [
+       11.5,
+       52.4
+      ],
+      [
+       11.333,
+       52.4
+      ],
+      [
+       11.333,
+       52.5
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3534] Letzlingen",
+    "Location": "Letzlingen",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1907",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/338991000",
+    "LText2": "Agronomische Bohrungen ersch. 1907",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338992000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -28606,9 +30534,9 @@
     "LText1": "zur Karte ersch. 1889",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3808",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1889",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/338998000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -28650,20 +30578,69 @@
     "Title": "[Neue Nr. 3537] Weissewarthe",
     "Location": "Weissewarthe",
     "Subtitle": "Grieben",
-    "Layer": "GK25 / GEO-LEOe-docs",
+    "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1889",
-    "ML1": "GEO-LEOe-docs",
-    "Link1": "https://doi.org/10.23689/fidgeo-3808",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/339000000",
+    "LText2": "Agronomische Bohrungen ersch. 1889",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/339001000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
     "LText4": "zur Topographischen Karte ersch. 1884",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/305277000"
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       12,
+       52.5
+      ],
+      [
+       12.167,
+       52.5
+      ],
+      [
+       12.167,
+       52.4
+      ],
+      [
+       12,
+       52.4
+      ],
+      [
+       12,
+       52.5
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3538] Genthin",
+    "Location": "Genthin",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1889",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/339002000",
+    "LText2": "Agronomische Bohrungen ersch. 1889",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/339005000",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -28704,9 +30681,9 @@
     "LText1": "zur Karte ersch. 1889",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/84825",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1889",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/339023000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -28753,9 +30730,9 @@
     "LText1": "zur Karte ersch. 1891",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/79874",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1891",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/339037000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -28802,9 +30779,9 @@
     "LText1": "zur Karte ersch. 1891",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/79808",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1887",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/339054000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -28851,9 +30828,9 @@
     "LText1": "zur Karte ersch. 1891",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/79738",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1891",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/339068000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -29385,11 +31362,11 @@
     "Title": "[Neue Nr. 3555] Drossen",
     "Location": "Drossen",
     "Subtitle": "Ośno Lubuskie (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203555]%20Drossen&creator=Keilhack,%20K.;%20Korn,%20J.;%20Linstow,%20O.,%20v.",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1905",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/339153000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -29537,9 +31514,9 @@
     "LText1": "zur Karte ersch. 1898",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3454",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1898",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/339204000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -29581,14 +31558,14 @@
     "Title": "[Neue Nr. 3567] Posen",
     "Location": "Posen",
     "Subtitle": "Poznan Pln. (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203567]%20Posen&creator=Beushausen,%20L.;%20K%C3%BChn,%20B.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1898",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/339205000",
+    "LText2": "Agronomische Bohrungen ersch. 1898",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/339206000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -30332,6 +32309,104 @@
     "Link4": "https://ifl.wissensbank.com/qlink/305932000"
    }
   },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.167,
+       52.4
+      ],
+      [
+       11.333,
+       52.4
+      ],
+      [
+       11.333,
+       52.3
+      ],
+      [
+       11.167,
+       52.3
+      ],
+      [
+       11.167,
+       52.4
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3633] Calvörde",
+    "Location": "Calvörde",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1907",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/339233000",
+    "LText2": "Agronomische Bohrungen ersch. 1907",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/339234000",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+      {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.333,
+       52.4
+      ],
+      [
+       11.5,
+       52.4
+      ],
+      [
+       11.5,
+       52.3
+      ],
+      [
+       11.333,
+       52.3
+      ],
+      [
+       11.333,
+       52.4
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3634] Uthmöden",
+    "Location": "Uthmöden",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1907",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/339236000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -30463,14 +32538,14 @@
     "Title": "[Neue Nr. 3637] Parey",
     "Location": "Parey",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203637]%20Parey&creator=Gruner,%20H.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1891",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/339250000",
+    "LText2": "Agronomische Bohrungen ersch. 1891",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/339252000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -30512,14 +32587,14 @@
     "Title": "[Neue Nr. 3638] Parchen",
     "Location": "Parchen",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203638]%20Parchen&creator=Keilhack,%20K.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1891",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/339259000",
+    "LText2": "Agronomische Bohrungen ersch. 1891",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/339260000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -30566,9 +32641,9 @@
     "LText1": "zur Karte ersch. 1891",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/84909",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1891",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/339278000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -30615,9 +32690,9 @@
     "LText1": "zur Karte ersch. 1891",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/79672",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1891",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/339280000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -30664,9 +32739,9 @@
     "LText1": "zur Karte ersch. 1891",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/79594",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1891",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/339286000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -30713,9 +32788,9 @@
     "LText1": "zur Karte ersch. 1891",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/79502",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1891",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/339288000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -30860,9 +32935,9 @@
     "LText1": "zur Karte ersch. 1875",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/78428",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1875",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/339305000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -30909,9 +32984,9 @@
     "LText1": "zur Karte ersch. 1878",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/52023",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1878",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/339309000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -31345,14 +33420,14 @@
     "Title": "[Neue Nr. 3666] Dombrowka",
     "Location": "Dombrowka",
     "Subtitle": "Dąbrówka (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203666]%20Dombrowka&creator=Maas,%20G.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1900",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/339518000",
+    "LText2": "Agronomische Bohrungen ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/339524000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -31394,14 +33469,14 @@
     "Title": "[Neue Nr. 3667] Gurtschin",
     "Location": "Gurtschin",
     "Subtitle": "Gurtschin/Poznań Pd. (poln.), Posen (Süd)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203667]%20Gurtschin&creator=Maas,%20G.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1900",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/339528000",
+    "LText2": "Agronomische Bohrungen ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/339530000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -31843,9 +33918,9 @@
     "LText2": "zur Karte ersch. 1938 (Paket Detmold)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1938",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/340469000",
     "LText4": "zur Topographischen Karte ersch. 1938",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/306215000"
@@ -32439,6 +34514,55 @@
     "Link4": ""
    }
   },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.167,
+       52.3
+      ],
+      [
+       11.333,
+       52.3
+      ],
+      [
+       11.333,
+       52.2
+      ],
+      [
+       11.167,
+       52.2
+      ],
+      [
+       11.167,
+       52.3
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3733] Erxleben",
+    "Location": "Erxleben",
+    "Subtitle": "Ерxлебен",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1902",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/340598000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -32477,15 +34601,64 @@
     "LText1": "zur Karte ersch. 1928",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25_west/3734_(2031)_Neuhaldensleben_geol.-agr._1928.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/340602000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
     "LText4": "zur Topographischen Karte ersch. 1937",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/306302000"
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.5,
+       52.3
+      ],
+      [
+       11.667,
+       52.3
+      ],
+      [
+       11.667,
+       52.2
+      ],
+      [
+       11.5,
+       52.2
+      ],
+      [
+       11.5,
+       52.3
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3735] Wolmirstedt",
+    "Location": "Wolmirstedt",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1916",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/340610000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -32570,14 +34743,14 @@
     "Title": "[Neue Nr. 3737] Burg (a.d. Ihle)",
     "Location": "Burg (a.d. Ihle)",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203737]%20Burg%20(a.d.%20Ihle)&creator=Scholz,%20M.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1891",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/340611000",
+    "LText2": "Agronomische Bohrungen ersch. 1891",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/340612000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -32619,14 +34792,14 @@
     "Title": "[Neue Nr. 3738] Theessen",
     "Location": "Theessen",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203738]%20Theessen&creator=Keilhack,%20K.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1891",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/340614000",
+    "LText2": "Agronomische Bohrungen ersch. 1891",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/340636000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -32673,9 +34846,9 @@
     "LText1": "zur Karte ersch. 1891",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/84970",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1891",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/340643000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -32722,9 +34895,9 @@
     "LText1": "zur Karte ersch. 1891",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/79418",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1891",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/340647000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -32771,9 +34944,9 @@
     "LText1": "zur Karte ersch. 1891",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/79348",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1891",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/340655000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -32820,9 +34993,9 @@
     "LText1": "zur Karte ersch. 1891",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/79278",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Agronomische Bohrungen ersch. 1891",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/340675000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -34399,6 +36572,55 @@
     "Link4": ""
    }
   },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       10.667,
+       52.2
+      ],
+      [
+       10.833,
+       52.2
+      ],
+      [
+       10.833,
+       52.1
+      ],
+      [
+       10.667,
+       52.1
+      ],
+      [
+       10.667,
+       52.2
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3830] Schöppenstedt",
+    "Location": "Schöppenstedt",
+    "Subtitle": "",
+   "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1928",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/340826000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -34437,6 +36659,55 @@
     "LText1": "zur Karte ersch. 1926",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3885",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11,
+       52.2
+      ],
+      [
+       11.167,
+       52.2
+      ],
+      [
+       11.167,
+       52.1
+      ],
+      [
+       11,
+       52.1
+      ],
+      [
+       11,
+       52.2
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3832] Hötensleben",
+    "Location": "Hötensleben",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1927",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/340830000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -34495,6 +36766,251 @@
     "LText4": "zur Topographischen Karte ersch. 1936",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/306912000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.333,
+       52.2
+      ],
+      [
+       11.5,
+       52.2
+      ],
+      [
+       11.5,
+       52.1
+      ],
+      [
+       11.333,
+       52.1
+      ],
+      [
+       11.333,
+       52.2
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3834] Gr. Rodensleben",
+    "Location": "Gr. Rodensleben",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1924",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/340834000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.5,
+       52.2
+      ],
+      [
+       11.667,
+       52.2
+      ],
+      [
+       11.667,
+       52.1
+      ],
+      [
+       11.5,
+       52.1
+      ],
+      [
+       11.5,
+       52.2
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3835] Magdeburg",
+    "Location": "Magdeburg",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1924",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/340835000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.667,
+       52.2
+      ],
+      [
+       11.833,
+       52.2
+      ],
+      [
+       11.833,
+       52.1
+      ],
+      [
+       11.667,
+       52.1
+      ],
+      [
+       11.667,
+       52.2
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3836] Biederitz",
+    "Location": "Biederitz",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1924",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/340945000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.833,
+       52.2
+      ],
+      [
+       12,
+       52.2
+      ],
+      [
+       12,
+       52.1
+      ],
+      [
+       11.833,
+       52.1
+      ],
+      [
+       11.833,
+       52.2
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3837] Möckern",
+    "Location": "Möckern",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1909",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/340946000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       12,
+       52.2
+      ],
+      [
+       12.167,
+       52.2
+      ],
+      [
+       12.167,
+       52.1
+      ],
+      [
+       12,
+       52.1
+      ],
+      [
+       12,
+       52.2
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3838] Loburg",
+    "Location": "Loburg",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1909",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/340951000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -35068,15 +37584,15 @@
    "properties": {
     "Title": "[Neue Nr. 3906] Vreden",
     "Location": "Vreden",
-    "Subtitle": "",
+    "Subtitle": "Vreden-Wennewick",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1932 (Paket Münster)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1932",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/341658000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -35123,9 +37639,9 @@
     "LText1": "zur Karte ersch. 1932 (Paket Münster)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1932",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/341664000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -35564,9 +38080,9 @@
     "LText1": "zur Karte ersch. 1926 (Paket Detmold)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1926",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/341665000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -35616,9 +38132,9 @@
     "LText2": "zur Karte ersch. 1981 (Paket Detmold)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1926",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/341667000",
     "LText4": "zur Topographischen Karte ersch. 1910",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/307378000"
@@ -35760,9 +38276,9 @@
     "LText1": "zur Karte ersch. 1915 (Paket Detmold)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1915",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/341671000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -35809,9 +38325,9 @@
     "LText1": "zur Karte ersch. 1927 (Paket Detmold)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1927",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/341673000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -36103,9 +38619,9 @@
     "LText1": "zur Karte ersch. 1912",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3550",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1936",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/341704000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -36152,9 +38668,9 @@
     "LText1": "zur Karte ersch. 1912",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3551",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1936",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/341723000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -36294,11 +38810,11 @@
     "Title": "[Neue Nr. 3931] Jerxheim",
     "Location": "Jerxheim",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%203931]%20Jerxheim&creator=Behrend,%20F.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1926",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/341733000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -36348,15 +38864,64 @@
     "LText1": "zur Karte ersch. 1926",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3806",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1926",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/341740000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
     "LText4": "zur Topographischen Karte ersch. 1934",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/307524000"
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.167,
+       52.1
+      ],
+      [
+       11.333,
+       52.1
+      ],
+      [
+       11.333,
+       52
+      ],
+      [
+       11.167,
+       52
+      ],
+      [
+       11.167,
+       52.1
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3933] Oschersleben",
+    "Location": "Oschersleben",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1932",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/341742000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -36446,9 +39011,9 @@
     "LText1": "zur Karte ersch. 1934",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25_west/3935_(2167)_Gr._Ottersleben_geol.-agr._1934.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1924",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/341892000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -36506,6 +39071,104 @@
     "Link4": ""
    }
   },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.833,
+       52.1
+      ],
+      [
+       12,
+       52.1
+      ],
+      [
+       12,
+       52
+      ],
+      [
+       11.833,
+       52
+      ],
+      [
+       11.833,
+       52.1
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3937] Leitzkau",
+    "Location": "Leitzkau",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1909",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/341896000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       12,
+       52.1
+      ],
+      [
+       12.167,
+       52.1
+      ],
+      [
+       12.167,
+       52
+      ],
+      [
+       12,
+       52
+      ],
+      [
+       12,
+       52.1
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 3938] Lindau i. Anhalt",
+    "Location": "Lindau i. Anhalt",
+    "Subtitle": "Lindau in Anhalt",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1909",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/341897000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -36544,9 +39207,9 @@
     "LText1": "zur Karte ersch. 1908",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/92757",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1908",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/341900000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -36593,9 +39256,9 @@
     "LText1": "zur Karte ersch. 1906",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/92373",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1906",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/341901000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -36642,9 +39305,9 @@
     "LText1": "zur Karte ersch. 1906",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/92461",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1906",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/341904000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -36691,9 +39354,9 @@
     "LText1": "zur Karte ersch. 1906",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/92565",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1906",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/341907000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -36985,9 +39648,9 @@
     "LText1": "zur Karte ersch. 1932 (Paket Münster)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1932",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/341912000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -37034,9 +39697,9 @@
     "LText1": "zur Karte ersch. 1932 (Paket Münster)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1932",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/341928000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -37184,9 +39847,9 @@
     "LText2": "zur Karte ersch. 1982 (Paket Detmold)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1926",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/341940000",
     "LText4": "zur Topographischen Karte ersch. 1938",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/307952000"
@@ -37377,9 +40040,9 @@
     "LText1": "zur Karte ersch. 1927 (Paket Detmold)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1927",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/341943000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -37420,18 +40083,18 @@
    "properties": {
     "Title": "[Neue Nr. 4022] Ottenstein",
     "Location": "Ottenstein",
-    "Subtitle": "",
+    "Subtitle": "Ottenstein in Braunschweig",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1929 (Paket Detmold)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1912",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/341946000",
+    "LText3": "zur Karte ersch. 1929",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/341948000",
     "LText4": "zur Topographischen Karte ersch. 1938",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/308011000"
@@ -37633,6 +40296,104 @@
     "Link4": "https://ifl.wissensbank.com/qlink/308069000"
    }
   },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       10.167,
+       52
+      ],
+      [
+       10.333,
+       52
+      ],
+      [
+       10.333,
+       51.9
+      ],
+      [
+       10.167,
+       51.9
+      ],
+      [
+       10.167,
+       52
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4027] Lutter a. Barenberge",
+    "Location": "Lutter a. Barenberge",
+    "Subtitle": "Lutter am Barenberge",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1912",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/341949000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+      {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       10.333,
+       52
+      ],
+      [
+       10.5,
+       52
+      ],
+      [
+       10.5,
+       51.9
+      ],
+      [
+       10.333,
+       51.9
+      ],
+      [
+       10.333,
+       52
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4028] Goslar",
+    "Location": "Goslar",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1912",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/341979000",
+    "LText2": "zur Karte ersch. 1924",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/341978000",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -37671,9 +40432,9 @@
     "LText1": "zur Karte ersch. 1912",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-2183",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1930",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/341980000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -37715,11 +40476,11 @@
     "Title": "[Neue Nr. 4030] Osterwieck",
     "Location": "Osterwieck",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204030]%20Osterwieck&creator=Behrendt,%20F.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1930",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342003000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -37764,11 +40525,11 @@
     "Title": "[Neue Nr. 4031] Dardesheim",
     "Location": "Dardesheim",
     "Subtitle": "Dingelstedt a.Huy",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204031]%20Dardesheim&creator=Schr%C3%B6der,%20H.;%20Behrend,%20F.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1930",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342004000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -37829,6 +40590,55 @@
     "Link4": "https://ifl.wissensbank.com/qlink/308135000"
    }
   },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.167,
+       52
+      ],
+      [
+       11.333,
+       52
+      ],
+      [
+       11.333,
+       51.9
+      ],
+      [
+       11.167,
+       51.9
+      ],
+      [
+       11.167,
+       52
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4033] Gröningen",
+    "Location": "Gröningen",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1932",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342014000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -37876,6 +40686,202 @@
     "LText4": "zur Topographischen Karte ersch. 1935",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/308159000"
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.5,
+       52
+      ],
+      [
+       11.667,
+       52
+      ],
+      [
+       11.667,
+       51.9
+      ],
+      [
+       11.5,
+       51.9
+      ],
+      [
+       11.5,
+       52
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4035] Atzendorf",
+    "Location": "Atzendorf",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1924",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342017000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+      {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.667,
+       52
+      ],
+      [
+       11.833,
+       52
+      ],
+      [
+       11.833,
+       51.9
+      ],
+      [
+       11.667,
+       51.9
+      ],
+      [
+       11.667,
+       52
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4036] Calbe a. d. Saale",
+    "Location": "Calbe a. d. Saale",
+    "Subtitle": "Calbe an der Saale",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342018000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+        {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.833,
+       52
+      ],
+      [
+       12,
+       52
+      ],
+      [
+       12,
+       51.9
+      ],
+      [
+       11.833,
+       51.9
+      ],
+      [
+       11.833,
+       52
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4037] Barby",
+    "Location": "Barby",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342019000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+          {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       12,
+       52
+      ],
+      [
+       12.167,
+       52
+      ],
+      [
+       12.167,
+       51.9
+      ],
+      [
+       12,
+       51.9
+      ],
+      [
+       12,
+       52
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4038] Zerbst",
+    "Location": "Zerbst",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342020000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -38014,15 +41020,64 @@
     "LText1": "zur Karte ersch. 1913",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/pageview/93427",
+    "LText2": "zur Karte ersch. 1913",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342027000",
+    "LText3": "Bergbaulichen Verhältnisse und Tiefbohrungen ersch. 1913",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL",
+    "Link3": "https://ifl.wissensbank.com/qlink/342028000",
+    "LText4": "zur Topographischen Karte ersch. 1904",
+    "ML4": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link4": "https://ifl.wissensbank.com/qlink/308251000"
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       12.5,
+       52
+      ],
+      [
+       12.667,
+       52
+      ],
+      [
+       12.667,
+       51.9
+      ],
+      [
+       12.5,
+       51.9
+      ],
+      [
+       12.5,
+       52
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4042] Zahna",
+    "Location": "Zahna",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1960",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342029000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
     "LText3": "",
     "ML3": "",
     "Link3": "",
-    "LText4": "zur Topographischen Karte ersch. 1904",
-    "ML4": "Leibniz-Institut für Länderkunde (IFL)",
-    "Link4": "https://ifl.wissensbank.com/qlink/308251000"
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -38308,9 +41363,9 @@
     "LText1": "zur Karte ersch. 1933 (Paket Münster)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1933",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342279000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -38357,9 +41412,9 @@
     "LText1": "zur Karte ersch. 1933 (Paket Münster)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1933",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342280000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -38651,9 +41706,9 @@
     "LText1": "zur Karte ersch. 1935 (Paket Detmold)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1935",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342281000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -38700,9 +41755,9 @@
     "LText1": "zur Karte ersch. 1927 (Paket Detmold)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1927",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342282000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -38749,12 +41804,12 @@
     "LText1": "zur Karte ersch. 1929 (Paket Detmold)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1912",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342286000",
+    "LText3": "zur Karte ersch. 1929",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/342285000",
     "LText4": "zur Topographischen Karte ersch. 1897",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/308842000"
@@ -38956,6 +42011,55 @@
     "Link4": "https://ifl.wissensbank.com/qlink/308858000"
    }
   },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       10.667,
+       51.9
+      ],
+      [
+       10.833,
+       51.9
+      ],
+      [
+       10.833,
+       51.8
+      ],
+      [
+       10.667,
+       51.8
+      ],
+      [
+       10.667,
+       51.9
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4130] Wernigerode",
+    "Location": "Wernigerode",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1927",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342297000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -38989,11 +42093,11 @@
     "Title": "[Neue Nr. 4131] Derenburg",
     "Location": "Derenburg",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204131]%20Derenburg&creator=Schroeder,%20H.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1927",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342300000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -39038,11 +42142,11 @@
     "Title": "[Neue Nr. 4132] Halberstadt",
     "Location": "Halberstadt",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204132]%20Halberstadt&creator=Schroeder,%20H.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1927",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342303000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -39185,11 +42289,158 @@
     "Title": "[Neue Nr. 4135] Staßfurt",
     "Location": "Staßfurt",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204135]%20Sta%DFfurt&creator=Keilhack,%20K.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342326000",
+    "LText2": "Untergrundkarte ersch. 1913",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342345000",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.667,
+       51.9
+      ],
+      [
+       11.833,
+       51.9
+      ],
+      [
+       11.833,
+       51.8
+      ],
+      [
+       11.667,
+       51.8
+      ],
+      [
+       11.667,
+       51.9
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4136] Nienburg a. d. Saale",
+    "Location": "Nienburg a. d. Saale",
+    "Subtitle": "Нинбург",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342350000",
+    "LText2": "zur Karte ersch. 1953",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342351000",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.833,
+       51.9
+      ],
+      [
+       12,
+       51.9
+      ],
+      [
+       12,
+       51.8
+      ],
+      [
+       11.833,
+       51.8
+      ],
+      [
+       11.833,
+       51.9
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4137] Wulfen",
+    "Location": "Wulfen",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342352000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       12,
+       51.9
+      ],
+      [
+       12.167,
+       51.9
+      ],
+      [
+       12.167,
+       51.8
+      ],
+      [
+       12,
+       51.8
+      ],
+      [
+       12,
+       51.9
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4138] Aken",
+    "Location": "Aken",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342353000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -39283,11 +42534,11 @@
     "Title": "[Neue Nr. 4140] Coswig",
     "Location": "Coswig",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204140]%20Coswig&creator=Keilhack,%20K.;%20Linstow,%20O.,%20v.;%20Meyer,%20E.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1908",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342355000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -39332,11 +42583,60 @@
     "Title": "[Neue Nr. 4141] Wittenberg",
     "Location": "Wittenberg",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204141]%20Wittenberg&creator=Meyer,%20E.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342356000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       12.667,
+       51.9
+      ],
+      [
+       12.833,
+       51.9
+      ],
+      [
+       12.833,
+       51.8
+      ],
+      [
+       12.667,
+       51.8
+      ],
+      [
+       12.667,
+       51.9
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4142] Wartenburg",
+    "Location": "Wartenburg",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1916",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342357000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -39478,15 +42778,15 @@
    "properties": {
     "Title": "[Neue Nr. 4151] Werben",
     "Location": "Werben",
-    "Subtitle": "",
+    "Subtitle": "Werben im Spreewald",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1928",
+    "LText1": "zur Karte ersch. 1929",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/pageview/55393",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1929",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342367000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -39582,9 +42882,9 @@
     "LText1": "zur Karte ersch. 1933 (Paket Düsseldorf, Münster)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1933",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342377000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -39631,9 +42931,9 @@
     "LText1": "zur Karte ersch. 1933 (Paket Düsseldorf, Münster)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1933",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342389000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -39925,12 +43225,12 @@
     "LText1": "zur Karte ersch. 1935 (Paket Detmold)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1904",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342392000",
+    "LText3": "zur Karte ersch. 1935",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/342397000",
     "LText4": "zur Topographischen Karte ersch. 1937",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/309370000"
@@ -39968,18 +43268,18 @@
    "properties": {
     "Title": "[Neue Nr. 4220] Driburg",
     "Location": "Driburg",
-    "Subtitle": "",
+    "Subtitle": "Bad Driburg",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1935 (Paket Detmold)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1908",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342399000",
+    "LText3": "zur Karte ersch. 1935",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/342425000",
     "LText4": "zur Topographischen Karte ersch. 1898",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/309371000"
@@ -40023,9 +43323,9 @@
     "LText1": "zur Karte ersch. 1929 (Paket Detmold)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1929",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342427000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -40072,12 +43372,12 @@
     "LText1": "zur Karte ersch. 1929 (Paket Detmold)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1912",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342428000",
+    "LText3": "zur Karte ersch. 1929",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/342429000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -40286,6 +43586,251 @@
     "coordinates": [
      [
       [
+       10.333,
+       51.8
+      ],
+      [
+       10.5,
+       51.8
+      ],
+      [
+       10.5,
+       51.7
+      ],
+      [
+       10.333,
+       51.7
+      ],
+      [
+       10.333,
+       51.8
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4228] Riefensbeek",
+    "Location": "Riefensbeek",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1938",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342438000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       10.5,
+       51.8
+      ],
+      [
+       10.667,
+       51.8
+      ],
+      [
+       10.667,
+       51.7
+      ],
+      [
+       10.5,
+       51.7
+      ],
+      [
+       10.5,
+       51.8
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4229] St. Andreasberg",
+    "Location": "St. Andreasberg",
+    "Subtitle": "Sankt Andreasberg",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1927",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342441000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       10.667,
+       51.8
+      ],
+      [
+       10.833,
+       51.8
+      ],
+      [
+       10.833,
+       51.7
+      ],
+      [
+       10.667,
+       51.7
+      ],
+      [
+       10.667,
+       51.8
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4230] Elbingerode",
+    "Location": "Elbingerode",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1927",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342452000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       10.833,
+       51.8
+      ],
+      [
+       11,
+       51.8
+      ],
+      [
+       11,
+       51.7
+      ],
+      [
+       10.833,
+       51.7
+      ],
+      [
+       10.833,
+       51.8
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4231] Blankenburg am Harz",
+    "Location": "Blankenburg am Harz",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1927",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342453000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11,
+       51.8
+      ],
+      [
+       11.167,
+       51.8
+      ],
+      [
+       11.167,
+       51.7
+      ],
+      [
+       11,
+       51.7
+      ],
+      [
+       11,
+       51.8
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4232] Quedlinburg",
+    "Location": "Quedlinburg",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1927",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342454000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
        11.167,
        51.8
       ],
@@ -40312,14 +43857,210 @@
     "Title": "[Neue Nr. 4233] Ballenstedt",
     "Location": "Ballenstedt",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204233]%20Ballenstedt&creator=Weissermel,%20W.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1926",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342455000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.333,
+       51.8
+      ],
+      [
+       11.5,
+       51.8
+      ],
+      [
+       11.5,
+       51.7
+      ],
+      [
+       11.333,
+       51.7
+      ],
+      [
+       11.333,
+       51.8
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4234] Aschersleben",
+    "Location": "Aschersleben",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1926",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342460000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.5,
+       51.8
+      ],
+      [
+       11.667,
+       51.8
+      ],
+      [
+       11.667,
+       51.7
+      ],
+      [
+       11.5,
+       51.7
+      ],
+      [
+       11.5,
+       51.8
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4235] Güsten",
+    "Location": "Güsten",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342461000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.667,
+       51.8
+      ],
+      [
+       11.833,
+       51.8
+      ],
+      [
+       11.833,
+       51.7
+      ],
+      [
+       11.667,
+       51.7
+      ],
+      [
+       11.667,
+       51.8
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4236] Bernburg",
+    "Location": "Bernburg",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342643000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       11.833,
+       51.8
+      ],
+      [
+       12,
+       51.8
+      ],
+      [
+       12,
+       51.7
+      ],
+      [
+       11.833,
+       51.7
+      ],
+      [
+       11.833,
+       51.8
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4237] Cöthen",
+    "Location": "Cöthen",
+    "Subtitle": "Кётен",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342644000",
+    "LText2": "zur Karte ersch. 1952",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342645000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -40410,11 +44151,11 @@
     "Title": "[Neue Nr. 4239] Raguhn",
     "Location": "Raguhn",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204239]%20Raguhn&creator=Linstow,%20O.,%20von",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1909",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342647000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -40459,11 +44200,11 @@
     "Title": "[Neue Nr. 4240] Gräfenhainichen",
     "Location": "Gräfenhainichen",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204240]%20Gr%C3%A4fenhainichen&creator=Linstow,%20O.,%20von",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1938",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342648000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -40557,11 +44298,11 @@
     "Title": "[Neue Nr. 4242] Pretzsch",
     "Location": "Pretzsch",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204242]%20Pretzsch&creator=Linstow,%20O.,%20von",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1916",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342649000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -40611,9 +44352,9 @@
     "LText1": "zur Karte ersch. 1929",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/54569",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1929",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342650000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -40660,9 +44401,9 @@
     "LText1": "zur Karte ersch. 1929",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/54509",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1929",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342654000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -41003,9 +44744,9 @@
     "LText1": "zur Karte ersch. 1933 (Paket Düsseldorf)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1933",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342671000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -41052,12 +44793,12 @@
     "LText1": "zur Karte ersch. 1935 (Paket Düsseldorf, Münster)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1935",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342672000",
+    "LText3": "Flözkarte ersch. 1940",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/342673000",
     "LText4": "zur Topographischen Karte ersch. 1894",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/309865000"
@@ -41101,12 +44842,12 @@
     "LText1": "zur Karte ersch. 1935 (Paket Münster)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1935",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342674000",
+    "LText3": "Flözkarte ersch. 1940",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/342679000",
     "LText4": "zur Topographischen Karte ersch. 1894",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/309871000"
@@ -41150,12 +44891,12 @@
     "LText1": "zur Karte ersch. 1935 (Paket Münster)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1935",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342680000",
+    "LText3": "Flözkarte ersch. 1940",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/342681000",
     "LText4": "zur Topographischen Karte ersch. 1894",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/309874000"
@@ -41199,12 +44940,12 @@
     "LText1": "zur Karte ersch. 1939 (Paket Arnsberg, Münster)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1939",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342685000",
+    "LText3": "Flözkarte ersch. 1940",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/342696000",
     "LText4": "zur Topographischen Karte ersch. 1941",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/309885000"
@@ -41248,12 +44989,12 @@
     "LText1": "zur Karte ersch. 1939 (Paket Arnsberg, Münster)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1939",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342705000",
+    "LText3": "Flözkarte ersch. 1940",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/342709000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -41297,12 +45038,12 @@
     "LText1": "zur Karte ersch. 1939 (Paket Arnsberg)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1939",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342713000",
+    "LText3": "Flözkarte ersch. 1940",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/342714000",
     "LText4": "zur Topographischen Karte ersch. 1914",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/317501000"
@@ -41496,9 +45237,9 @@
     "LText2": "zur Karte ersch. 1904 (Nachdr. 1979) (Paket Detmold)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1904",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/342715000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -41545,12 +45286,15 @@
     "LText2": "zur Karte ersch. 2004 (Paket Detmold)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
-    "LText4": "zur Topographischen Karte ersch. 1898",
+    "LText3": "zur Karte ersch. 1904",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/342736000",
+	"LText4": "zur Karte ersch. 1935",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
-    "Link4": "https://ifl.wissensbank.com/qlink/309932000"
+    "Link4": "https://ifl.wissensbank.com/qlink/342744000",
+    "LText5": "zur Topographischen Karte ersch. 1898",
+    "ML5": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link5": "https://ifl.wissensbank.com/qlink/309932000"
    }
   },
   {
@@ -41591,12 +45335,12 @@
     "LText1": "zur Karte ersch. 1935 (Paket Detmold)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1908",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342755000",
+    "LText3": "zur Karte ersch. 1935",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/342760000",
     "LText4": "zur Topographischen Karte ersch. 1898",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/309939000"
@@ -41928,15 +45672,15 @@
    "properties": {
     "Title": "[Neue Nr. 4328] Lauterberg",
     "Location": "Lauterberg",
-    "Subtitle": "",
+    "Subtitle": "Bad Lauterberg",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1879",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-2184",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1938",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342854000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -41952,43 +45696,43 @@
     "coordinates": [
      [
       [
+       10.5,
+       51.7
+      ],
+      [
        10.667,
        51.7
-      ],
-      [
-       10.833,
-       51.7
-      ],
-      [
-       10.833,
-       51.6
       ],
       [
        10.667,
        51.6
       ],
       [
-       10.667,
+       10.5,
+       51.6
+      ],
+      [
+       10.5,
        51.7
       ]
      ]
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 4330] Benneckenstein",
-    "Location": "Benneckenstein",
+    "Title": "[Neue Nr. 4329] Zorge",
+    "Location": "Zorge",
     "Subtitle": "",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1890",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-2185",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1858",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342860000",
+    "LText3": "zur Karte ersch. 1928",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/342865000",
     "LText4": "zur Topographischen Karte ersch. 1909",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/310053000"
@@ -42032,9 +45776,9 @@
     "LText1": "zur Karte ersch. 1857",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-2186",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1928",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342866000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -42081,9 +45825,9 @@
     "LText1": "zur Karte ersch. 1857",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-4217",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1928",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342871000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -42130,9 +45874,9 @@
     "LText1": "zur Karte ersch. 1880",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-4216",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1928",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342874000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -42174,14 +45918,14 @@
     "Title": "[Neue Nr. 4333] Pansfelde",
     "Location": "Pansfelde",
     "Subtitle": "Königerode",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204333]%20Pansfelde&creator=Lossen,%20K.%20A.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1934",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342877000",
+    "LText2": "zur Karte ersch. 1882",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342876000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -42228,9 +45972,9 @@
     "LText1": "zur Karte ersch. 1880",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-3105",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1934",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342879000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -42277,9 +46021,9 @@
     "LText1": "zur Karte ersch. 1876",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-3104",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1961",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342880000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -42419,14 +46163,14 @@
     "Title": "[Neue Nr. 4338] Zörbig",
     "Location": "Zörbig",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204338]%20Z%C3%B6rbig&creator=Laspeyres,%20H.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1962",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342885000",
+    "LText2": "Karte ohne quartäre Bildungen ersch. 1962",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342902000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -42473,9 +46217,9 @@
     "LText1": "zur Karte ersch. 1913",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://doi.org/10.23689/fidgeo-3413",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1938",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342904000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -42522,9 +46266,9 @@
     "LText1": "zur Karte ersch. 1913",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://doi.org/10.23689/fidgeo-3414",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1938",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342908000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -42669,9 +46413,9 @@
     "LText1": "zur Karte ersch. 1908",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/92830",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1908",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342915000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -42718,9 +46462,9 @@
     "LText1": "zur Karte ersch. 1908",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/92909",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1908",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342922000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -42862,12 +46606,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1927",
+    "LText1": "zur Karte ersch. 1928",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/55242",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1928",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342929000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -42914,9 +46658,9 @@
     "LText1": "zur Karte ersch. 1928",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/4354_(2476)_Triebel_geol_1928_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1928",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342930000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -43061,9 +46805,9 @@
     "LText1": "zur Karte ersch. 1934 (Paket Düsseldorf)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1934",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342943000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -43113,12 +46857,15 @@
     "LText2": "zur Karte ersch. 1995 (Paket Düsseldorf)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
-    "LText4": "zur Topographischen Karte ersch. 1893",
+    "LText3": "zur Karte ersch. 1934",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/342944000",
+    "LText4": "Flözkarte ersch. 1935",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
-    "Link4": "https://ifl.wissensbank.com/qlink/310501000"
+    "Link4": "https://ifl.wissensbank.com/qlink/342945000",
+    "LText5": "zur Topographischen Karte ersch. 1893",
+    "ML5": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link5": "https://ifl.wissensbank.com/qlink/310501000"
    }
   },
   {
@@ -43162,12 +46909,15 @@
     "LText2": "zur Karte ersch. 2000 (Paket Düsseldorf, Münster)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
-    "LText4": "zur Topographischen Karte ersch. 1913",
+    "LText3": "zur Karte ersch. 1934",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/342947000",
+    "LText4": "Flözkarte ersch. 1935",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
-    "Link4": "https://ifl.wissensbank.com/qlink/310508000"
+    "Link4": "https://ifl.wissensbank.com/qlink/342948000",
+    "LText5": "zur Topographischen Karte ersch. 1913",
+    "ML5": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link5": "https://ifl.wissensbank.com/qlink/310508000"
    }
   },
   {
@@ -43208,12 +46958,12 @@
     "LText1": "zur Karte ersch. 1931 (Paket Arnsberg, Düsseldorf, Münster)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1931",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342950000",
+    "LText3": "Flözkarte ersch. 1933",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/342953000",
     "LText4": "zur Topographischen Karte ersch. 1899",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/310943000"
@@ -43257,12 +47007,12 @@
     "LText1": "zur Karte ersch. 1931 (Paket Arnsberg, Münster)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1931",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342954000",
+    "LText3": "Flözkarte ersch. 1933",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/342956000",
     "LText4": "zur Topographischen Karte ersch. 1927",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/310530000"
@@ -43554,9 +47304,9 @@
     "LText2": "zur Karte ersch. 1991 (Paket Arnsberg, Detmold)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1904",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/342958000",
     "LText4": "zur Topographischen Karte ersch. 1898",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/310619000"
@@ -43600,12 +47350,12 @@
     "LText1": "zur Karte ersch. 1935 (Paket Detmold)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1908",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342959000",
+    "LText3": "zur Karte ersch. 1935",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/342960000",
     "LText4": "zur Topographischen Karte ersch. 1898",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/310634000"
@@ -43698,9 +47448,9 @@
     "LText1": "zur Karte ersch. 1929 (Paket Detmold)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1929",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342962000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -43845,9 +47595,9 @@
     "LText1": "zur Karte ersch. 1893",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-2174",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1929",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342965000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -44041,9 +47791,9 @@
     "LText1": "zur Karte ersch. 1853",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-2189",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1934",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342974000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -44090,9 +47840,9 @@
     "LText1": "zur Karte ersch. 1853",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-2190",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1934",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342975000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -44139,9 +47889,9 @@
     "LText1": "zur Karte ersch. 1857",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-2158",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1934",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342976000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -44188,9 +47938,9 @@
     "LText1": "zur Karte ersch. 1880",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-3107",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1934",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342979000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -44232,14 +47982,14 @@
     "Title": "[Neue Nr. 4433] Wippra",
     "Location": "Wippra",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204433]%20Wippra&creator=Beyrich,%20E.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1853",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342982000",
+    "LText2": "zur Karte ersch. 1934",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342983000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -44281,14 +48031,14 @@
     "Title": "[Neue Nr. 4434] Mansfeld",
     "Location": "Mansfeld",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204434]%20Mansfeld&creator=Weiss,%20E.;%20Kayser,%20E.;%20Moesta,%20F.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1852 (1884)",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342987000",
+    "LText2": "zur Karte ersch. 1934",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342986000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -44330,14 +48080,14 @@
     "Title": "[Neue Nr. 4435] Eisleben",
     "Location": "Eisleben",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204435]%20Eisleben&creator=Speyer,%20O.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1929",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342988000",
+    "LText2": "Flözkarte ersch. 1929",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342991000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -44427,15 +48177,15 @@
    "properties": {
     "Title": "[Neue Nr. 4437] Petersberg",
     "Location": "Petersberg",
-    "Subtitle": "Halle/Saale Nord",
+    "Subtitle": "Halle (Nord) a.d. Saale",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1874",
     "ML1": "Univ. Halle",
     "Link1": "http://karten.bibliothek.uni-halle.de/altkt/d_i_5_2_43/index.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1922",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342995000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -44526,11 +48276,11 @@
     "Title": "[Neue Nr. 4439] Brehna",
     "Location": "Brehna",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204439]%20Brehna&creator=Picard,%20E.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1938",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/342996000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -44580,9 +48330,9 @@
     "LText1": "zur Karte ersch. 1922",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-4239",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1938",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/342998000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -44776,15 +48526,64 @@
     "LText1": "zur Karte ersch. 1930",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/pageview/54169",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1930",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/343040000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
     "LText4": "zur Topographischen Karte ersch. 1934",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/310772000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       13.167,
+       51.6
+      ],
+      [
+       13.333,
+       51.6
+      ],
+      [
+       13.333,
+       51.5
+      ],
+      [
+       13.167,
+       51.5
+      ],
+      [
+       13.167,
+       51.6
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4445] Übigau",
+    "Location": "Übigau",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1956",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/343042000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -44825,9 +48624,9 @@
     "LText1": "zur Karte ersch. 1927",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/54277",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1927",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/343045000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -44874,9 +48673,9 @@
     "LText1": "zur Karte ersch. 1927",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/54385",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1927",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/343047000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -44926,12 +48725,15 @@
     "LText2": "zur Karte ersch. 1923",
     "ML2": "Univ. Potsdam",
     "Link2": "https://digital.ub.uni-potsdam.de/content/titleinfo/93086",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
-    "LText4": "zur Topographischen Karte ersch. 1904",
+    "LText3": "zur Karte ersch. 1923",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/343059000",
+    "LText4": "Flözkarte ersch. 1908",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
-    "Link4": "https://ifl.wissensbank.com/qlink/310829000"
+    "Link4": "https://ifl.wissensbank.com/qlink/343058000",
+    "LText5": "zur Topographischen Karte ersch. 1904",
+    "ML5": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link5": "https://ifl.wissensbank.com/qlink/310829000"
    }
   },
   {
@@ -44975,12 +48777,15 @@
     "LText2": "zur Karte ersch. 1923",
     "ML2": "Univ. Potsdam",
     "Link2": "https://digital.ub.uni-potsdam.de/content/titleinfo/93250",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
-    "LText4": "zur Topographischen Karte ersch. 1904",
+    "LText3": "zur Karte ersch. 1923",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/343064000",
+    "LText4": "Flözkarte ersch. 1908",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
-    "Link4": "https://ifl.wissensbank.com/qlink/310834000"
+    "Link4": "https://ifl.wissensbank.com/qlink/343063000",
+    "LText5": "zur Topographischen Karte ersch. 1904",
+    "ML5": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link5": "https://ifl.wissensbank.com/qlink/310834000"
    }
   },
   {
@@ -45119,9 +48924,9 @@
     "LText1": "zur Karte ersch. 1928",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/54733",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1928",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/343066000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -45168,9 +48973,9 @@
     "LText1": "zur Karte ersch. 1928",
     "ML1": "Univ. Potsdam",
     "Link1": "https://digital.ub.uni-potsdam.de/content/titleinfo/94726",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1928",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/343068000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -45217,9 +49022,9 @@
     "LText1": "zur Karte ersch. 1938 (Paket Düsseldorf)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1938",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/343843000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -45266,9 +49071,9 @@
     "LText1": "zur Karte ersch. 1938 (Paket Düsseldorf)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1938",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/343846000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -45315,9 +49120,9 @@
     "LText1": "zur Karte ersch. 1928 (Paket Düsseldorf)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1928",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/343850000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -45367,12 +49172,15 @@
     "LText2": "zur Karte ersch. 1991 (Paket Düsseldorf)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
-    "LText4": "zur Topographischen Karte ersch. 1926",
+    "LText3": "zur Karte ersch. 1930",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/343851000",
+    "LText4": "Flözkarte ersch. 1930",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
-    "Link4": "https://ifl.wissensbank.com/qlink/311288000"
+    "Link4": "https://ifl.wissensbank.com/qlink/343852000",
+    "LText5": "zur Topographischen Karte ersch. 1926",
+    "ML5": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link5": "https://ifl.wissensbank.com/qlink/311288000"
    }
   },
   {
@@ -45416,12 +49224,12 @@
     "LText2": "zur Karte ersch. 1986 (Paket Düsseldorf, Münster)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
-    "LText4": "",
-    "ML4": "",
-    "Link4": ""
+    "LText3": "zur Karte ersch. 1930",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/343853000",
+    "LText4": "Flözkarte ersch. 1930",
+    "ML4": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link4": "https://ifl.wissensbank.com/qlink/343855000"
    }
   },
   {
@@ -45465,12 +49273,15 @@
     "LText2": "zur Karte ersch. 1989 (Paket Arnsberg, Düsseldorf, Münster)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
-    "LText4": "zur Topographischen Karte ersch. 1926",
+    "LText3": "zur Karte ersch. 1924",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/343862000",
+    "LText4": "Flözkarte ersch. 1924",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
-    "Link4": "https://ifl.wissensbank.com/qlink/311306000"
+    "Link4": "https://ifl.wissensbank.com/qlink/343867000",
+    "LText5": "zur Topographischen Karte ersch. 1926",
+    "ML5": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link5": "https://ifl.wissensbank.com/qlink/311306000"
    }
   },
   {
@@ -45514,12 +49325,15 @@
     "LText2": "zur Karte ersch. 1988 (Paket Arnsberg)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
-    "LText4": "zur Topographischen Karte ersch. 1926",
+    "LText3": "zur Karte ersch. 1924",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/343872000",
+    "LText4": "Flözkarte ersch. 1924",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
-    "Link4": "https://ifl.wissensbank.com/qlink/311315000"
+    "Link4": "https://ifl.wissensbank.com/qlink/343876000",
+    "LText5": "zur Topographischen Karte ersch. 1904",
+    "ML5": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link5": "https://ifl.wissensbank.com/qlink/311315000"
    }
   },
   {
@@ -45903,9 +49717,9 @@
     "LText1": "zur Karte ersch. 1936 (Paket Arnsberg, Detmold)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1936",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/343877000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -45955,9 +49769,9 @@
     "LText2": "zur Karte ersch. 2006 (Paket Arnsberg, Detmold)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1936",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/343891000",
     "LText4": "zur Topographischen Karte ersch. 1934",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/311459000"
@@ -46004,12 +49818,61 @@
     "LText2": "zur Karte ersch. 2008 (Paket Arnsberg)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1936",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/343897000",
     "LText4": "zur Topographischen Karte ersch. 1909",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/311461000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       9.333,
+       51.5
+      ],
+      [
+       9.5,
+       51.5
+      ],
+      [
+       9.5,
+       51.4
+      ],
+      [
+       9.333,
+       51.4
+      ],
+      [
+       9.333,
+       51.5
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4522] Hofgeismar",
+    "Location": "Hofgeismar",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1929",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/343899000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -46289,15 +50152,15 @@
    "properties": {
     "Title": "[Neue Nr. 4528] Worbis",
     "Location": "Worbis",
-    "Subtitle": "",
+    "Subtitle": "Ворбис",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1872",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-2192",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1952",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/343905000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -46338,15 +50201,15 @@
    "properties": {
     "Title": "[Neue Nr. 4529] Bleicherode",
     "Location": "Bleicherode",
-    "Subtitle": "",
+    "Subtitle": "Блайхероде",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1872",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-2154",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1952",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/343909000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -46491,9 +50354,9 @@
     "LText1": "zur Karte ersch. 1877",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://doi.org/10.23689/fidgeo-3276",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1925",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/343913000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -46581,14 +50444,14 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 4534] Riestedt",
-    "Location": "Riestedt",
-    "Subtitle": "Allstedt",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204534]%20Riestedt&creator=Speyer,%20O.",
+    "Title": "[Neue Nr. 4534] Allstedt",
+    "Location": "Allstedt",
+    "Subtitle": "Альштедт, Riestedt",
+    "Layer": "GK25 / extern",
+    "Text": "Link: ",
+    "LText1": "zur Karte ersch. 1952",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/343917000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -46638,15 +50501,18 @@
     "LText1": "zur Karte ersch. 1876",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-3151",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
-    "LText4": "zur Topographischen Karte ersch. 1937",
+    "LText2": "zur Karte ersch. 1961",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/343923000",
+    "LText3": "zur Karte ohne quartäre Bildungen ersch. 1961",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/343918000",
+	"LText4": "zur Karte ohne känozoische Bildungen ersch. 1961",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
-    "Link4": "https://ifl.wissensbank.com/qlink/311813000"
+    "Link4": "https://ifl.wissensbank.com/qlink/343921000",
+    "LText5": "zur Topographischen Karte ersch. 1937",
+    "ML5": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link5": "https://ifl.wissensbank.com/qlink/311813000"
    }
   },
   {
@@ -46731,14 +50597,14 @@
     "Title": "[Neue Nr. 4537] Halle (Süd)",
     "Location": "Halle (Süd)",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204537]%20Halle%20(S%C3%BCd)&creator=Fritsch,%20K.,%20von;%20Siegert,%20L.;%20Weissermel,%20W.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Layer": "GK25 / extern)",
+    "Text": "Link: ",
+    "LText1": "zur Karte ersch. 1908",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/343929000",
+    "LText2": "zur Karte ersch. 1927",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/343925000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -46880,9 +50746,9 @@
     "Subtitle": "Sec. Seehausen-Zschortau",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1904",
-    "ML1": "Dt. Fotothek",
-    "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004601.jpg",
+    "LText1": "zur Karte ersch. 1907",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/343934000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -46978,12 +50844,12 @@
     "Subtitle": "Thallwitz",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1930",
-    "ML1": "Dt. Fotothek",
-    "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004602.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText1": "zur Karte ersch. 1882",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/343941000",
+    "LText2": "zur Karte ersch. 1930",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/343946000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -47028,8 +50894,8 @@
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1930",
-    "ML1": "Dt. Fotothek",
-    "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004743.jpg",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/343965000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -47077,8 +50943,57 @@
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1930",
-    "ML1": "Dt. Fotothek",
-    "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004744.jpg",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/343970000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "zur Topographischen Karte ersch. 1937",
+    "ML4": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link4": "https://ifl.wissensbank.com/qlink/311901000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       13.167,
+       51.5
+      ],
+      [
+       13.333,
+       51.5
+      ],
+      [
+       13.333,
+       51.4
+      ],
+      [
+       13.167,
+       51.4
+      ],
+      [
+       13.167,
+       51.5
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4545] Mühlberg",
+    "Location": "Mühlberg",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1956",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/343978000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -47422,9 +51337,9 @@
     "LText1": "zur Karte ersch. 1938 (Paket Düsseldorf)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1938",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344043000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -47465,15 +51380,15 @@
    "properties": {
     "Title": "[Neue Nr. 4604] Kempen",
     "Location": "Kempen",
-    "Subtitle": "",
+    "Subtitle": "Kempen im Rheinland",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1928 (Paket Düsseldorf)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1928",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344051000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -47514,15 +51429,15 @@
    "properties": {
     "Title": "[Neue Nr. 4605] Crefeld",
     "Location": "Crefeld",
-    "Subtitle": "",
+    "Subtitle": "Krefeld",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1928 (Paket Düsseldorf)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1928",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344069000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -47569,9 +51484,9 @@
     "LText1": "zur Karte ersch. 1929 (Paket Düsseldorf)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1929",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344072000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -47618,9 +51533,9 @@
     "LText1": "zur Karte ersch. 1929 (Paket Düsseldorf)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1929",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": " https://ifl.wissensbank.com/qlink/344084000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -47667,12 +51582,12 @@
     "LText1": "zur Karte ersch. 1929 (Nachdr. 1938) (Paket Arnsberg, Düsseldorf)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1929",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344090000",
+    "LText3": "Flözkarte ersch. 1929",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/344098000",
     "LText4": "zur Topographischen Karte ersch. 1926",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/312243000"
@@ -47716,9 +51631,9 @@
     "LText1": "zur Karte ersch. 1929 (Paket Arnsberg, Düsseldorf)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1929",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344110000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -48108,9 +52023,9 @@
     "LText1": "zur Karte ersch. 1936 (Paket Arnsberg)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1936",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344111000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -48157,9 +52072,9 @@
     "LText1": "zur Karte ersch. 1936 (Paket Arnsberg)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1936",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344136000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -48206,9 +52121,9 @@
     "LText1": "zur Karte ersch. 1936 (Paket Arnsberg)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1936",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344137000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -48255,9 +52170,9 @@
     "LText1": "zur Karte ersch. 1901",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3610",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1958",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344139000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -48549,9 +52464,9 @@
     "LText1": "zur Karte ersch. 1872",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3785",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1959",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344152000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -48598,9 +52513,9 @@
     "LText1": "zur Karte ersch. 1873",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3757",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1961",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344156000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -48647,9 +52562,9 @@
     "LText1": "zur Karte ersch. 1877",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3767",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1925",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344162000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -48788,15 +52703,15 @@
    "properties": {
     "Title": "[Neue Nr. 4635] Querfurt",
     "Location": "Querfurt",
-    "Subtitle": "",
+    "Subtitle": "Кверфурт",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1874",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-3109",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1952",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344163000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -48887,11 +52802,11 @@
     "Title": "[Neue Nr. 4637] Merseburg (West)",
     "Location": "Merseburg (West)",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204637]%20Merseburg%20(West)&creator=Weissermel,%20W.",
+    "Layer": "GK25 / extern",
+    "Text": "Link: ",
+    "LText1": "zur Karte ersch. 1908",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/344167000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -48936,11 +52851,11 @@
     "Title": "[Neue Nr. 4638] Merseburg (Ost)",
     "Location": "Merseburg (Ost)",
     "Subtitle": "Leuna",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204638]%20Merseburg%20(Ost)&creator=Siegert,%20L.;%20B%C3%A4rtling,%20R.",
+    "Layer": "GK25 / extern",
+    "Text": "Link: ",
+    "LText1": "zur Karte ersch. 1908",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/344171000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -48990,9 +52905,9 @@
     "LText1": "zur Karte ersch. 1905",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004605",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1905",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344180000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -49037,8 +52952,8 @@
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1924",
-    "ML1": "Dt. Fotothek",
-    "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004606.jpg",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/344201000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -49088,9 +53003,9 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004607",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344203000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -49137,9 +53052,9 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004608",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344208000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -49186,15 +53101,64 @@
     "LText1": "zur Karte ersch. 1925",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004609.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1925",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344209000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
     "LText4": "zur Topographischen Karte ersch. 1922",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/312784000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       13,
+       51.4
+      ],
+      [
+       13.167,
+       51.4
+      ],
+      [
+       13.167,
+       51.3
+      ],
+      [
+       13,
+       51.3
+      ],
+      [
+       13,
+       51.4
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4644] Oschatz-Wellerswalde",
+    "Location": "Oschatz-Wellerswalde",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1886",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/344211000",
+    "LText2": "zur Karte ersch. 1924",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344215000",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -49284,9 +53248,9 @@
     "LText1": "zur Karte ersch. 1927",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004612.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1888",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/350983000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -49529,6 +53493,55 @@
     "LText1": "zur Karte ersch. 1890",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004616",
+    "LText2": "zur Karte ersch. 1890",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344219000",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       14.833,
+       51.4
+      ],
+      [
+       15,
+       51.4
+      ],
+      [
+       15,
+       51.3
+      ],
+      [
+       14.833,
+       51.3
+      ],
+      [
+       14.833,
+       51.4
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4655 / 4656] Rothenburg (Oberlausitz) - Nieder-Neudorf",
+    "Location": "Rothenburg (Oberlausitz) - Nieder-Neudorf",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1964",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/344225000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -49774,9 +53787,9 @@
     "LText1": "zur Karte ersch. 1932 (Paket Düsseldorf)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1932",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344225000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -49823,9 +53836,9 @@
     "LText1": "zur Karte ersch. 1932 (Paket Düsseldorf)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1932",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344861000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -49875,9 +53888,9 @@
     "LText2": "zur Karte ersch. 1928 (Nachdr. 1979) (Paket Düsseldorf)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1928",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/344864000",
     "LText4": "zur Topographischen Karte ersch. 1927",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/313225000"
@@ -49924,9 +53937,9 @@
     "LText2": "zur Karte ersch. 1928 (Nachdr. 1979) (Paket Arnsberg, Düsseldorf, Köln)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1928",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/344868000",
     "LText4": "zur Topographischen Karte ersch. 1921",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/313228000"
@@ -49970,9 +53983,9 @@
     "LText1": "zur Karte ersch. 1928 (Paket Arnsberg, Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1928",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344876000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -50019,9 +54032,9 @@
     "LText1": "zur Karte ersch. 1923 (Paket Arnsberg)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1923",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344877000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -50068,9 +54081,9 @@
     "LText1": "zur Karte ersch. 1923 (Paket Arnsberg)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1923",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344878000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -50120,9 +54133,9 @@
     "LText2": "zur Karte ersch. 1969 (Paket Arnsberg)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1923",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/344882000",
     "LText4": "zur Topographischen Karte ersch. 1896",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/313273000"
@@ -50166,9 +54179,9 @@
     "LText1": "zur Karte ersch. 1923 (Paket Arnsberg)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1923",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344885000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -50993,15 +55006,15 @@
    "properties": {
     "Title": "[Neue Nr. 4735] Bibra",
     "Location": "Bibra",
-    "Subtitle": "Nebra (Unstrut)",
+    "Subtitle": "Nebra (Unstrut), Бибра",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1874",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-3110",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1952",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344898000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -51091,12 +55104,12 @@
    "properties": {
     "Title": "[Neue Nr. 4737] Weißenfels",
     "Location": "Weißenfels",
-    "Subtitle": "Weißenfels Nord",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204737]%20Wei%DFenfels&creator=Weissermel,%20W.",
+    "Subtitle": "Weißenfels Nord, Вайсенфельс",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1952",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/344899000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -51141,11 +55154,11 @@
     "Title": "[Neue Nr. 4738] Lützen",
     "Location": "Lützen",
     "Subtitle": "(Bad) Dürrenberg",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204738]%20L%C3%BCtzen&creator=Siegert,%20L.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1908",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/344900000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -51189,7 +55202,7 @@
    "properties": {
     "Title": "[Neue Nr. 4739] Zwenkau",
     "Location": "Zwenkau",
-    "Subtitle": "",
+    "Subtitle": "Zwenkau - Großgörschen",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1882",
@@ -51198,9 +55211,9 @@
     "LText2": "zur Karte ersch. 1920",
     "ML2": "Dt. Fotothek",
     "Link2": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004619.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1920",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/344902000",
     "LText4": "zur Topographischen Karte ersch. 1873",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/313471000"
@@ -51244,9 +55257,9 @@
     "LText1": "zur Karte ersch. 1904",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004620",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1904",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344905000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -51293,9 +55306,9 @@
     "LText1": "zur Karte ersch. 1905",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004621",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1880",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/351403000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -51342,9 +55355,9 @@
     "LText1": "zur Karte ersch. 1897",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004622",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1879",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344926000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -51391,9 +55404,9 @@
     "LText1": "zur Karte ersch. 1912",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004623",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1883",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344929000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -51440,9 +55453,9 @@
     "LText1": "zur Karte ersch. 1906",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004624",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1906",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/344945000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -51489,9 +55502,9 @@
     "LText1": "zur Karte ersch. 1932",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004625.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1932",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345039000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -51538,9 +55551,9 @@
     "LText1": "zur Karte ersch. 1919",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004626.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1919",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345041000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -51636,9 +55649,9 @@
     "LText1": "zur Karte ersch. 1887",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004628",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1941",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345048000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -51685,12 +55698,12 @@
     "LText1": "zur Karte ersch. 1929",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004629.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1887",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345052000",
+    "LText3": "zur Karte ersch. 1929",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/345054000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -51734,9 +55747,9 @@
     "LText1": "zur Karte ersch. 1890",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004630",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1890",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345056000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -52224,9 +56237,9 @@
     "LText1": "zur Karte ersch. 1931 (Paket Düsseldorf)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1931",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345061000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -52273,9 +56286,9 @@
     "LText1": "zur Karte ersch. 1932 (Paket Düsseldorf, Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1932",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345062000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -52322,9 +56335,9 @@
     "LText1": "zur Karte ersch. 1934 (Paket Düsseldorf, Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1934",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345063000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -52371,9 +56384,9 @@
     "LText1": "zur Karte ersch. 1934 (Paket Düsseldorf, Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1934",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345064000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -52420,9 +56433,9 @@
     "LText1": "zur Karte ersch. 1928 (Paket Arnsberg, Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1928",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345066000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -52469,9 +56482,9 @@
     "LText1": "zur Karte ersch. 1923 (Paket Arnsberg, Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1923",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345067000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -52518,9 +56531,9 @@
     "LText1": "zur Karte ersch. 1923 (Paket Arnsberg)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1923",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345069000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -52570,9 +56583,9 @@
     "LText2": "zur Karte ersch. 1972 (Paket Arnsberg)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1923",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/345070000",
     "LText4": "zur Topographischen Karte ersch. 1896",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/313999000"
@@ -52619,9 +56632,9 @@
     "LText2": "zur Karte ersch. 1977 (Paket Arnsberg)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1923",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/345071000",
     "LText4": "zur Topographischen Karte ersch. 1896",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/314005000"
@@ -53026,6 +57039,55 @@
     "coordinates": [
      [
       [
+       10.167,
+       51.2
+      ],
+      [
+       10.333,
+       51.2
+      ],
+      [
+       10.333,
+       51.1
+      ],
+      [
+       10.167,
+       51.1
+      ],
+      [
+       10.167,
+       51.2
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4827] Treffurt",
+    "Location": "Treffurt",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1907",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/350945000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
        10.667,
        51.2
       ],
@@ -53345,15 +57407,15 @@
    "properties": {
     "Title": "[Neue Nr. 4836] Naumburg",
     "Location": "Naumburg",
-    "Subtitle": "",
+    "Subtitle": "Наумбург",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1878",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-3155",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1952",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345073000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -53447,8 +57509,8 @@
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1921",
-    "ML1": "Dt. Fotothek",
-    "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004632.jpg",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/345074000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -53496,8 +57558,8 @@
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1903",
-    "ML1": "Dt. Fotothek",
-    "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004633",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/345076000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -53547,9 +57609,9 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004634",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345079000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -53590,15 +57652,15 @@
    "properties": {
     "Title": "[Neue Nr. 4842] Colditz-Großbothen",
     "Location": "Colditz-Großbothen",
-    "Subtitle": "",
+    "Subtitle": "Colditz - Grossbothen",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1900",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004635",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345081000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -53639,18 +57701,18 @@
    "properties": {
     "Title": "[Neue Nr. 4843] Leisnig-Hartha",
     "Location": "Leisnig-Hartha",
-    "Subtitle": "",
+    "Subtitle": "Leisnig",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1897",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004636",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1876",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/351396000",
+    "LText3": "zur Karte ersch. 1897",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/345083000",
     "LText4": "zur Topographischen Karte ersch. 1913",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/314220000"
@@ -53694,9 +57756,9 @@
     "LText1": "zur Karte ersch. 1897",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004637",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1897",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345122000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -53743,9 +57805,9 @@
     "LText1": "zur Karte ersch. 1931",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004638.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1931",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345130000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -53792,9 +57854,9 @@
     "LText1": "zur Karte ersch. 1927",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004639.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1915",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345133000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -53884,15 +57946,15 @@
    "properties": {
     "Title": "[Neue Nr. 4848] Dresden-N",
     "Location": "Dresden-N",
-    "Subtitle": "Sek.Moritzburg-Klotsche",
+    "Subtitle": "Moritzburg-Klotsche",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1907",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004641",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1907",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345134000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -53939,9 +58001,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004642.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345135000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -54086,9 +58148,9 @@
     "LText1": "zur Karte ersch. 1905",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004645",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1905",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345136000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -54331,9 +58393,9 @@
     "LText1": "zur Karte ersch. 1929",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/4861_(2821)_Goldberg_geol_1929_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1918",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/345140000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -54726,9 +58788,9 @@
     "LText2": "zur Karte ersch. 1931 (Paket Düsseldorf, Köln)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1912",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/346314000",
     "LText4": "zur Topographischen Karte ersch. 1902",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/315340000"
@@ -54772,9 +58834,9 @@
     "LText1": "zur Karte ersch. 1931 (Paket Düsseldorf, Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1931",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346317000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -54821,9 +58883,9 @@
     "LText1": "zur Karte ersch. 1934 (Paket Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1934",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346326000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -54870,9 +58932,9 @@
     "LText1": "zur Karte ersch. 1934 (Paket Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1934",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346331000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -54919,9 +58981,9 @@
     "LText1": "zur Karte ersch. 1934 (Paket Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1934",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346367000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -55069,9 +59131,9 @@
     "LText2": "zur Karte ersch. 2011 (Paket Arnsberg)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1923",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/346369000",
     "LText4": "zur Topographischen Karte ersch. 1896",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/315359000"
@@ -55118,9 +59180,9 @@
     "LText2": "zur Karte ersch. 1991 (Paket Arnsberg)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1923",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/346370000",
     "LText4": "zur Topographischen Karte ersch. 1896",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/315366000"
@@ -55167,9 +59229,9 @@
     "LText2": "zur Karte ersch. 1994 (Paket Arnsberg)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1934",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/346371000",
     "LText4": "zur Topographischen Karte ersch. 1916",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/315384000"
@@ -55216,9 +59278,9 @@
     "LText2": "zur Karte ersch. 2004 (Paket Arnsberg)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1934",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/346372000",
     "LText4": "zur Topographischen Karte ersch. 1908",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/315386000"
@@ -55262,9 +59324,9 @@
     "LText1": "zur Karte ersch. 1934 (Paket Arnsberg)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1934",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346375000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -55308,7 +59370,7 @@
     "Subtitle": "",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1892",
+    "LText1": "zur Karte ersch. 1899",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3557",
     "LText2": "",
@@ -55672,6 +59734,104 @@
     "coordinates": [
      [
       [
+       10.167,
+       51.1
+      ],
+      [
+       10.333,
+       51.1
+      ],
+      [
+       10.333,
+       51
+      ],
+      [
+       10.167,
+       51
+      ],
+      [
+       10.167,
+       51.1
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4927] Creuzburg in Th.",
+    "Location": "Creuzburg in Th.",
+    "Subtitle": "Creuzburg in Thüringen",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1907",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/350970000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       10.5,
+       51.1
+      ],
+      [
+       10.667,
+       51.1
+      ],
+      [
+       10.667,
+       51
+      ],
+      [
+       10.5,
+       51
+      ],
+      [
+       10.5,
+       51.1
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4929] Henningsleben",
+    "Location": "Henningsleben",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1905",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/346384000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
        10.667,
        51.1
       ],
@@ -55850,9 +60010,9 @@
     "LText1": "zur Karte ersch. 1873",
     "ML1": "Klassik Stiftung Weimar",
     "Link1": "http://haab-digital.klassik-stiftung.de/viewer/image/1302045113/1/LOG_0004/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1873",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346385000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -55899,9 +60059,9 @@
     "LText1": "zur Karte ersch. 1872",
     "ML1": "Klassik Stiftung Weimar",
     "Link1": "http://haab-digital.klassik-stiftung.de/viewer/image/1302045113/1/LOG_0004/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1872",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346388000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -56040,12 +60200,12 @@
    "properties": {
     "Title": "[Neue Nr. 4937] Osterfeld",
     "Location": "Osterfeld",
-    "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204937]%20Osterfeld&creator=Schmid,%20E.%20E.",
+    "Subtitle": "Остерфельд",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1952",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/346391000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -56090,11 +60250,11 @@
     "Title": "[Neue Nr. 4939] Meuselwitz",
     "Location": "Meuselwitz",
     "Subtitle": "",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204939]%20Meuselwitz&creator=K%C3%BChn,%20B.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1906",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/346395000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -56193,9 +60353,9 @@
     "LText1": "zur Karte ersch. 1901",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004649",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1901",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346396000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -56242,9 +60402,9 @@
     "LText1": "zur Karte ersch. 1896",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004650",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1896",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346456000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -56291,12 +60451,12 @@
     "LText1": "zur Karte ersch. 1901",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004651",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1876",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/351398000",
+    "LText3": "zur Karte ersch. 1901",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/346467000",
     "LText4": "zur Topographischen Karte ersch. 1913",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/315542000"
@@ -56334,18 +60494,18 @@
    "properties": {
     "Title": "[Neue Nr. 4944] Waldheim-Böhringen",
     "Location": "Waldheim-Böhringen",
-    "Subtitle": "",
+    "Subtitle": "Waldheim",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004652",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1878",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/350986000",
+    "LText3": "zur Karte ersch. 1899",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/346468000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -56389,9 +60549,9 @@
     "LText1": "zur Karte ersch. 1907",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004653",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1907",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346578000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -56438,9 +60598,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004654.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346588000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -56487,9 +60647,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004655.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346623000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -56539,9 +60699,9 @@
     "LText2": "zur Karte ersch. 1934",
     "ML2": "Dt. Fotothek",
     "Link2": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004657.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1934",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/346625000",
     "LText4": "zur Topographischen Karte ersch. 1912",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/315599000"
@@ -56585,9 +60745,9 @@
     "LText1": "zur Karte ersch. 1908",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004658",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1908",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346628000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -56634,9 +60794,9 @@
     "LText1": "zur Karte ersch. 1890",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004659",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1890",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346629000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -56830,9 +60990,9 @@
     "LText1": "zur Karte ersch. 1922",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004663.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1922",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346635000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -56879,9 +61039,9 @@
     "LText1": "zur Karte ersch. 1938",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004664.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1938",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346637000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -57069,15 +61229,15 @@
    "properties": {
     "Title": "[Neue Nr. 4961] Schönau",
     "Location": "Schönau",
-    "Subtitle": "Swierzawa (poln.)",
+    "Subtitle": "Schönau an der Katzbach, Swierzawa (poln.)",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1929",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/4961_(2885)_Schoenau_an_der_Katzbach_1897_UW.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1918",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346646000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -57119,11 +61279,11 @@
     "Title": "[Neue Nr. 4967] Schmolz",
     "Location": "Schmolz",
     "Subtitle": "Smolec (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%204967]%20Schmolz&creator=Barsch,%20O.;%20Teitze,%20O.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1912",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/346651000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -57170,7 +61330,7 @@
     "Subtitle": "Breslau Süd, Wrocław-Krzyki, Święta Katarzyna",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1911",
+    "LText1": "zur Karte ersch. 1912",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3455",
     "LText2": "",
@@ -57182,6 +61342,55 @@
     "LText4": "zur Topographischen Karte ersch. 1886",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/315810000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       17.167,
+       51.1
+      ],
+      [
+       17.333,
+       51.1
+      ],
+      [
+       17.333,
+       51
+      ],
+      [
+       17.167,
+       51
+      ],
+      [
+       17.167,
+       51.1
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 4969] Gr. Nädlitz",
+    "Location": "Gr. Nädlitz",
+    "Subtitle": "Groß Nädlitz, Nadolice Wielkie (poln.)",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1912",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/346653000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -57418,12 +61627,12 @@
     "LText1": "zur Karte ersch. 1930 (Paket Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1908",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346655000",
+    "LText3": "zur Karte ersch. 1930",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/346656000",
     "LText4": "zur Topographischen Karte ersch. 1914",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/316083000"
@@ -57461,7 +61670,7 @@
    "properties": {
     "Title": "[Neue Nr. 5007] Cöln",
     "Location": "Cöln",
-    "Subtitle": "",
+    "Subtitle": "Köln",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1930",
@@ -57470,12 +61679,12 @@
     "LText2": "zur Karte ersch. 1930 (Paket Köln)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
-    "LText4": "",
-    "ML4": "",
-    "Link4": ""
+    "LText3": "zur Karte ersch. 1907",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/346662000",
+    "LText4": "zur Karte ersch. 1930",
+    "ML4": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link4": "https://ifl.wissensbank.com/qlink/346658000"
    }
   },
   {
@@ -57516,9 +61725,9 @@
     "LText1": "zur Karte ersch. 1923 (Paket Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1923",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346675000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -57761,9 +61970,9 @@
     "LText1": "zur Karte ersch. 1930 (Paket Arnsberg)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1930",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346684000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -57813,9 +62022,9 @@
     "LText2": "zur Karte ersch. 1970 (Paket Arnsberg)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1930",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/346692000",
     "LText4": "zur Topographischen Karte ersch. 1899",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/316170000"
@@ -57908,12 +62117,12 @@
     "LText1": "zur Karte ersch. 1930 (Paket Arnsberg)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1930",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346701000",
+    "LText3": "Grubenfelder ersch. 1930",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/346705000",
     "LText4": "zur Topographischen Karte ersch. 1908",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/316176000"
@@ -57957,12 +62166,12 @@
     "LText1": "zur Karte ersch. 1930 (Paket Arnsberg)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1930",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346713000",
+    "LText3": "Grubenfelder ersch. 1930",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/346718000",
     "LText4": "zur Topographischen Karte ersch. 1937",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/316185000"
@@ -58349,15 +62558,64 @@
     "LText1": "zur Karte ersch. 1871",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-2216",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1924",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346732000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
     "LText4": "zur Topographischen Karte ersch. 1908",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/316279000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       10.167,
+       51
+      ],
+      [
+       10.333,
+       51
+      ],
+      [
+       10.333,
+       50.9
+      ],
+      [
+       10.167,
+       50.9
+      ],
+      [
+       10.167,
+       51
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5027] Eisenach (West)",
+    "Location": "Eisenach (West)",
+    "Subtitle": "Eisenach, Айзенах",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1912",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/350708000",
+    "LText2": "zur Karte ersch. 1952",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346751000",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -58392,15 +62650,15 @@
    "properties": {
     "Title": "[Neue Nr. 5028] Wutha",
     "Location": "Wutha",
-    "Subtitle": "Eisenach Ost",
+    "Subtitle": "Eisenach Ost, Вута",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1904",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-3111",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1952",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346752000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -58441,18 +62699,18 @@
    "properties": {
     "Title": "[Neue Nr. 5029] Fröttstedt",
     "Location": "Fröttstedt",
-    "Subtitle": "",
+    "Subtitle": "Фрётштедт",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1889",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3586",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1904",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/350698000",
+    "LText3": "zur Karte ersch. 1952",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/346753000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -58490,15 +62748,15 @@
    "properties": {
     "Title": "[Neue Nr. 5030] Gotha",
     "Location": "Gotha",
-    "Subtitle": "",
+    "Subtitle": "Гота",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1889",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3588",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1952",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346755000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -58539,15 +62797,15 @@
    "properties": {
     "Title": "[Neue Nr. 5031] Neu-Dietendorf",
     "Location": "Neu-Dietendorf",
-    "Subtitle": "Erfurt West",
+    "Subtitle": "Neudietendorf, Erfurt West, Noi -Дитендорф",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1889",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3589",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1952",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346756000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -58588,15 +62846,15 @@
    "properties": {
     "Title": "[Neue Nr. 5032] Erfurt",
     "Location": "Erfurt",
-    "Subtitle": "",
+    "Subtitle": "Эрфурт",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1873",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3590",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1952",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346759000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -58637,15 +62895,15 @@
    "properties": {
     "Title": "[Neue Nr. 5033] Weimar",
     "Location": "Weimar",
-    "Subtitle": "",
+    "Subtitle": "Веймар",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1853",
     "ML1": "Klassik Stiftung Weimar",
     "Link1": "http://haab-digital.klassik-stiftung.de/viewer/image/1302045113/1/LOG_0004/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1952",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346765000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -58686,7 +62944,7 @@
    "properties": {
     "Title": "[Neue Nr. 5034] Magdala",
     "Location": "Magdala",
-    "Subtitle": "Weimar Ost",
+    "Subtitle": "Weimar Ost, Магдала",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1855",
@@ -58695,9 +62953,9 @@
     "LText2": "zur Karte ersch. 1855",
     "ML2": "ThULB Jena",
     "Link2": "http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:urmel-fc7ff5c3-e1f1-4a9e-aeaa-d65d862270512",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1952",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/346768000",
     "LText4": "zur Topographischen Karte ersch. 1905",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/316407000"
@@ -58735,7 +62993,7 @@
    "properties": {
     "Title": "[Neue Nr. 5035] Jena",
     "Location": "Jena",
-    "Subtitle": "",
+    "Subtitle": "Иена",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1872",
@@ -58744,12 +63002,15 @@
     "LText2": "zur Karte ersch. 1908",
     "ML2": "ThULB Jena",
     "Link2": "http://nbn-resolving.de/urn:nbn:de:urmel-7c02da3d-30e5-4142-a590-3d5044c978055",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
-    "LText4": "zur Topographischen Karte ersch. 1933",
+    "LText3": "zur Karte ersch. 1929",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/346770000",
+    "LText4": "zur Karte ersch. 1952",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
-    "Link4": "https://ifl.wissensbank.com/qlink/316535000"
+    "Link4": "https://ifl.wissensbank.com/qlink/346772000",
+	"LText5": "zur Topographischen Karte ersch. 1933",
+    "ML5": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link5": "https://ifl.wissensbank.com/qlink/316535000"
    }
   },
   {
@@ -58784,18 +63045,18 @@
    "properties": {
     "Title": "[Neue Nr. 5036] Bürgel",
     "Location": "Bürgel",
-    "Subtitle": "",
+    "Subtitle": "Бюргель",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1879",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3592",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1952",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346814000",
+    "LText3": "zur Karte ersch. 1961",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/346776000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -58833,15 +63094,15 @@
    "properties": {
     "Title": "[Neue Nr. 5037] Eisenberg",
     "Location": "Eisenberg",
-    "Subtitle": "",
+    "Subtitle": "Айзенберг",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link: ",
     "LText1": "zur Karte ersch. 1879",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-4236",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1952",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346816000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -58955,6 +63216,55 @@
     "coordinates": [
      [
       [
+       12.333,
+       51
+      ],
+      [
+       12.5,
+       51
+      ],
+      [
+       12.5,
+       50.9
+      ],
+      [
+       12.333,
+       50.9
+      ],
+      [
+       12.333,
+       51
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5040] Altenburg",
+    "Location": "Altenburg",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1906",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/346823000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
        12.5,
        51
       ],
@@ -59035,9 +63345,9 @@
     "LText1": "zur Karte ersch. 1898",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004666",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1898",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346830000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -59084,12 +63394,12 @@
     "LText1": "zur Karte ersch. 1904",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004667",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1878",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/351395000",
+    "LText3": "zur Karte ersch. 1904",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/346836000",
     "LText4": "zur Topographischen Karte ersch. 1915",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/316646000"
@@ -59133,9 +63443,9 @@
     "LText1": "zur Karte ersch. 1908",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004668",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1908",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346866000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -59231,9 +63541,9 @@
     "LText1": "zur Karte ersch. 1886",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004670",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1899",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004669",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -59280,9 +63590,9 @@
     "LText1": "zur Karte ersch. 1912",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004671",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1912",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346873000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -59329,9 +63639,9 @@
     "LText1": "zur Karte ersch. 1912",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004672",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1912",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346876000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -59378,9 +63688,9 @@
     "LText1": "zur Karte ersch. 1913",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004673",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1913",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346883000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -59574,9 +63884,9 @@
     "LText1": "zur Karte ersch. 1915",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004677.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1915",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346889000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -59623,9 +63933,9 @@
     "LText1": "zur Karte ersch. 1930",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004678.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1930",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346891000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -59672,9 +63982,9 @@
     "LText1": "zur Karte ersch. 1930",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004679.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1937",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/346892000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -59713,8 +64023,8 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 5057] Wigendsthal – Tafelfichte",
-    "Location": "Wigendsthal – Tafelfichte",
+    "Title": "[Neue Nr. 5057 / 5157] Wigandsthal-Tafelfichte",
+    "Location": "Wigandsthal-Tafelfichte",
     "Subtitle": "Pobiedna (poln.)",
     "Layer": "GK25 / extern",
     "Text": "Link:",
@@ -59724,55 +64034,6 @@
     "LText2": "zur Karte ersch. 1925",
     "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5057_u._5137_(2944_u._3006)_Wigandsthal-Tafelfichte_geol._1925.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
-    "LText4": "",
-    "ML4": "",
-    "Link4": ""
-   }
-  },
-  {
-   "type": "Feature",
-   "geometry": {
-    "type": "Polygon",
-    "coordinates": [
-     [
-      [
-       15.167,
-       51
-      ],
-      [
-       15.333,
-       51
-      ],
-      [
-       15.333,
-       50.9
-      ],
-      [
-       15.167,
-       50.9
-      ],
-      [
-       15.167,
-       51
-      ]
-     ]
-    ]
-   },
-   "properties": {
-    "Title": "[Neue Nr. 5057 / 5157] Wigandsthal-Tafelfichte",
-    "Location": "Wigandsthal-Tafelfichte",
-    "Subtitle": "",
-    "Layer": "GK25 / extern",
-    "Text": "Link:",
-    "LText1": "zur Karte ersch. 1925",
-    "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
-    "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5057_(2944_u._3006)_Wigendsthal_-Tafelfichte_geol_1925_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -60082,6 +64343,104 @@
     "coordinates": [
      [
       [
+       17,
+       51
+      ],
+      [
+       17.167,
+       51
+      ],
+      [
+       17.167,
+       50.9
+      ],
+      [
+       17,
+       50.9
+      ],
+      [
+       17,
+       51
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5068] Rothsürben",
+    "Location": "Rothsürben",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1912",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/346895000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       17.167,
+       51
+      ],
+      [
+       17.333,
+       51
+      ],
+      [
+       17.333,
+       50.9
+      ],
+      [
+       17.167,
+       50.9
+      ],
+      [
+       17.167,
+       51
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5069] Ohlau",
+    "Location": "Ohlau",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1912",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/346896000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
        6,
        50.9
       ],
@@ -60260,9 +64619,9 @@
     "LText1": "zur Karte ersch. 1908 (Paket Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1908",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347341000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -60309,12 +64668,12 @@
     "LText1": "zur Karte ersch. 1930 (Paket Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1908",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347344000",
+    "LText3": "zur Karte ersch. 1930",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/347343000",
     "LText4": "zur Topographischen Karte ersch. 1895",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/317203000"
@@ -60358,12 +64717,12 @@
     "LText1": "zur Karte ersch. 1930 (Paket Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1908",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347350000",
+    "LText3": "zur Karte ersch. 1930",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/347347000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -60655,9 +65014,9 @@
     "LText2": "zur Karte ersch. 1968 (Paket Arnsberg)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1930",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/347363000",
     "LText4": "zur Topographischen Karte ersch. 1899",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/317246000"
@@ -60704,9 +65063,9 @@
     "LText2": "zur Karte ersch. 2001 (Paket Arnsberg)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1930",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/347371000",
     "LText4": "zur Topographischen Karte ersch. 1899",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/317254000"
@@ -60799,15 +65158,64 @@
     "LText1": "zur Karte ersch. 1930 (Paket Arnsberg)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
+    "LText2": "zur Karte ersch. 1930",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347372000",
+    "LText3": "Grubenfelder ersch. 1930",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/347373000",
+    "LText4": "zur Topographischen Karte ersch. 1891",
+    "ML4": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link4": "https://ifl.wissensbank.com/qlink/317257000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       8.667,
+       50.9
+      ],
+      [
+       8.833,
+       50.9
+      ],
+      [
+       8.833,
+       50.8
+      ],
+      [
+       8.667,
+       50.8
+      ],
+      [
+       8.667,
+       50.9
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5118] Marburg",
+    "Location": "Marburg",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1915",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/347384000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
     "LText3": "",
     "ML3": "",
     "Link3": "",
-    "LText4": "zur Topographischen Karte ersch. 1891",
-    "ML4": "Leibniz-Institut für Länderkunde (IFL)",
-    "Link4": "https://ifl.wissensbank.com/qlink/317257000"
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -61142,9 +65550,9 @@
     "LText1": "zur Karte ersch. 1888",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-2217",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1926",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347394000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -61191,15 +65599,64 @@
     "LText1": "zur Karte ersch. 1888",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-2218",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1924",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347396000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
     "LText4": "zur Topographischen Karte ersch. 1907",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/317343000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       10.167,
+       50.9
+      ],
+      [
+       10.333,
+       50.9
+      ],
+      [
+       10.333,
+       50.8
+      ],
+      [
+       10.167,
+       50.8
+      ],
+      [
+       10.167,
+       50.9
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5127] Salzungen",
+    "Location": "Salzungen",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1915",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/350766000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -61258,34 +65715,24 @@
     "coordinates": [
      [
       [
-       10,
-       500,
-       50,
-       900
+       10.5,
+       50.9
       ],
       [
-       10,
-       667,
-       50,
-       900
+       10.667,
+       50.9
       ],
       [
-       10,
-       667,
-       50,
-       800
+       10.667,
+       50.8
       ],
       [
-       10,
-       500,
-       50,
-       800
+       10.5,
+       50.8
       ],
       [
-       10,
-       500,
-       50,
-       900
+       10.5,
+       50.9
       ]
      ]
     ]
@@ -61293,15 +65740,15 @@
    "properties": {
     "Title": "[Neue Nr. 5129] Waltershausen",
     "Location": "Waltershausen",
-    "Subtitle": "Walt.-Friedrichroda",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205129]%20Waltershausen-Friedrichroda&creator=Scheibe,%20R;%20Weiss,%20E.",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Subtitle": "Waltershausen-Friedrichroda, Вальтерсхаузен",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1914",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/347401000",
+    "LText2": "zur Karte ersch. 1954",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347404000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -61397,9 +65844,9 @@
     "LText1": "zur Karte ersch. 1920",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3598",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1887",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347413000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -61593,9 +66040,9 @@
     "LText1": "zur Karte ersch. 1884",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3618",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1929",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347420000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -61740,9 +66187,9 @@
     "LText1": "zur Karte ersch. 1906",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004745.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1912",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347440000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -61838,9 +66285,9 @@
     "LText1": "zur Karte ersch. 1904",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004680",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1904",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347483000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -61887,9 +66334,9 @@
     "LText1": "zur Karte ersch. 1900",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004681",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347484000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -61936,9 +66383,9 @@
     "LText1": "zur Karte ersch. 1901",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004682",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1901",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347485000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -61988,9 +66435,9 @@
     "LText2": "zur Karte ersch. 1906",
     "ML2": "Dt. Fotothek",
     "Link2": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004684.jpg",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1906",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/347486000",
     "LText4": "zur Topographischen Karte ersch. 1915",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/317594000"
@@ -62034,9 +66481,9 @@
     "LText1": "zur Karte ersch. 1905",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004685",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1905",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347487000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -62077,18 +66524,18 @@
    "properties": {
     "Title": "[Neue Nr. 5145] Brand-Oederan",
     "Location": "Brand-Oederan",
-    "Subtitle": "",
+    "Subtitle": "Brand-Öderan",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1908",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004686",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1885",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347489000",
+    "LText3": "zur Karte ersch. 1908",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/347490000",
     "LText4": "zur Topographischen Karte ersch. 1916",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/317618000"
@@ -62132,9 +66579,9 @@
     "LText1": "zur Karte ersch. 1924",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004687.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1924",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347491000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -62181,9 +66628,9 @@
     "LText1": "zur Karte ersch. 1916",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004688.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1916",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347492000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -62230,9 +66677,9 @@
     "LText1": "zur Karte ersch. 1915",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004689.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1915",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347494000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -62279,9 +66726,9 @@
     "LText1": "zur Karte ersch. 1913",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004690.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1913",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347501000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -62426,9 +66873,9 @@
     "LText1": "zur Karte ersch. 1895",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004693",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1895",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347502000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -62622,9 +67069,9 @@
     "LText1": "zur Karte ersch. 1881",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004728",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1913",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347504000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -62867,9 +67314,9 @@
     "LText1": "zur Karte ersch. 1928",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://doi.org/10.23689/fidgeo-3222",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1919",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347517000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -62916,6 +67363,55 @@
     "LText1": "zur Karte ersch. 1929",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5167_(3136)_Tiepliwoda_geol_1929_UPozn.jpg",
+    "LText2": "zur Karte ersch. 1914",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347518000",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       17,
+       50.9
+      ],
+      [
+       17.167,
+       50.9
+      ],
+      [
+       17.167,
+       50.8
+      ],
+      [
+       17,
+       50.8
+      ],
+      [
+       17,
+       50.9
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5168] Wäldchen",
+    "Location": "Wäldchen",
+    "Subtitle": "Boreczek (poln.)",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1914",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/347519000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -62960,11 +67456,11 @@
     "Title": "[Neue Nr. 5169] Wansen",
     "Location": "Wansen",
     "Subtitle": "Wiązów (poln.)",
-    "Layer": "GK25 / bestellbar (FID GEO)",
-    "Text": "Bedarf melden: ",
-    "LText1": "FID GEO",
-    "ML1": "DigiWunschkarte",
-    "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205169]%20Wansen&creator=Barsch,%20O.",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1914",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/347520000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -63161,9 +67657,9 @@
     "LText1": "zur Karte ersch. 1909 (Paket Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1909",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347522000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -63210,9 +67706,9 @@
     "LText1": "zur Karte ersch. 1909 (Paket Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1909",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347524000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -63308,9 +67804,9 @@
     "LText1": "zur Karte ersch. 1923 (Paket Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1923",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347525000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -63455,9 +67951,9 @@
     "LText1": "zur Karte ersch. 1934 (Paket Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1934",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347526000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -63504,9 +68000,9 @@
     "LText1": "zur Karte ersch. 1934 (Paket Arnsberg)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1934",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347527000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -63553,9 +68049,9 @@
     "LText1": "zur Karte ersch. 1934 (Paket Arnsberg)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1934",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347528000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -63602,9 +68098,9 @@
     "LText1": "zur Karte ersch. 1907 (Paket Arnsberg)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1907",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347529000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -63669,6 +68165,104 @@
     "coordinates": [
      [
       [
+       8.5,
+       50.8
+      ],
+      [
+       8.667,
+       50.8
+      ],
+      [
+       8.667,
+       50.7
+      ],
+      [
+       8.5,
+       50.7
+      ],
+      [
+       8.5,
+       50.8
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5217] Gladenbach",
+    "Location": "Gladenbach",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1933",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/347531000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       8.667,
+       50.8
+      ],
+      [
+       8.833,
+       50.8
+      ],
+      [
+       8.833,
+       50.7
+      ],
+      [
+       8.667,
+       50.7
+      ],
+      [
+       8.667,
+       50.8
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5218] Niederwalgern",
+    "Location": "Niederwalgern",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1915",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/347533000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
        8.833,
        50.8
       ],
@@ -63711,6 +68305,55 @@
     "Link4": ""
    }
   },
+   {
+	"type": "Feature","geometry": {
+	"type": "Polygon",
+	"coordinates": 
+	[
+	[
+	[
+	9.167,
+	50.8
+	],
+	[
+	9.333,
+	50.8
+	],
+	[
+	9.333,
+	50.7
+	],
+	[
+	9.167,
+	50.7
+	],
+	[
+	9.167,
+	50.8
+	]
+	]
+	]
+	},
+	"properties": {
+	"Title":  "[Neue Nr. 5221] Alsfeld",  
+	"Location": "", 
+	"Subtitle": "",
+	"Layer": "GK25 / GEO-LEOe-docs",
+	"Text": "Link:",
+	"LText1": "zur Karte ersch.1926",
+	"ML1": "GEO-LEOe-docs",
+	"Link1": "https://doi.org/10.23689/fidgeo-5395",
+	"LText2": "",
+	"ML2": "",
+	"Link2": "",
+	"LText3": "",
+	"ML3": "",
+	"Link3": "",
+	"LText4": "",
+	"ML4": "",
+	"Link4": "" 
+	}
+	},
   {
    "type": "Feature",
    "geometry": {
@@ -63847,9 +68490,9 @@
     "LText1": "zur Karte ersch. 1888",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-2219",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1926",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347535000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -64233,15 +68876,15 @@
    "properties": {
     "Title": "[Neue Nr. 5234] Rudolstadt",
     "Location": "Rudolstadt",
-    "Subtitle": "",
+    "Subtitle": "Рудольштадт",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link: ",
     "LText1": "zur Karte ersch. 1884",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://doi.org/10.23689/fidgeo-3421",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1952",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347538000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -64288,9 +68931,9 @@
     "LText1": "zur Karte ersch. 1855",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://doi.org/10.23689/fidgeo-3420",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1956",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347546000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -64527,15 +69170,15 @@
    "properties": {
     "Title": "[Neue Nr. 5240] Zwickau",
     "Location": "Zwickau",
-    "Subtitle": "",
+    "Subtitle": "Zwickau - Werdau",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1900",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004695",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347553000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -64680,9 +69323,9 @@
     "LText1": "zur Karte ersch. 1911",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004698",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1911",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347554000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -64729,12 +69372,12 @@
     "LText1": "zur Karte ersch. 1904",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004699",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1879",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/350989000",
+    "LText3": "zur Karte ersch. 1904",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/347555000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -64778,9 +69421,9 @@
     "LText1": "zur Karte ersch. 1931",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004700.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1931",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347558000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -64827,9 +69470,9 @@
     "LText1": "zur Karte ersch. 1931",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004701.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1931",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347559000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -64974,9 +69617,9 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004704.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347561000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -65072,9 +69715,9 @@
     "LText1": "zur Karte ersch. 1940",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3444",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1913",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347562000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -65121,9 +69764,9 @@
     "LText1": "zur Karte ersch. 1940",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5262_(3072)_Landeshut_geol_1940_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1913",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/347563000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -65384,37 +70027,86 @@
     "coordinates": [
      [
       [
-       6.167,
+       17,
+       50.8
+      ],
+      [
+       17.167,
+       50.8
+      ],
+      [
+       17.167,
        50.7
       ],
       [
-       6.333,
+       17,
        50.7
       ],
       [
-       6.333,
-       50.6
-      ],
-      [
-       6.167,
-       50.6
-      ],
-      [
-       6.167,
-       50.7
+       17,
+       50.8
       ]
      ]
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 5302  /5303] Rötgen-Eupen",
-    "Location": "Rötgen-Eupen",
+    "Title": "[Neue Nr. 5268] Strehlen",
+    "Location": "Strehlen",
     "Subtitle": "",
-    "Layer": "GK25 / GEO-LEOe-docs",
+    "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1937",
-    "ML1": "GEO-LEOe-docs",
-    "Link1": "http://dx.doi.org/10.23689/fidgeo-3112",
+    "LText1": "zur Karte ersch. 1919",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/347568000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       17.167,
+       50.8
+      ],
+      [
+       17.333,
+       50.8
+      ],
+      [
+       17.333,
+       50.7
+      ],
+      [
+       17.167,
+       50.7
+      ],
+      [
+       17.167,
+       50.8
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5269] Marienau",
+    "Location": "Marienau",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1919",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/347569000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -65456,17 +70148,17 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 5303] Roetgen",
-    "Location": "Roetgen",
-    "Subtitle": "",
-    "Layer": "GK25 / extern",
+    "Title": "[Neue Nr. 5302 / 5303] Rötgen-Eupen",
+    "Location": "Rötgen-Eupen",
+    "Subtitle": "Roetgen",
+    "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1937 (Paket Köln)",
-    "ML1": "OpenGeodata.NRW",
-    "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText1": "zur Karte ersch. 1937",
+    "ML1": "GEO-LEOe-docs",
+    "Link1": "http://dx.doi.org/10.23689/fidgeo-3112",
+    "LText2": "zur Karte ersch. 1937 (Paket Köln)",
+    "ML2": "OpenGeodata.NRW",
+    "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -65611,9 +70303,9 @@
     "LText1": "zur Karte ersch. 1981 (Paket Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1909",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349123000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -65712,9 +70404,9 @@
     "LText2": "zur Karte ersch. 1980 (Paket Köln)",
     "ML2": "OpenGeodata.NRW",
     "Link2": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25analog/",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1923",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/349122000",
     "LText4": "zur Topographischen Karte ersch. 1910",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/318824000"
@@ -65816,6 +70508,55 @@
     "LText4": "zur Topographischen Karte ersch. 1901",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/318826000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       7.667,
+       50.7
+      ],
+      [
+       8,
+       50.7
+      ],
+      [
+       7.833,
+       50.6
+      ],
+      [
+       7.667,
+       50.6
+      ],
+      [
+       7.667,
+       50.7
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5312] Hachenburg",
+    "Location": "Hachenburg",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1934",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349099000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -66021,6 +70762,152 @@
     "coordinates": [
      [
       [
+       8.5,
+       50.7
+      ],
+      [
+       8.667,
+       50.7
+      ],
+      [
+       8.667,
+       50.6
+      ],
+      [
+       8.5,
+       50.6
+      ],
+      [
+       8.5,
+       50.7
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5317] Rodheim",
+    "Location": "Rodheim",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1933",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349093000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       8.667,
+       50.7
+      ],
+      [
+       8.833,
+       50.7
+      ],
+      [
+       8.833,
+       50.6
+      ],
+      [
+       8.667,
+       50.6
+      ],
+      [
+       8.667,
+       50.7
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5318] Allendorf",
+    "Location": "Allendorf",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/350819000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+	"type": "Feature","geometry":{
+		  "type": "Polygon",
+		  "coordinates": [
+		  [
+		  [
+		  9.333,
+		  50.7
+		  ],
+		  [
+		  9.5,
+		  50.7
+		  ],
+		  [
+		  9.5,
+		  50.6
+		  ],
+		  [
+		  9.333,
+		  50.6
+		  ],
+		  [
+		  9.333,
+		  50.7
+		  ]
+		  ]
+		  ]
+		  },
+	"properties": {
+	"Title":  "[Neue Nr. 5322] Lauterbach",   
+	"Location": "",
+	"Subtitle": "",
+	"Layer": "GK25 / GEO-LEOe-docs",
+	"Text": "Link:",
+	"LText1": "zur Karte ersch. 1935",
+	"ML1": "GEO-LEOe-docs",
+	"Link1": "https://doi.org/10.23689/fidgeo-5396",
+	"LText2": "", 
+	"ML2": "",
+	"Link2": "",
+	"LText3": "", 
+	"ML3": "",
+	"Link3": "",
+	"LText4": "",
+	"ML4": "",
+	"Link4": "" 
+	}
+	},
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
        9.667,
        50.7
       ],
@@ -66052,6 +70939,55 @@
     "LText1": "zur Karte ersch. 1912",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://doi.org/10.23689/fidgeo-3415",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       9.833,
+       50.7
+      ],
+      [
+       10,
+       50.7
+      ],
+      [
+       10,
+       50.6
+      ],
+      [
+       9.833,
+       50.6
+      ],
+      [
+       9.833,
+       50.7
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5325] Spahl",
+    "Location": "Spahl",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1910",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/350773000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -66159,6 +71095,55 @@
     "LText4": "zur Topographischen Karte ersch. 1907",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/318868000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       10.5,
+       50.7
+      ],
+      [
+       10.667,
+       50.7
+      ],
+      [
+       10.667,
+       50.6
+      ],
+      [
+       10.5,
+       50.6
+      ],
+      [
+       10.5,
+       50.7
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5329] Mehlis",
+    "Location": "Mehlis",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1915",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349089000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -66346,9 +71331,9 @@
     "LText1": "zur Karte ersch. 1889",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3689",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1929",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349088000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -66542,9 +71527,9 @@
     "LText1": "zur Karte ersch. 1877",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004746.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1877",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349085000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -66689,9 +71674,9 @@
     "LText1": "zur Karte ersch. 1884",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004707",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1884",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349084000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -66738,12 +71723,12 @@
     "LText1": "zur Karte ersch. 1900",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004708",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1883",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349081000",
+    "LText3": "zur Karte ersch. 1900",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/349083000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -66787,9 +71772,9 @@
     "LText1": "zur Karte ersch. 1910",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004709",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1910",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/351405000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -66836,9 +71821,9 @@
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004710",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1899",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349080000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -66885,12 +71870,12 @@
     "LText1": "zur Karte ersch. 1903",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004711",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1903",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349079000",
+    "LText3": "zur Karte ersch. 1878",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/350988000",
     "LText4": "zur Topographischen Karte ersch. 1924",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/319133000"
@@ -66934,9 +71919,9 @@
     "LText1": "zur Karte ersch. 1926",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004712.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1926",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349078000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -67424,9 +72409,9 @@
     "LText1": "zur Karte ersch. 1937 (Paket Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1937",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349181000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -67473,9 +72458,9 @@
     "LText1": "zur Karte ersch. 1937 (Paket Köln)",
     "ML1": "OpenGeodata.NRW",
     "Link1": "https://www.opengeodata.nrw.de/produkte/geologie/geologie/GK/ISGK25/GK25PRanalog/",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1937",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349180000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -67785,6 +72770,249 @@
     "coordinates": [
      [
       [
+       8.5,
+       50.6
+      ],
+      [
+       8.667,
+       50.6
+      ],
+      [
+       8.667,
+       50.5
+      ],
+      [
+       8.5,
+       50.5
+      ],
+      [
+       8.5,
+       50.6
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5417] Wetzlar - Großen-Linden",
+    "Location": "Wetzlar - Großen-Linden",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1928",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349157000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+	"ML4": "",
+	"Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       8.667,
+       50.6
+      ],
+      [
+       8.833,
+       50.6
+      ],
+      [
+       8.833,
+       50.5
+      ],
+      [
+       8.667,
+       50.5
+      ],
+      [
+       8.667,
+       50.6
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5418] Giessen",
+    "Location": "Giessen",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1911",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/350821000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+	"ML4": "",
+	"Link4": ""
+   }
+  },
+   {
+	 "type": "Feature",
+	 "geometry": {
+		 "type": "Polygon",
+		 "coordinates": [
+		 [
+		 [
+		 9,
+		 50.6
+		 ],
+		 [
+		 9.167,
+		 50.6
+		 ],
+		 [
+		 9.167,
+		 50.5
+		 ],
+		 [
+		 9,
+		 50.5
+		 ],
+		 [
+		 9,
+		 50.6
+		 ]
+		 ]
+		 ]
+		 },
+		 "properties": { 
+		 "Title":  "[Neue Nr. 5420] Schotten", 
+		 "Location": "",
+		 "Subtitle": "",
+		 "Layer": "GK25 / GEO-LEOe-docs",
+		 "Text": "Link:",
+		 "LText1": "zur Karte ersch. 1924",
+		 "ML1": "GEO-LEOe-docs",
+		 "Link1": "https://doi.org/10.23689/fidgeo-5398",
+		 "LText2": "",
+		 "ML2": "",
+		 "Link2": "",
+		 "LText3": "",
+		 "ML3": "",
+		 "Link3": "",
+		 "LText4": "",
+		 "ML4": "",
+		 "Link4": "" 
+		 }
+		 },
+ {
+	 "type": "Feature","geometry": {
+		 "type": "Polygon",
+		 "coordinates": [
+		 [
+		 [
+		 9.167,
+		 50.6
+		 ],
+		 [
+		 9.333,
+		 50.6
+		 ],
+		 [
+		 9.333,
+		 50.5
+		 ],
+		 [9.167,
+		 50.5
+		 ],
+		 [
+		 9.167,
+		 50.6
+		 ]
+		 ]
+		 ]
+		 },
+		 "properties": { 
+		 "Title":  "[Neue Nr. 5421] Ulrichstein",
+		 "Location": "",
+		 "Subtitle": "",
+		 "Layer": "GK25 / GEO-LEOe-docs",
+		 "Text": "Link:",
+		 "LText1": "zur Karte ersch. 1929",
+		 "ML1": "GEO-LEOe-docs",
+		 "Link1": "https://doi.org/10.23689/fidgeo-5399",
+		 "LText2": "",
+		 "ML2": "",
+		 "Link2": "",
+		 "LText3": "",
+		 "ML3": "",
+		 "Link3": "",
+		 "LText4": "",
+		 "ML4": "", 
+		 "Link4": "" 
+		 }
+		 },
+ {
+	 "type": "Feature",
+	 "geometry": {
+		 "type": "Polygon",
+		 "coordinates": [
+		 [
+		 [
+		 9.333,
+		 50.6
+		 ],
+		 [
+		 9.5,
+		 50.6
+		 ],
+		 [
+		 9.5,
+		 50.5
+		 ],
+		 [
+		 9.333,
+		 50.5
+		 ],
+		 [
+		 9.333,
+		 50.6
+		 ]
+		 ]
+		 ]
+		 },
+		 "properties": { 
+		 "Title":  "[Neue Nr. 5422] Herbstein",  
+		 "Location": "",
+		 "Subtitle": "",
+		 "Layer": "GK25 / bestellbar (FID GEO)",
+		 "Text": "Bedarf melden: ",
+		 "LText1": "FID GEO",
+		 "ML1": "DigiWunschkarte",
+		 "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205422]%20Herbstein&creator=Schottler,%20Wilhelm",
+		 "LText2": "",
+		 "ML2": "",
+		 "Link2": "",
+		 "LText3": "",
+		 "ML3": "",
+		 "Link3": "", 
+		 "LText4": "",
+		 "ML4": "",
+		 "Link4": "" 
+		 }
+		 },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
        9.5,
        50.6
       ],
@@ -67932,6 +73160,55 @@
     "coordinates": [
      [
       [
+       10,
+       50.6
+      ],
+      [
+       10.167,
+       50.6
+      ],
+      [
+       10.167,
+       50.5
+      ],
+      [
+       10,
+       50.5
+      ],
+      [
+       10,
+       50.6
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5426] Hilders",
+    "Location": "Hilders",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1910",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/350800000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
        10.167,
        50.6
       ],
@@ -67981,6 +73258,55 @@
     "coordinates": [
      [
       [
+       10.333,
+       50.6
+      ],
+      [
+       10.5,
+       50.6
+      ],
+      [
+       10.5,
+       50.5
+      ],
+      [
+       10.333,
+       50.5
+      ],
+      [
+       10.333,
+       50.6
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5428] Meiningen",
+    "Location": "Meiningen",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1884",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349146000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
        10.5,
        50.6
       ],
@@ -68009,7 +73335,7 @@
     "Subtitle": "",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1888",
+    "LText1": "zur Karte ersch. 1892",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3696",
     "LText2": "",
@@ -68153,15 +73479,15 @@
    "properties": {
     "Title": "[Neue Nr. 5432] Gross-Breitenbach",
     "Location": "Gross-Breitenbach",
-    "Subtitle": "Neuhaus am Rennweg",
+    "Subtitle": "Neuhaus am Rennweg, Großbreitenbach, Гросc-Брайтенбах",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1883",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://dx.doi.org/10.23689/fidgeo-3153",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1953",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349145000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -68208,9 +73534,9 @@
     "LText1": "zur Karte ersch. 1892",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3700",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1929",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349142000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -68404,9 +73730,9 @@
     "LText1": "zur Karte ersch. 1912",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004747.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1912",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349140000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -68453,9 +73779,9 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004714",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349139000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -68502,12 +73828,12 @@
     "LText1": "zur Karte ersch. 1910",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004715",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1885",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349138000",
+    "LText3": "zur Karte ersch. 1910",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/349134000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -68551,12 +73877,12 @@
     "LText1": "zur Karte ersch. 1912",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004716",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1884",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349130000",
+    "LText3": "zur Karte ersch. 1912",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/349131000",
     "LText4": "zur Topographischen Karte ersch. 1917",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/319670000"
@@ -68600,9 +73926,9 @@
     "LText1": "zur Karte ersch. 1897",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004717",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1882",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349129000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -68649,9 +73975,9 @@
     "LText1": "zur Karte ersch. 1896",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004718",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1896",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349128000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -68698,9 +74024,9 @@
     "LText1": "zur Karte ersch. 1900",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004719",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1900",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349127000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -68747,9 +74073,9 @@
     "LText1": "zur Karte ersch. 1902",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004720",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1902",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349126000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -69059,6 +74385,104 @@
     "coordinates": [
      [
       [
+       7.167,
+       50.5
+      ],
+      [
+       7.333,
+       50.5
+      ],
+      [
+       7.333,
+       50.4
+      ],
+      [
+       7.167,
+       50.4
+      ],
+      [
+       7.167,
+       50.5
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5509] Burgbrohl",
+    "Location": "Burgbrohl",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1936",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349358000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       7.5,
+       50.5
+      ],
+      [
+       7.667,
+       50.5
+      ],
+      [
+       7.667,
+       50.4
+      ],
+      [
+       7.5,
+       50.4
+      ],
+      [
+       7.5,
+       50.5
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5511] Bendorf",
+    "Location": "Bendorf",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1897",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349356000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
        7.667,
        50.5
       ],
@@ -69188,9 +74612,9 @@
     "LText1": "zur Karte ersch. 1890",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3704",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Lagerstätten erch. 1890",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349314000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -69297,6 +74721,153 @@
     "Link4": ""
    }
   },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       8.5,
+       50.5
+      ],
+      [
+       8.667,
+       50.5
+      ],
+      [
+       8.667,
+       50.4
+      ],
+      [
+       8.5,
+       50.4
+      ],
+      [
+       8.5,
+       50.5
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5517] Kleeberg-Kirchgöns",
+    "Location": "Kleeberg-Kirchgöns",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1929",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349308000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+   {
+	"type": "Feature",
+	"geometry": {
+	"type": "Polygon",
+	"coordinates": [
+	[
+	[
+	8.833,
+	50.5
+	],
+	[
+	9,
+	50.5
+	],
+	[
+	9,
+	50.4
+	],
+	[
+	8.833,
+	50.4
+	],
+	[
+	8.833,
+	50.5
+	]
+	]
+	]
+	},
+	"properties": { 
+	"Title":  "[Neue Nr. 5519] Hungen", 
+	"Location": "",
+	"Subtitle": "",
+	"Layer": "GK25 / GEO-LEOe-docs",
+	"Text": "Link:",
+	"LText1": "zur Karte ersch.1921",
+	"ML1": "GEO-LEOe-docs",
+	"Link1": "https://doi.org/10.23689/fidgeo-5388",
+	"LText2": "",
+	"ML2": "",
+	"Link2": "",
+	"LText3": "", 
+	"ML3": "",
+	"Link3": "",
+	"LText4": "",
+	"ML4": "",
+	"Link4": ""
+ }
+ },
+  {
+	 "type": "Feature",
+	 "geometry": {
+		 "type": "Polygon",
+		 "coordinates": [
+		 [
+		 [
+		 9,
+		 50.5
+		 ],
+		 [
+		 9.167,
+		 50.5
+		 ],
+		 [
+		 9.167,
+		 50.4
+		 ],
+		 [
+		 9,
+		 50.4
+		 ],
+		 [
+		 9,
+		 50.5
+		 ]
+		 ]
+		 ]
+		 },
+		 "properties": {
+			 "Title":  "[Neue Nr. 5520] Nidda",
+			 "Location": "", 
+			 "Subtitle": "",
+			 "Layer": "GK25 / bestellbar (FID GEO)",
+			 "Text": "Bedarf melden: ", 
+			 "LText1": "FID GEO",
+			 "ML1": "DigiWunschkarte",
+			 "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205520]%20Nidda&creator=Schottler,%20W.",
+			 "LText2": "",
+			 "ML2": "",
+			 "Link2": "",
+			 "LText3": "",
+			 "ML3": "",
+			 "Link3": "",
+			 "LText4": "",
+			 "ML4": "",
+			 "Link4": "" 
+			 }
+			 },
   {
    "type": "Feature",
    "geometry": {
@@ -69482,9 +75053,9 @@
     "LText1": "zur Karte ersch. 1892",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3718",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1910",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349294000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -69972,9 +75543,9 @@
     "LText1": "zur Karte ersch. 1912",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004748.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1912",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349267000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -70021,9 +75592,9 @@
     "LText1": "zur Karte ersch. 1896",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004722.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1886",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/351401000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -70070,9 +75641,9 @@
     "LText1": "zur Karte ersch. 1914",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004723.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1914",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349265000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -70119,12 +75690,12 @@
     "LText1": "zur Karte ersch. 1909",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004724",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1884",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349258000",
+    "LText3": "zur Karte ersch. 1909",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/349262000",
     "LText4": "",
     "ML4": "",
     "Link4": ""
@@ -70168,12 +75739,12 @@
     "LText1": "zur Karte ersch. 1899",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004725",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1882",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349256000",
+    "LText3": "zur Karte ersch. 1899",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/349431000",
     "LText4": "zur Topographischen Karte ersch. 1934",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/320519000"
@@ -70217,12 +75788,12 @@
     "LText1": "zur Karte ersch. 1900",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004726",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText2": "zur Karte ersch. 1884",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349198000",
+    "LText3": "zur Karte ersch. 1900",
+    "ML3": "https://ifl.wissensbank.com/qlink/349194000",
+    "Link3": "Leibniz-Institut für Länderkunde (IFL)",
     "LText4": "zur Topographischen Karte ersch. 1925",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/320520000"
@@ -70266,9 +75837,9 @@
     "LText1": "zur Karte ersch. 1904",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004727.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1914",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349191000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -70462,9 +76033,9 @@
     "LText1": "zur Karte ersch. 1913",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5578_(3257)_Broslawitz_geol_1913_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1913",
+    "ML2": "https://ifl.wissensbank.com/qlink/349188000",
+    "Link2": "Leibniz-Institut für Länderkunde (IFL)",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -70511,15 +76082,67 @@
     "LText1": "zur Karte ersch. 1913",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5579_5580_(3258_3259)_Tarnowitz-Brinitz_geol_1913_UPozn.jpg",
+    "LText2": "zur Karte ersch. 1913",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349182000",
+    "LText3": "Erzkarte ersch. 1913",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/349184000",
+    "LText4": "Flöz- und Flurkarte ersch. 1910",
+    "ML4": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link4": "https://ifl.wissensbank.com/qlink/349433000",
+    "LText5": "zur Topographischen Karte ersch. 1884",
+    "ML5": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link5": "https://ifl.wissensbank.com/qlink/320828000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       7.5,
+       50.4
+      ],
+      [
+       7.667,
+       50.4
+      ],
+      [
+       7.667,
+       50.3
+      ],
+      [
+       7.5,
+       50.3
+      ],
+      [
+       7.5,
+       50.4
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5609] Mayen",
+    "Location": "Mayen",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1936",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349359000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
     "LText3": "",
     "ML3": "",
     "Link3": "",
-    "LText4": "zur Topographischen Karte ersch. 1884",
-    "ML4": "Leibniz-Institut für Länderkunde (IFL)",
-    "Link4": "https://ifl.wissensbank.com/qlink/320828000"
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -70560,9 +76183,9 @@
     "LText1": "zur Karte ersch. 1891",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3569",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1934",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349361000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -70756,15 +76379,260 @@
     "LText1": "zur Karte ersch. 1881; 1885 [Lagerstätten]",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://doi.org/10.23689/fidgeo-3225",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "Lagerstätten von Erzen und Metallen ersch. 1885",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/350899000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
     "LText4": "zur Topographischen Karte ersch. 1907",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/320977000"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       8.333,
+       50.4
+      ],
+      [
+       8.5,
+       50.4
+      ],
+      [
+       8.5,
+       50.3
+      ],
+      [
+       8.333,
+       50.3
+      ],
+      [
+       8.333,
+       50.4
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5616] Grävenwiesbach",
+    "Location": "Grävenwiesbach",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1927",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349375000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       8.5,
+       50.4
+      ],
+      [
+       8.667,
+       50.4
+      ],
+      [
+       8.667,
+       50.3
+      ],
+      [
+       8.5,
+       50.3
+      ],
+      [
+       8.5,
+       50.4
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5617] Usingen - Fauerbach",
+    "Location": "Usingen - Fauerbach",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1929",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349376000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       9.333,
+       50.4
+      ],
+      [
+       9.5,
+       50.4
+      ],
+      [
+       9.5,
+       50.3
+      ],
+      [
+       9.333,
+       50.3
+      ],
+      [
+       9.333,
+       50.4
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5622] Steinau",
+    "Location": "Steinau",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349377000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       9.5,
+       50.4
+      ],
+      [
+       9.667,
+       50.4
+      ],
+      [
+       9.667,
+       50.3
+      ],
+      [
+       9.5,
+       50.3
+      ],
+      [
+       9.5,
+       50.4
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5623] Schlüchtern",
+    "Location": "Schlüchtern",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/350812000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       9.667,
+       50.4
+      ],
+      [
+       9.833,
+       50.4
+      ],
+      [
+       9.833,
+       50.3
+      ],
+      [
+       9.667,
+       50.3
+      ],
+      [
+       9.667,
+       50.4
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5624] Oberzell-Güntershof",
+    "Location": "Oberzell-Güntershof",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349378000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -70897,15 +76765,15 @@
    "properties": {
     "Title": "[Neue Nr. 5631] Meeder",
     "Location": "Meeder",
-    "Subtitle": "",
+    "Subtitle": "Меедер",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1882",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3730",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1954",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349382000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -70998,12 +76866,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1979 ",
+    "LText1": "zur Karte ersch. 1979",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/12017.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1882",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349385000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -71200,9 +77068,9 @@
     "LText2": "zur Karte ersch. 1964 ",
     "ML2": "LfU Bayern",
     "Link2": "http://www.bestellen.bayern.de/shoplink/11048.htm",
-    "LText3": "",
-    "ML3": "",
-    "Link3": "",
+    "LText3": "zur Karte ersch. 1895",
+    "ML3": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link3": "https://ifl.wissensbank.com/qlink/349387000",
     "LText4": "zur Topographischen Karte ersch. 1911",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/321430000"
@@ -71246,9 +77114,9 @@
     "LText1": "zur Karte ersch. 1929",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004730.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1929",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349388000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -71295,9 +77163,9 @@
     "LText1": "zur Karte ersch. 1935",
     "ML1": "Dt. Fotothek",
     "Link1": "http://fotothek.slub-dresden.de/fotos/df/dk/0004000/df_dk_0004731.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1935",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349429000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -71442,9 +77310,9 @@
     "LText1": "zur Karte ersch. 1913",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5678_(3308)_Zabrze_geol_1913_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1913",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349432000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -71483,17 +77351,17 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 5679] Beuthen-Laurahuette",
-    "Location": "Beuthen-Laurahuette",
+    "Title": "[Neue Nr. 5679] Beuthen-Laurahütte",
+    "Location": "Beuthen-Laurahütte",
     "Subtitle": "Bytom (poln.)",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1913 (R )",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5679_5680_(3309_3310)_Beuthen-Laurahuette_R_geol_UPozn.jpg",
-    "LText2": "zur Karte ersch. 1913 (L)",
-    "ML2": "Mapster - Archivkarten von Polen und Mitteleuropa",
-    "Link2": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5679_5680_(3309_3310)_Beuthen-Laurahuette_L_geol_UPozn.jpg",
+    "LText2": "zur Karte ersch. 1913",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349434000",
     "LText3": "Erzkarte",
     "ML3": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link3": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5679_(3309)_Beuthen_Floetz-und_Erzkarte_geol_UPozn.jpg",
@@ -71736,9 +77604,9 @@
     "LText1": "zur Karte ersch. 1886",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3556",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1927",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349439000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -71747,6 +77615,104 @@
     "Link4": "https://ifl.wissensbank.com/qlink/322430000"
    }
   },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       8.5,
+       50.3
+      ],
+      [
+       8.667,
+       50.3
+      ],
+      [
+       8.667,
+       50.2
+      ],
+      [
+       8.5,
+       50.2
+      ],
+      [
+       8.5,
+       50.3
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5717] Bad Homburg v. d. Höhe - Ober-Eschbach",
+    "Location": "Bad Homburg v. d. Höhe - Ober-Eschbach",
+    "Subtitle": "Bad Homburg vor der Höhe",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1927",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349437000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+  "type": "Feature",
+  "geometry": {
+	  "type": "Polygon",
+	  "coordinates": [
+	  [
+	  [
+	  8.667,
+	  50.3
+	  ],
+	  [
+	  8.833,
+	  50.3
+	  ],
+	  [
+	  8.833,
+	  50.2
+	  ],
+	  [
+	  8.667,
+	  50.2
+	  ],
+	  [
+	  8.667,
+	  50.3
+	  ]
+	  ]
+	  ]
+	  },
+	  "properties": {
+	  "Title":  "[Neue Nr. 5718] Rodheim", 
+	  "Location": "",
+	  "Subtitle": "",
+	  "Layer": "GK25 / GEO-LEOe-docs",
+	  "Text": "Link:",
+	  "LText1": "zur Karte ersch.1937",
+	  "ML1": "GEO-LEOe-docs",
+	  "Link1": "https://doi.org/10.23689/fidgeo-4231",
+	  "LText2": "",
+	  "ML2": "",
+	  "Link2": "",
+	  "LText3": "",
+	  "ML3": "",
+	  "Link3": "",
+	  "LText4": "",
+	  "ML4": "",
+	  "Link4": "" 
+	  }
+	  },
   {
    "type": "Feature",
    "geometry": {
@@ -71901,6 +77867,104 @@
     "coordinates": [
      [
       [
+       9.333,
+       50.3
+      ],
+      [
+       9.5,
+       50.3
+      ],
+      [
+       9.5,
+       50.2
+      ],
+      [
+       9.333,
+       50.2
+      ],
+      [
+       9.333,
+       50.3
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5722] Salmünster",
+    "Location": "Salmünster",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349443000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       9.5,
+       50.3
+      ],
+      [
+       9.667,
+       50.3
+      ],
+      [
+       9.667,
+       50.2
+      ],
+      [
+       9.5,
+       50.2
+      ],
+      [
+       9.5,
+       50.3
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5723] Altengronau",
+    "Location": "Altengronau",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349445000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
        10,
        50.3
       ],
@@ -71924,17 +77988,17 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 5726 ] Bad Kissingen Nord ",
+    "Title": "[Neue Nr. 5726] Bad Kissingen Nord ",
     "Location": "Bad Kissingen Nord ",
-    "Subtitle": "",
+    "Subtitle": "Kissingen",
     "Layer": "GK25 / extern",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 2005 ",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/12117.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1909",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349446000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -71973,7 +78037,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 5727 ] Münnerstadt ",
+    "Title": "[Neue Nr. 5727] Münnerstadt ",
     "Location": "Münnerstadt ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -72272,12 +78336,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1972 ",
+    "LText1": "zur Karte ersch. 1972",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11120.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1972",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349450000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -72520,9 +78584,9 @@
     "LText1": "zur Karte ersch. 1884",
     "ML1": "Dt. Fotothek",
     "Link1": "http://www.deutschefotothek.de/documents/obj/90009057/df_dk_0004732",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1884",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349452000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -72667,9 +78731,9 @@
     "LText1": "zur Karte ersch. 1913",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5778_(3352)_Gliewitz_geol_1913_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1913",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349469000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -72716,9 +78780,9 @@
     "LText1": "zur Karte ersch. 1913",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5779_(3353)_Schwientochlowitz_geol_1913_UPozn.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1913",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349471000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -72765,9 +78829,9 @@
     "LText1": "zur Karte ersch. 1913",
     "ML1": "Mapster - Archivkarten von Polen und Mitteleuropa",
     "Link1": "http://maps.mapywig.org/m/German_maps/series/025K_TK25/5780_5781_(3354_3355)_Katowitz-Birkental_geol_1913.jpg",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1913",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349472000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -72909,12 +78973,12 @@
     "Subtitle": "Langenschwalbach",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1930",
+    "LText1": "zur Karte ersch. 1879",
     "ML1": "GEO-LEOe-docs",
-    "Link1": "http://doi.org/10.23689/fidgeo-3428",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "Link1": "https://doi.org/10.23689/fidgeo-3876",
+    "LText2": "zur Karte ersch. 1930",
+    "ML2": "GEO-LEOe-docs",
+    "Link2": "https://doi.org/10.23689/fidgeo-3428",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -72961,9 +79025,9 @@
     "LText1": "zur Karte ersch. 1879",
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://doi.org/10.23689/fidgeo-3429",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1930",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349486000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -73011,7 +79075,7 @@
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3540",
     "LText2": "zur Karte ersch. 1879",
-    "ML2": "",
+    "ML2": "GEO-LEOe-docs",
     "Link2": "https://doi.org/10.23689/fidgeo-3870",
     "LText3": "",
     "ML3": "",
@@ -73053,15 +79117,15 @@
    "properties": {
     "Title": "[Neue Nr. 5817] Rödelheim",
     "Location": "Rödelheim",
-    "Subtitle": "Frankfurt a. M. West (Höchst) - Steinach",
+    "Subtitle": "Frankfurt a. M. West (Höchst) - Steinbach",
     "Layer": "GK25 / GEO-LEOe-docs",
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1881",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3759",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1929",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349491000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -73108,9 +79172,9 @@
     "LText1": "zur Karte ersch. 1881",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3774",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1929",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349527000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -73394,7 +79458,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 5829 ] Hofheim i. UFr. ",
+    "Title": "[Neue Nr. 5829] Hofheim i. UFr. ",
     "Location": "Hofheim i. UFr. ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -73448,12 +79512,12 @@
     "Subtitle": "Sesslach",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1970 ",
+    "LText1": "zur Karte ersch. 1970",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11106.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1895",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349541000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -73693,12 +79757,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1964 ",
+    "LText1": "zur Karte ersch. 1962",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11049.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1962",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349542000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -74001,6 +80065,55 @@
     "Link4": "https://ifl.wissensbank.com/qlink/323144000"
    }
   },
+    {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       7.833,
+       50.1
+      ],
+      [
+       8,
+       50.1
+      ],
+      [
+       8,
+       50
+      ],
+      [
+       7.833,
+       50
+      ],
+      [
+       7.833,
+       50.1
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 5913] Pressberg-Rüdesheim",
+    "Location": "Pressberg-Rüdesheim",
+    "Subtitle": "",
+    "Layer": "GK25 / GEO-LEOe-docs",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1903",
+    "ML1": "GEO-LEOe-docs",
+    "Link1": "https://doi.org/10.23689/fidgeo-5169",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
   {
    "type": "Feature",
    "geometry": {
@@ -74039,9 +80152,9 @@
     "LText1": "zur Karte ersch. 1879",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3443",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1930",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349586000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -74089,7 +80202,7 @@
     "ML1": "GEO-LEOe-docs",
     "Link1": "http://doi.org/10.23689/fidgeo-3430",
     "LText2": "zur Karte ersch. 1879",
-    "ML2": "",
+    "ML2": "GEO-LEOe-docs",
     "Link2": "https://doi.org/10.23689/fidgeo-3869",
     "LText3": "",
     "ML3": "",
@@ -74137,9 +80250,9 @@
     "LText1": "zur Karte ersch. 1879",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3567",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1922",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349596000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -74423,7 +80536,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 5924 ] Gemünden a. Main ",
+    "Title": "[Neue Nr. 5924] Gemünden a. Main ",
     "Location": "Gemünden a. Main ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -74570,7 +80683,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 5928 ] Obertheres ",
+    "Title": "[Neue Nr. 5928] Obertheres ",
     "Location": "Obertheres ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -74771,12 +80884,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1962 ",
+    "LText1": "zur Karte ersch. 1962",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11040.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1962",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349601000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -74962,7 +81075,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 5939 / 5940 ] Waldsassen/Hatzenreuth ",
+    "Title": "[Neue Nr. 5939 / 5940] Waldsassen/Hatzenreuth ",
     "Location": "Waldsassen/Hatzenreuth ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -75325,6 +81438,103 @@
    }
   },
   {
+  "type": "Feature",
+  "geometry": {
+	  "type": "Polygon",
+	  "coordinates": [
+	  [
+	  [
+	  7.833,
+	  50
+	  ],
+	  [
+	  8,
+	  50
+	  ],
+	  [
+	  8,
+	  49.9
+	  ],
+	  [
+	  7.833,
+	  49.9
+	  ],
+	  [
+	  7.833,
+	  50
+	  ]
+	  ]
+	  ]
+	  },
+	  "properties": {
+	  "Title":  "[Neue Nr. 6013] Bingen-Rüdesheim", 
+	  "Location": "", 
+	  "Subtitle": "",
+	  "Layer": "GK25 / bestellbar (FID GEO)",
+	  "Text": "Bedarf melden: ", 
+	  "LText1": "FID GEO",
+	  "ML1": "DigiWunschkarte",
+	  "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206013]%20Bingen-R%C3%BCdesheim&creator=Wagner,%20W.",
+	  "LText2": "",
+	  "ML2": "",
+	  "Link2": "",
+	  "LText3": "",
+	  "ML3": "",
+	  "Link3": "",
+	  "LText4": "",
+	  "ML4": "",
+	  "Link4": "" 
+	  }
+	  },
+  {
+	  "type": "Feature",
+	  "geometry": {
+		  "type": "Polygon","coordinates": [
+		  [
+		  [
+		  8,
+		  50
+		  ],
+		  [
+		  8.167,
+		  50
+		  ],
+		  [
+		  8.167,
+		  49.9
+		  ],
+		  [
+		  8,
+		  49.9
+		  ],
+		  [
+		  8,
+		  50
+		  ]
+		  ]
+		  ]
+		  },
+		  "properties": { 
+		  "Title":  "[Neue Nr. 6014] Ober-Ingelheim", 
+		  "Location": "",
+		  "Subtitle": "",
+		  "Layer": "GK25 / bestellbar (FID GEO)",
+		  "Text": "Bedarf melden: ",
+		  "LText1": "FID GEO",
+		  "ML1": "DigiWunschkarte",
+		  "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206014]%20Ober-Ingelheim&creator=Wagner,%20W.",
+		  "LText2": "",
+		  "ML2": "",
+		  "Link2": "",
+		  "LText3": "", 
+		  "ML3": "",
+		  "Link3": "",
+		  "LText4": "",
+		  "ML4": "",
+		  "Link4": "" 
+		  }
+		  },
+  {
    "type": "Feature",
    "geometry": {
     "type": "Polygon",
@@ -75408,12 +81618,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1962 ",
+    "LText1": "zur Karte ersch. 1962",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11041.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1962",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349609000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -75599,7 +81809,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6027 ] Grettstadt ",
+    "Title": "[Neue Nr. 6027] Grettstadt ",
     "Location": "Grettstadt ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -76040,7 +82250,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6040 / 6041 ] Neualbenreuth/Märing ",
+    "Title": "[Neue Nr. 6040 / 6041] Neualbenreuth/Märing ",
     "Location": "Neualbenreuth/Märing ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -76403,6 +82613,152 @@
    }
   },
   {
+	 "type": "Feature",
+	 "geometry": {
+		 "type": "Polygon",
+		 "coordinates": 
+		 [
+		 [
+		 [
+		 7.833,
+		 49.9
+		 ],
+		 [
+		 8,
+		 49.9
+		 ],
+		 [
+		 8,
+		 49.8
+		 ],
+		 [7.833,
+		 49.8
+		 ],
+		 [
+		 7.833,
+		 49.9
+		 ]
+		 ]
+		 ]
+		 },
+		 "properties": { 
+		 "Title":  "[Neue Nr. 6113] Wöllstein-Kreuznach",   
+		 "Location": "",
+		 "Subtitle": "",
+		 "Layer": "GK25 / GEO-LEOe-docs",
+		 "Text": "Link: ",
+		 "LText1": "GEO-LEOe-docs",
+		 "ML1": "zur Karte ersch. 1926",
+		 "Link1": "https://doi.org/10.23689/fidgeo-5310",
+		 "LText2": "",
+		 "ML2": "",
+		 "Link2": "",
+		 "LText3": "",
+		 "ML3": "",
+		 "Link3": "",
+		 "LText4": "",
+		 "ML4": "", 
+		 "Link4": "" 
+		 }
+		 },
+ {
+	 "type": "Feature",
+	 "geometry": {
+		 "type": "Polygon",
+		 "coordinates": [
+		 [
+		 [
+		 8,
+		 49.9
+		 ],
+		 [
+		 8.167,
+		 49.9
+		 ],
+		 [
+		 8.167,
+		 49.8
+		 ],
+		 [
+		 8,
+		 49.8
+		 ],
+		 [
+		 8,
+		 49.9
+		 ]
+		 ]
+		 ]
+		 },
+		 "properties": { 
+		 "Title":  "[Neue Nr. 6114] Wörrstadt",  
+		 "Location": "",
+		 "Subtitle": "",
+		 "Layer": "GK25 / GEO-LEOe-docs",
+		 "Text": "Link:",
+		 "LText1": "zur Karte ersch. 1935",
+		 "ML1": "GEO-LEOe-docs",
+		 "Link1": "https://doi.org/10.23689/fidgeo-5311",
+		 "LText2": "",
+		 "ML2": "",
+		 "Link2": "",
+		 "LText3": "",
+		 "ML3": "",
+		 "Link3": "",
+		 "LText4": "",
+		 "ML4": "",
+		 "Link4": ""
+		 }
+ },
+   {
+	 "type": "Feature",
+	 "geometry": {
+	 "type": "Polygon",
+	 "coordinates": [
+	 [
+	 [
+	 8.667,
+	 49.9
+	 ],
+	 [
+	 8.833,
+	 49.9
+	 ],
+	 [
+	 8.833,
+	 49.8
+	 ],
+	 [
+	 8.667,
+	 49.8
+	 ],
+	 [
+	 8.667,
+	 49.9
+	 ]
+	 ]
+	 ]
+	 },
+	 "properties": { 
+	 "Title":  "[Neue Nr. 6118] Roßdorf",
+	 "Location": "Roßdorf",
+	 "Subtitle": "",
+	 "Layer": "GK25 / bestellbar (FID GEO)",
+	 "Text": "Bedarf melden: ", 
+	 "LText1": "FID GEO",
+	 "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206118]%20Roßdorf&creator=Klemm,%20G.",
+	 "LText2": "",
+	 "ML2": "",
+	 "Link2": "",
+	 "LText3": "",
+	 "ML3": "",
+	 "Link3": "",
+	 "LText4": "",
+	 "ML4": "",
+	 "Link4": "" 
+	 }
+  },
+  {
    "type": "Feature",
    "geometry": {
     "type": "Polygon",
@@ -76432,7 +82788,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6122 ] Bischbrunn ",
+    "Title": "[Neue Nr. 6122] Bischbrunn ",
     "Location": "Bischbrunn ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -76628,7 +82984,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6126 ] Dettelbach ",
+    "Title": "[Neue Nr. 6126] Dettelbach ",
     "Location": "Dettelbach ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -76677,7 +83033,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6127 ] Volkach ",
+    "Title": "[Neue Nr. 6127] Volkach ",
     "Location": "Volkach ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -76726,7 +83082,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6128 ] Ebrach ",
+    "Title": "[Neue Nr. 6128] Ebrach ",
     "Location": "Ebrach ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -76976,7 +83332,7 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1956 ",
+    "LText1": "zur Karte ersch. 1956",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11004.htm",
     "LText2": "",
@@ -77025,12 +83381,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1966 ",
+    "LText1": "zur Karte ersch. 1966",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11064.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1966",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349625000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -77662,12 +84018,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1963 ",
+    "LText1": "zur Karte ersch. 1963",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11045.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1963",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349630000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -77858,12 +84214,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1961 ",
+    "LText1": "zur Karte ersch. 1961",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11030.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1961",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349631000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -78313,6 +84669,56 @@
     "Link4": "https://ifl.wissensbank.com/qlink/323641000"
    }
   },
+ {
+	 "type": "Feature",
+	 "geometry": {
+		 "type": "Polygon",
+		 "coordinates": 
+		 [
+		 [
+		 [
+		 9,
+		 49.7
+		 ],
+		 [
+		 9.167,
+		 49.7
+		 ],
+		 [
+		 9.167,
+		 49.6
+		 ],
+		 [
+		 9,
+		 49.6
+		 ],
+		 [
+		 9,
+		 49.7
+		 ]
+		 ]
+		 ]
+		 },
+		 "properties": {
+		 "Title":  "[Neue Nr. 6320] Michelstadt",  
+		 "Location": "",
+		 "Subtitle": "",
+		 "Layer": "GK25 / bestellbar (FID GEO)",
+		 "Text": "Bedarf melden: ",
+		 "LText1": "FID GEO",
+		 "ML1": "DigiWunschkarte",
+		 "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206320]%20Michelstadt&creator=Klemm,%20G.",
+		 "LText2": "",
+		 "ML2": "",
+		 "Link2": "", 
+		 "LText3": "",
+		 "ML3": "",
+		 "Link3": "",
+		 "LText4": "",
+		 "ML4": "", 
+		 "Link4": "" 
+		 }
+		 },
   {
    "type": "Feature",
    "geometry": {
@@ -78343,7 +84749,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6326 ] Ochsenfurt ",
+    "Title": "[Neue Nr. 6326] Ochsenfurt ",
     "Location": "Ochsenfurt ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -78882,7 +85288,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6338 ] Weiden ",
+    "Title": "[Neue Nr. 6338] Weiden ",
     "Location": "Weiden ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -78931,7 +85337,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6339 ] Waldthurn ",
+    "Title": "[Neue Nr. 6339] Waldthurn ",
     "Location": "Waldthurn ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -78980,7 +85386,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6340 / 6341 ] Vohenstrauß/Frankenreuth ",
+    "Title": "[Neue Nr. 6340 / 6341] Vohenstrauß/Frankenreuth ",
     "Location": "Vohenstrauß/Frankenreuth ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -79202,6 +85608,55 @@
     "coordinates": [
      [
       [
+       7,
+       49.6
+      ],
+      [
+       7.167,
+       49.6
+      ],
+      [
+       7.167,
+       49.5
+      ],
+      [
+       7,
+       49.5
+      ],
+      [
+       7,
+       49.6
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 6408] Nohfelden",
+    "Location": "Nohfelden",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1893",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349666000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
        7.167,
        49.6
       ],
@@ -79232,7 +85687,7 @@
     "Text": "Link:",
     "LText1": "zur Karte ersch. 1893",
     "ML1": "GEO-LEOe-docs",
-    "Link1": "https://doi.org/10.23689/fidgeo-3824 ",
+    "Link1": "https://doi.org/10.23689/fidgeo-3824",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -79242,6 +85697,104 @@
     "LText4": "zur Topographischen Karte ersch. 1907",
     "ML4": "Leibniz-Institut für Länderkunde (IFL)",
     "Link4": "https://ifl.wissensbank.com/qlink/323762000"
+   }
+  },
+ {
+	 "type": "Feature",
+	 "geometry": {
+	 "type": "Polygon",
+	 "coordinates": [
+	 [
+	 [
+	 8.667,
+	 49.6
+	 ],
+	 [
+	 8.833,
+	 49.6
+	 ],
+	 [
+	 8.833,
+	 49.5
+	 ],
+	 [
+	 8.667,
+	 49.5
+	 ],
+	 [
+	 8.667,
+	 49.6
+	 ]
+	 ]
+	 ]
+	 },
+	 "properties": {
+	 "Title":  "[Neue Nr. 6418] Birkenau",
+	 "Location": "",
+	 "Subtitle": "",
+	 "Layer": "GK25 / GEO-LEOe-docs",
+	 "Text": "Link:",
+	 "LText1": "zur Karte ersch. 1928",
+	 "ML1": "GEO-LEOe-docs",
+	 "Link1": "https://doi.org/10.23689/fidgeo-5167",
+	 "LText2": "",
+	 "ML2": "",
+	 "Link2": "",
+	 "LText3": "",
+	 "ML3": "",
+	 "Link3": "",
+	 "LText4": "",
+	 "ML4": "",
+	 "Link4": "" 
+	 }
+	 },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       9.667,
+       49.6
+      ],
+      [
+       9.833,
+       49.6
+      ],
+      [
+       9.833,
+       49.5
+      ],
+      [
+       9.667,
+       49.5
+      ],
+      [
+       9.667,
+       49.6
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 6424] Lauda",
+    "Location": "Lauda",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1962",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349670000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
    }
   },
   {
@@ -79671,12 +86224,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1961 ",
+    "LText1": "zur Karte ersch. 1961",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11031.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1961",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349671000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -79764,17 +86317,17 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6436] Sulzbach-Rosenb.Nord",
+    "Title": "[Neue Nr. 6436] Sulzbach-Rosenb. Nord",
     "Location": "Sulzbach-Rosenb.Nord",
-    "Subtitle": "",
+    "Subtitle": "Sulzbach - Rosenberg - Nord",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1961 ",
+    "LText1": "zur Karte ersch. 1961",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11032.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1956",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349673000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -79867,12 +86420,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1960 ",
+    "LText1": "zur Karte ersch. 1960",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11029.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1960",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349679000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -79965,12 +86518,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1962 ",
+    "LText1": "zur Karte ersch. 1961",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11042.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1961",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349680000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -80014,12 +86567,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1961 ",
+    "LText1": "zur Karte ersch. 1961",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11033.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1961",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349681000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -80847,12 +87400,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1963 ",
+    "LText1": "zur Karte ersch. 1963",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11046.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1959",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349763000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -81038,7 +87591,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6541 ] Tiefenbach ",
+    "Title": "[Neue Nr. 6541] Tiefenbach ",
     "Location": "Tiefenbach ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -81087,7 +87640,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6542 / 6642 ] Untergrafenried/Waldmünchen ",
+    "Title": "[Neue Nr. 6542 / 6642] Untergrafenried/Waldmünchen ",
     "Location": "Untergrafenried/Waldmünchen ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -81386,12 +87939,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1964 ",
+    "LText1": "zur Karte ersch. 1964",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11053.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1964",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349792000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -81435,12 +87988,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1963 ",
+    "LText1": "zur Karte ersch. 1963",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11047.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1963",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349814000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -81773,7 +88326,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6635 ] Lauterhofen ",
+    "Title": "[Neue Nr. 6635] Lauterhofen ",
     "Location": "Lauterhofen ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -81822,7 +88375,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6636 ] Kastl ",
+    "Title": "[Neue Nr. 6636] Kastl ",
     "Location": "Kastl ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -81871,7 +88424,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6638 ] Schwandorf ",
+    "Title": "[Neue Nr. 6638] Schwandorf ",
     "Location": "Schwandorf ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -82018,7 +88571,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6641 ] Rötz ",
+    "Title": "[Neue Nr. 6641] Rötz ",
     "Location": "Rötz ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -82093,6 +88646,55 @@
     "coordinates": [
      [
       [
+       6.667,
+       49.3
+      ],
+      [
+       6.833,
+       49.3
+      ],
+      [
+       6.833,
+       49.2
+      ],
+      [
+       6.667,
+       49.2
+      ],
+      [
+       6.667,
+       49.3
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 6706] Bouss",
+    "Location": "Bouss",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1875",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349817000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
        6.833,
        49.3
       ],
@@ -82124,6 +88726,55 @@
     "LText1": "zur Karte ersch. 1875",
     "ML1": "GEO-LEOe-docs",
     "Link1": "https://doi.org/10.23689/fidgeo-3843 ",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       7,
+       49.3
+      ],
+      [
+       7.167,
+       49.3
+      ],
+      [
+       7.167,
+       49.2
+      ],
+      [
+       7,
+       49.2
+      ],
+      [
+       7,
+       49.3
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 6708] Dudweiler",
+    "Location": "Dudweiler",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1875",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349819000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -82268,12 +88919,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1961 ",
+    "LText1": "zur Karte ersch. 1961",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11036.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1961",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349822000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -82317,12 +88968,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1961 ",
+    "LText1": "zur Karte ersch. 1961",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11037.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1961",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349823000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -82606,7 +89257,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6736 ] Velburg ",
+    "Title": "[Neue Nr. 6736] Velburg ",
     "Location": "Velburg ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -82655,7 +89306,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6738 ] Burglengenfeld ",
+    "Title": "[Neue Nr. 6738] Burglengenfeld ",
     "Location": "Burglengenfeld ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -82704,7 +89355,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6739 ] Bruck i.d. OPf. ",
+    "Title": "[Neue Nr. 6739] Bruck i.d. OPf. ",
     "Location": "Bruck i.d. OPf. ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -82753,7 +89404,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6740 ] Neukirchen-Balbini ",
+    "Title": "[Neue Nr. 6740] Neukirchen-Balbini ",
     "Location": "Neukirchen-Balbini ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -82802,7 +89453,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6741 ] Cham West ",
+    "Title": "[Neue Nr. 6741] Cham West ",
     "Location": "Cham West ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -82851,7 +89502,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6743 ] Neukirchen b. Hl. Blut ",
+    "Title": "[Neue Nr. 6743] Neukirchen b. Hl. Blut ",
     "Location": "Neukirchen b. Hl. Blut ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -82859,6 +89510,55 @@
     "LText1": "zur Karte ersch. 2009 ",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/12133.htm",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       6.667,
+       49.2
+      ],
+      [
+       6.833,
+       49.2
+      ],
+      [
+       6.833,
+       49.1
+      ],
+      [
+       6.667,
+       49.1
+      ],
+      [
+       6.667,
+       49.2
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 6806] Lauterbach",
+    "Location": "Lauterbach",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1875",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/349852000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -83395,12 +90095,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1961 ",
+    "LText1": "zur Karte ersch. 1961",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11038.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1959",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/349857000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -83488,7 +90188,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6843 ] Bad Kötzting ",
+    "Title": "[Neue Nr. 6843] Bad Kötzting ",
     "Location": "Bad Kötzting ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -83537,7 +90237,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6845 ] Bayerisch Eisenstein ",
+    "Title": "[Neue Nr. 6845] Bayerisch Eisenstein ",
     "Location": "Bayerisch Eisenstein ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -83831,7 +90531,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6933 ] Thalmässing ",
+    "Title": "[Neue Nr. 6933] Thalmässing ",
     "Location": "Thalmässing ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -83880,7 +90580,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6934 ] Beilngries ",
+    "Title": "[Neue Nr. 6934] Beilngries ",
     "Location": "Beilngries ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -83929,7 +90629,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6937 ] Laaber ",
+    "Title": "[Neue Nr. 6937] Laaber ",
     "Location": "Laaber ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -84027,7 +90727,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6940 ] Wörth a. d. Donau ",
+    "Title": "[Neue Nr. 6940] Wörth a. d. Donau ",
     "Location": "Wörth a. d. Donau ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -84076,7 +90776,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6942 ] St. Englmar ",
+    "Title": "[Neue Nr. 6942] St. Englmar ",
     "Location": "St. Englmar ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -84174,7 +90874,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6944 ] Bodenmais ",
+    "Title": "[Neue Nr. 6944] Bodenmais ",
     "Location": "Bodenmais ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -84228,12 +90928,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1968 ",
+    "LText1": "zur Karte ersch. 1968",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11091.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1968",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/351410000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -84272,7 +90972,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 6946 ] Hirschbach ",
+    "Title": "[Neue Nr. 6946] Hirschbach ",
     "Location": "Hirschbach ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -84370,7 +91070,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7032 ] Bieswang ",
+    "Title": "[Neue Nr. 7032] Bieswang ",
     "Location": "Bieswang ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -84419,7 +91119,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7033 ] Titting ",
+    "Title": "[Neue Nr. 7033] Titting ",
     "Location": "Titting ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -84468,7 +91168,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7034 ] Kipfenberg ",
+    "Title": "[Neue Nr. 7034] Kipfenberg ",
     "Location": "Kipfenberg ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -84517,7 +91217,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7035 ] Schamhaupten ",
+    "Title": "[Neue Nr. 7035] Schamhaupten ",
     "Location": "Schamhaupten ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -84571,12 +91271,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1962 ",
+    "LText1": "zur Karte ersch. 1962",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11043.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1962",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/351413000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -84664,12 +91364,12 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7042 ] Bogen ",
+    "Title": "[Neue Nr. 7042] Bogen",
     "Location": "Bogen ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 2009 ",
+    "LText1": "zur Karte ersch. 2009",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/12131.htm",
     "LText2": "",
@@ -84718,7 +91418,7 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1982 ",
+    "LText1": "zur Karte ersch. 1982",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/12033.htm",
     "LText2": "",
@@ -84762,7 +91462,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7044 ] Regen ",
+    "Title": "[Neue Nr. 7044] Regen ",
     "Location": "Regen ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -84811,7 +91511,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7046 / 7047 ] Spiegelau/Finsterau (Nationalpark Bayerischer Wald) ",
+    "Title": "[Neue Nr. 7046 / 7047] Spiegelau/Finsterau (Nationalpark Bayerischer Wald) ",
     "Location": "Spiegelau/Finsterau (Nationalpark Bayerischer Wald) ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -84819,6 +91519,153 @@
     "LText1": "zur Karte ersch. 1977 ",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/12006.htm",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       8.5,
+       48.9
+      ],
+      [
+       8.667,
+       48.9
+      ],
+      [
+       8.667,
+       48.8
+      ],
+      [
+       8.5,
+       48.8
+      ],
+      [
+       8.5,
+       48.9
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 7117] Neuenbürg",
+    "Location": "Neuenbürg",
+    "Subtitle": "Birkenfeld",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1935",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/351417000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       8.833,
+       48.9
+      ],
+      [
+       9,
+       48.9
+      ],
+      [
+       9,
+       48.8
+      ],
+      [
+       8.833,
+       48.8
+      ],
+      [
+       8.833,
+       48.9
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 7119] Weissach",
+    "Location": "Weissach",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1961",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/351421000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       9.167,
+       48.9
+      ],
+      [
+       9.333,
+       48.9
+      ],
+      [
+       9.333,
+       48.8
+      ],
+      [
+       9.167,
+       48.8
+      ],
+      [
+       9.167,
+       48.9
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 7121] Stuttgart-Nordost",
+    "Location": "Stuttgart-Nordost",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1963",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/351740000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -84909,7 +91756,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7132 ] Dollnstein ",
+    "Title": "[Neue Nr. 7132] Dollnstein ",
     "Location": "Dollnstein ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -84958,7 +91805,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7133 ] Eichstätt ",
+    "Title": "[Neue Nr. 7133] Eichstätt ",
     "Location": "Eichstätt ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -85007,7 +91854,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7134 ] Gaimersheim ",
+    "Title": "[Neue Nr. 7134] Gaimersheim ",
     "Location": "Gaimersheim ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -85056,7 +91903,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7135 ] Kösching ",
+    "Title": "[Neue Nr. 7135] Kösching ",
     "Location": "Kösching ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -85154,7 +92001,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7137 ] Abensberg ",
+    "Title": "[Neue Nr. 7137] Abensberg ",
     "Location": "Abensberg ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -85252,7 +92099,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7143 ] Deggendorf ",
+    "Title": "[Neue Nr. 7143] Deggendorf ",
     "Location": "Deggendorf ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -85350,7 +92197,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7145 ] Schöfweg ",
+    "Title": "[Neue Nr. 7145] Schöfweg ",
     "Location": "Schöfweg ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -85448,7 +92295,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7148 ] Bischofsreut ",
+    "Title": "[Neue Nr. 7148] Bischofsreut ",
     "Location": "Bischofsreut ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -85456,6 +92303,104 @@
     "LText1": "zur Karte ersch. 1988 ",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/12059.htm",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       8.667,
+       48.8
+      ],
+      [
+       8.833,
+       48.8
+      ],
+      [
+       8.833,
+       48.7
+      ],
+      [
+       8.667,
+       48.7
+      ],
+      [
+       8.667,
+       48.8
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 7218] Calw",
+    "Location": "Calw",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1914",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/351741000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       9.167,
+       48.8
+      ],
+      [
+       9.333,
+       48.8
+      ],
+      [
+       9.333,
+       48.7
+      ],
+      [
+       9.167,
+       48.7
+      ],
+      [
+       9.167,
+       48.8
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 7221] Stuttgart-Südost",
+    "Location": "Stuttgart-Südost",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1960",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/351743000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -85546,7 +92491,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7233 ] Neuburg a. d. Donau ",
+    "Title": "[Neue Nr. 7233] Neuburg a. d. Donau ",
     "Location": "Neuburg a. d. Donau ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -85644,7 +92589,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7235 ] Vohburg ",
+    "Title": "[Neue Nr. 7235] Vohburg ",
     "Location": "Vohburg ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -85693,7 +92638,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7246 ] Tittling ",
+    "Title": "[Neue Nr. 7246] Tittling ",
     "Location": "Tittling ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -85840,7 +92785,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7329 ] Höchstädt a. d. Donau ",
+    "Title": "[Neue Nr. 7329] Höchstädt a. d. Donau ",
     "Location": "Höchstädt a. d. Donau ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -85889,7 +92834,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7332 ] Burgheim Süd ",
+    "Title": "[Neue Nr. 7332] Burgheim Süd ",
     "Location": "Burgheim Süd ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -85938,7 +92883,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7333 ] Karlshuld ",
+    "Title": "[Neue Nr. 7333] Karlshuld ",
     "Location": "Karlshuld ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -85987,7 +92932,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7334 ] Reichertshofen ",
+    "Title": "[Neue Nr. 7334] Reichertshofen ",
     "Location": "Reichertshofen ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -86036,7 +92981,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7344 ] Pleinting ",
+    "Title": "[Neue Nr. 7344] Pleinting ",
     "Location": "Pleinting ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -86085,7 +93030,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7348 / 7349 ] Wegscheid ",
+    "Title": "[Neue Nr. 7348 / 7349] Wegscheid ",
     "Location": "Wegscheid ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -86134,7 +93079,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7433 ] Schrobenhausen ",
+    "Title": "[Neue Nr. 7433] Schrobenhausen ",
     "Location": "Schrobenhausen ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -86232,7 +93177,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7435 ] Pfaffenhofen a.d. Ilm ",
+    "Title": "[Neue Nr. 7435] Pfaffenhofen a.d. Ilm ",
     "Location": "Pfaffenhofen a.d. Ilm ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -86330,7 +93275,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7440 ] Aham ",
+    "Title": "[Neue Nr. 7440] Aham ",
     "Location": "Aham ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -86379,7 +93324,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7441 ] Frontenhausen ",
+    "Title": "[Neue Nr. 7441] Frontenhausen ",
     "Location": "Frontenhausen ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -86428,7 +93373,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7446 ] Passau ",
+    "Title": "[Neue Nr. 7446] Passau ",
     "Location": "Passau ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -86436,6 +93381,104 @@
     "LText1": "zur Karte ersch. 1984 ",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/12046.htm",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       8.333,
+       48.5
+      ],
+      [
+       8.5,
+       48.5
+      ],
+      [
+       8.5,
+       48.4
+      ],
+      [
+       8.333,
+       48.4
+      ],
+      [
+       8.333,
+       48.5
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 7516] Freudenstadt",
+    "Location": "Freudenstadt",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1963",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/351747000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       8.833,
+       48.5
+      ],
+      [
+       9,
+       48.5
+      ],
+      [
+       9,
+       48.4
+      ],
+      [
+       8.833,
+       48.4
+      ],
+      [
+       8.833,
+       48.5
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 7519] Rottenburg",
+    "Location": "Rottenburg",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1963",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/351753000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -86477,7 +93520,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7534 ] Petershausen ",
+    "Title": "[Neue Nr. 7534] Petershausen ",
     "Location": "Petershausen ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -86526,7 +93569,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7535 ] Allershausen ",
+    "Title": "[Neue Nr. 7535] Allershausen ",
     "Location": "Allershausen ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -86580,12 +93623,12 @@
     "Subtitle": "",
     "Layer": "GK25 / extern",
     "Text": "Link:",
-    "LText1": "zur Karte ersch. 1962 ",
+    "LText1": "zur Karte ersch. 1962",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/11044.htm",
-    "LText2": "",
-    "ML2": "",
-    "Link2": "",
+    "LText2": "zur Karte ersch. 1962",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/351768000",
     "LText3": "",
     "ML3": "",
     "Link3": "",
@@ -86624,7 +93667,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7540 ] Vilsbiburg ",
+    "Title": "[Neue Nr. 7540] Vilsbiburg ",
     "Location": "Vilsbiburg ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -86673,7 +93716,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7541 ] Gangkofen ",
+    "Title": "[Neue Nr. 7541] Gangkofen ",
     "Location": "Gangkofen ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -86722,7 +93765,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7546 ] Neuhaus a. Inn ",
+    "Title": "[Neue Nr. 7546] Neuhaus a. Inn ",
     "Location": "Neuhaus a. Inn ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -86730,6 +93773,104 @@
     "LText1": "zur Karte ersch. 1985 ",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/12048.htm",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       8.667,
+       48.4
+      ],
+      [
+       8.833,
+       48.4
+      ],
+      [
+       8.833,
+       48.3
+      ],
+      [
+       8.667,
+       48.3
+      ],
+      [
+       8.667,
+       48.4
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 7618] Haigerloch (Binsdorf)",
+    "Location": "Haigerloch (Binsdorf)",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1926",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/351772000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       8.833,
+       48.4
+      ],
+      [
+       9,
+       48.4
+      ],
+      [
+       9,
+       48.3
+      ],
+      [
+       8.833,
+       48.3
+      ],
+      [
+       8.833,
+       48.4
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 7619] Hechingen (Bodelshausen)",
+    "Location": "Hechingen (Bodelshausen)",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1926",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/351776000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -86820,7 +93961,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7627 ] Ichenhausen ",
+    "Title": "[Neue Nr. 7627] Ichenhausen ",
     "Location": "Ichenhausen ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -86895,6 +94036,55 @@
     "coordinates": [
      [
       [
+       8.833,
+       48.3
+      ],
+      [
+       9,
+       48.3
+      ],
+      [
+       9,
+       48.2
+      ],
+      [
+       8.833,
+       48.2
+      ],
+      [
+       8.833,
+       48.3
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 7719] Thanheim (Bailingen) ",
+    "Location": "Thanheim (Bailingen) ",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1926",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/351788000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
        10,
        48.3
       ],
@@ -86918,7 +94108,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7726 ] Illertissen ",
+    "Title": "[Neue Nr. 7726] Illertissen ",
     "Location": "Illertissen ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -86967,7 +94157,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7727 ] Buch ",
+    "Title": "[Neue Nr. 7727] Buch ",
     "Location": "Buch ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -87042,6 +94232,55 @@
     "coordinates": [
      [
       [
+       8.5,
+       48.2
+      ],
+      [
+       8.667,
+       48.2
+      ],
+      [
+       8.667,
+       48.1
+      ],
+      [
+       8.5,
+       48.1
+      ],
+      [
+       8.5,
+       48.2
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 7817] Rottweil",
+    "Location": "Rottweil",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1909",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/351793000",
+    "LText2": "zur Karte ersch. 1963",
+    "ML2": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link2": "https://ifl.wissensbank.com/qlink/351789000",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
        11.167,
        48.2
       ],
@@ -87065,7 +94304,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7833 ] Fürstenfeldbruck ",
+    "Title": "[Neue Nr. 7833] Fürstenfeldbruck ",
     "Location": "Fürstenfeldbruck ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -87140,6 +94379,55 @@
     "coordinates": [
      [
       [
+       8.5,
+       48.1
+      ],
+      [
+       8.667,
+       48.1
+      ],
+      [
+       8.667,
+       48
+      ],
+      [
+       8.5,
+       48
+      ],
+      [
+       8.5,
+       48.1
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 7917] Schwenningen",
+    "Location": "Schwenningen",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1967",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/351795000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
        10.167,
        48.1
       ],
@@ -87163,7 +94451,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7927 ] Amendingen ",
+    "Title": "[Neue Nr. 7927] Amendingen ",
     "Location": "Amendingen ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -87261,7 +94549,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7934 ] Starnberg Nord ",
+    "Title": "[Neue Nr. 7934] Starnberg Nord ",
     "Location": "Starnberg Nord ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -87310,7 +94598,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 7941 ] Trostberg ",
+    "Title": "[Neue Nr. 7941] Trostberg ",
     "Location": "Trostberg ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -87408,7 +94696,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 8036 ] Otterfing ",
+    "Title": "[Neue Nr. 8036] Otterfing ",
     "Location": "Otterfing ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -87457,7 +94745,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 8040 ] Eggstätt ",
+    "Title": "[Neue Nr. 8040] Eggstätt ",
     "Location": "Eggstätt ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -87506,7 +94794,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 8041 ] Traunreut ",
+    "Title": "[Neue Nr. 8041] Traunreut ",
     "Location": "Traunreut ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -87555,7 +94843,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 8042 ] Waging a. See ",
+    "Title": "[Neue Nr. 8042] Waging a. See ",
     "Location": "Waging a. See ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -87604,7 +94892,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 8131 ] Schongau ",
+    "Title": "[Neue Nr. 8131] Schongau ",
     "Location": "Schongau ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -87751,7 +95039,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 8136 ] Holzkirchen ",
+    "Title": "[Neue Nr. 8136] Holzkirchen ",
     "Location": "Holzkirchen ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -87857,6 +95145,55 @@
     "LText1": "zur Karte ersch. 1977 ",
     "ML1": "LfU Bayern",
     "Link1": "http://www.bestellen.bayern.de/shoplink/12008.htm",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
+       9.5,
+       47.8
+      ],
+      [
+       9.667,
+       47.8
+      ],
+      [
+       9.667,
+       47.7
+      ],
+      [
+       9.5,
+       47.7
+      ],
+      [
+       9.5,
+       47.8
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 8223] Ravensburg",
+    "Location": "Ravensburg",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1913",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/351796000",
     "LText2": "",
     "ML2": "",
     "Link2": "",
@@ -88316,6 +95653,55 @@
     "coordinates": [
      [
       [
+       7.5,
+       47.7
+      ],
+      [
+       7.667,
+       47.7
+      ],
+      [
+       7.667,
+       47.6
+      ],
+      [
+       7.5,
+       47.6
+      ],
+      [
+       7.5,
+       47.7
+      ]
+     ]
+    ]
+   },
+   "properties": {
+    "Title": "[Neue Nr. 8311] Lörrach",
+    "Location": "Lörrach",
+    "Subtitle": "",
+    "Layer": "GK25 / extern",
+    "Text": "Link:",
+    "LText1": "zur Karte ersch. 1952",
+    "ML1": "Leibniz-Institut für Länderkunde (IFL)",
+    "Link1": "https://ifl.wissensbank.com/qlink/351798000",
+    "LText2": "",
+    "ML2": "",
+    "Link2": "",
+    "LText3": "",
+    "ML3": "",
+    "Link3": "",
+    "LText4": "",
+    "ML4": "",
+    "Link4": ""
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+     [
+      [
        10.167,
        47.7
       ],
@@ -88339,7 +95725,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 8327 ] Buchenberg ",
+    "Title": "[Neue Nr. 8327] Buchenberg ",
     "Location": "Buchenberg ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -88388,7 +95774,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 8328 ] Nesselwang West ",
+    "Title": "[Neue Nr. 8328] Nesselwang West ",
     "Location": "Nesselwang West ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -88535,7 +95921,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 8333 ] Murnau a. Staffelsee ",
+    "Title": "[Neue Nr. 8333] Murnau a. Staffelsee ",
     "Location": "Murnau a. Staffelsee ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -88584,7 +95970,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 8334 ] Kochel a. See ",
+    "Title": "[Neue Nr. 8334] Kochel a. See ",
     "Location": "Kochel a. See ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -88633,7 +96019,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 8335 ] Lenggries ",
+    "Title": "[Neue Nr. 8335] Lenggries ",
     "Location": "Lenggries ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -88682,7 +96068,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 8336 / 8436 ] Rottach-Egern ",
+    "Title": "[Neue Nr. 8336 / 8436] Rottach-Egern ",
     "Location": "Rottach-Egern ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -88731,7 +96117,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 8338 ] Bayrischzell ",
+    "Title": "[Neue Nr. 8338] Bayrischzell ",
     "Location": "Bayrischzell ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -88780,7 +96166,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 8343 ] Berchtesgaden West ",
+    "Title": "[Neue Nr. 8343] Berchtesgaden West ",
     "Location": "Berchtesgaden West ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -88878,7 +96264,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 8425 ] Weiler i. Allgäu ",
+    "Title": "[Neue Nr. 8425] Weiler i. Allgäu ",
     "Location": "Weiler i. Allgäu ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -88927,7 +96313,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 8426 ] Oberstaufen ",
+    "Title": "[Neue Nr. 8426] Oberstaufen ",
     "Location": "Oberstaufen ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -88976,7 +96362,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 8427 ] Immenstadt i. Allgäu ",
+    "Title": "[Neue Nr. 8427] Immenstadt i. Allgäu ",
     "Location": "Immenstadt i. Allgäu ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -89221,7 +96607,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 8433 ] Eschenlohe ",
+    "Title": "[Neue Nr. 8433] Eschenlohe ",
     "Location": "Eschenlohe ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -89270,7 +96656,7 @@
     ]
    },
    "properties": {
-    "Title": "[Neue Nr. 8434 ] Vorderriß ",
+    "Title": "[Neue Nr. 8434] Vorderriß ",
     "Location": "Vorderriß ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -89319,7 +96705,7 @@
     ]
    }, 
    "properties": {
-    "Title": "[Neue Nr. 8533 / 8633 ] Mittenwald ",
+    "Title": "[Neue Nr. 8533 / 8633] Mittenwald ",
     "Location": "Mittenwald ",
     "Subtitle": "",
     "Layer": "GK25 / extern",
@@ -89338,738 +96724,5 @@
     "Link4": ""
    }
   },
- {
-	 "type": "Feature",
-	 "geometry": {
-	 "type": "Polygon",
-	 "coordinates": [
-	 [
-	 [
-	 8.667,
-	 49.9
-	 ],
-	 [
-	 8.833,
-	 49.9
-	 ],
-	 [
-	 8.833,
-	 49.8
-	 ],
-	 [
-	 8.667,
-	 49.8
-	 ],
-	 [
-	 8.667,
-	 49.9
-	 ]
-	 ]
-	 ]
-	 },
-	 "properties": { 
-	 "Title":  "[Neue Nr. 6118] Roßdorf",
-	 "Location": "Roßdorf",
-	 "Subtitle": "",
-	 "Layer": "GK25 / bestellbar (FID GEO)",
-	 "Text": "Bedarf melden: ", 
-	 "LText1": "FID GEO",
-	 "ML1": "DigiWunschkarte","Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206118]%20Roßdorf&creator=Klemm,%20G.",
-	 "LText2": "",
-	 "ML2": "",
-	 "Link2": "",
-	 "LText3": "",
-	 "ML3": "",
-	 "Link3": "",
-	 "LText4": "",
-	 "ML4": "",
-	 "Link4": "" 
-	 }
-  },
- {
-	 "type": "Feature",
-	 "geometry": {
-		 "type": "Polygon",
-		 "coordinates": [
-		 [
-		 [
-		 8,
-		 49.9
-		 ],
-		 [
-		 8.167,
-		 49.9
-		 ],
-		 [
-		 8.167,
-		 49.8
-		 ],
-		 [
-		 8,
-		 49.8
-		 ],
-		 [
-		 8,
-		 49.9
-		 ]
-		 ]
-		 ]
-		 },
-		 "properties": { 
-		 "Title":  "[Neue Nr. 6114] Wörrstadt",  
-		 "Location": "",
-		 "Subtitle": "",
-		 "Layer": "GK25 / bestellbar (FID GEO)",
-		 "Text": "Bedarf melden: ", 
-		 "LText1": "FID GEO",
-		 "ML1": "DigiWunschkarte",
-		 "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206114]%20W%C3%B6rrstadt&creator=Wagner,%20 W.",
-		 "LText2": "",
-		 "ML2": "",
-		 "Link2": "",
-		 "LText3": "",
-		 "ML3": "",
-		 "Link3": "",
-		 "LText4": "",
-		 "ML4": "",
-		 "Link4": ""
-		 }
- },
-  {
-	  "type": "Feature","geometry":{
-		  "type": "Polygon",
-		  "coordinates": [
-		  [
-		  [
-		  9.333,
-		  50.7
-		  ],
-		  [
-		  9.5,
-		  50.7
-		  ],
-		  [
-		  9.5,50.6
-		  ],
-		  [
-		  9.333,
-		  50.6
-		  ],
-		  [
-		  9.333,50.7
-		  ]
-		  ]
-		  ]
-		  },
-		  "properties": {
-			  "Title":  "[Neue Nr. 5322] Lauterbach",   
-			  "Location": "",
-			  "Subtitle": "",
-			  "Layer": "GK25 / bestellbar (FID GEO)",
-			  "Text": "Bedarf melden: ", 
-			  "LText1": "FID GEO",
-			  "ML1": "DigiWunschkarte",
-			  "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205322]%20Lauterbach&creator=Diehl,%20O.",
-			  "LText2": "", 
-			  "ML2": "",
-			  "Link2": "",
-			  "LText3": "", 
-			  "ML3": "",
-			  "Link3": "",
-			  "LText4": "",
-			  "ML4": "",
-			  "Link4": "" 
-			  }
-			  },
-			  {
-				  "type": "Feature",
-				  "geometry": {
-					  "type": "Polygon","coordinates": [
-					  [
-					  [
-					  8,
-					  50
-					  ],
-					  [
-					  8.167,
-					  50
-					  ],
-					  [
-					  8.167,
-					  49.9
-					  ],
-					  [
-					  8,
-					  49.9
-					  ],
-					  [
-					  8,
-					  50
-					  ]
-					  ]
-					  ]
-					  },
-					  "properties": { 
-					  "Title":  "[Neue Nr. 6014] Ober-Ingelheim", 
-					  "Location": "",
-					  "Subtitle": "",
-					  "Layer": "GK25 / bestellbar (FID GEO)",
-					  "Text": "Bedarf melden: ",
-					  "LText1": "FID GEO",
-					  "ML1": "DigiWunschkarte",
-					  "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206014]%20Ober-Ingelheim&creator=Wagner,%20W.",
-					  "LText2": "",
-					  "ML2": "",
-					  "Link2": "",
-					  "LText3": "", 
-					  "ML3": "",
-					  "Link3": "",
-					  "LText4": "",
-					  "ML4": "",
-					  "Link4": "" 
-					  }
-					  },
-					  {
-						  "type": "Feature",
-						  "geometry": {
-							  "type": "Polygon",
-							  "coordinates": [
-							  [
-							  [
-							  7.833,
-							  50
-							  ],
-							  [
-							  8,
-							  50
-							  ],
-							  [
-							  8,
-							  49.9
-							  ],
-							  [
-							  7.833,
-							  49.9
-							  ],
-							  [
-							  7.833,
-							  50
-							  ]
-							  ]
-							  ]
-							  },
-							  "properties": {
-								  "Title":  "[Neue Nr. 6013] Bingen-Rüdesheim", 
-								  "Location": "", 
-								  "Subtitle": "",
-								  "Layer": "GK25 / bestellbar (FID GEO)",
-								  "Text": "Bedarf melden: ", 
-								  "LText1": "FID GEO",
-								  "ML1": "DigiWunschkarte",
-								  "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206013]%20Bingen-R%C3%BCdesheim&creator=Wagner,%20W.",
-								  "LText2": "",
-								  "ML2": "",
-								  "Link2": "",
-								  "LText3": "",
-								  "ML3": "",
-								  "Link3": "",
-								  "LText4": "",
-								  "ML4": "",
-								  "Link4": "" 
-								  }
-								  },
- {
-	 "type": "Feature","geometry": {
-		 "type": "Polygon",
-		 "coordinates": [
-		 [
-		 [
-		 9.167,
-		 50.6
-		 ],
-		 [
-		 9.333,
-		 50.6
-		 ],
-		 [
-		 9.333,
-		 50.5
-		 ],
-		 [9.167,
-		 50.5
-		 ],
-		 [
-		 9.167,
-		 50.6
-		 ]
-		 ]
-		 ]
-		 },
-		 "properties": { 
-		 "Title":  "[Neue Nr. 5421] Ulrichstein",
-		 "Location": "",
-		 "Subtitle": "",
-		 "Layer": "GK25 / bestellbar (FID GEO)",
-		 "Text": "Bedarf melden: ",
-		 "LText1": "FID GEO",
-		 "ML1": "DigiWunschkarte",
-		 "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205421]%20Ulrichstein&creator=Schottler,%20Wilhelm",
-		 "LText2": "",
-		 "ML2": "",
-		 "Link2": "",
-		 "LText3": "",
-		 "ML3": "",
-		 "Link3": "",
-		 "LText4": "",
-		 "ML4": "", 
-		 "Link4": "" 
-		 }
-		 },
- {
-	 "type": "Feature",
-	 "geometry": {
-		 "type": "Polygon",
-		 "coordinates": [
-		 [
-		 [
-		 8.667,
-		 49.6
-		 ],
-		 [
-		 8.833,
-		 49.6
-		 ],
-		 [
-		 8.833,
-		 49.5
-		 ],
-		 [
-		 8.667,
-		 49.5
-		 ],
-		 [
-		 8.667,
-		 49.6
-		 ]
-		 ]
-		 ]
-		 },
-		 "properties": {
-			 "Title":  "[Neue Nr. 6418] Birkenau",
-			 "Location": "",
-			 "Subtitle": "",
-			 "Layer": "GK25 / bestellbar (FID GEO)",
-			 "Text": "Bedarf melden: ",
-			 "LText1": "FID GEO",
-			 "ML1": "DigiWunschkarte",
-			 "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206418]%20Birkenau&creator=Klemm,%20G.",
-			 "LText2": "",
-			 "ML2": "",
-			 "Link2": "",
-			 "LText3": "",
-			 "ML3": "",
-			 "Link3": "",
-			 "LText4": "",
-			 "ML4": "",
-			 "Link4": "" 
-			 }
-			 },
- {
-	 "type": "Feature",
-	 "geometry": {
-		 "type": "Polygon",
-		 "coordinates": [
-		 [
-		 [
-		 9.333,
-		 50.6
-		 ],
-		 [
-		 9.5,
-		 50.6
-		 ],
-		 [
-		 9.5,
-		 50.5
-		 ],
-		 [
-		 9.333,
-		 50.5
-		 ],
-		 [
-		 9.333,
-		 50.6
-		 ]
-		 ]
-		 ]
-		 },
-		 "properties": { 
-		 "Title":  "[Neue Nr. 5422] Herbstein",  
-		 "Location": "",
-		 "Subtitle": "",
-		 "Layer": "GK25 / bestellbar (FID GEO)",
-		 "Text": "Bedarf melden: ",
-		 "LText1": "FID GEO",
-		 "ML1": "DigiWunschkarte",
-		 "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205422]%20Herbstein&creator=Schottler,%20Wilhelm",
-		 "LText2": "",
-		 "ML2": "",
-		 "Link2": "",
-		 "LText3": "",
-		 "ML3": "",
-		 "Link3": "", 
-		 "LText4": "",
-		 "ML4": "",
-		 "Link4": "" 
-		 }
-		 },
- {
-	 "type": "Feature",
-	 "geometry": {
-		 "type": "Polygon",
-		 "coordinates": 
-		 [
-		 [
-		 [
-		 9,
-		 49.7
-		 ],
-		 [
-		 9.167,
-		 49.7
-		 ],
-		 [
-		 9.167,
-		 49.6
-		 ],
-		 [
-		 9,
-		 49.6
-		 ],
-		 [
-		 9,
-		 49.7
-		 ]
-		 ]
-		 ]
-		 },
-		 "properties": {
-			 "Title":  "[Neue Nr. 6320] Michelstadt",  
-			 "Location": "",
-			 "Subtitle": "",
-			 "Layer": "GK25 / bestellbar (FID GEO)",
-			 "Text": "Bedarf melden: ",
-			 "LText1": "FID GEO",
-			 "ML1": "DigiWunschkarte",
-			 "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206320]%20Michelstadt&creator=Klemm,%20G.",
-			 "LText2": "",
-			 "ML2": "",
-			 "Link2": "", 
-			 "LText3": "",
-			 "ML3": "",
-			 "Link3": "",
-			 "LText4": "",
-			 "ML4": "", 
-			 "Link4": "" 
-			 }
-			 },
- {
-	 "type": "Feature",
-	 "geometry": {
-		 "type": "Polygon",
-		 "coordinates": 
-		 [
-		 [
-		 [
-		 7.833,
-		 49.9
-		 ],
-		 [
-		 8,
-		 49.9
-		 ],
-		 [
-		 8,
-		 49.8
-		 ],
-		 [7.833,
-		 49.8
-		 ],
-		 [
-		 7.833,
-		 49.9
-		 ]
-		 ]
-		 ]
-		 },
-		 "properties": { 
-		 "Title":  "[Neue Nr. 6113] Wöllstein-Kreuznach",   
-		 "Location": "",
-		 "Subtitle": "",
-		 "Layer": "GK25 / bestellbar (FID GEO)",
-		 "Text": "Bedarf melden: ",
-		 "LText1": "FID GEO",
-		 "ML1": "DigiWunschkarte",
-		 "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%206113]%20W%C3%B6llstein-Kreuznach&creator=Wagner,%20W.",
-		 "LText2": "",
-		 "ML2": "",
-		 "Link2": "",
-		 "LText3": "",
-		 "ML3": "",
-		 "Link3": "",
-		 "LText4": "",
-		 "ML4": "", 
-		 "Link4": "" 
-		 }
-		 },
- 
- {
-	 "type": "Feature","geometry": {
-		 "type": "Polygon",
-		 "coordinates": 
-		 [
-		 [
-		 [
-		 9.167,
-		 50.8
-		 ],
-		 [
-		 9.333,
-		 50.8
-		 ],
-		 [
-		 9.333,
-		 50.7
-		 ],
-		 [
-		 9.167,
-		 50.7
-		 ],
-		 [
-		 9.167,
-		 50.8
-		 ]
-		 ]
-		 ]
-		 },
-		 "properties": {
-			 "Title":  "[Neue Nr. 5221] Alsfeld",  
-			 "Location": "", 
-			 "Subtitle": "",
-			 "Layer": "GK25 / bestellbar (FID GEO)",
-			 "Text": "Bedarf melden: ",
-			 "LText1": "FID GEO",
-			 "ML1": "DigiWunschkarte",
-			 "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205221]%20Alsfeld&creator=Diehl,%20O.",
-			 "LText2": "",
-			 "ML2": "",
-			 "Link2": "",
-			 "LText3": "",
-			 "ML3": "",
-			 "Link3": "",
-			 "LText4": "",
-			 "ML4": "",
-			 "Link4": "" 
-			 }
-			 },
- 
- {
-	 "type": "Feature",
-	 "geometry": {
-		 "type": "Polygon",
-		 "coordinates": [
-		 [
-		 [
-		 9,
-		 50.5
-		 ],
-		 [
-		 9.167,
-		 50.5
-		 ],
-		 [
-		 9.167,
-		 50.4
-		 ],
-		 [
-		 9,
-		 50.4
-		 ],
-		 [
-		 9,
-		 50.5
-		 ]
-		 ]
-		 ]
-		 },
-		 "properties": {
-			 "Title":  "[Neue Nr. 5520] Nidda",
-			 "Location": "", 
-			 "Subtitle": "",
-			 "Layer": "GK25 / bestellbar (FID GEO)",
-			 "Text": "Bedarf melden: ", 
-			 "LText1": "FID GEO",
-			 "ML1": "DigiWunschkarte",
-			 "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205520]%20Nidda&creator=Schottler,%20W.",
-			 "LText2": "",
-			 "ML2": "",
-			 "Link2": "",
-			 "LText3": "",
-			 "ML3": "",
-			 "Link3": "",
-			 "LText4": "",
-			 "ML4": "",
-			 "Link4": "" 
-			 }
-			 },
- 
- {
-	 "type": "Feature",
-	 "geometry": {
-		 "type": "Polygon",
-		 "coordinates": [
-		 [
-		 [
-		 9,
-		 50.6
-		 ],
-		 [
-		 9.167,
-		 50.6
-		 ],
-		 [
-		 9.167,
-		 50.5
-		 ],
-		 [
-		 9,
-		 50.5
-		 ],
-		 [
-		 9,
-		 50.6
-		 ]
-		 ]
-		 ]
-		 },
-		 "properties": { 
-		 "Title":  "[Neue Nr. 5420] Schotten", 
-		 "Location": "",
-		 "Subtitle": "",
-		 "Layer": "GK25 / bestellbar (FID GEO)",
-		 "Text": "Bedarf melden: ",
-		 "LText1": "FID GEO",
-		 "ML1": "DigiWunschkarte",
-		 "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205420]%20Schotten&creator=Schottler,%20W.",
-		 "LText2": "",
-		 "ML2": "",
-		 "Link2": "",
-		 "LText3": "",
-		 "ML3": "",
-		 "Link3": "",
-		 "LText4": "",
-		 "ML4": "",
-		 "Link4": "" 
-		 }
-		 },
-
- {
-	 "type": "Feature",
-	 "geometry": {
-		 "type": "Polygon",
-		 "coordinates": [
-		 [
-		 [
-		 8.833,
-		 50.5
-		 ],
-		 [
-		 9,
-		 50.5
-		 ],
-		 [
-		 9,
-		 50.4
-		 ],
-		 [
-		 8.833,
-		 50.4
-		 ],
-		 [
-		 8.833,
-		 50.5
-		 ]
-		 ]
-		 ]
-		 },
-		 "properties": { 
-		 "Title":  "[Neue Nr. 5519] Hungen", 
-		 "Location": "",
-		 "Subtitle": "",
-		 "Layer": "GK25 / bestellbar (FID GEO)",
-		 "Text": "Bedarf melden: ",
-		 "LText1": "FID GEO",
-		 "ML1": "DigiWunschkarte",
-		 "Link1": "http://www.fidgeo.de/digitalisierung-on-demand/digiwunsch-kontakt/?title=GK25%20[Neue%20Nr.%205519]%20Hungen&creator=Schottler,%20W.",
-		 "LText2": "",
-		 "ML2": "",
-		 "Link2": "",
-		 "LText3": "", 
-		 "ML3": "",
-		 "Link3": "",
-		 "LText4": "",
-		 "ML4": "",
-		 "Link4": ""
- }
- },
-  {
-	  "type": "Feature",
-	  "geometry": {
-		  "type": "Polygon",
-		  "coordinates": [
-		  [
-		  [
-		  8.667,
-		  50.3
-		  ],
-		  [
-		  8.833,
-		  50.3
-		  ],
-		  [
-		  8.833,
-		  50.2
-		  ],
-		  [
-		  8.667,
-		  50.2
-		  ],
-		  [
-		  8.667,
-		  50.3
-		  ]
-		  ]
-		  ]
-		  },
-		  "properties": {
-			  "Title":  "[Neue Nr. 5718] Rodheim", 
-			  "Location": "",
-			  "Subtitle": "",
-			  "Layer": "GK25 / GEO-LEOe-docs",
-			  "Text": "Link:",
-			  "LText1": "zur Karte ersch.1937",
-			  "ML1": "GEO-LEOe-docs",
-			  "Link1": "https://doi.org/10.23689/fidgeo-4231",
-			  "LText2": "",
-			  "ML2": "",
-			  "Link2": "",
-			  "LText3": "",
-			  "ML3": "",
-			  "Link3": "",
-			  "LText4": "",
-			  "ML4": "",
-			  "Link4": "" 
-			  }
-			  }
  ]
 }

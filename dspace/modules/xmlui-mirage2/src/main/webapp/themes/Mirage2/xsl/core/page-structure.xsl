@@ -162,6 +162,7 @@
 		<meta http-equiv="Content-Type" content="application/javascript; charset=UTF-8"/>
 		<meta http-equiv="Content-Type" content="text/javascript; charset=UTF-8"/>
 		<meta charset="UTF-8" />
+<meta name="google-site-verification" content="1PyYXvxfMifvX-9Qa6Ygn1kgNSNsyO9MxrN1llyBwLI" />
             <!-- Use the .htaccess and remove these lines to avoid edge case issues.
              More info: h5bp.com/i/378 -->
             <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"/>
@@ -777,27 +778,12 @@
                     <hr/>
                     <div class="col-xs-7 col-sm-8">
                         <div class="hidden-print">
-                             <a href="/impressum"> <i18n:text>xmlui.dri2xhtml.structural.impressum-link</i18n:text></a> 
-			     <a href="/privacy"> <i18n:text>xmlui.dri2xhtml.structural.privacy-link</i18n:text></a>
-			     <a href="/aboutus"> <i18n:text>xmlui.dri2xhtml.structural.aboutus-link</i18n:text></a>
-			     <a href ="/rights"> <i18n:text>xmlui.dri2xhtml.structural.rights-link</i18n:text></a>
- 			     <!--<a>
-                                <xsl:attribute name="href">
-                                    <xsl:value-of
-                                            select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='contextPath'][not(@qualifier)]"/>
-                                    <xsl:text>/contact</xsl:text>
-                                </xsl:attribute>
-                                <i18n:text>xmlui.dri2xhtml.structural.contact-link</i18n:text>
-                            </a>-->
-                            <!--<a>
-                                <xsl:attribute name="href">
-                                    <xsl:value-of
-                                            select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='contextPath'][not(@qualifier)]"/>
-                                    <xsl:text>/feedback</xsl:text>
-                                </xsl:attribute>
-                                <i18n:text>xmlui.dri2xhtml.structural.feedback-link</i18n:text>
-                            </a>-->
-				<a href="mailto:fid-geo-digi@sub.uni-goettingen.de" title="Mail to fid-geo-digi@sub.uni-goettingen.de">Support: fid-geo-digi@sub.uni-goettingen.de</a>
+                             <a href="/impressum" style="margin:0px;margin-right:15px;"> <i18n:text>xmlui.dri2xhtml.structural.impressum-link</i18n:text></a> 
+			     <a href="/privacy" style="margin:0px;margin-right:15px;"> <i18n:text>xmlui.dri2xhtml.structural.privacy-link</i18n:text></a>
+			     <a href="/aboutus" style="margin:0px;margin-right:15px;"> <i18n:text>xmlui.dri2xhtml.structural.aboutus-link</i18n:text></a>
+			     <a href ="/rights" style="margin:0px;margin-right:15px;"> <i18n:text>xmlui.dri2xhtml.structural.rights-link</i18n:text></a>
+			     <a href ="/help" style="margin:0px;margin-right:15px;"> <i18n:text>xmlui.navigation.help</i18n:text></a>
+ <a href="mailto:fid-geo-digi@sub.uni-goettingen.de" title="Mail to fid-geo-digi@sub.uni-goettingen.de"  style="margin:0px;margin-right:15px;">Support: fid-geo-digi@sub.uni-goettingen.de</a>
 		
                         </div>
                     </div>

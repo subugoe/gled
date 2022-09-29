@@ -5826,7 +5826,7 @@ tbody.collapse.in {
 }
 /* line 16, ../vendor/bootstrap-sass-official/assets/stylesheets/bootstrap/_breadcrumbs.scss */
 .breadcrumb > li + li:before {
-  content: "/ ";
+  content: "/ ";
   padding: 0 5px;
   color: #ccc;
 }
@@ -10470,12 +10470,22 @@ a.publishButton:visited {
   content: 'Mehr anzeigen';
 }
 
-/* line 523, _style.scss */
+/* line 522, _style.scss */
+.read-more-state ~ .read-more-trigger-engl:before {
+  content: 'Show more';
+}
+
+/* line 527, _style.scss */
+.read-more-state:checked ~ .read-more-trigger-engl:before {
+  content: 'Show less';
+}
+
+/* line 531, _style.scss */
 .read-more-state:checked ~ .read-more-trigger:before {
   content: 'Weniger anzeigen';
 }
 
-/* line 527, _style.scss */
+/* line 534, _style.scss */
 .read-more-trigger {
   cursor: pointer;
   display: inline-block;
@@ -10488,7 +10498,20 @@ a.publishButton:visited {
   margin-bottom: 1em;
 }
 
-/* line 539, _style.scss */
+/* line 546, _style.scss */
+.read-more-trigger-engl {
+  cursor: pointer;
+  display: inline-block;
+  padding: 0 .5em;
+  color: #666;
+  font-size: .9em;
+  line-height: 2;
+  border: 1px solid #ddd;
+  border-radius: .25em;
+  margin-bottom: 1em;
+}
+
+/* line 558, _style.scss */
 .map-list {
   list-style-type: circle;
   padding: 1em;
@@ -10497,28 +10520,28 @@ a.publishButton:visited {
   margin-left: 1em;
 }
 
-/* line 547, _style.scss */
+/* line 566, _style.scss */
 .read-more-wrap {
   font-size: 112%;
 }
 
-/* line 551, _style.scss */
+/* line 570, _style.scss */
 .maplink {
   font-size: 14px;
   font-weight: bold;
 }
 
-/* line 556, _style.scss */
+/* line 575, _style.scss */
 .metadataexport {
   margin-bottom: 5px;
 }
 
-/* line 560, _style.scss */
+/* line 579, _style.scss */
 a.list-group-item.ds-option[href="/browse?type=subject"] {
   display: none;
 }
 
-/* line 564, _style.scss */
+/* line 583, _style.scss */
 .citation {
   border: solid 1px #ddd;
   border-radius: 10px;
@@ -10527,7 +10550,7 @@ a.list-group-item.ds-option[href="/browse?type=subject"] {
   margin-top: 15px;
 }
 
-/* line 571, _style.scss */
+/* line 590, _style.scss */
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
   background-color: none;
   background: url(/themes/Mirage2/images/bg1.png) repeat;

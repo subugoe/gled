@@ -519,12 +519,31 @@ a.publishButton:visited {
 .read-more-state ~ .read-more-trigger:before {
   content: 'Mehr anzeigen';
 }
+.read-more-state ~ .read-more-trigger-engl:before {
+  content: 'Show more';
+}
+
+
+.read-more-state:checked ~ .read-more-trigger-engl:before {
+  content: 'Show less';
+}
 
 .read-more-state:checked ~ .read-more-trigger:before {
   content: 'Weniger anzeigen';
 }
-
 .read-more-trigger {
+  cursor: pointer;
+  display: inline-block;
+  padding: 0 .5em;
+  color: #666;
+  font-size: .9em;
+  line-height: 2;
+  border: 1px solid #ddd;
+  border-radius: .25em;
+  margin-bottom: 1em;
+}
+
+.read-more-trigger-engl {
   cursor: pointer;
   display: inline-block;
   padding: 0 .5em;

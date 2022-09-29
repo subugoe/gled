@@ -71,39 +71,9 @@
 		<xsl:param name="value" />
 		<xsl:param name="prefix" />
 		<xsl:choose>
-			<xsl:when test="$value = 'article_first'">
-                             <xsl:value-of select="concat($prefix, 'article')" />
-                        </xsl:when>
-                        <xsl:when test="$value = 'article_digi'">
-                              <xsl:value-of select="concat($prefix, 'article')" />
-                        </xsl:when>
-                        <xsl:when test="$value = 'anthology'">
-                              <xsl:value-of select="concat($prefix, 'book')" />
-                        </xsl:when>
-			<xsl:when test="$value = 'anthology_first'">
-                              <xsl:value-of select="concat($prefix, 'book')" />
-                        </xsl:when>
-			<xsl:when test="$value = 'anthology_digi'">
-                              <xsl:value-of select="concat($prefix, 'book')" />
-                        </xsl:when>
-			<xsl:when test="$value = 'monograph'">
-                              <xsl:value-of select="concat($prefix, 'book')" />
-                        </xsl:when>
-                        <xsl:when test="$value = 'monograph_first'">
-                              <xsl:value-of select="concat($prefix, 'book')" />
-                        </xsl:when>
-                        <xsl:when test="$value = 'monograph_digi'">
-                              <xsl:value-of select="concat($prefix, 'book')" />
-                        </xsl:when>
-                        <xsl:when test="$value = 'anthologyArticle'">
-                              <xsl:value-of select="concat($prefix, 'bookPart')" />
-                        </xsl:when>
-			<xsl:when test="$value = 'anthologyArticle_digi'">
-                              <xsl:value-of select="concat($prefix, 'bookPart')" />
-                        </xsl:when>
-                        <xsl:when test="starts-with($value, 'conference')">
-                              <xsl:value-of select="concat($prefix, 'conferenceObject')" />
-                        </xsl:when>
+			<xsl:when test="starts-with($value, $prefix)">
+				<xsl:value-of select="$value" />
+			</xsl:when>
 			<xsl:otherwise>
 				<xsl:value-of select="concat($prefix, $value)" />
 			</xsl:otherwise>
