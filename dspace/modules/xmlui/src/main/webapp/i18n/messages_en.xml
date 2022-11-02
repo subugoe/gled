@@ -3771,8 +3771,9 @@ You are welcome to contact us at fid-geo-digi@sub.uni-goettingen.de.</message>
   <message key="xmlui.deposit.license.user-rights">Users are entitled to use documents free of charge in accordance with copyright law, in particular to download the document for private and other own use, to save it and to print it in small numbers (§53 UrhG), as well as to use it for own scientific research (§60c). </message>
 
   <message key="xmlui.deposit.license.user-rights.cc-license">In addition, further rights (e.g. Creative Commons licences) may apply to individual documents. The respective licence is assigned to the document and clearly marked on the corresponding download page. The licence text is stored and can be accessed for information purposes.</message>
-  <message key="xmlui.deposit.license.deposit-license.head">Publishing on GEO-LEO<em>e-docs</em><br />
-  <span style="font-size: 16px;">Translation of the DEPOSIT LICENSE</span></message>
+  <message key="xmlui.deposit.license.user-rights.metadata.intro">Use of the Metadata:</message>
+  <message key="xmlui.deposit.license.user-rights.metadata">The metadata are freely available for subsequent use. Retrieval is possible via an OAI-PMH interface at <a href="https://e-docs.geo-leo.de/oai/request?verb=Identify">https://e-docs.geo-leo.de/oai/request?verb=Identify</a>.</message>
+  <message key="xmlui.deposit.license.deposit-license.head">Publishing on GEO-LEO<em>e-docs</em><br />  <span style="font-size: 16px;">Translation of the DEPOSIT LICENSE</span></message>
   <message key="xmlui.deposit.license.deposit-license.intro"><strong>For editors (edited volumes or proceedings): </strong>The signing editor affirms that all contributing authors have given their consent to their work being used in the way described below. The editor shall indemnify and keep idemnified Göttingen State and University Library (SUB Göttingen) from and against all possible claims by the authors.</message>
   <message key="xmlui.deposit.license.li1">Assignment of Rights<br /> The rights owner grants the SUB Göttingen the permanent, irrevocable, non-exclusive right to make publicly accessible the document and to archive it on e-docs.geo-leo.de, the document server of the SUB GÖttingen (FID GEO). All copyright protections will continue to remain in force on account of this license. The act of uploading a document does not constitute a legally binding right to publication or archiving.
   </message>
@@ -3787,4 +3788,26 @@ Transfer of Metadata and Documents<br /> In conjunction with the provisions of A
 <message key="xmlui.static-license.oldlicense"></message>
 <message key="xmlui.deposit.license.date"></message>
 <message key="xmlui.static-license.pdf"></message>
+<message key="xmlui.klaro.acceptall">That\'s ok</message>
+        <message key="xmlui.klaro.decline">Refuse optional cookies</message>
+                <message key="xmlui.klaro.privacyPolicy.name">Data Protection Information</message>
+        <message key="xmlui.klaro.privacyPolicy.text">To learn more please read our <a href="/privacy">Data Protection Information</a></message>
+
+
+        <message key="xmlui.klaro.consentNotice">We use cookies that are necessary to make our site work. We may also use analytical services to improve our website and your user expirience. For more information, see our <a href="privacy">Data Protection Information</a></message><message key="xmlui.klaro.consentNotice.learnmore">Learn more...</message><message key="xmlui.klaro.apps.cookie.title">Session Cookie</message><message key="xmlui.klaro.apps.cookie.description">The session cookie is required to make our service work.</message><message key="xmlui.klaro.purposes.functional">Website</message><message key="xmlui.klaro.purposes.preferences">Preferences</message><message key="xmlui.klaro.purposes.statistical">Statistics</message><message key="xmlui.klaro.apps.matomo.title">Matomo</message><message key="xmlui.klaro.consent.matomo.description">We collect data about your user behavior</message><message key="xmlui.klaro.apps.dataConsent.title" /><message key="xmlui.klaro.apps.dataConsent.description">We save your decisions you make here.</message>
+        <message key="xmlui.structural.manage.cookies">Cookie Consents</message>
+        <message key="xmlui.klaro.acceptall">That\'s ok</message>
+        <message key="xmlui.klaro.ok">That\'s ok</message>
+        <message key="xmlui.klaro.decline">Necessary only</message>
+                <message key="xmlui.klaro.privacyPolicy.name">Data Protection Information</message>
+<message key="xmlui.klaro.consentmodal.description">Enable or disable them as you see fit.</message>
+<message key="xmlui.klaro.purposes.required.title">(always required)</message>
+<message key="xmlui.klaro.service.required.title">(always required)</message>
+        <message key="xmlui.klaro.consentmodal.title">Services / Cookies we would like to use</message>
+<message key="xmlui.klaro.consentNotice.changeDescription">There were changes since your last visit, please renew your consent.</message>
+<message key="xmlui.klaro.service.purpose">purpose</message>
+<message key="xmlui.klaro.service.purposes">purposes</message>
+<message key="xmlui.klaro.acceptSelected">Save selected</message>
+
+
 </catalogue>

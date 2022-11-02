@@ -76,9 +76,165 @@
                 <!-- First of all, build the HTML head element -->
 
                 <xsl:call-template name="buildHead"/>
-
-                <!-- Then proceed to the body -->
+  <!-- Then proceed to the body -->
                 <body>
+
+<script>
+		console.log("klaro conifg wird gelesen...");
+		var klaroConfig = {
+                testing: false,
+    elementID: 'RDConstent',
+    cookieName: 'RDConsent',
+    cookieExpiresAfterDays: 365,
+    privacyPolicy: '/info/privacy',
+    default: true,
+    htmlTexts: true,
+     mustConsent: false,
+     htmlTexts: true,
+     hideDeclineAll: false,
+      translations: {
+        de: {
+                acceptAll: '<i18n:text>xmlui.klaro.acceptall</i18n:text>',
+                ok: '<i18n:text>xmlui.klaro.ok</i18n:text>',
+                acceptSelected: '<i18n:text>xmlui.klaro.acceptSelected</i18n:text>',
+                decline: '<i18n:text>xmlui.klaro.decline</i18n:text>',
+           	service: {
+                	purpose: '<i18n:text>xmlui.klaro.service.purpose</i18n:text>',
+			purposes: '<i18n:text>xmlui.klaro.service.purposes</i18n:text>',
+        	        required: {
+	                               title: '<i18n:text>xmlui.klaro.service.required.title</i18n:text>'
+				}
+                        }, 
+		purposes: {
+                                functional: '<i18n:text>xmlui.klaro.purposes.functional</i18n:text>',  
+                                preferences: '<i18n:text>xmlui.klaro.purposes.preferences</i18n:text>',
+                                statistical: '<i18n:text>xmlui.klaro.purposes.statistical</i18n:text>',
+                                },
+                        
+ 
+            },
+                en: {
+                        acceptAll: '<i18n:text>xmlui.klaro.acceptall</i18n:text>',
+                        ok: '<i18n:text>xmlui.klaro.ok</i18n:text>',
+                        acceptSelected: '<i18n:text>xmlui.klaro.acceptSelected</i18n:text>',
+                        decline: '<i18n:text>xmlui.klaro.decline</i18n:text>',
+                        consentNotice: {
+                                description: '<i18n:text>xmlui.klaro.consentNotice</i18n:text>',
+                                learnMore: '<i18n:text>xmlui.klaro.consentNotice.learnmore</i18n:text>'
+                        },
+                        privacyPolicy: {
+                                name: '<i18n:text>xmlui.klaro.privacyPolicy.name</i18n:text>',
+                                text: '<i18n:text>xmlui.klaro.privacyPolicy.text</i18n:text>',
+                                },
+                        consentModal: {
+                        description: '<i18n:text>xmlui.klaro.consentmodal.description</i18n:text>',
+                        title: '<i18n:text>xmlui.klaro.consentmodal.title</i18n:text>',
+                        },
+                        matomo: {
+                                description: '<i18n:text>xmlui.klaro.consent.matomo.description</i18n:text>',
+                        },
+			service: {
+                        purpose: '<i18n:text>xmlui.klaro.service.purpose</i18n:text>',
+                        purposes: '<i18n:text>xmlui.klaro.service.purposes</i18n:text>',
+
+				required: {
+                                        title: '<i18n:text>xmlui.klaro.service.required.title</i18n:text>'
+				}
+			},
+                        purposes: {
+                                functional: '<i18n:text>xmlui.klaro.purposes.functional</i18n:text>',
+                                preferences: '<i18n:text>xmlui.klaro.purposes.preferences</i18n:text>',
+                                statistical: '<i18n:text>xmlui.klaro.purposes.statistical</i18n:text>',
+				},
+                        }
+                
+
+    	},
+    // This is a list of third-party apps that Klaro will manage for you.
+    services: [
+                {
+                name: 'Cookie',
+                purposes: ['functional'],
+                required: true,
+                cookies: [],
+                translations: {
+                    // default translation
+                    en: {
+                    title: '<i18n:text>xmlui.klaro.apps.cookie.title</i18n:text>',
+                        description: '<i18n:text>xmlui.klaro.apps.cookie.description</i18n:text>'
+                    },
+                    de: {
+                        title: 'Sitzungscookie',
+                        description: 'Notwendig für das '
+                    }
+               	 }
+                },
+		 
+                {
+                name: 'Privacy policy preferences',
+                purposes: ['preferences'],
+                required: true,
+                cookies: [],
+                translations: {
+                    // default translation
+                    en: {
+                    title: '<i18n:text>xmlui.klaro.apps.dataConsent.title</i18n:text>',
+                        description: '<i18n:text>xmlui.klaro.apps.dataConsent.description</i18n:text>'
+                    },
+                    de: {
+                        title: '<i18n:text>xmlui.klaro.apps.dataConsent.title</i18n:text>',
+                        description: '<i18n:text>xmlui.klaro.apps.dataConsent.description</i18n:text>'
+                    }
+                }
+                },
+            {
+            name: 'matomo',
+                purposes: ['statistical'],
+                default: true,
+                cookies: [
+                  [/^_pk_.*$/],
+                [/^_pak_.*$/],
+                ],
+                callback: function(consent, service) {
+                                // This is an example callback function.
+                                                                                // if (consent == true) {alert ('true: ' + consent)}
+                                                                        // if (consent == false) {alert ('false: ' + consent)}
+                                // alert('User consent for app ' + app.name + ': consent=' + consent);
+                                                                                if (consent == false) {
+                                                                                        _paq.push(['disableCookies']);
+                                                                                        _paq.push(['deleteCookies']);
+                                                                                        // location.reload();
+                                                                                console.log('MATOMO Tracking disabled')
+                                                                        } else {
+                                                                                        _paq.push(['trackPageView']);
+                                                                                        _paq.push(['enableLinkTracking']);
+                                                                                        console.log('MATOMO Tracking enabled')
+                                                                        }
+            },
+                                                                required: false,
+                                                                onlyOnce: false,
+                translations: {
+                                                                                // default translation
+                    en : {
+                        title: '<i18n:text>xmlui.klaro.apps.matomo.title</i18n:text>',
+                        description: '<i18n:text>xmlui.klaro.apps.matomo.description</i18n:text>'
+                    },
+                    de: {
+                        title: '<i18n:text>xmlui.klaro.apps.matomo.title</i18n:text>',
+                        description: '<i18n:text>xmlui.klaro.apps.matomo.description</i18n:text>'
+                    }
+
+                }
+        }
+    ],
+
+};
+
+	</script>
+
+
+
+
                     <!-- Prompt IE 6 users to install Chrome Frame. Remove this if you support IE 6.
                    chromium.org/developers/how-tos/chrome-frame-getting-started -->
                     <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
@@ -140,7 +296,7 @@
                     </xsl:choose>
                     <!-- Javascript at the bottom for fast page loading -->
                     <xsl:call-template name="addJavascript"/>
-
+<script type="text/javascript" data-style-prefix="uvg-styles" src="/static/js/klaro/klaro.js">&#160;</script>
 		</body>
                 <xsl:text disable-output-escaping="yes">&lt;/html&gt;</xsl:text>
 
@@ -212,6 +368,7 @@
 
             <link rel="stylesheet" href="{concat($theme-path, 'styles/main.css')}"/>
 	    <link rel="stylesheet" href="{concat($theme-path, 'styles/font-awesome-4.7.0/css/font-awesome.css')}"/>
+		<link rel="stylesheet" src="/themes/Mirage2/styles/klaro.css" />
 
             <!-- Add syndication feeds -->
             <xsl:for-each select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='feed']">
@@ -356,6 +513,7 @@
 	    </xsl:if>
 
                   <script type="text/javascript" charset="UTF-8" src="https://code.jquery.com/jquery-2.1.4.min.js"></script>
+
 
 		<xsl:if test="$current-uri = 'http://e-docs.geo-leo.de:80/map'">
                                 
@@ -780,7 +938,8 @@
                         <div class="hidden-print">
                              <a href="/impressum" style="margin:0px;margin-right:15px;"> <i18n:text>xmlui.dri2xhtml.structural.impressum-link</i18n:text></a> 
 			     <a href="/privacy" style="margin:0px;margin-right:15px;"> <i18n:text>xmlui.dri2xhtml.structural.privacy-link</i18n:text></a>
-			     <a href="/aboutus" style="margin:0px;margin-right:15px;"> <i18n:text>xmlui.dri2xhtml.structural.aboutus-link</i18n:text></a>
+			     <a href="" onclick="klaro.show(); return false;"><i18n:text>xmlui.structural.manage.cookies</i18n:text></a>
+				<a href="/aboutus" style="margin:0px;margin-right:15px;"> <i18n:text>xmlui.dri2xhtml.structural.aboutus-link</i18n:text></a>
 			     <a href ="/rights" style="margin:0px;margin-right:15px;"> <i18n:text>xmlui.dri2xhtml.structural.rights-link</i18n:text></a>
 			     <a href ="/help" style="margin:0px;margin-right:15px;"> <i18n:text>xmlui.navigation.help</i18n:text></a>
  <a href="mailto:fid-geo-digi@sub.uni-goettingen.de" title="Mail to fid-geo-digi@sub.uni-goettingen.de"  style="margin:0px;margin-right:15px;">Support: fid-geo-digi@sub.uni-goettingen.de</a>
@@ -934,18 +1093,6 @@
             <xsl:call-template name="choiceLookupPopUpSetup"/>
         </xsl:if>
 
-        <!-- Add a google analytics script if the key is present -->
-        <xsl:if test="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='google'][@qualifier='analytics']">
-            <script><xsl:text>
-                  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-                  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-                  ga('create', '</xsl:text><xsl:value-of select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='google'][@qualifier='analytics']"/><xsl:text>', '</xsl:text><xsl:value-of select="/dri:document/dri:meta/dri:pageMeta/dri:metadata[@element='request'][@qualifier='serverName']"/><xsl:text>');
-                  ga('send', 'pageview');
-           </xsl:text></script>
-        </xsl:if>
 	<script type="text/javascript">
                                 var _paq = _paq || [];
                                 _paq.push(['trackPageView']);
